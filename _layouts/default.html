@@ -16,25 +16,10 @@
         background-color: #F5F5F5;
         min-height: 100vh;
       }
-      header {
-        position: sticky;
-        top: 0;
-        z-index: 50;
-        background-color: rgba(5, 35, 73, 0.95);
-        backdrop-filter: blur(4px);
-      }
-      [data-critical-nav] { display: none; }
-      @media (min-width: 768px) {
-        [data-critical-nav] {
-          display: flex;
-          align-items: center;
-          gap: 1.5rem;
-        }
-      }
       [data-mobile-menu] { display: none; }
       [data-mobile-menu]:not(.hidden) { display: flex; }
       h1[data-hero-heading] {
-        font-size: 2rem;
+        font-size: 2.25rem;
         line-height: 1.2;
         font-weight: 800;
         margin: 0;
@@ -49,13 +34,16 @@
       }
       @media (min-width: 768px) {
         [data-hero-banner] { min-height: 70vh; }
+        h1[data-hero-heading] {
+          font-size: 3.5rem;
+        }
       }
       [data-hero-banner]::before {
         content: '';
         position: absolute;
         inset: 0;
         z-index: 10;
-        background-image: linear-gradient(rgba(10,35,66,.35),rgba(10,35,66,.75));
+        background-image: linear-gradient(rgba(2, 44, 34, 0.45), rgba(2, 44, 34, 0.85));
       }
       [data-hero-banner] picture {
         position: absolute;
@@ -72,19 +60,6 @@
         position: relative;
         z-index: 20;
       }
-      .text-primary-accent { color: #D97706; }
-      .text-primary { color: #0A2342; }
-      .text-white { color: #fff; }
-      .text-white\/90 { color: rgba(255,255,255,.9); }
-      .bg-primary { background-color: #0A2342; }
-      .bg-white { background-color: #fff; }
-      .bg-primary-button { background-color: #D97706; color: #0A2342; }
-      .rounded-lg { border-radius: 0.5rem; }
-      .px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
-      .py-4 { padding-top: 1rem; padding-bottom: 1rem; }
-      .space-y-6 > * + * { margin-top: 1.5rem; }
-      .gap-4 { gap: 1rem; }
-      .max-w-4xl { max-width: 56rem; }
       .material-symbols-outlined {
         font-family: 'Material Symbols Outlined', 'Segoe UI Symbol', sans-serif;
         font-weight: normal;
@@ -97,15 +72,6 @@
         align-items: center;
         justify-content: center;
       }
-      @media (min-width: 768px) {
-        .md\:space-y-8 > * + * { margin-top: 2rem; }
-      }
-      .container{width:100%}
-      @media (min-width:640px){.container{max-width:640px}}
-      @media (min-width:768px){.container{max-width:768px}}
-      @media (min-width:1024px){.container{max-width:1024px}}
-      @media (min-width:1280px){.container{max-width:1280px}}
-      @media (min-width:1536px){.container{max-width:1536px}}
       [data-mega-panel] {
         opacity: 0;
         visibility: hidden;

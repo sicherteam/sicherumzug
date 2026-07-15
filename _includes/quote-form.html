@@ -1,36 +1,36 @@
 <form action="{{ site.quote_form_action }}" method="POST" enctype="multipart/form-data" class="space-y-4">
   <input type="hidden" name="subject" value="Neue Anfrage über die Website"/>
   <div>
-    <label class="text-sm font-semibold text-primary" for="form-name">Name*</label>
-    <input id="form-name" name="name" required type="text" class="mt-1 block w-full rounded-lg border-gray-200 bg-white px-4 py-3 text-sm shadow-sm" placeholder="Max Mustermann"/>
+    <label class="text-sm font-bold text-primary" for="form-name">Name*</label>
+    <input id="form-name" name="name" required type="text" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-primary-light transition-all duration-200" placeholder="Max Mustermann"/>
   </div>
   <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
     <div>
-      <label class="text-sm font-semibold text-primary" for="form-email">E-Mail (optional)</label>
-      <input id="form-email" name="email" type="email" class="mt-1 block w-full rounded-lg border-gray-200 bg-white px-4 py-3 text-sm shadow-sm" placeholder="max@example.com"/>
+      <label class="text-sm font-bold text-primary" for="form-email">E-Mail (optional)</label>
+      <input id="form-email" name="email" type="email" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-primary-light transition-all duration-200" placeholder="max@example.com"/>
     </div>
     <div>
-      <label class="text-sm font-semibold text-primary" for="form-phone">Telefon*</label>
-      <input id="form-phone" name="phone" required type="tel" class="mt-1 block w-full rounded-lg border-gray-200 bg-white px-4 py-3 text-sm shadow-sm" placeholder="{{ site.phone }}"/>
+      <label class="text-sm font-bold text-primary" for="form-phone">Telefon*</label>
+      <input id="form-phone" name="phone" required type="tel" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-primary-light transition-all duration-200" placeholder="{{ site.phone }}"/>
     </div>
   </div>
   <div>
-    <label class="text-sm font-semibold text-primary" for="form-postcode">PLZ*</label>
-    <input id="form-postcode" name="postcode" required type="text" class="mt-1 block w-full rounded-lg border-gray-200 bg-white px-4 py-3 text-sm shadow-sm" placeholder="1010"/>
+    <label class="text-sm font-bold text-primary" for="form-postcode">PLZ*</label>
+    <input id="form-postcode" name="postcode" required type="text" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-primary-light transition-all duration-200" placeholder="1010"/>
   </div>
   <div>
-    <label class="text-sm font-semibold text-primary" for="form-message">Kurzbeschreibung (optional)</label>
-    <textarea id="form-message" name="message" rows="4" class="mt-1 block w-full rounded-lg border-gray-200 bg-white px-4 py-3 text-sm shadow-sm" placeholder="Was soll geraeumt werden? Gibt es Besonderheiten?"></textarea>
+    <label class="text-sm font-bold text-primary" for="form-message">Kurzbeschreibung (optional)</label>
+    <textarea id="form-message" name="message" rows="4" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-primary-light transition-all duration-200" placeholder="Was soll geräumt werden? Gibt es Besonderheiten?"></textarea>
   </div>
   <div>
-    <label class="text-sm font-semibold text-primary" for="form-photos">Fotos (optional)</label>
-    <input id="form-photos" name="photos[]" type="file" multiple accept="image/*" class="mt-1 block w-full rounded-lg border-gray-200 bg-white px-4 py-3 text-sm shadow-sm"/>
-    <p class="mt-1 text-xs text-text-light">Alternativ können Sie Fotos später per WhatsApp senden.</p>
+    <label class="text-sm font-bold text-primary" for="form-photos">Fotos (optional)</label>
+    <input id="form-photos" name="photos[]" type="file" multiple accept="image/*" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-xs file:font-semibold file:bg-primary/10 file:text-primary hover:file:bg-primary/20"/>
+    <p class="mt-1.5 text-xs text-text-light/80">Alternativ können Sie Fotos später per WhatsApp senden.</p>
   </div>
-  <div class="flex flex-wrap items-center gap-4">
-    <button type="submit" class="inline-flex items-center justify-center rounded-full bg-primary-button px-6 py-3 text-base font-bold text-primary transition hover:bg-white">
+  <div class="pt-2 space-y-3">
+    <button type="submit" class="w-full inline-flex items-center justify-center rounded-full bg-primary-light hover:bg-primary-accent text-white px-6 py-4 text-base font-bold shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-200 cursor-pointer">
       Jetzt kostenloses Angebot sichern
     </button>
-    <p class="text-xs text-text-light">Wir melden uns innerhalb eines Werktags mit einem Terminvorschlag.</p>
+    <p class="text-xs text-text-light/75 text-center">Wir melden uns innerhalb eines Werktags mit einem Terminvorschlag.</p>
   </div>
 </form>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg class="img-fluid" id="outputsvg" xmlns="http://www.w3.org/2000/svg" style="transform: matrix(1.01591, 0, 0, 1.01591, 0, 0); transform-origin: 50% 50%; cursor: move; max-height: none; transition: transform 200ms ease-in-out;" width="808" height="270" viewBox="0 0 8080 2700">
-  <g transform="matrix(1.010992, 0, 0, 1.047701, 28.047291, -450.545715)" style="">
-    <rect x="-23.405" y="410.786" width="8047.67" height="2585.38" style="stroke: rgb(0, 0, 0); fill: rgb(23, 46, 75);"/>
-  </g>
+  <!-- Made logo background transparent to blend nicely with custom header colors -->
   <g id="l3ZILQgSdea8vQGoLqym8L7" fill="rgb(255,255,255)" style="transform: none;">
     <g style="transform: none;"/>
   </g>
