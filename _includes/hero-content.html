@@ -1,0 +1,79 @@
+{% assign container_classes = include.container_classes | default: 'container relative z-20 mx-auto p-4 pt-6 md:pt-8 text-white' %}
+{% assign content_classes = include.content_classes | default: 'max-w-4xl space-y-4 md:space-y-5' %}
+{% assign cta_wrap_classes = include.cta_wrap_classes | default: 'flex flex-col gap-3 pt-4' %}
+{% assign title_class = include.title_class | default: '' %}
+{% assign subtitle_class = include.subtitle_class | default: '' %}
+{% assign cta_variant_key = include.cta_variant | default: 'default' %}
+{% assign cta_variant = site.data.cta_variants[cta_variant_key] | default: site.data.cta_variants.default %}
+
+<div class="{{ container_classes }}">
+  <div class="{{ content_classes }}">
+    {% if include.kicker and include.show_kicker != false %}
+    <p class="inline-block rounded px-3 py-1 text-sm md:text-base font-semibold uppercase tracking-[0.4em] bg-primary/95 text-primary-accent leading-none">{{ include.kicker }}</p>
+    {% endif %}
+    {% if include.title %}
+    <h1 class="text-[2rem] font-black leading-tight {{ title_class }}" data-hero-heading>{{ include.title }}</h1>
+    {% endif %}
+    {% if include.subtitle %}
+    <p class="text-lg md:text-xl lg:text-2xl text-white/90 max-w-3xl {{ subtitle_class }}">{{ include.subtitle }}</p>
+    {% endif %}
+
+    {% if include.highlights %}
+    <div class="flex flex-wrap gap-3 text-sm mt-3">
+      {% for highlight in include.highlights %}
+      <span class="rounded-full border border-white/30 bg-white/5 px-4 py-2">{{ highlight }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% assign risk_items = include.risk_items | default: site.data.risk_reversal %}
+    {% assign has_active_risk = false %}
+    {% if risk_items %}
+      {% for risk in risk_items %}
+        {% if risk.active != false %}
+          {% assign has_active_risk = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% if has_active_risk %}
+    <div class="mt-4 flex flex-wrap gap-2 text-xs md:text-sm">
+      {% assign sorted_risk_items = risk_items | sort: 'priority' %}
+      {% for risk in sorted_risk_items %}
+      {% if risk.active != false %}
+      <span class="inline-flex items-center gap-1 rounded-full border border-white/30 bg-black/20 px-3 py-1" title="{{ risk.detail }}">
+        <span class="material-symbols-outlined text-sm" aria-hidden="true">{{ risk.icon | default: 'verified' }}</span>
+        <span>{{ risk.label }}</span>
+      </span>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% assign primary_label = cta_variant.primary_label | default: include.primary_cta.label | default: include.primary_label %}
+    {% assign primary_url = cta_variant.primary_url | default: include.primary_cta.url | default: include.primary_url %}
+    {% assign whatsapp_label = cta_variant.whatsapp_label | default: include.whatsapp_label | default: 'WhatsApp' %}
+    {% assign whatsapp_url = include.whatsapp_url | default: cta_variant.whatsapp_url | default: site.whatsapp %}
+    {% assign call_label = cta_variant.call_label | default: include.call_label | default: site.phone %}
+    {% assign call_url = include.call_url | default: cta_variant.call_url %}
+    {% if call_url == nil or call_url == '' %}
+      {% assign call_url = site.phone | replace: ' ', '' | prepend: 'tel:' %}
+    {% endif %}
+    <div class="{{ cta_wrap_classes }}">
+      {% if primary_label and primary_url %}
+        <a href="{{ primary_url | relative_url }}" class="flex w-full items-center justify-center rounded-lg px-5 py-3 text-sm font-bold text-white transition hover:bg-white hover:shadow-lg md:text-base" style="background-color: rgba(217, 119, 6, 0.5);">
+          {{ primary_label }}
+        </a>
+      {% endif %}
+      <div class="flex flex-row gap-3">
+        <a href="{{ whatsapp_url }}" class="flex flex-1 items-center justify-center gap-2 rounded-lg border-[1.5px] border-[#0B6704] px-5 py-3 text-sm font-bold text-white transition hover:bg-[#0B6704]/90 md:text-base" style="background-color: rgba(11, 103, 4, 0.5);">
+          <span class="material-symbols-outlined text-lg text-white">chat</span>
+          {{ whatsapp_label }}
+        </a>
+        <a href="{{ call_url }}" class="flex flex-1 items-center justify-center gap-2 rounded-lg border-[1.5px] border-white/40 px-5 py-3 text-sm font-bold text-white transition hover:bg-primary/5 md:text-base" style="background-color: rgba(10, 35, 66, 0.5);">
+          <span class="material-symbols-outlined text-lg">call</span>
+          <span class="whitespace-nowrap">{{ call_label }}</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

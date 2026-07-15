@@ -1,0 +1,62 @@
+services:
+  - label: Kernleistungen
+    items:
+      - title: Entrümpelung Wien
+        url: /leistungen/entruempelung-wien/
+      - title: Räumung Wien
+        url: /leistungen/raeumung/
+      - title: Wohnungsauflösung Wien
+        url: /leistungen/haushaltsaufloesung/
+      - title: Wohnungsauflösung Wien
+        url: /leistungen/wohnungsaufloesung/
+  - label: Gewerblich
+    items:
+      - title: Firmenauflösung
+        url: /leistungen/firmenaufloesung/
+      - title: Alle Gewerbe-Leistungen
+        url: /leistungen/
+  - label: Spezialdienste
+    items:
+      - title: Express Räumung
+        url: /leistungen/express-notdienst/
+      - title: Verlassenschaft
+        url: /leistungen/verlassenschaft/
+      - title: Messie-Entrümpelung
+        url: /leistungen/messie-entruempelung/
+  - label: Wertanrechnung
+    items:
+      - title: Gratis Entrümpelung
+        url: /leistungen/gratis-entruempelung/
+      - title: Gratis Räumung
+        url: /leistungen/gratis-raeumung/
+      - title: Antiquitäten Wertanrechnung
+        url: /leistungen/antiquitaeten-ankauf/
+      - title: Möbel Wertanrechnung
+        url: /leistungen/moebel-ankauf/
+      - title: Alle Leistungen
+        url: /leistungen/
+districts:
+  - title: 1010 Innere Stadt
+    url: /leistungen/haushaltsaufloesung-1010-wien/
+  - title: 1100 Favoriten
+    url: /leistungen/haushaltsaufloesung-1100-wien/
+  - title: 1190 Döbling
+    url: /leistungen/haushaltsaufloesung-1190-wien/
+  - title: 1220 Donaustadt
+    url: /leistungen/haushaltsaufloesung-1220-wien/
+links:
+  - label: Ablauf
+    url: /ablauf/
+  - label: Preise
+    url: /preise/
+  - label: Bewertungen
+    url: /bewertungen/
+  - label: Ratgeber
+    url: /ratgeber/
+  - label: Über Uns
+    url: /ueber-uns/
+  - label: Kontakt
+    url: /angebot/
+cta:
+  label: Gratis Angebot
+  url: /angebot/

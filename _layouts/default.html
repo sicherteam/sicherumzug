@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang }}" class="light">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="theme-color" content="#052349"/>
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin/>
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com"/>
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <style>
+      :root { color-scheme: light dark; }
+      body {
+        margin: 0;
+        font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+        background-color: #F5F5F5;
+        min-height: 100vh;
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        background-color: rgba(5, 35, 73, 0.95);
+        backdrop-filter: blur(4px);
+      }
+      [data-critical-nav] { display: none; }
+      @media (min-width: 768px) {
+        [data-critical-nav] {
+          display: flex;
+          align-items: center;
+          gap: 1.5rem;
+        }
+      }
+      [data-mobile-menu] { display: none; }
+      [data-mobile-menu]:not(.hidden) { display: flex; }
+      h1[data-hero-heading] {
+        font-size: 2rem;
+        line-height: 1.2;
+        font-weight: 800;
+        margin: 0;
+      }
+      [data-hero-banner] {
+        position: relative;
+        min-height: 60vh;
+        display: flex;
+        align-items: center;
+        color: #fff;
+        overflow: hidden;
+      }
+      @media (min-width: 768px) {
+        [data-hero-banner] { min-height: 70vh; }
+      }
+      [data-hero-banner]::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        z-index: 10;
+        background-image: linear-gradient(rgba(10,35,66,.35),rgba(10,35,66,.75));
+      }
+      [data-hero-banner] picture {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+      }
+      [data-hero-banner] img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      [data-hero-banner] .container {
+        position: relative;
+        z-index: 20;
+      }
+      .text-primary-accent { color: #D97706; }
+      .text-primary { color: #0A2342; }
+      .text-white { color: #fff; }
+      .text-white\/90 { color: rgba(255,255,255,.9); }
+      .bg-primary { background-color: #0A2342; }
+      .bg-white { background-color: #fff; }
+      .bg-primary-button { background-color: #D97706; color: #0A2342; }
+      .rounded-lg { border-radius: 0.5rem; }
+      .px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+      .py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+      .space-y-6 > * + * { margin-top: 1.5rem; }
+      .gap-4 { gap: 1rem; }
+      .max-w-4xl { max-width: 56rem; }
+      .material-symbols-outlined {
+        font-family: 'Material Symbols Outlined', 'Segoe UI Symbol', sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 1.5rem;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      @media (min-width: 768px) {
+        .md\:space-y-8 > * + * { margin-top: 2rem; }
+      }
+      .container{width:100%}
+      @media (min-width:640px){.container{max-width:640px}}
+      @media (min-width:768px){.container{max-width:768px}}
+      @media (min-width:1024px){.container{max-width:1024px}}
+      @media (min-width:1280px){.container{max-width:1280px}}
+      @media (min-width:1536px){.container{max-width:1536px}}
+      [data-mega-panel] {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transition: opacity .2s ease, visibility .2s ease;
+      }
+      [data-mega-panel]::before {
+        content: '';
+        position: absolute;
+        top: -20px;
+        left: 0;
+        right: 0;
+        height: 20px;
+      }
+      .group:hover > [data-mega-panel],
+      .group:focus-within > [data-mega-panel] {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+      }
+    </style>
+    <link rel="icon" type="image/png" href="{{ '/favicon-96x96.png' | relative_url }}" sizes="96x96"/>
+    <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}"/>
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}"/>
+    <meta name="apple-mobile-web-app-title" content="{{ site.brand_name }}"/>
+    <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}"/>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" media="print" onload="this.media='all';this.onload=null;"/>
+    <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"/></noscript>
+    {% assign hero_preload = page.hero_preload | default: page.hero_image %}
+    {% if page.layout == 'home' or page.layout == 'service' or page.layout == 'state' %}
+    {% include head-home-hero-preload.html %}
+    {% elsif hero_preload %}
+    <link rel="preload" href="{{ hero_preload | relative_url }}" as="image" fetchpriority="high"/>
+    {% endif %}
+    {% include seo.html %}
+    <!-- GDPR Consent Management -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent','default',{
+    'ad_storage':'denied',
+    'ad_user_data':'denied',
+    'ad_personalization':'denied',
+    'analytics_storage':'denied'
+  });
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWHC9LL6');</script>
+<!-- End Google Tag Manager -->
+  </head>
+  <body>
+    <div class="bg-background-light font-display text-text-light">
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWHC9LL6"
+      height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+      <div class="relative flex min-h-screen flex-col overflow-x-hidden">
+        {% include header.html %}
+        <main id="main" class="flex-1">
+          {{ content }}
+        </main>
+        {% include footer.html %}
+        {% include sticky-cta.html %}
+        {% include mobile-menu.html %}
+      </div>
+      <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+    </div>
+  </body>
+</html>

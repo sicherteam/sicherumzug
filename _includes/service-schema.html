@@ -1,0 +1,27 @@
+{% if page.service_schema %}
+{% assign s = page.service_schema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": {{ s.type | default: "Service" | jsonify }},
+  "name": {{ s.name | jsonify }},
+  "serviceType": {{ page.service_type | default: s.name | jsonify }},
+  {% if s.area_served %}"areaServed": {{ s.area_served | jsonify }},{% endif %}
+  {% if s.price_range %}"priceRange": {{ s.price_range | jsonify }},{% endif %}
+  {% if s.phone %}"telephone": {{ s.phone | replace: ' ', '' | jsonify }},{% endif %}
+  {% if s.url %}"url": {{ s.url | jsonify }},{% endif %}
+  {% if s.same_as %}
+  "sameAs": [
+    {% for url in s.same_as %}
+    {{ url | jsonify }}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  {% endif %}
+  "provider": {
+    "@type": "Organization",
+    "name": {{ site.brand_name | jsonify }},
+    "url": {{ site.url | append: site.baseurl | jsonify }}
+  }
+}
+</script>
+{% endif %}

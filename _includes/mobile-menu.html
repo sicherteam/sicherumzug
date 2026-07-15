@@ -1,0 +1,80 @@
+{% assign states = site.states | default: site.collections.states.docs %}
+{% if states == nil %}
+{% assign states = '' | split: '' %}
+{% endif %}
+{% assign states = states | sort: 'order' %}
+<div id="mobile-menu" class="fixed inset-0 z-50 hidden flex-col bg-primary/95 text-white backdrop-blur-md lg:hidden" data-mobile-menu>
+  <div class="flex items-center justify-between gap-4 border-b border-white/20 p-4">
+    <a href="{{ '/' | relative_url }}" class="flex max-w-[65vw] items-center gap-3">
+      <span class="sr-only">{{ site.brand_name }}</span>
+      <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="{{ site.brand_name }}" class="h-8 w-auto" width="808" height="270" />
+    </a>
+    <button class="flex h-12 w-14 shrink-0 items-center justify-center text-white" onclick="mobileMenuToggle()" aria-label="Menü schließen">
+      <span class="material-symbols-outlined text-[40px] leading-none">close</span>
+    </button>
+  </div>
+  <div class="flex-1 overflow-y-auto px-4 py-6">
+    <div>
+      <button class="flex w-full items-center justify-between border-b border-white/20 py-3 text-lg font-semibold" onclick="toggleSubMenu('mobile-services')">
+        <span>Leistungen</span>
+        <span class="material-symbols-outlined text-xl">expand_more</span>
+      </button>
+      <div id="mobile-services" class="hidden space-y-4 pt-3">
+        {% for group in site.data.navigation.services %}
+        <div>
+          <p class="mb-2 text-xs uppercase tracking-[0.3em] text-white/70">{{ group.label }}</p>
+          <ul class="space-y-2 text-sm">
+            {% for item in group.items %}
+            <li><a class="block hover:text-primary-accent" href="{{ item.url | relative_url }}" onclick="mobileMenuToggle()">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+        <a class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="{{ '/leistungen/' | relative_url }}" onclick="mobileMenuToggle()">
+          Alle Leistungen ansehen
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
+      </div>
+    </div>
+    <div class="mt-4">
+      <button class="flex w-full items-center justify-between border-b border-white/20 py-3 text-lg font-semibold" onclick="toggleSubMenu('mobile-districts')">
+        <span>Bezirke</span>
+        <span class="material-symbols-outlined text-xl">expand_more</span>
+      </button>
+      <div id="mobile-districts" class="hidden space-y-2 pt-3 text-sm">
+        {% for district in site.data.navigation.districts %}
+        <a class="block hover:text-primary-accent" href="{{ district.url | relative_url }}" onclick="mobileMenuToggle()">{{ district.title }}</a>
+        {% endfor %}
+        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
+          Alle Bezirke anzeigen
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
+      </div>
+    </div>
+    {% if states.size > 0 %}
+    <div class="mt-4">
+      <button class="flex w-full items-center justify-between border-b border-white/20 py-3 text-lg font-semibold" onclick="toggleSubMenu('mobile-states')">
+        <span>Bundesländer</span>
+        <span class="material-symbols-outlined text-xl">expand_more</span>
+      </button>
+      <div id="mobile-states" class="hidden space-y-2 pt-3 text-sm">
+        {% for state in states %}
+        <a class="block hover:text-primary-accent" href="{{ state.url | relative_url }}" onclick="mobileMenuToggle()">Entrümpelung in {{ state.title }}</a>
+        {% endfor %}
+        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
+          Alle Standorte
+          <span class="material-symbols-outlined text-base">north_east</span>
+        </a>
+      </div>
+    </div>
+    {% endif %}
+    <div class="mt-6 space-y-2">
+      {% for link in site.data.navigation.links %}
+      <a class="block border-b border-white/20 py-3 text-lg font-semibold hover:text-primary-accent" href="{{ link.url | relative_url }}" onclick="mobileMenuToggle()">{{ link.label }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="border-t border-white/20 p-4">
+    <a class="flex w-full items-center justify-center rounded-full bg-primary-button py-3 text-primary font-bold" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">{{ site.data.navigation.cta.label }}</a>
+  </div>
+</div>

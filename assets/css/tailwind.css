@@ -1,0 +1,185 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  background-color: #F5F5F5;
+  min-height: 100vh;
+}
+
+[data-hero-banner] {
+  --hero-image: var(--hero-desktop);
+  background-image: linear-gradient(rgba(10, 35, 66, 0.35), rgba(10, 35, 66, 0.75)), var(--hero-image);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+  [data-hero-banner] {
+    /* Swap to mobile hero asset when available */
+    --hero-image: var(--hero-mobile, var(--hero-desktop));
+  }
+}
+
+@font-face {
+  font-family: 'Material Symbols Outlined';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/material-symbols-outlined.woff2') format('woff2');
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(10, 35, 66, 0.55);
+  border-radius: 999px;
+}
+
+.trust-badge {
+  font-size: 0.875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.defer-section {
+  /* Delay layout/paint work for below-the-fold sections without layout shifts */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 900px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@layer components {
+  .richtext {
+    @apply max-w-none text-base leading-relaxed text-text-light;
+  }
+
+  .richtext > *:first-child {
+    margin-top: 0;
+  }
+
+  .richtext h2 {
+    @apply mt-10 text-3xl font-extrabold text-primary;
+  }
+
+  .richtext h3 {
+    @apply mt-8 text-2xl font-bold text-primary;
+  }
+
+  .richtext h4 {
+    @apply mt-6 text-xl font-semibold text-primary;
+  }
+
+  .richtext p,
+  .richtext ul,
+  .richtext ol,
+  .richtext blockquote {
+    @apply mt-4;
+  }
+
+  .richtext ul {
+    @apply list-disc space-y-2 pl-5;
+  }
+
+  .richtext ol {
+    @apply list-decimal space-y-2 pl-5;
+  }
+
+  .richtext li {
+    @apply text-base leading-relaxed text-text-light;
+  }
+
+  .richtext blockquote {
+    @apply border-l-4 border-primary/40 pl-4 italic text-primary;
+  }
+
+  .richtext a {
+    @apply font-semibold text-primary underline-offset-4 hover:text-primary-light;
+  }
+
+  .richtext strong {
+    @apply font-semibold text-primary;
+  }
+
+  .richtext table {
+    @apply mt-6 w-full border-collapse rounded-lg border border-primary/20 bg-white text-left shadow-sm;
+    table-layout: auto;
+  }
+
+  .richtext thead {
+    @apply bg-primary text-text-dark;
+  }
+
+  .richtext thead th {
+    @apply px-4 py-3 text-xs font-semibold uppercase tracking-wide text-background-light;
+  }
+
+  .richtext tbody tr:nth-child(even) {
+    @apply bg-background-light;
+  }
+
+  .richtext th,
+  .richtext td {
+    @apply border-b border-primary/10 px-4 py-3 align-top text-sm text-text-light;
+  }
+
+  .richtext tbody tr:last-child td {
+    @apply border-b-0;
+  }
+
+  @media (max-width: 640px) {
+    .richtext table {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .richtext th,
+    .richtext td {
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+      font-size: 0.75rem;
+      line-height: 1rem;
+      white-space: normal;
+      word-break: break-word;
+      hyphens: auto;
+    }
+  }
+}

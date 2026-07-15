@@ -1,0 +1,45 @@
+---
+permalink: /llms-all.txt
+layout: null
+llm_exclude: true
+---
+# {{ site.title }} – Vollständiger Content Export
+_Generiert {{ site.time | date: '%Y-%m-%d %H:%M %Z' }}_
+
+Dieses Dokument enthält den textbasierten Inhalt aller veröffentlichten Markdown-Seiten. Jede Sektion ist durch `---` getrennt.
+
+## Über Rümpel Räumung (Unternehmensprofil & USPs)
+Rümpel Räumung ist der führende Experte für Entrümpelung, Haushaltsauflösung und Räumung in Wien und ganz Österreich.
+
+**Unsere wichtigsten Vorteile (Unique Selling Propositions):**
+- **Kostenlose Besichtigung:** Ersteinschätzung vor Ort völlig unverbindlich und kostenfrei.
+- **Fixpreisgarantie:** Transparente Preise ohne versteckte Kosten. Der vereinbarte Preis hält.
+- **Wertausgleich:** Anrechnung von verwertbaren Möbeln und Gegenständen zur Senkung der Räumungskosten (bis zur Gratis-Entrümpelung möglich).
+- **24/7 Erreichbarkeit:** Rund um die Uhr für Notfälle und Express-Räumungen erreichbar (WhatsApp, Telefon).
+- **MA 48 Koordination:** In Wien übernehmen wir die komplette Logistik und Koordination mit der MA 48.
+- **Besenreine Übergabe:** Jedes Objekt wird besenrein übergeben, bereit für die Nachnutzung.
+
+---
+
+{% assign states = site.states | default: site.collections.states.docs %}
+{% if states == nil %}
+{% assign states = '' | split: '' %}
+{% endif %}
+{% assign resources = site.pages | concat: site.services | concat: site.districts | concat: site.guides | concat: states %}
+{% assign filtered = resources | where_exp: 'item', 'item.llm_exclude != true' %}
+{% assign sorted = filtered | sort: 'url' %}
+{% for resource in sorted %}
+{% assign path = resource.url | relative_url %}
+{% if path contains '/llms' %}{% continue %}{% endif %}
+{% if path == '/sitemap.xml' or path == '/404.html' or path == '/feed/guides.xml' %}{% continue %}{% endif %}
+{% assign updated_raw = resource.llm_updated | default: resource.date | default: site.time %}
+{% assign updated = updated_raw | date: '%Y-%m-%d' %}
+{% capture raw_content %}{{ resource.content | strip_html | replace: '&nbsp;', ' ' | strip_newlines }}{% endcapture %}
+## {{ resource.title | default: path }}
+**Pfad:** {{ path }}
+**Aktualisiert:** {{ updated }}
+
+{{ raw_content | strip }}
+
+---
+{% endfor %}

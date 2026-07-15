@@ -1,0 +1,32 @@
+- title: Entrümpelung Wien
+  description: Fixpreis-Entrümpelung in allen 23 Bezirken inklusive Wertanrechnung, MA 48-Koordination und besenreiner Übergabe.
+  url: /leistungen/entruempelung-wien/
+  icon: delete
+- title: Haushalts- & Wohnungsauflösung
+  description: Komplette Auflösung von Häusern und großen Haushalten inklusive Wertanrechnung.
+  url: /leistungen/haushaltsaufloesung/
+  icon: home
+- title: Wohnungsauflösung Wien
+  description: Wohnungsräumung mit Fixpreis, Wertanrechnung und besenreiner Übergabe.
+  url: /leistungen/wohnungsaufloesung/
+  icon: apartment
+- title: Kellerräumung
+  description: Wir schaffen Platz in Keller, Garage oder Hobbyraum und entsorgen fachgerecht.
+  url: /leistungen/kellerraeumung/
+  icon: inventory_2
+- title: Garagenräumung
+  description: Garage entrümpeln mit Fixpreis, Wertanrechnung und besenreiner Übergabe.
+  url: /leistungen/garagenraeumung/
+  icon: garage
+- title: Verlassenschaften
+  description: Diskrete Nachlassräumung mit Dokumentation und enger Abstimmung mit Notaren.
+  url: /leistungen/verlassenschaft/
+  icon: diversity_3
+- title: Firmen- & Büroauflösung
+  description: DSGVO-konforme Räumung von Büros, Lagerflächen und Produktionshallen.
+  url: /leistungen/firmenaufloesung/
+  icon: business
+- title: Messie-Entrümpelung
+  description: Speziell geschulte Teams für komplexe Situationen, inkl. Reinigung und Desinfektion.
+  url: /leistungen/messie-entruempelung/
+  icon: cleaning_services

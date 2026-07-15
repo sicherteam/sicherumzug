@@ -1,0 +1,19 @@
+{% include home-hero-vars.liquid %}
+{% if hero_mobile %}
+<link rel="preload"
+      href="{{ hero_mobile_preload_href | relative_url }}"
+      as="image"
+      imagesrcset="{{ hero_mobile_srcset | strip }}"
+      imagesizes="{{ hero_mobile_sizes }}"
+      media="(max-width: 767px)"
+      fetchpriority="high">
+{% endif %}
+{% if hero_desktop %}
+<link rel="preload"
+      href="{{ hero_desktop_preload_href | relative_url }}"
+      as="image"
+      imagesrcset="{{ hero_desktop_srcset | strip }}"
+      imagesizes="{{ hero_image_sizes }}"
+      media="(min-width: 768px)"
+      fetchpriority="high">
+{% endif %}

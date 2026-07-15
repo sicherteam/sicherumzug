@@ -1,0 +1,373 @@
+{% assign organization_name = site.brand_name %}
+{% assign og_image_source = page.og_image | default: site.og_image | default: site.logo %}
+{% assign og_image_alt = page.og_image_alt | default: site.og_image_alt | default: organization_name %}
+<title>{{ page.seo_title | default: page.title | default: organization_name }}</title>
+<meta name="description"
+  content="{{ page.description | default: site.description | strip_html | normalize_whitespace }}">
+<meta name="robots" content="{{ page.robots | default: 'index, follow' }}">
+<meta name="author" content="{{ site.author | default: organization_name }}">
+{% assign canonical_base = site.canonical_base_url | default: site.url %}
+{% assign canonical_source = page.canonical %}
+{% if canonical_source %}
+{% if canonical_source contains '://' %}
+<link rel="canonical" href="{{ canonical_source }}">
+{% elsif canonical_base %}
+<link rel="canonical" href="{{ canonical_base | append: canonical_source }}">
+{% else %}
+<link rel="canonical" href="{{ canonical_source | absolute_url }}">
+{% endif %}
+{% elsif canonical_base %}
+{% assign canonical_path = page.url | default: '/' %}
+<link rel="canonical" href="{{ canonical_base | append: canonical_path }}">
+{% else %}
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+{% endif %}
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ page.seo_title | default: page.title | default: organization_name }}">
+<meta property="og:description"
+  content="{{ page.description | default: site.description | strip_html | normalize_whitespace }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ og_image_source | relative_url | absolute_url }}">
+<meta property="og:image:alt" content="{{ og_image_alt | strip_html | normalize_whitespace }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.seo_title | default: page.title | default: organization_name }}">
+<meta name="twitter:description"
+  content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200, '...' }}">
+<meta name="twitter:image" content="{{ og_image_source | relative_url | absolute_url }}">
+
+<!-- Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ organization_name }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "logo": "{{ site.logo | relative_url | absolute_url }}",
+  "description": "{{ site.description | strip_html | normalize_whitespace }}",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{ site.phone }}",
+    "contactType": "customer service",
+    "availableLanguage": ["German"]
+  },
+  "sameAs": [
+    {% if site.linkedin %}"{{ site.linkedin }}"{% endif %}{% if site.social.links %}{% for link in site.social.links %}{% if forloop.first and site.linkedin %}, {% elsif forloop.first %}{% else %}, {% endif %}"{{ link }}"{% endfor %}{% endif %}
+  ]
+}
+</script>
+
+{% assign lb = site.local_business %}
+{% if lb %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ lb.type | default: 'LocalBusiness' }}",
+  "@id": "{{ site.url }}{{ site.baseurl }}/#business",
+  "name": "{{ organization_name }}",
+  "image": "{{ site.logo | relative_url | absolute_url }}",
+  "logo": "{{ site.logo | relative_url | absolute_url }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "description": "{{ site.description | strip_html | normalize_whitespace }}",
+  "telephone": "{{ site.phone }}",
+  "email": "{{ site.email }}",
+  "priceRange": "{{ lb.price_range | default: '€€' }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ site.address.street }}",
+    "addressLocality": "{{ site.address.city }}",
+    "postalCode": "{{ site.address.postal_code }}",
+    "addressCountry": "{{ site.address.country }}"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{{ lb.geo.latitude }}",
+    "longitude": "{{ lb.geo.longitude }}"
+  },
+  "areaServed": [
+    { "@type": "City", "name": "Wien" },
+    { "@type": "AdministrativeArea", "name": "Niederösterreich" },
+    { "@type": "AdministrativeArea", "name": "Burgenland" },
+    { "@type": "Place", "name": "Innere Stadt (1010 Wien)" },
+    { "@type": "Place", "name": "Leopoldstadt (1020 Wien)" },
+    { "@type": "Place", "name": "Landstraße (1030 Wien)" },
+    { "@type": "Place", "name": "Wieden (1040 Wien)" },
+    { "@type": "Place", "name": "Margareten (1050 Wien)" },
+    { "@type": "Place", "name": "Mariahilf (1060 Wien)" },
+    { "@type": "Place", "name": "Neubau (1070 Wien)" },
+    { "@type": "Place", "name": "Josefstadt (1080 Wien)" },
+    { "@type": "Place", "name": "Alsergrund (1090 Wien)" },
+    { "@type": "Place", "name": "Favoriten (1100 Wien)" },
+    { "@type": "Place", "name": "Simmering (1110 Wien)" },
+    { "@type": "Place", "name": "Meidling (1120 Wien)" },
+    { "@type": "Place", "name": "Hietzing (1130 Wien)" },
+    { "@type": "Place", "name": "Penzing (1140 Wien)" },
+    { "@type": "Place", "name": "Rudolfsheim-Fünfhaus (1150 Wien)" },
+    { "@type": "Place", "name": "Ottakring (1160 Wien)" },
+    { "@type": "Place", "name": "Hernals (1170 Wien)" },
+    { "@type": "Place", "name": "Währing (1180 Wien)" },
+    { "@type": "Place", "name": "Döbling (1190 Wien)" },
+    { "@type": "Place", "name": "Brigittenau (1200 Wien)" },
+    { "@type": "Place", "name": "Floridsdorf (1210 Wien)" },
+    { "@type": "Place", "name": "Donaustadt (1220 Wien)" },
+    { "@type": "Place", "name": "Liesing (1230 Wien)" }
+  ],
+  "knowsAbout": [
+    "Entrümpelung",
+    "Räumung",
+    "Haushaltsauflösung",
+    "Verlassenschaft",
+    "Wertausgleich",
+    "MA 48 Koordination",
+    "Messie-Entrümpelung",
+    "Firmenräumung"
+  ],
+  "serviceType": [
+    "Haushaltsauflösung",
+    "Entrümpelung",
+    "Wohnungsräumung",
+    "Firmenräumung",
+    "Kellerräumung",
+    "Dachbodenräumung",
+    "Messie-Entrümpelung",
+    "Verlassenschaft"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Entrümpelungsleistungen",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Haushaltsauflösung",
+          "description": "Komplette Auflösung von Wohnungen und Häusern inklusive Wertausgleich und besenreiner Übergabe"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Firmenräumung",
+          "description": "DSGVO-konforme Räumung von Büros, Lagerflächen und Produktionshallen"
+        }
+      }
+    ]
+  },
+  "openingHoursSpecification": [
+    {% for window in site.open_hours %}
+    {% assign window_days = window.days %}
+    {% if window_days == nil and window.day %}
+      {% assign window_days = window.day | split: ',' %}
+    {% endif %}
+    {% for day in window_days %}
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "{{ day | strip }}",
+      {% if window.closed %}
+      "opens": "00:00",
+      "closes": "00:00",
+      "description": "geschlossen"
+      {% else %}
+      "opens": "{{ window.opens }}",
+      "closes": "{{ window.closes }}"
+      {% endif %}
+    }{% unless forloop.last and forloop.parentloop.last %},
+    {% endunless %}
+    {% endfor %}
+    {% endfor %}
+  ],
+  "paymentAccepted": ["Cash", "Bank Transfer", "Credit Card"],
+  "currenciesAccepted": "EUR"
+}
+</script>
+{% endif %}
+{% if page.schema_type == 'Service' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "{{ page.title }}",
+  "serviceType": "{{ page.service_type | default: page.title }}",
+  "provider": {
+    "@type": "{{ lb.type | default: 'LocalBusiness' }}",
+    "name": "{{ organization_name }}",
+    "url": "{{ site.url }}{{ site.baseurl }}"
+  },
+  {% assign service_areas = page.schema_service_areas | default: lb.service_area %}
+  {% if service_areas and service_areas != empty %}
+  "areaServed": [
+    {% for area in service_areas %}
+    {% assign normalized_service_area = area | downcase | replace: 'ö', 'oe' | replace: 'ä', 'ae' | replace: 'ü', 'ue' | replace: 'ß', 'ss' %}
+    {% assign service_area_type = 'City' %}
+    {% if normalized_service_area contains 'niederosterreich' or normalized_service_area contains 'burgenland' %}
+      {% assign service_area_type = 'AdministrativeArea' %}
+    {% endif %}
+    { "@type": "{{ service_area_type }}", "name": "{{ area }}" }{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  ],
+  {% else %}
+  "areaServed": {
+    "@type": "City",
+    "name": "Wien"
+  },
+  {% endif %}
+  "description": "{{ page.description | default: page.excerpt | strip_html | normalize_whitespace }}",
+  {% assign service_price_from = page.schema_price_from %}
+  {% assign service_price_to = page.schema_price_to %}
+  {% assign service_price_currency = page.schema_price_currency | default: 'EUR' %}
+  {% assign service_price_desc = page.schema_price_description | default: page.schema_price_note %}
+  {% assign service_offer_count = page.schema_offer_count | default: 1 %}
+  {% if service_price_from %}
+  "offers": {
+    "@type": "{% if service_price_to %}AggregateOffer{% else %}Offer{% endif %}",
+    "priceCurrency": "{{ service_price_currency }}",
+    {% if service_price_to %}
+    "lowPrice": "{{ service_price_from }}",
+    "highPrice": "{{ service_price_to }}",
+    "offerCount": "{{ service_offer_count }}",
+    {% else %}
+    "price": "{{ service_price_from }}",
+    {% endif %}
+    "url": "{{ page.url | relative_url | absolute_url }}"
+    {% if service_price_desc %},
+    "description": "{{ service_price_desc | strip_html | normalize_whitespace }}"
+    {% endif %}
+  }
+  {% else %}
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "url": "{{ page.url | relative_url | absolute_url }}"
+  }
+  {% endif %}
+}
+</script>
+{% endif %}
+{% assign faq_items = page.faqs %}
+{% if faq_items == nil and page.use_global_faqs %}
+{% assign faq_items = site.data.faqs %}
+{% endif %}
+{% if faq_items %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Häufig gestellte Fragen zu Entrümpelungen",
+  "description": "Antworten auf die wichtigsten Fragen rund um Haushaltsauflösungen, Entrümpelungen und Wertausgleich in Wien und Niederösterreich",
+  "mainEntity": [
+    {% for faq in faq_items %}
+    {
+      "@type": "Question",
+      "name": "{{ faq.question | strip_html }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ faq.answer | strip_newlines | escape }}",
+        "author": {
+          "@type": "Organization",
+          "name": "{{ organization_name }}"
+        }
+      }
+    }{% unless forloop.last %},
+    {% endunless %}
+    {% endfor %}
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "{{ organization_name }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ organization_name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo | relative_url | absolute_url }}"
+    }
+  }
+}
+</script>
+{% endif %}
+
+{% if page.collection == 'guides' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | escape }}",
+  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
+  "dateModified": "{{ page.lastmod | default: page.date | date: '%Y-%m-%d' }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ organization_name | escape }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ organization_name | escape }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
+  "articleSection": "{{ page.category | default: 'Ratgeber' | escape }}",
+  "keywords": "{{ page.tags | join: ', ' | escape }}"
+}
+</script>
+{% endif %}
+
+<!-- Breadcrumb Navigation Schema -->
+{% if page.url != '/' %}
+{% assign crumb_parent_name = nil %}
+{% assign crumb_parent_url = nil %}
+{% case page.collection %}
+{% when 'services' %}
+  {% assign crumb_parent_name = 'Leistungen' %}
+  {% assign crumb_parent_url = '/leistungen/' %}
+{% when 'districts' %}
+  {% assign crumb_parent_name = 'Bezirke' %}
+  {% assign crumb_parent_url = '/bezirke/' %}
+{% when 'guides' %}
+  {% assign crumb_parent_name = 'Ratgeber' %}
+  {% assign crumb_parent_url = '/ratgeber/' %}
+{% when 'states' %}
+  {% assign crumb_parent_name = 'Bundesländer' %}
+  {% assign crumb_parent_url = '/bezirke/' %}
+{% endcase %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}{{ site.baseurl }}/"
+    }
+    {% if crumb_parent_name and crumb_parent_url %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ crumb_parent_name }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ crumb_parent_url }}"
+    }
+    ,{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title | default: organization_name | escape }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+    {% else %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title | default: organization_name | escape }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+    {% endif %}
+  ]
+}
+</script>
+{% endif %}

@@ -1,0 +1,16 @@
+default:
+  primary_label: Gratis Besichtigung sichern
+  primary_url: /angebot/#angebot-form
+  whatsapp_label: WhatsApp Foto senden
+  call_label: Jetzt anrufen
+
+express:
+  primary_label: Express Termin anfragen
+  primary_url: /angebot/#angebot-form
+  whatsapp_label: Express per WhatsApp
+  call_label: Direkt Express anrufen
+
+sticky:
+  whatsapp_label: WhatsApp Foto senden
+  call_label: Sofort anrufen
+  subtext: Foto senden oder direkt anrufen für schnelle Ersteinschätzung.

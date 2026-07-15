@@ -1,0 +1,42 @@
+<nav class="py-4 bg-background-light/50" aria-label="Breadcrumb">
+  <div class="container mx-auto px-4">
+    <ol class="flex items-center space-x-2 text-sm text-gray-600">
+      <li class="flex items-center">
+        <a href="{{ '/' | relative_url }}" class="hover:text-primary transition-colors">Home</a>
+      </li>
+
+      {% assign breadcrumbs = page.breadcrumbs %}
+      {% if breadcrumbs == nil %}
+        {% if page.collection %}
+          {% case page.collection %}
+          {% when 'services' %}
+            <li class="flex items-center">
+              <span class="mx-2 text-gray-400">/</span>
+              <a href="{{ '/leistungen/' | relative_url }}" class="hover:text-primary transition-colors">Leistungen</a>
+            </li>
+          {% when 'districts' %}
+            <li class="flex items-center">
+              <span class="mx-2 text-gray-400">/</span>
+              <a href="{{ '/bezirke/' | relative_url }}" class="hover:text-primary transition-colors">Bezirke</a>
+            </li>
+          {% when 'guides' %}
+            <li class="flex items-center">
+              <span class="mx-2 text-gray-400">/</span>
+              <a href="{{ '/ratgeber/' | relative_url }}" class="hover:text-primary transition-colors">Ratgeber</a>
+            </li>
+          {% when 'states' %}
+            <li class="flex items-center">
+              <span class="mx-2 text-gray-400">/</span>
+              <a href="{{ '/bezirke/' | relative_url }}" class="hover:text-primary transition-colors">Bundesländer</a>
+            </li>
+          {% endcase %}
+        {% endif %}
+      {% endif %}
+
+      <li class="flex items-center">
+        <span class="mx-2 text-gray-400">/</span>
+        <span class="text-primary font-medium" aria-current="page">{{ page.title | default: site.brand_name }}</span>
+      </li>
+    </ol>
+  </div>
+</nav>

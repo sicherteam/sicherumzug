@@ -1,0 +1,16 @@
+- title: Kontakt & Besichtigung
+  description: Rufen Sie uns an oder füllen Sie das Formular aus. Wir vereinbaren einen kurzfristigen, kostenlosen Termin vor Ort.
+  icon: phone
+  order: 1
+- title: Schriftliches Fixpreis-Angebot
+  description: Sie erhalten ein transparentes Angebot inklusive Wertanrechnung – garantiert ohne versteckte Kosten.
+  icon: gavel
+  order: 2
+- title: Räumung
+  description: Unser uniformiertes Team räumt und sortiert fachgerecht mit zertifizierten Partnern.
+  icon: recycling
+  order: 3
+- title: besenreine Hinterlassung
+  description: Wir übergeben das Objekt sauber und dokumentieren alles mit Fotos für Ihre Unterlagen.
+  icon: done_all
+  order: 4
