@@ -7,6 +7,7 @@ excerpt: "Bei einer Betriebsauflösung geht es um mehr als nur Möbel. Erfahren 
 button_text: "Zum Artikel"
 permalink: /ratgeber/firmenauflesung-bueroraeumung-wien-dsgvo/
 hero_preload: /topbg.webp
+date: 2024-05-01
 ---
 
 Ob durch einen Umzug in größere Räumlichkeiten, Home-Office-Verkleinerung oder eine Geschäftsaufgabe: Eine Büroräumung oder Firmenauflösung in Wien ist ein logistisches Großprojekt. Im Gegensatz zu einer privaten Wohnungsauflösung gelten im B2B-Bereich (Business-to-Business) völlig andere Spielregeln. Es geht um harte Deadlines aus gewerblichen Mietverträgen, um wertvolles IT-Inventar und vor allem um hochsensible Kundendaten.
