@@ -1,0 +1,3 @@
+## 2026-02-12 - WAI-ARIA and Visual Cues on FAQ Accordions
+**Learning:** Accordion components must be fully keyboard navigable and announce their state correctly to screen readers using standard WAI-ARIA roles and attributes like `aria-expanded` and `aria-controls`. Providing visual feedback (such as rotating chevrons with smooth CSS transitions) bridges accessibility and delightful interaction.
+**Action:** Always ensure accordion headers are `<button>` elements with `aria-expanded` and `aria-controls` properties, and link them to the panel which has `role="region"`. Ensure chevrons have explicit CSS transition transitions (`transition-transform duration-200`) and toggle them with class names like `rotate-180`.
