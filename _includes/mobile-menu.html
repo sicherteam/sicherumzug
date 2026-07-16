@@ -38,41 +38,22 @@
       </div>
     </div>
 
-    <!-- Districts -->
+    <!-- Bundesländer -->
     <div>
       <button class="flex w-full items-center justify-between border-b border-white/10 py-3 text-lg font-semibold text-left" onclick="toggleSubMenu('mobile-districts')">
-        <span>Bezirke</span>
-        <span class="material-symbols-outlined text-xl">expand_more</span>
-      </button>
-      <div id="mobile-districts" class="hidden space-y-2 pt-3 pl-2 text-sm border-l border-white/10 ml-2 pl-3">
-        {% for district in site.data.navigation.districts %}
-        <a class="block py-1 hover:text-primary-accent" href="{{ district.url | relative_url }}" onclick="mobileMenuToggle()">{{ district.title }}</a>
-        {% endfor %}
-        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
-          Alle Bezirke anzeigen
-          <span class="material-symbols-outlined text-base">north_east</span>
-        </a>
-      </div>
-    </div>
-
-    <!-- States -->
-    {% if states.size > 0 %}
-    <div>
-      <button class="flex w-full items-center justify-between border-b border-white/10 py-3 text-lg font-semibold text-left" onclick="toggleSubMenu('mobile-states')">
         <span>Bundesländer</span>
         <span class="material-symbols-outlined text-xl">expand_more</span>
       </button>
-      <div id="mobile-states" class="hidden space-y-2 pt-3 pl-2 text-sm border-l border-white/10 ml-2 pl-3">
-        {% for state in states %}
-        <a class="block py-1 hover:text-primary-accent" href="{{ state.url | relative_url }}" onclick="mobileMenuToggle()">Entrümpelung in {{ state.title }}</a>
+      <div id="mobile-districts" class="hidden space-y-2 pt-3 pl-2 text-sm border-l border-white/10 ml-2 pl-3">
+        {% for state in site.data.navigation.districts %}
+        <a class="block py-1 hover:text-primary-accent" href="{{ state.url | relative_url }}" onclick="mobileMenuToggle()">{{ state.title }}</a>
         {% endfor %}
         <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
-          Alle Standorte
+          Alle Standorte anzeigen
           <span class="material-symbols-outlined text-base">north_east</span>
         </a>
       </div>
     </div>
-    {% endif %}
 
     <!-- Custom Links -->
     <div class="space-y-4 pt-2">

@@ -63,14 +63,14 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{ lb.type | default: 'LocalBusiness' }}",
-  "@id": "{{ site.url }}{{ site.baseurl }}/#business",
-  "name": "{{ organization_name }}",
+  "@type": ["MovingCompany", "DeclutteringService"],
+  "@id": "https://sicher-umzug.at/#business",
+  "name": "Sicher Team",
   "image": "{{ site.logo | relative_url | absolute_url }}",
   "logo": "{{ site.logo | relative_url | absolute_url }}",
-  "url": "{{ site.url }}{{ site.baseurl }}",
+  "url": "https://sicher-umzug.at",
   "description": "{{ site.description | strip_html | normalize_whitespace }}",
-  "telephone": "{{ site.phone }}",
+  "telephone": "+43 660 6060628",
   "email": "{{ site.email }}",
   "priceRange": "{{ lb.price_range | default: '€€' }}",
   "address": {
@@ -86,34 +86,20 @@
     "longitude": "{{ lb.geo.longitude }}"
   },
   "areaServed": [
+    { "@type": "Country", "name": "AT" },
     { "@type": "City", "name": "Wien" },
     { "@type": "AdministrativeArea", "name": "Niederösterreich" },
     { "@type": "AdministrativeArea", "name": "Burgenland" },
-    { "@type": "Place", "name": "Innere Stadt (1010 Wien)" },
-    { "@type": "Place", "name": "Leopoldstadt (1020 Wien)" },
-    { "@type": "Place", "name": "Landstraße (1030 Wien)" },
-    { "@type": "Place", "name": "Wieden (1040 Wien)" },
-    { "@type": "Place", "name": "Margareten (1050 Wien)" },
-    { "@type": "Place", "name": "Mariahilf (1060 Wien)" },
-    { "@type": "Place", "name": "Neubau (1070 Wien)" },
-    { "@type": "Place", "name": "Josefstadt (1080 Wien)" },
-    { "@type": "Place", "name": "Alsergrund (1090 Wien)" },
-    { "@type": "Place", "name": "Favoriten (1100 Wien)" },
-    { "@type": "Place", "name": "Simmering (1110 Wien)" },
-    { "@type": "Place", "name": "Meidling (1120 Wien)" },
-    { "@type": "Place", "name": "Hietzing (1130 Wien)" },
-    { "@type": "Place", "name": "Penzing (1140 Wien)" },
-    { "@type": "Place", "name": "Rudolfsheim-Fünfhaus (1150 Wien)" },
-    { "@type": "Place", "name": "Ottakring (1160 Wien)" },
-    { "@type": "Place", "name": "Hernals (1170 Wien)" },
-    { "@type": "Place", "name": "Währing (1180 Wien)" },
-    { "@type": "Place", "name": "Döbling (1190 Wien)" },
-    { "@type": "Place", "name": "Brigittenau (1200 Wien)" },
-    { "@type": "Place", "name": "Floridsdorf (1210 Wien)" },
-    { "@type": "Place", "name": "Donaustadt (1220 Wien)" },
-    { "@type": "Place", "name": "Liesing (1230 Wien)" }
+    { "@type": "AdministrativeArea", "name": "Steiermark" },
+    { "@type": "AdministrativeArea", "name": "Kärnten" },
+    { "@type": "AdministrativeArea", "name": "Oberösterreich" },
+    { "@type": "AdministrativeArea", "name": "Salzburg" }
   ],
   "knowsAbout": [
+    "Umzug",
+    "Möbeltransport",
+    "Privatumzug",
+    "Firmenumzug",
     "Entrümpelung",
     "Räumung",
     "Haushaltsauflösung",
@@ -124,6 +110,10 @@
     "Firmenräumung"
   ],
   "serviceType": [
+    "Umzug",
+    "Möbeltransport",
+    "Privatumzug",
+    "Firmenumzug",
     "Haushaltsauflösung",
     "Entrümpelung",
     "Wohnungsräumung",
@@ -135,8 +125,16 @@
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Entrümpelungsleistungen",
+    "name": "Umzugs- und Räumungsleistungen",
     "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Umzug & Übersiedlung",
+          "description": "Professioneller Privatumzug, Firmenumzug und Möbeltransport in ganz Österreich"
+        }
+      },
       {
         "@type": "Offer",
         "itemOffered": {
