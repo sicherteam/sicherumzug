@@ -1,6 +1,6 @@
-# Rümpel Räumung – Jekyll Site
+# Sicher Team – Jekyll Site
 
-Relaunch der Website von ruempelraeumung.at auf Basis von [Jekyll](https://jekyllrb.com/) + `github-pages`. Ziel ist ein schnelles, SEO-optimiertes Setup mit klaren Collections für Leistungen, Bezirke und Ratgeber.
+Relaunch der Website von sicher-umzug.at auf Basis von [Jekyll](https://jekyllrb.com/) + `github-pages`. Ziel ist ein schnelles, SEO-optimiertes Setup mit klaren Collections für Leistungen, Bezirke und Ratgeber.
 
 ## Lokale Entwicklung
 

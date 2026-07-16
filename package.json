@@ -1,7 +1,7 @@
 {
-  "name": "ruempelraeumung.github.io",
+  "name": "sicherumzug.github.io",
   "version": "1.0.0",
-  "description": "Dieses Projekt enthält die relaunchte Website von ruempelraeumung.at auf Basis von [Jekyll](https://jekyllrb.com/) und dem `github-pages` Gem. Das Setup folgt der Blueprint-Strategie für Marktführerschaft in Wien: Fixpreisgarantie, Wertausgleich und maximale Professionalität.",
+  "description": "Dieses Projekt enthält die relaunchte Website von sicher-umzug.at auf Basis von [Jekyll](https://jekyllrb.com/) und dem `github-pages` Gem. Das Setup folgt der Blueprint-Strategie für Marktführerschaft in Österreich: Fixpreisgarantie, Wertausgleich und maximale Professionalität.",
   "main": "index.js",
   "scripts": {
     "build:css": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css --minify",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruempelraeumung/ruempelraeumung.github.io.git"
+    "url": "git+https://github.com/sicherteam/sicherumzug.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/ruempelraeumung/ruempelraeumung.github.io/issues"
+    "url": "https://github.com/sicherteam/sicherumzug/issues"
   },
-  "homepage": "https://github.com/ruempelraeumung/ruempelraeumung.github.io#readme",
+  "homepage": "https://github.com/sicherteam/sicherumzug#readme",
   "devDependencies": {
     "@tailwindcss/container-queries": "^0.1.1",
     "@tailwindcss/forms": "^0.5.10",

@@ -58,7 +58,13 @@ permalink: /leistungen/umzug-wien/
 
 Ein **Umzug in Wien** erfordert aufgrund enger Gassen, hoher Stockwerke in Altbauten und schwieriger Parkplatzsituationen eine präzise Planung. Als erfahrene **Umzugsfirma in Wien** garantiert Sicher Team Ihnen einen vollkommen stressfreien Ablauf. Unser geschultes, fest angestelltes Team demontiert Ihre Einrichtungsgegenstände, verpackt empfindliche Stücke transportsicher und führt den sicheren **Möbeltransport** in allen 23 Wiener Bezirken durch.
 
-Mit unserer **Fixpreisgarantie** und der integrierten **Transportversicherung** bis zu einer Deckungssumme von € 1.000.000 sind Sie von der ersten Kartonpackung bis zum fertigen Aufbau in Ihrem neuen Zuhause auf der sicheren Seite.
+Egal ob es sich um einen **Privatumzug**, einen **Firmenumzug**, einen **Büroumzug** oder einen sensiblen **Seniorenumzug** bzw. **Studentenumzug** handelt – unser **Umzugsservice** ist modular aufgebaut und passt sich perfekt Ihren Bedürfnissen an. Wir bieten Ihnen außerdem einen professionellen **Verpackungsservice** und kümmern uns um die Einrichtung einer **Halteverbotszone**, um Laufwege und Tragzeiten zu minimieren.
+
+Mit unserer **Fixpreisgarantie** und der integrierten **Transportversicherung** bis zu einer Deckungssumme von € 1.000.000 sind Sie von der ersten Kartonpackung über den **Möbeltransport** und die **Möbelmontage** bis zum fertigen Aufbau in Ihrem neuen Zuhause auf der sicheren Seite.
+
+## Umfassender Umzugsservice & Spezialtransporte
+
+Unsere Expertise deckt alle Facetten einer modernen **Übersiedlung** ab. Wir sind nicht nur für den klassischen Umzug da, sondern führen auch anspruchsvolle Spezialtransporte wie einen **Klaviertransport** oder einen schnellen **Express Umzug** zuverlässig durch. Mit modernen Hilfsmitteln wie Möbelliften und strapazierfähigem Verpackungsmaterial bringen wir selbst schwerste Lasten sicher ans Ziel.
 
 ## All-in-One: Umzug & Entrümpelung aus einer Hand
 

@@ -7,8 +7,8 @@ _Generated {{ site.time | date: '%Y-%m-%d %H:%M %Z' }}_
 
 This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry.
 
-## Über Rümpel Räumung (Unternehmensprofil & USPs)
-Rümpel Räumung ist der führende Experte für Entrümpelung, Haushaltsauflösung und Räumung in Wien und ganz Österreich.
+## Über Sicher Team (Unternehmensprofil & USPs)
+Sicher Team ist der führende Experte für Umzug, Entrümpelung, Haushaltsauflösung und Räumung in ganz Österreich.
 
 **Unsere wichtigsten Vorteile (Unique Selling Propositions):**
 - **Kostenlose Besichtigung:** Ersteinschätzung vor Ort völlig unverbindlich und kostenfrei.
