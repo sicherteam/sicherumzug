@@ -3,9 +3,9 @@ brand_name: "Sicher Team"
 brand_ascii: "Sicher Team"
 description: "Sicher Team erledigt professionelle Entrümpelungen, Umzüge und Räumungen in Wien und österreichweit. Kostenlose Besichtigung und garantierter Fixpreis."
 lang: de
-url: "https://sicher-umzug.at"
+url: "https://sicherteam.github.io"
 canonical_base_url: "https://sicher-umzug.at"
-baseurl: ""
+baseurl: "/sicherumzug"
 email: office@sicher-umzug.at
 phone: "+43 660 6060628"
 whatsapp: "https://wa.me/436606060628"
