@@ -2,14 +2,14 @@
   description: Professioneller Privatumzug & Büroumzug in ganz Österreich. Sicherer Transport mit All-Risk-Transportversicherung, geschultem Personal und zum garantierten Fixpreis.
   url: /leistungen/umzug-oesterreich/
   icon: local_shipping
-- title: Entrümpelung & Sortierung
-  description: Fixpreis-Entrümpelung in Wien und ganz Österreich inklusive Wertanrechnung, besenreiner Übergabe und umweltgerechter Mülltrennung.
-  url: /leistungen/entruempelung-wien/
-  icon: delete
 - title: Räumung & Wohnungsauflösung
-  description: Komplette Räumung und Haushaltsauflösung von Häusern, Wohnungen und Gewerbeobjekten mit besenreiner Übergabe und Fixpreisgarantie.
+  description: Komplette Räumung, Wohnungsauflösung und Haushaltsauflösung von Häusern, Wohnungen und Gewerbeobjekten mit besenreiner Übergabe und Fixpreisgarantie.
   url: /leistungen/raeumung/
   icon: home
+- title: Entrümpelung & Entsorgung
+  description: Fixpreis-Entrümpelung mit zertifizierter Entsorgung inklusive Wertanrechnung, besenreiner Übergabe und umweltgerechter Mülltrennung.
+  url: /leistungen/entruempelung-wien/
+  icon: delete
 - title: Kellerräumung
   description: Wir schaffen Platz in Keller, Garage oder Hobbyraum und entsorgen fachgerecht.
   url: /leistungen/kellerraeumung/

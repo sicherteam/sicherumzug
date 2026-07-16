@@ -1,0 +1,178 @@
+Configuration file: /app/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /app
+       Destination: /app/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    done in 8.387 seconds.
+ Auto-regeneration: enabled for '/app'
+    Server address: http://0.0.0.0:4000/sicherumzug/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2026-07-16 19:19:39
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.259824091 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:19:47
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.023446509 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:19:55
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.064087187 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:20:06
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.246620958 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:20:14
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.213194597 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:20:22
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.238799579 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:20:31
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.285710942 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:20:39
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.404684218 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:20:47
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.87814008 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:20:56
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.553960948 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:21:05
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.095441599 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:21:13
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.214575245 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:21:22
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.184959826 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:21:30
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.103930192 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:21:38
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.199504255 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:21:46
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.114202875 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:21:55
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.916545305 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:22:03
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.14276436 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:22:13
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.187415074 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:22:21
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.272437871 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:22:30
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.913979341 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:22:38
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.143691692 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:22:46
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.199541663 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:22:54
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.086921162 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:23:02
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.061073629 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:23:10
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.098964866 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:23:19
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.052558752 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 19:23:27
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts

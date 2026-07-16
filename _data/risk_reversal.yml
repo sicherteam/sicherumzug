@@ -1,6 +1,6 @@
 - id: no_drive_cost
   label: Keine Anfahrtskosten
-  detail: Wien und Umland pauschal im Fixpreis kalkuliert.
+  detail: Ganz Österreich pauschal im garantierten Fixpreis kalkuliert.
   icon: local_shipping
   active: true
   priority: 1
@@ -19,9 +19,9 @@
   active: true
   priority: 3
 
-- id: no_floor_fee
-  label: Keine Stockwerkkosten
-  detail: Altbau, Lift oder 4. Stock sind im Vorfeld eingepreist.
-  icon: stairs
+- id: licensed_staff
+  label: Transportversicherung inklusive
+  detail: All-Risk-Transportversicherung und geschultes Personal für schadensfreien Umzug.
+  icon: security
   active: true
   priority: 4
