@@ -1,14 +1,14 @@
 services:
   - label: Kernleistungen
     items:
-      - title: Entrümpelung Wien
-        url: /leistungen/entruempelung-wien/
-      - title: Räumung Wien
+      - title: Umzug Österreich
+        url: /leistungen/umzug-oesterreich/
+      - title: Umzug Wien
+        url: /leistungen/umzug-wien/
+      - title: Räumung
         url: /leistungen/raeumung/
-      - title: Wohnungsauflösung Wien
-        url: /leistungen/haushaltsaufloesung/
-      - title: Wohnungsauflösung Wien
-        url: /leistungen/wohnungsaufloesung/
+      - title: Entrümpelung
+        url: /leistungen/entruempelung-wien/
   - label: Gewerblich
     items:
       - title: Firmenauflösung
@@ -36,14 +36,20 @@ services:
       - title: Alle Leistungen
         url: /leistungen/
 districts:
-  - title: 1010 Innere Stadt
-    url: /leistungen/haushaltsaufloesung-1010-wien/
-  - title: 1100 Favoriten
-    url: /leistungen/haushaltsaufloesung-1100-wien/
-  - title: 1190 Döbling
-    url: /leistungen/haushaltsaufloesung-1190-wien/
-  - title: 1220 Donaustadt
-    url: /leistungen/haushaltsaufloesung-1220-wien/
+  - title: Wien
+    url: /bundesland/wien/
+  - title: Niederösterreich
+    url: /bundesland/niederoesterreich/
+  - title: Burgenland
+    url: /bundesland/burgenland/
+  - title: Steiermark
+    url: /bundesland/steiermark/
+  - title: Kärnten
+    url: /bundesland/kaernten/
+  - title: Oberösterreich
+    url: /bundesland/oberoesterreich/
+  - title: Salzburg
+    url: /bundesland/salzburg/
 links:
   - label: Ablauf
     url: /ablauf/

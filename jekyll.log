@@ -1,0 +1,149 @@
+Configuration file: /app/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /app
+       Destination: /app/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    done in 8.29 seconds.
+ Auto-regeneration: enabled for '/app'
+    Server address: http://0.0.0.0:4000/sicherumzug/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2026-07-16 18:45:36
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.477832392 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:45:44
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.676465 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:45:53
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.10052241 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:46:01
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.233271616 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:46:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.661596301 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:46:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.08699133 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:46:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.003645597 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:46:36
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.652879832 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:46:44
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+[2026-07-16 18:46:50] ERROR '/assets/fonts/material-symbols-outlined.woff2' not found.
+                    ...done in 8.808273841 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:46:53
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.136759547 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:01
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.971311325 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:09
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.178966856 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:18
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.295710851 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:26
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.049287476 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:34
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.925403562 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:42
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.90877834 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:50
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.91564588 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:47:58
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.96766605 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:48:06
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.445251132 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:48:15
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.638457233 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:48:24
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 8.118741727 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:48:32
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.657320024 seconds.
+
+      Regenerating: 1 file(s) changed at 2026-07-16 18:48:42
+                    jekyll.log
+       Jekyll Feed: Generating feed for guides
+       Jekyll Feed: Generating feed for posts
