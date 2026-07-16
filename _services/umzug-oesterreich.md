@@ -58,7 +58,9 @@ permalink: /leistungen/umzug-oesterreich/
 
 Als führende **Umzugsfirma in Österreich** bietet Sicher Team Ihnen einen sorgenfreien Komplettservice für Ihren Wohnungswechsel. Von der sorgfältigen Planung über den sicheren **Möbeltransport** bis hin zur fachgerechten Montage am Zielort – unser geschultes und fest angestelltes Team betreut Ihren **Privatumzug** oder **Firmenumzug** absolut verlässlich und diskret.
 
-Wir kombinieren modernste Transportlogistik mit umfassenden Sicherheitsgarantien (Vollkasko- und Transportversicherung bis € 1.000.000), damit Sie entspannt in Ihr neues Zuhause oder neue Betriebsräumlichkeiten starten können.
+Ob es sich um einen **Privatumzug**, einen **Firmenumzug**, einen **Büroumzug**, einen sensiblen **Seniorenumzug** oder einen günstigen **Studentenumzug** handelt – unser **Umzugsservice** deckt jeden Wunsch ab. Wir kümmern uns um die gesamte **Übersiedlung** inklusive **Verpackungsservice**, sicheren **Möbeltransport**, fachgerechte **Möbelmontage**, **Klaviertransport**, Einrichtung einer behördlichen **Halteverbotszone** und auf Wunsch einen schnellen **Express Umzug**.
+
+Wir kombinieren modernste Transportlogistik mit umfassenden Sicherheitsgarantien (Vollkasko- und Transportversicherung bis € 1.000.000), damit Sie entspannt in Ihr neues Zuhause oder neue Betriebsräumlichkeiten in Wien, Niederösterreich, dem Burgenland oder ganz Österreich starten können.
 
 ## All-in-One: Umzug & Entrümpelung aus einer Hand
 
