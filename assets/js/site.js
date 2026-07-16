@@ -32,7 +32,16 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var answerId = btn.getAttribute('data-faq-toggle');
       var answer = document.getElementById(answerId);
       if (!answer) return;
-      answer.classList.toggle('hidden');
+      var isHidden = answer.classList.toggle('hidden');
+      btn.setAttribute('aria-expanded', !isHidden);
+      var icon = btn.querySelector('.material-symbols-outlined');
+      if (icon) {
+        if (!isHidden) {
+          icon.classList.add('rotate-180');
+        } else {
+          icon.classList.remove('rotate-180');
+        }
+      }
     });
   });
 
@@ -56,9 +65,11 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       if (isExpanded) {
         toggleDistrictsBtn.textContent = 'Mehr anzeigen ↓';
         toggleDistrictsBtn.setAttribute('data-expanded', 'false');
+        toggleDistrictsBtn.setAttribute('aria-expanded', 'false');
       } else {
         toggleDistrictsBtn.textContent = 'Weniger anzeigen ↑';
         toggleDistrictsBtn.setAttribute('data-expanded', 'true');
+        toggleDistrictsBtn.setAttribute('aria-expanded', 'true');
       }
     });
   }

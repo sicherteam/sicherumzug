@@ -42,7 +42,7 @@
           </li>
           {% endfor %}
           {% if all_districts.size > 5 %}
-          <li><button type="button" id="toggle-districts" class="text-primary-accent hover:text-white font-bold text-left w-full py-1" data-expanded="false">Mehr anzeigen ↓</button></li>
+          <li><button type="button" id="toggle-districts" class="text-primary-accent hover:text-white font-bold text-left w-full py-1 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded" data-expanded="false" aria-expanded="false" aria-controls="districts-list">Mehr anzeigen ↓</button></li>
           {% endif %}
           <li><a class="text-primary-accent hover:text-white font-bold block pt-2 border-t border-white/5" href="{{ '/bezirke/' | relative_url }}">Alle Bezirke ansehen</a></li>
         </ul>

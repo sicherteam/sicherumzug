@@ -332,11 +332,13 @@ layout: default
         <div class="mt-8 space-y-4">
           {% for faq in faq_items %}
           <div class="rounded-2xl border border-gray-200 bg-background-light p-4 shadow-sm hover:shadow-md transition-shadow">
-            <button class="flex w-full items-center justify-between text-left text-base font-semibold text-primary" data-faq-toggle="faq-{{ forloop.index }}">
+            <button class="flex w-full items-center justify-between text-left text-base font-semibold text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded-lg" data-faq-toggle="faq-{{ forloop.index }}" aria-expanded="false" aria-controls="faq-{{ forloop.index }}" id="faq-btn-{{ forloop.index }}">
               {{ faq.question }}
-              <span class="material-symbols-outlined">expand_more</span>
+              <span class="material-symbols-outlined transition-transform duration-200">expand_more</span>
             </button>
-            <p id="faq-{{ forloop.index }}" class="mt-3 hidden text-sm text-text-light">{{ faq.answer }}</p>
+            <div id="faq-{{ forloop.index }}" role="region" aria-labelledby="faq-btn-{{ forloop.index }}" class="hidden">
+              <p class="mt-3 text-sm text-text-light">{{ faq.answer }}</p>
+            </div>
           </div>
           {% endfor %}
         </div>
