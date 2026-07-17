@@ -26,33 +26,12 @@
           <li><a class="text-primary-accent hover:text-white font-bold block pt-2 border-t border-white/5" href="{{ '/leistungen/' | relative_url }}">Alle Leistungen</a></li>
         </ul>
       </div>
-      <div>
-        <h3 class="text-base font-bold text-white uppercase tracking-wider">Top Bezirke</h3>
-        <ul class="mt-4 space-y-2.5 text-sm" id="districts-list">
-          {% assign all_districts = site.districts | where: 'state', 'wien' | sort: 'title' %}
-          {% for district in all_districts %}
-          <li class="district-item {% if forloop.index > 5 %}hidden{% endif %}">
-            <a class="text-white/70 hover:text-primary-accent transition-colors block py-0.5" href="{{ district.url | relative_url }}">
-              {% if district.footer_title %}
-                {{ district.footer_title }}
-              {% else %}
-                {{ district.title | replace: 'Haushaltsauflösung ', '' | replace: ' Wien', '' }}
-              {% endif %}
-            </a>
-          </li>
-          {% endfor %}
-          {% if all_districts.size > 5 %}
-          <li><button type="button" id="toggle-districts" class="text-primary-accent hover:text-white font-bold text-left w-full py-1 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded" data-expanded="false" aria-expanded="false" aria-controls="districts-list">Mehr anzeigen ↓</button></li>
-          {% endif %}
-          <li><a class="text-primary-accent hover:text-white font-bold block pt-2 border-t border-white/5" href="{{ '/bezirke/' | relative_url }}">Alle Bezirke ansehen</a></li>
-        </ul>
-      </div>
       {% if states.size > 0 %}
       <div>
         <h3 class="text-base font-bold text-white uppercase tracking-wider">Bundesländer</h3>
         <ul class="mt-4 space-y-2.5 text-sm">
           {% for state in states %}
-          <li><a class="text-white/70 hover:text-primary-accent transition-colors block py-0.5" href="{{ state.url | relative_url }}">Entrümpelung in {{ state.title }}</a></li>
+          <li><a class="text-white/70 hover:text-primary-accent transition-colors block py-0.5" href="{{ state.url | relative_url }}">Umzug, Räumung in {{ state.title }}</a></li>
           {% endfor %}
           <li><a class="text-primary-accent hover:text-white font-bold block pt-2 border-t border-white/5" href="{{ '/bezirke/' | relative_url }}">Alle Standorte</a></li>
         </ul>

@@ -13,8 +13,8 @@ categories:
     title: "Private Räumungen"
     description: "Für Haushalte und Mieter, die Platz schaffen, umziehen oder eine Immobilie übergeben müssen."
   - key: "Gewerblich"
-    title: "Gewerbliche Räumungen"
-    description: "Effiziente und DSGVO-konforme Lösungen für Unternehmen jeder Größe – vom Büro bis zur Produktionshalle."
+    title: "Gewerbliche Umzüge & Räumungen"
+    description: "Gewerbeumzug, Firmenübersiedlung und Office Relocations als unsere B2B-Kernleistungen, ergänzt durch DSGVO-konforme Räumungslösungen für Unternehmen."
   - key: "Spezialfall"
     title: "Spezialdienste"
     description: "Diskrete Unterstützung für besondere Situationen wie Verlassenschaften, Messie-Räumungen oder Express-Sperrmüll."
@@ -59,7 +59,12 @@ Mehr Stimmen – inklusive Projektfotos und Wertanrechnung-Beispielen – finden
 - [Garagenräumung Wien](/leistungen/garagenraeumung/) für volle Garagen, Werkbänke und Lagerecken
 - [Zimmer Räumung Wien](/leistungen/zimmer-raeumung/) für Studentenwohnungen und WGs
 - [Messie-Entrümpelung Wien](/leistungen/messie-entruempelung/) inklusive Hygieneplan
-- [Firmen- und Büroauflösung](/leistungen/firmenaufloesung/) mit DSGVO-konformer Dokumentenvernichtung
+
+### Gewerbliche Umzüge & Leistungen
+
+- **Gewerbeumzug & Firmenübersiedlung:** Unser B2B-Premium-Service für einen reibungslosen Standortwechsel. Wir planen Logistik, Transport und Aufbau für Ihr Unternehmen.
+- **Büroumzüge (Office Relocations):** Effiziente Arbeitsplatzverlegung mit minimaler Ausfallzeit.
+- [Firmen- und Büroauflösung](/leistungen/firmenaufloesung/): Ergänzende Räumung inklusive DSGVO-konformer Dokumentenvernichtung und besenreiner Übergabe alter Gewerbeflächen.
 
 ### Guides zu Anbieterwahl & Wohnung
 

@@ -10,23 +10,23 @@ include_form: true
 form_anchor_id: "ueber-uns-form"
 permalink: /ueber-uns/
 ---
-Sicher Team ist ein lokales Unternehmen aus Wien, das Entrümpelungen auf die **Trifecta des Vertrauens** stellt: Fixpreis, Wertanrechnung und absolute Professionalität.
+Sicher Team ist ein österreichweites Unternehmen, das Umzüge und Entrümpelungen auf die **Trifecta des Vertrauens** stellt: Fixpreis, Wertanrechnung und absolute Professionalität. Mit einem starken Fokus auf reibungslose Umzüge und Übersiedlungen bieten wir zudem professionelle Räumungen als ergänzenden Service an.
 
 ## Unsere Werte
 
-1. **Garantierter Fixpreis** – volle Kostensicherheit ohne Überraschungen.
-2. **Maximaler Wertanrechnung** – Antiquitäten, Möbel oder Technik werden fair angekauft und gegengerechnet.
+1. **Garantierter Fixpreis** – volle Kostensicherheit für Ihren Umzug oder Ihre Räumung ohne Überraschungen.
+2. **Maximale Wertanrechnung** – Antiquitäten, Möbel oder Technik werden bei einer Entrümpelung fair angekauft und gegengerechnet.
 3. **Professionalität** – uniformierte Teams, versicherte Transporte und besenreine Hinterlassung mit Dokumentation.
 
 ## Unser Team
 
-Wir arbeiten ausschließlich mit eigenen, fest angestellten Profis. Sie erkennen uns an:
+Wir arbeiten mit eigenen, erfahrenen Profis in ganz Österreich zusammen. Sie erkennen uns an:
 
 - gebrandeten Fahrzeugen & sauberer Arbeitskleidung
 - geschulten Teamleitungen für Privat- und Gewerbeobjekte
 - freundlicher Kommunikation auf Deutsch & Englisch
 
-Unsere Räumungsexperten in Wien und Umgebung kennen jede Bezirksbesonderheit und stehen vom ersten Anruf bis zur Schlüsselübergabe an Ihrer Seite.
+Unsere Umzugs- und Räumungsexperten in ganz Österreich kennen die lokalen Gegebenheiten und stehen vom ersten Anruf bis zur Schlüsselübergabe an Ihrer Seite.
 
 ## Zertifizierungen & Sicherheit
 
