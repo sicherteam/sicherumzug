@@ -73,4 +73,30 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       }
     });
   }
+
+  var photosInput = document.getElementById('form-photos');
+  var previewContainer = document.getElementById('file-preview-container');
+  if (photosInput && previewContainer) {
+    photosInput.addEventListener('change', function() {
+      previewContainer.innerHTML = '';
+      if (!photosInput.files || photosInput.files.length === 0) return;
+      Array.prototype.forEach.call(photosInput.files, function(file) {
+        if (!file.type.startsWith('image/')) return;
+        var reader = new FileReader();
+        reader.onload = function(e) {
+          var wrapper = document.createElement('div');
+          wrapper.className = 'relative aspect-square rounded-xl overflow-hidden border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:scale-105';
+
+          var img = document.createElement('img');
+          img.src = e.target.result;
+          img.className = 'h-full w-full object-cover';
+          img.alt = file.name;
+
+          wrapper.appendChild(img);
+          previewContainer.appendChild(wrapper);
+        };
+        reader.readAsDataURL(file);
+      });
+    });
+  }
 });
