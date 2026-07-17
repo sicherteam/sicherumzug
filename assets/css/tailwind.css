@@ -14,7 +14,7 @@ body {
 
 [data-hero-banner] {
   --hero-image: var(--hero-desktop);
-  background-image: linear-gradient(rgba(10, 35, 66, 0.35), rgba(10, 35, 66, 0.75)), var(--hero-image);
+  background-image: linear-gradient(rgba(10, 35, 66, 0.15), rgba(10, 35, 66, 0.45)), var(--hero-image);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
