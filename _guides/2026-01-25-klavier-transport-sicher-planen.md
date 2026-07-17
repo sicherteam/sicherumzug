@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Klavier-Transport sicher planen: Warum Profis unverzichtbar sind"
 date: 2026-01-25 14:00:00 +0100
 categories: umzug klaviertransport

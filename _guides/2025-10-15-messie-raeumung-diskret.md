@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Professionelle Messie-Räumung: Ablauf und diskrete Hilfe"
 date: 2025-10-15 12:00:00 +0200
 categories: raeumung messie

@@ -1,27 +1,27 @@
-- id: no_drive_cost
-  label: Keine Anfahrtskosten
-  detail: Ganz Österreich pauschal im garantierten Fixpreis kalkuliert.
+- id: safe_transport
+  label: Sicherer Möbeltransport
+  detail: Wir garantieren einen unversehrten Transport Ihrer Einrichtung dank modernem Equipment.
   icon: local_shipping
   active: true
   priority: 1
 
-- id: fixed_price
-  label: Schriftlicher Fixpreis
-  detail: Vor Start liegt ein verbindliches Angebot ohne Nachverhandlung vor.
-  icon: verified
+- id: professional_assembly
+  label: Fachgerechte Montage
+  detail: Ab- und Aufbau von Schränken, Betten und Küchen durch unser geschultes Personal.
+  icon: build
   active: true
   priority: 2
 
-- id: no_weekend_fee
-  label: Kein Wochenendzuschlag
-  detail: Samstag und Sonntag ohne automatische Mehrkosten.
-  icon: event_available
+- id: fixed_price
+  label: 100% Fixpreisgarantie
+  detail: Schriftliches Festpreisangebot ohne versteckte Kosten.
+  icon: verified
   active: true
   priority: 3
 
 - id: licensed_staff
-  label: Transportversicherung inklusive
-  detail: All-Risk-Transportversicherung und geschultes Personal für schadensfreien Umzug.
+  label: All-Risk-Versicherung
+  detail: Inklusive umfassender Transportversicherung und Haftpflichtdeckung bis € 1.000.000.
   icon: security
   active: true
   priority: 4

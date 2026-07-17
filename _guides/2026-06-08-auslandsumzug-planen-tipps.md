@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Auslandsumzug planen: Was Sie bei einem Umzug über die Grenze beachten müssen"
 date: 2026-06-08 09:30:00 +0200
 categories: umzug auslandsumzug

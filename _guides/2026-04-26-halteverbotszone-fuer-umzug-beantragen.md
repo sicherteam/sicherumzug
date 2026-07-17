@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Halteverbotszone für den Umzug einrichten: Vorschriften in Österreich"
 date: 2026-04-26 09:00:00 +0200
 categories: umzug halteverbot

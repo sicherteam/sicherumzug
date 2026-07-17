@@ -93,6 +93,22 @@ layout: default
           {% endfor %}
         </ul>
         {% endif %}
+
+        <div class="mt-10 pt-8 border-t border-gray-200">
+          <p class="text-xs font-bold uppercase tracking-widest text-primary-accent mb-4">Ihre Vorteile</p>
+          <ul class="grid gap-6 sm:grid-cols-2">
+            {% for usp in site.data.why_us %}
+            <li class="flex items-start gap-3">
+              <span class="text-primary-accent material-symbols-outlined text-2xl shrink-0 mt-0.5">task_alt</span>
+              <div>
+                <strong class="block text-primary font-bold">{{ usp.title }}</strong>
+                <span class="text-sm text-text-light">{{ usp.description }}</span>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
         {% if brand_intro.ctas %}
         <div class="mt-8 flex flex-wrap gap-4">
           {% for cta in brand_intro.ctas %}
@@ -115,19 +131,23 @@ layout: default
     <h2 class="text-3xl md:text-4xl font-extrabold text-primary mt-2 tracking-tight">So einfach funktioniert's</h2>
     <p class="mt-3 text-lg text-text-light max-w-2xl mx-auto">{{ page.process_intro }}</p>
 
-    <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto">
-      {% for step in site.data.steps %}
-      <div class="relative group rounded-3xl bg-white p-8 text-left shadow-sm border border-gray-100 hover:shadow-xl hover:border-primary/20 hover:-translate-y-1 transition-all duration-300">
-        <div class="flex items-center justify-between">
-          <div class="rounded-2xl bg-primary/10 p-4 text-primary group-hover:bg-primary group-hover:text-white transition-colors duration-300">
-            <span class="material-symbols-outlined text-3xl">{{ step.icon }}</span>
+    <div class="mt-12 max-w-4xl mx-auto text-left relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-gray-300 before:to-transparent">
+      <ol class="relative z-10 space-y-12">
+        {% for step in site.data.steps %}
+        <li class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
+          <div class="flex items-center justify-center w-10 h-10 rounded-full border-4 border-white bg-primary text-white shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
+            <span class="text-sm font-bold">{{ step.order }}</span>
           </div>
-          <span class="text-3xl font-black text-gray-200 group-hover:text-primary-accent/30 transition-colors duration-300">0{{ step.order }}</span>
-        </div>
-        <h3 class="mt-6 text-xl font-bold text-primary">{{ step.title }}</h3>
-        <p class="mt-3 text-sm text-text-light leading-relaxed">{{ step.description }}</p>
-      </div>
-      {% endfor %}
+          <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] rounded-2xl bg-white p-6 shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+            <div class="flex items-center gap-3 mb-2">
+              <span class="material-symbols-outlined text-primary-accent">{{ step.icon }}</span>
+              <h3 class="text-lg font-bold text-primary">{{ step.title }}</h3>
+            </div>
+            <p class="text-sm text-text-light leading-relaxed">{{ step.description }}</p>
+          </div>
+        </li>
+        {% endfor %}
+      </ol>
     </div>
   </div>
 </section>
@@ -146,7 +166,13 @@ layout: default
       </div>
     </div>
     <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
-      {% for card in site.data.service_cards %}
+      {% assign moving_services = "" | split: "," %}
+      {% for item in site.data.service_cards %}
+        {% if item.title contains 'Umzug' or item.title contains 'Übersiedlung' or item.title contains 'Transport' %}
+          {% assign moving_services = moving_services | push: item %}
+        {% endif %}
+      {% endfor %}
+      {% for card in moving_services %}
       <a href="{{ card.url | relative_url }}" class="group flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-background-light p-8 text-left shadow-sm hover:shadow-xl hover:border-primary/20 hover:-translate-y-1.5 transition-all duration-300">
         <div>
           <div class="inline-flex rounded-2xl bg-white p-4 shadow-sm text-primary group-hover:bg-primary group-hover:text-white transition-colors duration-300">
@@ -162,26 +188,29 @@ layout: default
       </a>
       {% endfor %}
     </div>
-  </div>
-</section>
 
-<section class="bg-background-light py-20 defer-section border-t border-b border-gray-100">
-  <div class="container mx-auto px-4 md:px-6">
-    <div class="text-center max-w-2xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Ihre Vorteile</p>
-      <h2 class="mt-2 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">Warum Sie uns wählen sollten</h2>
-      <p class="mt-3 text-lg text-text-light leading-relaxed">{{ page.why_intro }}</p>
-    </div>
-    <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto">
-      {% for usp in site.data.why_us %}
-      <div class="rounded-3xl bg-white p-8 shadow-sm border border-gray-100 hover:shadow-md transition-all duration-200 text-left">
-        <div class="inline-flex rounded-2xl bg-primary/10 p-3 text-primary">
-          <span class="material-symbols-outlined text-2xl">{{ usp.icon }}</span>
-        </div>
-        <h3 class="mt-5 text-lg font-bold text-primary">{{ usp.title }}</h3>
-        <p class="mt-2.5 text-sm text-text-light leading-relaxed">{{ usp.description }}</p>
+    <div class="mt-20 pt-16 border-t border-gray-100">
+      <div class="text-center max-w-3xl mx-auto mb-10">
+        <h3 class="text-2xl md:text-3xl font-extrabold text-primary tracking-tight">Weitere Services / Zusatzleistungen</h3>
+        <p class="mt-3 text-base text-text-light leading-relaxed">{{ page.additional_services_intro }}</p>
       </div>
-      {% endfor %}
+
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto">
+        {% assign clearing_services = "" | split: "," %}
+        {% for item in site.data.service_cards %}
+          {% if item.title contains 'Räumung' or item.title contains 'Entrümpelung' or item.title contains 'Auflösung' or item.title contains 'Verlassenschaften' %}
+            {% assign clearing_services = clearing_services | push: item %}
+          {% endif %}
+        {% endfor %}
+        {% for card in clearing_services %}
+        <a href="{{ card.url | relative_url }}" class="group flex flex-col justify-between rounded-2xl border border-gray-100 bg-white p-6 text-left shadow-sm hover:shadow-md transition-all duration-300">
+          <div class="flex items-center gap-3">
+            <span class="material-symbols-outlined text-primary-accent text-2xl">{{ card.icon }}</span>
+            <h4 class="text-base font-bold text-primary leading-tight group-hover:text-primary-light transition-colors duration-200">{{ card.title }}</h4>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </section>

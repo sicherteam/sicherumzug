@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Firmenumzug effizient gestalten: Ausfallzeiten minimieren"
 date: 2026-02-18 08:00:00 +0100
 categories: umzug firmenumzug

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Ausmisten vor dem Umzug: So trennen Sie sich von unnötigem Ballast"
 date: 2026-05-10 11:00:00 +0200
 categories: umzug entrümpelung

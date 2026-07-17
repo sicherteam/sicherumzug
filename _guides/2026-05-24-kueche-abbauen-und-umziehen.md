@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Küche abbauen und umziehen: Tipps für den kniffligen Küchenumzug"
 date: 2026-05-24 15:30:00 +0200
 categories: umzug kueche
