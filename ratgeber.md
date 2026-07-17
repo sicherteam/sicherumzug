@@ -1,14 +1,14 @@
 ---
 layout: guide-index
 title: "Ratgeber & Ressourcen"
-seo_title: "Entrümpelung Ratgeber Wien | Leitfäden zu Kosten, MA 48, Nachlass"
-description: "Aktuelle Leitfäden zu Nachlass, MA 48, Kosten und Wertanrechnung in Wien. Praxisnah, lokal und mit klaren nächsten Schritten."
+seo_title: "Umzug & Entrümpelung Ratgeber für ganz Österreich | Leitfäden"
+description: "Aktuelle Leitfäden zu Umzug, Nachlass, Kosten und Wertanrechnung in ganz Österreich. Praxisnah, verlässlich und mit klaren nächsten Schritten."
 kicker: "Ratgeber"
 permalink: /ratgeber/
 ---
 ## Noch Fragen?
 
-Fehlt ein Thema rund um Räumung, Verlassenschaft oder MA-48-Ablauf? Schreiben Sie uns. Wir erweitern den Ratgeber laufend mit neuen, lokal geprüften Inhalten.
+Fehlt ein Thema rund um Umzug, Räumung, Verlassenschaft oder den Ablauf in Ihrem Bundesland? Schreiben Sie uns. Wir erweitern den Ratgeber laufend mit neuen Inhalten für ganz Österreich.
 
 ### Bereich A: Recht, Nachlass und Finanzierung
 

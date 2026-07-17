@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Transparente Preise & Wertanrechnung"
-seo_title: "Entrümpelung Preise Wien | Kosten & Wertanrechnung"
-description: "Transparente Entrümpelungspreise mit Besichtigung, Fixpreisgarantie und Wertanrechnung. Beispiele für Gratis-Räumungen, Zuschläge und MA 48-Alternativen."
+title: "Transparente Preise für Umzug & Räumung"
+seo_title: "Umzug & Entrümpelung Preise Österreich | Kosten & Wertanrechnung"
+description: "Transparente Preise für Umzug und Übersiedlung mit Fixpreisgarantie. Erfahren Sie mehr über unsere ergänzende Räumung inklusive Wertanrechnung."
 description_link_label: "Kostenloses Angebot anfordern"
 description_link_href: "#preise-form"
 kicker: "Preise"
@@ -10,20 +10,20 @@ include_form: true
 form_anchor_id: "preise-form"
 permalink: /preise/
 ---
-Bei Sicher Team stehen Fairness und Transparenz an erster Stelle. Statt unklarer Stundensätze erhalten Sie nach der kostenlosen Besichtigung ein **schriftliches Angebot mit garantiertem Fixpreis**.
+Bei Sicher Team stehen Fairness und Transparenz an erster Stelle. Statt unklarer Stundensätze erhalten Sie nach einer kostenlosen Besichtigung ein **schriftliches Angebot mit garantiertem Fixpreis** – egal, ob es um einen österreichweiten Umzug oder eine ergänzende Räumung geht.
 
 ## So kalkulieren wir Ihren Fixpreis
 
-1. **Gratis Erstbesichtigung** - wir bewerten Umfang, Zugänglichkeit und Besonderheiten.
-2. **Wertanrechnung** - verwertbare Gegenstände werden fair angekauft und direkt gegengerechnet.
-3. **Fixpreis Angebot** - der Endbetrag enthält alle Leistungen und Rabatte.
+1. **Gratis Erstbesichtigung** - wir bewerten das Umzugsvolumen, die Zugänglichkeit und Besonderheiten (z.B. Packservice, Montage).
+2. **Kalkulation des Umzugs** - Sie erhalten einen Festpreis für den Transport, die Helfer und die Versicherung.
+3. **Ergänzende Räumung & Wertanrechnung** - bleiben nach dem Umzug Möbel oder Hausrat zurück, kümmern wir uns um die Räumung. Verwertbare Gegenstände werden fair angekauft und direkt von den Gesamtkosten abgezogen.
 
-## Beispiele für Wertanrechnung
+## Beispiele für Umzug mit ergänzender Räumung
 
-- Räumungskosten: 800 € - Wertanrechnung 150 € → **Sie zahlen 650 €**
-- Räumungskosten: 1.200 € - Wertanrechnung 1.500 € → **Sie zahlen 0 € und erhalten 300 € ausbezahlt**
+- Umzugskosten inkl. Transport: 1.500 € - Räumung von Altmöbeln: 500 € - Wertanrechnung für Antiquitäten: 300 € → **Sie zahlen insgesamt 1.700 €**
+- Umzugskosten: 900 € - Räumungskosten: 800 € - Wertanrechnung: 800 € → **Sie zahlen nur den reinen Umzug (900 €), die Räumung ist durch den Wertausgleich kostenlos.**
 
-> Je höher der Wert Ihrer Gegenstände, desto geringer der Rechnungsbetrag. Oft wird die Entrümpelung so deutlich günstiger oder sogar kostenlos.
+> Durch die clevere Kombination aus professionellem Umzug und einer Räumung mit Wertanrechnung aus einer Hand sparen Sie nicht nur Geld, sondern vor allem wertvolle Zeit.
 
 ## Gratis Entrümpelung dank Wertanrechnung?
 

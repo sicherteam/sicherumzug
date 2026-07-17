@@ -14,7 +14,7 @@ E-Mail: [{{ site.email }}](mailto:{{ site.email }})
 
 - Wir sind eine Vermittlungsfirma. Alle Aufträge werden an zertifizierte Unternehmen weitergegeben.
 - Für mehr Informationen kontaktieren Sie uns per Email oder Telefon.
-- Tätigkeitsbeschreibung: Entrümpelung, Umzug
+- Tätigkeitsbeschreibung: Umzug, Räumung, Entrümpelung
 
 ## Haftungsausschluss
 
