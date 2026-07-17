@@ -1,6 +1,12 @@
 services:
   - label: Kernleistungen
     items:
+      - title: Umzug Tirol
+        url: /bundesland/tirol/
+      - title: Entrümpelung Tirol
+        url: /bundesland/tirol/
+      - title: Fernumzug Österreich
+        url: /leistungen/umzug-oesterreich/
       - title: Umzug Österreich
         url: /leistungen/umzug-oesterreich/
       - title: Umzug Wien
@@ -11,8 +17,12 @@ services:
         url: /leistungen/entruempelung-wien/
   - label: Gewerblich
     items:
+      - title: Gewerbe Umzug
+        url: /leistungen/
       - title: Firmenauflösung
         url: /leistungen/firmenaufloesung/
+      - title: Büroumzug
+        url: /leistungen/
       - title: Alle Gewerbe-Leistungen
         url: /leistungen/
   - label: Spezialdienste
@@ -36,6 +46,8 @@ services:
       - title: Alle Leistungen
         url: /leistungen/
 districts:
+  - title: Tirol
+    url: /bundesland/tirol/
   - title: Wien
     url: /bundesland/wien/
   - title: Niederösterreich
@@ -50,6 +62,8 @@ districts:
     url: /bundesland/oberoesterreich/
   - title: Salzburg
     url: /bundesland/salzburg/
+  - title: Vorarlberg
+    url: /bundesland/vorarlberg/
 links:
   - label: Ablauf
     url: /ablauf/
