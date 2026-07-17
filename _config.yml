@@ -1,7 +1,157 @@
-title: Sicher Team - Professioneller Umzug & Übersiedlung in Österreich
-description: Professionelle Umzugsleistungen, Privatumzüge & Firmenübersiedlungen in Österreich. Zuverlässig, sicher und zum fairen Festpreis!
-email: info@sicher-team.at
-url: "https://www.sicher-team.at"
-theme: minima
+title: "Sicher Team | Professioneller Umzug, Räumung & Entrümpelung in Österreich"
+brand_name: "Sicher Team"
+brand_ascii: "Sicher Team"
+description: "Sicher Team ist Ihr staatlich konzessioniertes Umzugsunternehmen für ganz Österreich. Wir erledigen professionelle Umzüge, besenreine Räumungen und zertifizierte Entrümpelungen österreichweit zum garantierten Fixpreis."
+lang: de
+url: "https://sicherteam.github.io"
+canonical_base_url: "https://sicher-umzug.at"
+baseurl: "/sicherumzug"
+email: office@sicher-umzug.at
+phone: "+43 660 6060628"
+whatsapp: "https://wa.me/436606060628"
+address:
+  street: "Grinzinger Str. 1"
+  postal_code: "1190"
+  city: "Wien"
+  country: "AT"
+open_hours:
+  - days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    opens: "08:00"
+    closes: "18:00"
+  - days:
+      - Saturday
+    opens: "09:00"
+    closes: "14:00"
+  - days:
+      - Sunday
+    closed: true
+quote_form_action: "https://formspree.io/f/mqagkeya"
+logo: /logo.svg
+og_image: /assets/images/hero/desktop.webp
+og_image_alt: "Sicher Team im Einsatz"
+images:
+  hero_mobile: /assets/images/hero/mobile.webp
+  hero_desktop: /assets/images/hero/desktop.webp
+  hero_mobile_srcset:
+    - url: /assets/images/hero/mobile-400w.webp
+      descriptor: "400w"
+    - url: /assets/images/hero/mobile-800w.webp
+      descriptor: "800w"
+    - url: /assets/images/hero/mobile.webp
+      descriptor: "1100w"
+  hero_desktop_srcset:
+    - url: /assets/images/hero/desktop-1200w.webp
+      descriptor: "1200w"
+    - url: /assets/images/hero/desktop-1440w.webp
+      descriptor: "1440w"
+    - url: /assets/images/hero/desktop.webp
+      descriptor: "1632w"
+  hero_dimensions:
+    desktop:
+      width: 1632
+      height: 640
+    mobile:
+      width: 1100
+      height: 431
+  whatsapp: /WhatsApp.svg
+collections:
+  services:
+    output: true
+    permalink: /leistungen/:name/
+  districts:
+    output: true
+    permalink: /leistungen/:name/
+  guides:
+    output: true
+    permalink: /ratgeber/:name/
+  states:
+    output: true
+    permalink: /bundesland/:name/
+permalink: /:collection/:title/
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: service
+  - scope:
+      path: ""
+      type: "districts"
+    values:
+      layout: service
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: guide
+      last_reviewed: 2026-02-09
+      intent_primary: informational
+      intent_secondary: local
+  - scope:
+      path: ""
+      type: "states"
+    values:
+      layout: state
+  - scope:
+      path: ""
+      type: "districts"
+    values:
+      local_logistics_note: "Wir planen Halteverbotszonen, Zufahrten und Tragewege je nach Objektlage transparent im Fixpreis."
+      micro_case: "Typische Projekte in diesem Gebiet starten mit Foto-Check, Besichtigung und schriftlichem Fixpreis."
+      proof_date: 2026-02-09
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+feed:
+  collections:
+    - guides
+markdown: kramdown
+theme: null
+sass:
+  style: compressed
+future: true
+exclude:
+  - node_modules
+  - vendor
+  - plans
+  - AGENTS.md
+  - analyze_seo.py
+  - .bundle
+include:
+  - _pages
+  - _redirects
+linkedin: ""
+instagram: ""
+local_business:
+  type: HomeAndConstructionBusiness
+  price_range: "€€"
+  geo:
+    latitude: 48.2596
+    longitude: 16.3554
+  service_area:
+    - Wien
+    - Niederösterreich
+    - Burgenland
+    - Steiermark
+    - Kärnten
+    - Oberösterreich
+    - Salzburg
+    - Tirol
+    - Vorarlberg
+social:
+  name: "Sicher Team"
+  links:
+    - https://www.facebook.com/profile.php?id=61582785665791
+    - https://www.instagram.com/sicherteam
