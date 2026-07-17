@@ -5,3 +5,10 @@ url: "https://www.sicher-team.at"
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  guides:
+    output: true
+  services:
+    output: true
+  districts:
+    output: true

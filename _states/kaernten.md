@@ -1,11 +1,11 @@
 ---
 title: "Kärnten"
-seo_title: "Entrümpelung Kärnten | Klagenfurt, Villach & Seenregion"
+seo_title: "Umzug & Übersiedlung Kärnten | Sicher Team"
 slug: kaernten
-description: "Räumungen in Klagenfurt, Villach und rund um Wörthersee, Ossiacher See oder Millstätter See – mit Fixpreis, Wertausgleich und diskreten Teams."
+description: "Professionelle Umzugs- und Übersiedlungsdienste in Kärnten. Wir bieten Transporte und als Zusatzleistung Räumungen an."
 kicker: "Bundesland"
 hero_image: /topbg.webp
-order: 5
+order: 8
 locations_intro: "Wir kombinieren Wiener Teams mit Partnern in Klagenfurt und Villach, damit Besichtigungen kurzfristig möglich sind."
 pillars:
   - title: "Seen & Ferienimmobilien"
@@ -16,13 +16,23 @@ pillars:
     description: "Verwertbare Möbel, Technik oder Sammlungen rechnen wir im Zuge der Räumung gegen."
 permalink: /bundesland/kaernten/
 ---
-## Entrümpelung Kärnten: Stadt, See und Berge
+
+## Umzug & Übersiedlung (Moving & Relocation)
+
+Als Ihr verlässlicher Partner in Kärnten organisieren wir Ihren Privatumzug oder Firmenumzug professionell, sicher und zum Fixpreis. Unser Team kümmert sich um den reibungslosen Möbeltransport, die sichere Verpackung und die Demontage.
+
+## Räumung & Entrümpelung (Clearing & Cleanouts) als Zusatzleistung
+
+Als ergänzende Leistung zu unserem Umzugsservice bieten wir nach dem Auszug auf Wunsch auch eine besenreine Haushaltsauflösung oder Entrümpelung an.
+
+
+### Entrümpelung Kärnten: Stadt, See und Berge
 
 Als **Entrümpelungsfirma Kärnten** betreuen wir Stadtwohnungen, Betriebe und Ferienobjekte in der gesamten Seenregion. Wir koordinieren Besichtigungen kurzfristig, legen einen Fixpreis fest und rechnen verwertbare Stücke transparent an – ausschließlich verbunden mit der Räumung.
 
 - [Angebot für Kärnten sichern](/angebot/)
 
-## Typische Einsätze
+### Typische Einsätze
 
 **Klagenfurt & Villach:** Wohnungen, Büros und Lagerflächen mit straffen Ladezeiten. Wir beantragen Halteverbotszonen, schützen Stiegenhäuser und arbeiten mit kleineren Fahrzeugen in Altstadtgassen.
 
@@ -30,11 +40,11 @@ Als **Entrümpelungsfirma Kärnten** betreuen wir Stadtwohnungen, Betriebe und F
 
 **Gailtal, Spittal, Hermagor:** Ländliche Lagen mit längeren Anfahrten. Wir bringen Container oder organisieren Zwischenlager, wenn viel Holz, Metall oder Technik anfällt.
 
-## Logistik & Besonderheiten
+### Logistik & Besonderheiten
 
 Viele Projekte liegen an steilen Zufahrten oder engen Uferstraßen. Wir prüfen die Strecke vorab, wählen passende Fahrzeuge und sichern Stellflächen. Problemstoffe wie Altöl oder Batterien melden wir an, damit die Entsorgung reibungslos läuft.
 
-## Nächste Schritte
+### Nächste Schritte
 
 - Kurzbeschreibung und Fotos schicken, wir melden uns mit einer Ersteinschätzung
 - Fixpreis, Wertanrechnung und Zeitplan festhalten
