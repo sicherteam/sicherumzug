@@ -36,6 +36,13 @@
           font-size: 3.5rem;
         }
       }
+      [data-hero-banner]::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        z-index: 10;
+        background-image: linear-gradient(rgba(2, 44, 34, 0.45), rgba(2, 44, 34, 0.85));
+      }
       [data-hero-banner] picture {
         position: absolute;
         inset: 0;
