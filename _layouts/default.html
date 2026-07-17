@@ -1,175 +1,137 @@
 <!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
-  <style>
-    :root {
-      --primary-color: #0d6efd;
-      --secondary-color: #6c757d;
-      --dark-color: #212529;
-      --light-color: #f8f9fa;
-      --success-color: #198754;
-    }
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      color: var(--dark-color);
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #fff;
-      border-bottom: 1px solid #dee2e6;
-      padding: 1rem 2rem;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    header .logo {
-      font-weight: bold;
-      font-size: 1.5rem;
-      color: var(--primary-color);
-      text-decoration: none;
-    }
-    header nav a {
-      margin-left: 1rem;
-      color: var(--dark-color);
-      text-decoration: none;
-    }
-    header nav a:hover {
-      color: var(--primary-color);
-    }
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 2rem 1rem;
-    }
-    /* Hero styles */
-    .hero {
-      background: linear-gradient(135deg, #e9ecef 0%, #dee2e6 100%);
-      padding: 4rem 2rem;
-      border-radius: 8px;
-      margin-bottom: 3rem;
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 2rem;
-    }
-    .hero-content {
-      flex: 1 1 500px;
-    }
-    .hero h1 {
-      font-size: 2.5rem;
-      margin-top: 0;
-      color: var(--dark-color);
-    }
-    .hero p {
-      font-size: 1.25rem;
-      color: var(--secondary-color);
-    }
-    /* Timeline styles */
-    .timeline {
-      list-style: none;
-      padding: 0;
-      position: relative;
-    }
-    .timeline::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      width: 4px;
-      background: var(--primary-color);
-      left: 20px;
-    }
-    .timeline-item {
-      position: relative;
-      margin-bottom: 2rem;
-      padding-left: 50px;
-    }
-    .timeline-item::after {
-      content: '';
-      position: absolute;
-      width: 16px;
-      height: 16px;
-      border-radius: 50%;
-      background: #fff;
-      border: 4px solid var(--primary-color);
-      left: 14px;
-      top: 6px;
-    }
-    .timeline-title {
-      font-weight: bold;
-      font-size: 1.2rem;
-      margin-bottom: 0.5rem;
-    }
-    /* USP list styles */
-    .usp-list {
-      list-style: none;
-      padding: 0;
-      margin: 1.5rem 0;
-    }
-    .usp-list li {
-      margin-bottom: 0.75rem;
-      position: relative;
-      padding-left: 2rem;
-      font-weight: 500;
-    }
-    .usp-list li::before {
-      content: '✓';
-      position: absolute;
-      left: 0;
-      color: var(--success-color);
-      font-weight: bold;
-      font-size: 1.2rem;
-    }
-    /* Card grids */
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 2rem;
-      margin-top: 2rem;
-    }
-    .card {
-      border: 1px solid #dee2e6;
-      border-radius: 6px;
-      padding: 1.5rem;
-      background: #fff;
-      transition: box-shadow 0.3s;
-    }
-    .card:hover {
-      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    }
-    footer {
-      background-color: var(--dark-color);
-      color: #fff;
-      padding: 3rem 2rem;
-      text-align: center;
-      margin-top: 4rem;
-    }
-  </style>
-</head>
-<body>
+<html lang="{{ page.lang | default: site.lang }}" class="light">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="theme-color" content="#052349"/>
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <style>
+      :root { color-scheme: light dark; }
+      body {
+        margin: 0;
+        font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+        background-color: #F5F5F5;
+        min-height: 100vh;
+      }
+      [data-mobile-menu] { display: none; }
+      [data-mobile-menu]:not(.hidden) { display: flex; }
+      h1[data-hero-heading] {
+        font-size: 2.25rem;
+        line-height: 1.2;
+        font-weight: 800;
+        margin: 0;
+      }
+      [data-hero-banner] {
+        position: relative;
+        min-height: 60vh;
+        display: flex;
+        align-items: center;
+        color: #fff;
+        overflow: hidden;
+      }
+      @media (min-width: 768px) {
+        [data-hero-banner] { min-height: 70vh; }
+        h1[data-hero-heading] {
+          font-size: 3.5rem;
+        }
+      }
+      [data-hero-banner]::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        z-index: 10;
+        background-image: linear-gradient(rgba(2, 44, 34, 0.45), rgba(2, 44, 34, 0.85));
+      }
+      [data-hero-banner] picture {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+      }
+      [data-hero-banner] img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+      [data-hero-banner] .container {
+        position: relative;
+        z-index: 20;
+      }
+      .material-symbols-outlined {
+        font-family: 'Material Symbols Outlined', 'Segoe UI Symbol', sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 1.5rem;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      [data-mega-panel] {
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+        transition: opacity .2s ease, visibility .2s ease;
+      }
+      [data-mega-panel]::before {
+        content: '';
+        position: absolute;
+        top: -20px;
+        left: 0;
+        right: 0;
+        height: 20px;
+      }
+      .group:hover > [data-mega-panel],
+      .group:focus-within > [data-mega-panel] {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+      }
+    </style>
+    <link rel="icon" type="image/png" href="{{ '/favicon-96x96.png' | relative_url }}" sizes="96x96"/>
+    <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}"/>
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}"/>
+    <meta name="apple-mobile-web-app-title" content="{{ site.brand_name }}"/>
+    <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}"/>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" media="print" onload="this.media='all';this.onload=null;"/>
+    <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"/></noscript>
+    {% assign hero_preload = page.hero_preload | default: page.hero_image %}
+    {% if page.layout == 'home' or page.layout == 'service' or page.layout == 'state' %}
+    {% include head-home-hero-preload.html %}
+    {% elsif hero_preload %}
+    <link rel="preload" href="{{ hero_preload | relative_url }}" as="image" fetchpriority="high"/>
+    {% endif %}
+    {% include seo.html %}
+    <!-- GDPR Consent Management -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent','default',{
+    'ad_storage':'denied',
+    'ad_user_data':'denied',
+    'ad_personalization':'denied',
+    'analytics_storage':'denied'
+  });
+</script>
 
-  <header>
-    <a href="/" class="logo">Sicher Team</a>
-    <nav>
-      <a href="/">Startseite</a>
-      <a href="#services">Weitere Services</a>
-      <a href="#ratgeber">Ratgeber</a>
-    </nav>
-  </header>
-
-  <main class="container">
-    {{ content }}
-  </main>
-
-  <footer>
-    <p>&copy; 2026 Sicher Team. Alle Rechte vorbehalten. Ihr Experte für Umzug & Übersiedlung in Österreich.</p>
-  </footer>
-
-</body>
+  </head>
+  <body>
+    <div class="bg-background-light font-display text-text-light">
+    
+      <div class="relative flex min-h-screen flex-col overflow-x-hidden">
+        {% include header.html %}
+        <main id="main" class="flex-1">
+          {{ content }}
+        </main>
+        {% include footer.html %}
+        {% include sticky-cta.html %}
+        {% include mobile-menu.html %}
+      </div>
+      <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+    </div>
+  </body>
 </html>
