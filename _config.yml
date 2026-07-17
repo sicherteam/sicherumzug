@@ -9,11 +9,13 @@ baseurl: "/sicherumzug/"
 email: office@sicher-umzug.at
 phone: "+43 660 6060628"
 whatsapp: "https://wa.me/436606060628"
+
 address:
   street: "Grinzinger Str. 1"
   postal_code: "1190"
   city: "Wien"
   country: "AT"
+
 open_hours:
   - days:
       - Monday
@@ -30,10 +32,12 @@ open_hours:
   - days:
       - Sunday
     closed: true
+
 quote_form_action: "https://formspree.io/f/mqagkeya"
 logo: /logo.svg
 og_image: /assets/images/hero/desktop.webp
 og_image_alt: "Sicher Team im Einsatz"
+
 images:
   hero_mobile: /assets/images/hero/mobile.webp
   hero_desktop: /assets/images/hero/desktop.webp
@@ -59,6 +63,7 @@ images:
       width: 1100
       height: 431
   whatsapp: /WhatsApp.svg
+
 collections:
   services:
     output: true
@@ -72,7 +77,9 @@ collections:
   states:
     output: true
     permalink: /bundesland/:name/
+
 permalink: /:collection/:title/
+
 defaults:
   - scope:
       path: ""
@@ -109,26 +116,18 @@ defaults:
       local_logistics_note: "Wir planen Halteverbotszonen, Zufahrten und Tragewege je nach Objektlage transparent im Fixpreis."
       micro_case: "Typische Projekte in diesem Gebiet starten mit Foto-Check, Besichtigung und schriftlichem Fixpreis."
       proof_date: 2026-02-09
+
 plugins:
-  - jekyll-feed
-collections:
-  guides:
-    output: true
-  services:
-    output: true
-  districts:
-    output: true
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-include-cache
-feed:
-  collections:
-    - guides
+
 markdown: kramdown
 theme: null
 sass:
   style: compressed
 future: true
+
 exclude:
   - node_modules
   - vendor
@@ -136,11 +135,14 @@ exclude:
   - AGENTS.md
   - analyze_seo.py
   - .bundle
+
 include:
   - _pages
   - _redirects
+
 linkedin: ""
 instagram: ""
+
 local_business:
   type: HomeAndConstructionBusiness
   price_range: "€€"
@@ -157,6 +159,7 @@ local_business:
     - Salzburg
     - Tirol
     - Vorarlberg
+
 social:
   name: "Sicher Team"
   links:
