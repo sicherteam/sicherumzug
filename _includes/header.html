@@ -1,9 +1,9 @@
 <header class="sticky top-0 z-50 bg-primary text-white shadow-md">
   <div class="container mx-auto px-4">
-    <div class="flex h-16 items-center justify-between">
+    <div class="flex py-2 min-h-[5rem] items-center justify-between">
       <a href="{{ '/' | relative_url }}" class="flex items-center gap-3">
         <span class="sr-only">{{ site.brand_name }}</span>
-        <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="Sicher Team Logo" title="{{ site.brand_name }}" class="h-10 w-auto" width="200" height="44" />
+        <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="Sicher Team Logo" title="{{ site.brand_name }}" class="h-[60px] w-auto" width="300" height="66" />
       </a>
       {% assign states = site.states | default: site.collections.states.docs %}
       {% if states == nil %}
