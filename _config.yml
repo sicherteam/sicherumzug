@@ -111,6 +111,13 @@ defaults:
       proof_date: 2026-02-09
 plugins:
   - jekyll-feed
+collections:
+  guides:
+    output: true
+  services:
+    output: true
+  districts:
+    output: true
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
