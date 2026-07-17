@@ -5,7 +5,7 @@ description: "Sicher Team ist Ihr staatlich konzessioniertes Umzugsunternehmen f
 lang: de
 url: "https://sicherteam.github.io"
 canonical_base_url: "https://sicher-umzug.at"
-baseurl: "/sicherumzug"
+baseurl: "/sicherumzug/"
 email: office@sicher-umzug.at
 phone: "+43 660 6060628"
 whatsapp: "https://wa.me/436606060628"
