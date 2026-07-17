@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Ummeldung nach dem Umzug: Welche Behördenwege in Österreich wichtig sind"
 date: 2026-03-15 15:00:00 +0100
 categories: umzug behoerden

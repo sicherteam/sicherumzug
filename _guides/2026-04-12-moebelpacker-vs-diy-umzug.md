@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Möbelpacker vs. Do-it-Yourself: Wann lohnt sich ein Umzugsunternehmen?"
 date: 2026-04-12 13:30:00 +0200
 categories: umzug vorteile

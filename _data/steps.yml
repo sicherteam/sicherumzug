@@ -1,16 +1,12 @@
 - title: Kostenlose Besichtigung
-  description: Kontaktieren Sie uns per Formular, Telefon oder WhatsApp. Wir vereinbaren eine schnelle, kostenlose Besichtigung vor Ort oder via Foto-Check in ganz Österreich.
+  description: Kontaktieren Sie uns per Formular, Telefon oder WhatsApp. Wir vereinbaren eine schnelle, kostenlose Besichtigung vor Ort oder via Foto-Check.
   icon: phone
   order: 1
 - title: Schriftliches Fixpreis-Angebot
-  description: Sie erhalten ein verbindliches Komplettangebot inklusive Transportversicherung und fairer Wertanrechnung – garantiert ohne versteckte Kosten (Fixpreisgarantie).
+  description: Sie erhalten ein verbindliches Angebot inklusive aller Leistungen (Transport, De-/Montage, Versicherung) – garantiert ohne versteckte Kosten.
   icon: gavel
   order: 2
-- title: Umzug oder Räumung
-  description: Unser geschultes Fachpersonal führt den sicheren Möbeltransport (Privatumzug/Büroumzug) oder die fachgerechte Räumung schnell, sauber und diskret durch.
+- title: Entspannter Umzugstag
+  description: Unser geschultes Fachpersonal führt den sicheren Möbeltransport pünktlich und sorgfältig durch. Sie können sich entspannt zurücklehnen.
   icon: local_shipping
   order: 3
-- title: Besenreine Übergabe
-  description: Wir übergeben das geräumte Objekt besenrein und den neuen Wohnort schlüsselfertig. Das gesamte Projekt wird mit Fotos für Ihre Unterlagen dokumentiert.
-  icon: done_all
-  order: 4

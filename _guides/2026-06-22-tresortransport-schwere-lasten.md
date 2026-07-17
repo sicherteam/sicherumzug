@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Sicherer Tresortransport: Schwere Lasten fachgerecht bewegen"
 date: 2026-06-22 14:00:00 +0200
 categories: umzug tresortransport

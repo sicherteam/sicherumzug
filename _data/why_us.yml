@@ -1,12 +1,12 @@
-- title: Fixpreisgarantie
-  description: Schriftliche Angebote mit rechtsverbindlichem Festpreis und klaren Leistungsbeschreibungen in ganz Österreich.
-  icon: verified
-- title: Maximale Wertanrechnung
-  description: Eigene Sachverständige bewerten verwertbare Möbel und Antiquitäten fair und ziehen sie sofort von den Kosten ab.
-  icon: sell
-- title: Zertifizierte Profi-Teams
-  description: Fest angestellte Fachkräfte mit moderner Ausrüstung, Transportversicherung und lückenlosem Service.
-  icon: groups
-- title: Besenrein & schlüsselfertig
-  description: Jedes Projekt endet mit einer sorgfältigen Foto-Dokumentation, besenreiner Übergabe und voller Zufriedenheit.
-  icon: inventory
+- title: Sicherer & geschützter Transport
+  description: Wir verwenden spezielle Schutzdecken, Luftpolsterfolien und Transportroller, um Kratzer oder Beschädigungen an Ihren wertvollen Möbeln auszuschließen.
+  icon: local_shipping
+- title: Professionelle De- & Montage
+  description: Unser erfahrenes Team kümmert sich um den millimetergenauen Abbau und den stabilen Aufbau Ihrer Einrichtung am neuen Wohnort.
+  icon: build_circle
+- title: 100% Fixpreis ohne Überraschungen
+  description: Sie erhalten vorab ein transparentes, schriftliches Festpreisangebot. Wir berechnen weder Anfahrtskosten noch versteckte Wochenendzuschläge.
+  icon: price_check
+- title: Hochwertiges Verpackungsmaterial
+  description: Für einen optimalen Schutz stellen wir Ihnen stabile Umzugskartons, Kleiderboxen und spezielles Seidenpapier für Zerbrechliches zur Verfügung.
+  icon: inventory_2

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Zerbrechliche Gegenstände richtig verpacken: Tipps für Geschirr und Gläser"
 date: 2026-03-02 11:15:00 +0100
 categories: umzug verpackungstipps

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Delogierung in Österreich: Ablauf, Rechte und Räumung"
 date: 2025-11-20 10:00:00 +0200
 categories: raeumung delogierung

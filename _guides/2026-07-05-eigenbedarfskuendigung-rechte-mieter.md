@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Eigenbedarfskündigung durch den Vermieter: Was Mieter jetzt wissen müssen"
 date: 2026-07-05 10:15:00 +0200
 categories: umzug mietrecht

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: guide
 title: "Seniorenumzug ohne Stress: Einfühlsame Begleitung beim Wohnungswechsel"
 date: 2026-04-01 10:00:00 +0200
 categories: umzug senioren
