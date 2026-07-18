@@ -75,10 +75,10 @@ layout: default
         </div>
         {% if page.checklist %}
         <div class="mt-10 rounded-3xl bg-background-light p-6">
-          <h2 class="text-2xl font-extrabold text-primary">Was wir übernehmen</h2>
+          <h2 class="text-2xl font-extrabold text-primary leading-tight">Was wir übernehmen</h2>
           <ul class="mt-4 space-y-2">
             {% for item in page.checklist %}
-            <li class="flex items-start gap-3 text-sm text-text-light">
+            <li class="flex items-start gap-3 text-sm text-text-light leading-relaxed">
               <span class="material-symbols-outlined text-primary">task_alt</span>
               <span>{{ item }}</span>
             </li>
@@ -89,7 +89,7 @@ layout: default
       </div>
       <div class="rounded-3xl bg-background-light p-6 shadow-xl">
         <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Kostenloses Angebot</p>
-        <h2 class="mt-3 text-2xl font-extrabold text-primary">Direkt anfragen</h2>
+        <h2 class="mt-3 text-2xl font-extrabold text-primary leading-tight">Direkt anfragen</h2>
         {% include quote-form.html %}
       </div>
     </div>
@@ -98,13 +98,13 @@ layout: default
 {% if page.process %}
 <section class="bg-background-light py-12">
   <div class="container mx-auto px-4">
-    <h2 class="text-2xl font-extrabold text-primary">Ihr Ablauf</h2>
+    <h2 class="text-2xl font-extrabold text-primary leading-tight">Ihr Ablauf</h2>
     <div class="mt-6 grid gap-6 md:grid-cols-2">
       {% for step in page.process %}
       <div class="rounded-2xl border border-gray-200 bg-white p-6">
         <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Schritt {{ forloop.index }}</p>
-        <h3 class="mt-3 text-xl font-bold text-primary">{{ step.title }}</h3>
-        <p class="mt-2 text-sm text-text-light">{{ step.description }}</p>
+        <h3 class="mt-3 text-xl font-bold text-primary leading-tight">{{ step.title }}</h3>
+        <p class="mt-2 text-sm text-text-light leading-relaxed">{{ step.description }}</p>
       </div>
       {% endfor %}
     </div>
@@ -116,9 +116,9 @@ layout: default
   <div class="container mx-auto px-4">
     <div class="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
       <p class="text-sm font-semibold uppercase tracking-[0.3em] text-primary-accent">Lokaler Nachweis</p>
-      <h2 class="mt-3 text-2xl font-extrabold text-primary">Standort-Check für {{ page.title }}</h2>
-      <p class="mt-3 text-sm text-text-light">{{ page.local_logistics_note }}</p>
-      <p class="mt-3 text-sm text-text-light">{{ page.micro_case }}</p>
+      <h2 class="mt-3 text-2xl font-extrabold text-primary leading-tight">Standort-Check für {{ page.title }}</h2>
+      <p class="mt-3 text-sm text-text-light leading-relaxed">{{ page.local_logistics_note }}</p>
+      <p class="mt-3 text-sm text-text-light leading-relaxed">{{ page.micro_case }}</p>
       <p class="mt-4 text-xs uppercase tracking-[0.2em] text-gray-500">Stand {{ page.proof_date | date: "%d.%m.%Y" }}</p>
     </div>
   </div>
@@ -127,12 +127,12 @@ layout: default
 {% if page.faqs %}
 <section class="bg-white py-12">
   <div class="container mx-auto px-4">
-    <h2 class="text-2xl font-extrabold text-primary">FAQ</h2>
+    <h2 class="text-2xl font-extrabold text-primary leading-tight">FAQ</h2>
     <div class="mt-6 space-y-4">
       {% for faq in page.faqs %}
       <details class="rounded-2xl border border-gray-200 bg-background-light p-4">
         <summary class="cursor-pointer text-base font-semibold text-primary">{{ faq.question }}</summary>
-        <p class="mt-3 text-sm text-text-light">{{ faq.answer }}</p>
+        <p class="mt-3 text-sm text-text-light leading-relaxed">{{ faq.answer }}</p>
       </details>
       {% endfor %}
     </div>
@@ -143,7 +143,7 @@ layout: default
 <section class="bg-background-light py-12">
   <div class="container mx-auto px-4">
     <div class="flex items-center justify-between">
-      <h2 class="text-2xl font-extrabold text-primary">Nützliche Artikel</h2>
+      <h2 class="text-2xl font-extrabold text-primary leading-tight">Nützliche Artikel</h2>
       <a href="{{ '/ratgeber/' | relative_url }}" class="text-sm font-semibold text-primary">Alle Beiträge →</a>
     </div>
     <div class="mt-6 grid gap-6 md:grid-cols-3">
@@ -154,8 +154,8 @@ layout: default
       {% for guide in related limit:3 %}
       <article class="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
         <p class="text-xs uppercase tracking-[0.3em] text-primary-accent">{{ guide.category | default: 'Leitfaden' }}</p>
-        <h3 class="mt-2 text-lg font-bold text-primary">{{ guide.title }}</h3>
-        <p class="mt-2 text-sm text-text-light">{{ guide.excerpt | strip_html | truncate: 120 }}</p>
+        <h3 class="mt-2 text-lg font-bold text-primary leading-tight">{{ guide.title }}</h3>
+        <p class="mt-2 text-sm text-text-light leading-relaxed">{{ guide.excerpt | strip_html | truncate: 120 }}</p>
         <a href="{{ guide.url | relative_url }}" class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary">Lesen <span class="material-symbols-outlined text-base">north_east</span></a>
       </article>
       {% endfor %}

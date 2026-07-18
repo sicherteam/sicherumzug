@@ -2,17 +2,17 @@
 <div class="fixed bottom-0 left-0 right-0 z-40 border-t border-emerald-900/10 bg-white/95 p-3.5 shadow-[0_-8px_30px_rgb(0,0,0,0.06)] backdrop-blur-md dark:border-white/10 dark:bg-background-dark/95">
   <div class="mx-auto flex w-full max-w-xl gap-3">
     <!-- Call Action Button -->
-    <a href="tel:{{ site.phone | replace: ' ', '' }}" class="flex flex-1 items-center justify-center gap-2 rounded-full bg-primary hover:bg-primary-light px-5 py-3 text-sm md:text-base font-bold text-white shadow-sm hover:shadow transition-all duration-200">
+    <a href="tel:{{ site.phone | replace: ' ', '' }}" class="flex flex-1 items-center justify-center gap-2 rounded-full min-h-[48px] bg-primary hover:bg-primary-light px-5 py-3 text-sm md:text-base font-bold text-white shadow-sm hover:shadow transition-all duration-200">
       <span class="material-symbols-outlined text-lg">call</span>
       <span>{{ sticky_cta.call_label | default: "Anrufen" }}</span>
     </a>
     <!-- WhatsApp Action Button -->
-    <a href="{{ site.whatsapp }}" class="flex flex-1 items-center justify-center gap-2 rounded-full bg-emerald-600 hover:bg-emerald-500 px-5 py-3 text-sm md:text-base font-bold text-white shadow-sm hover:shadow transition-all duration-200">
-      <img src="{{ site.images.whatsapp | relative_url }}" class="h-5 w-5" alt="WhatsApp Icon"/>
+    <a href="{{ site.whatsapp }}" class="flex flex-1 items-center justify-center gap-2 rounded-full min-h-[48px] bg-emerald-600 hover:bg-emerald-500 px-5 py-3 text-sm md:text-base font-bold text-white shadow-sm hover:shadow transition-all duration-200">
+      <img loading="lazy" src="{{ site.images.whatsapp | relative_url }}" class="h-5 w-5" alt="WhatsApp Icon"/>
       <span>{{ sticky_cta.whatsapp_label | default: "WhatsApp" }}</span>
     </a>
   </div>
   {% if sticky_cta.subtext %}
-  <p class="mx-auto mt-2 max-w-xl text-center text-[10px] md:text-xs font-semibold tracking-wide uppercase text-text-light/60 dark:text-text-dark/60">{{ sticky_cta.subtext }}</p>
+  <p class="mx-auto mt-2 max-w-xl text-center text-[10px] md:text-xs font-semibold tracking-wide uppercase text-text-light/60 dark:text-text-dark/60 leading-relaxed">{{ sticky_cta.subtext }}</p>
   {% endif %}
 </div>

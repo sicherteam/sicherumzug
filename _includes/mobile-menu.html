@@ -7,9 +7,9 @@
   <div class="flex items-center justify-between gap-4 border-b border-white/10 p-4">
     <a href="{{ '/' | relative_url }}" class="flex max-w-[65vw] items-center gap-3">
       <span class="sr-only">{{ site.brand_name }}</span>
-      <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="{{ site.brand_name }}" class="h-[45px] w-auto" width="808" height="270" />
+      <img loading="lazy" src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="{{ site.brand_name }}" class="h-[45px] w-auto" width="808" height="270" />
     </a>
-    <button class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white/10 text-white" onclick="mobileMenuToggle()" aria-label="Menü schließen">
+    <button class="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-white/10 text-white" onclick="mobileMenuToggle()" aria-label="Menü schließen">
       <span class="material-symbols-outlined text-2xl">close</span>
     </button>
   </div>
@@ -63,6 +63,6 @@
     </div>
   </div>
   <div class="border-t border-white/10 p-6 bg-background-dark/50">
-    <a class="flex w-full items-center justify-center rounded-full bg-primary-light hover:bg-primary-accent py-3.5 text-white font-bold shadow-lg transition-all" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">{{ site.data.navigation.cta.label }}</a>
+    <a class="flex w-full items-center justify-center rounded-full bg-primary-light min-h-[48px] hover:bg-primary-accent py-3.5 text-white font-bold shadow-lg transition-all" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">{{ site.data.navigation.cta.label }}</a>
   </div>
 </div>
