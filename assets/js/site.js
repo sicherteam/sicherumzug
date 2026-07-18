@@ -77,10 +77,13 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   var photosInput = document.getElementById('form-photos');
   var previewContainer = document.getElementById('file-preview-container');
   if (photosInput && previewContainer) {
-    photosInput.addEventListener('change', function() {
+    var currentFiles = [];
+
+    function renderPreviews() {
       previewContainer.innerHTML = '';
-      if (!photosInput.files || photosInput.files.length === 0) return;
-      Array.prototype.forEach.call(photosInput.files, function(file) {
+      if (currentFiles.length === 0) return;
+
+      currentFiles.forEach(function(file, index) {
         if (!file.type.startsWith('image/')) return;
         var reader = new FileReader();
         reader.onload = function(e) {
@@ -92,11 +95,44 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           img.className = 'h-full w-full object-cover';
           img.alt = file.name;
 
+          var deleteBtn = document.createElement('button');
+          deleteBtn.type = 'button';
+          deleteBtn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-500 hover:bg-red-600 text-white shadow-md transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-2 z-10 cursor-pointer';
+          deleteBtn.setAttribute('aria-label', 'Foto entfernen');
+          deleteBtn.innerHTML = '&times;';
+
+          deleteBtn.addEventListener('click', function(evt) {
+            evt.preventDefault();
+            evt.stopPropagation();
+            removeFileAt(index);
+          });
+
           wrapper.appendChild(img);
+          wrapper.appendChild(deleteBtn);
           previewContainer.appendChild(wrapper);
         };
         reader.readAsDataURL(file);
       });
+    }
+
+    function removeFileAt(indexToRemove) {
+      currentFiles.splice(indexToRemove, 1);
+
+      if (window.DataTransfer) {
+        var dt = new DataTransfer();
+        currentFiles.forEach(function(file) {
+          dt.items.add(file);
+        });
+        photosInput.files = dt.files;
+      }
+
+      renderPreviews();
+    }
+
+    photosInput.addEventListener('change', function() {
+      if (!photosInput.files) return;
+      currentFiles = Array.prototype.slice.call(photosInput.files);
+      renderPreviews();
     });
   }
 });

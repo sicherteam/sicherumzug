@@ -5,3 +5,7 @@
 ## 2026-07-17 - Tailwind Focus Rings & Interactive File Previews
 **Learning:** In Tailwind CSS, simply adding color classes (like `focus:ring-primary-light`) has no visual effect on element borders unless an explicit ring-width class (like `focus:ring-2`) is provided. Furthermore, adding simple FileReader-based image thumbnail lists to static file inputs significantly increases user confidence and provides delightful interaction.
 **Action:** Always pair focus color classes with `focus:ring-2` (or similar) to ensure WCAG 2.1 visible focus states, and enhance upload forms with instant image previews using pure JS FileReader logic.
+
+## 2026-07-18 - Interactive Upload Previews via DataTransfer API
+**Learning:** Standard HTML file inputs with `multiple` attributes overwrite their state on successive browse clicks and do not natively support removing individual files. Synchronizing a custom JavaScript image preview grid's removal interactions with the native `<input type="file">`'s `files` list can be cleanly accomplished using the standard modern `DataTransfer` API, providing a delightful and seamless upload experience without external UI libraries.
+**Action:** Rebuild the FileList array programmatically using `new DataTransfer()`, append selected files via `.items.add(file)`, and assign `.files` directly back to the target `<input>` element on list updates.
