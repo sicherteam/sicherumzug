@@ -76,7 +76,7 @@ layout: default
   </div>
 </section>
 {% endif %}
-{% assign locations = site.districts | where: 'state', page.slug | sort: 'title' %}
+{% assign locations = site.districts | where: 'state', page.slug  %}
 {% if locations.size > 0 %}
 <section class="bg-white py-12">
   <div class="container mx-auto px-4">

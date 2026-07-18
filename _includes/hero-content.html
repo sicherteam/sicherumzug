@@ -37,7 +37,7 @@
     {% endif %}
     {% if has_active_risk %}
     <div class="mt-4 flex flex-wrap gap-2 text-xs md:text-sm">
-      {% assign sorted_risk_items = risk_items | sort: 'priority' %}
+      {% assign sorted_risk_items = risk_items  %}
       {% for risk in sorted_risk_items %}
       {% if risk.active != false %}
       <span class="inline-flex items-center gap-1 rounded-full border border-white/30 bg-black/20 px-3 py-1" title="{{ risk.detail }}">

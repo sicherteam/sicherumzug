@@ -26,7 +26,7 @@ layout: default
 {% if page.categories %}
 <section class="bg-white py-12">
   <div class="container mx-auto px-4 space-y-12">
-    {% assign services_all = site.services | sort: 'title' %}
+    {% assign services_all = site.services  %}
     {% for category in page.categories %}
     <div id="category-{{ category.key | downcase | replace: ' ', '-' }}">
       <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ category.title }}</p>
@@ -75,8 +75,8 @@ layout: default
     {% if states == nil %}
     {% assign states = '' | split: '' %}
     {% endif %}
-    {% assign states = states | sort: 'order' %}
-    {% assign all_locations = site.districts | sort: 'title' %}
+    {% assign states = states  %}
+    {% assign all_locations = site.districts  %}
     <div class="mt-8 grid gap-6">
       {% for state in states %}
       {% assign state_locations = all_locations | where: 'state', state.slug %}

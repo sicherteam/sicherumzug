@@ -50,7 +50,7 @@ layout: default
 <section class="bg-white border-b border-gray-100 defer-section">
   <div class="container mx-auto px-4 py-8">
     <div class="flex flex-wrap items-center justify-center gap-x-8 gap-y-4 text-center">
-      {% assign risk_items = site.data.risk_reversal | where: 'active', true | sort: 'priority' %}
+      {% assign risk_items = site.data.risk_reversal | where: 'active', true  %}
       {% if risk_items.size > 0 %}
       {% for risk in risk_items %}
       <div class="inline-flex items-center gap-2 text-sm font-bold uppercase tracking-wider text-primary">
@@ -254,7 +254,7 @@ layout: default
       <p class="mt-3 text-lg text-text-light">Tipps zu Behördenwegen, Kosten und Spezialfällen - damit Sie jeden Umzug und jede Räumung souverän planen.</p>
     </div>
     <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
-      {% assign guides = site.guides | sort: 'date' | reverse %}
+      {% assign guides = site.guides  | reverse %}
       {% for guide in guides limit:3 %}
       <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-background-light p-8 shadow-sm hover:shadow-lg transition-all duration-200 text-left">
         <div>

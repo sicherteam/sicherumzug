@@ -2,7 +2,7 @@
 {% if states == nil %}
 {% assign states = '' | split: '' %}
 {% endif %}
-{% assign states = states | sort: 'order' %}
+{% assign states = states  %}
 <footer class="bg-background-dark text-white border-t border-white/10">
   <div class="container mx-auto px-4 md:px-6 py-16">
     <div class="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-6 max-w-6xl mx-auto">
@@ -29,7 +29,7 @@
       <div>
         <h3 class="text-base font-bold text-white uppercase tracking-wider">Top Bezirke</h3>
         <ul class="mt-4 space-y-2.5 text-sm" id="districts-list">
-          {% assign all_districts = site.districts | where: 'state', 'wien' | sort: 'title' %}
+          {% assign all_districts = site.districts | where: 'state', 'wien'  %}
           {% for district in all_districts %}
           <li class="district-item {% if forloop.index > 5 %}hidden{% endif %}">
             <a class="text-white/70 hover:text-primary-accent transition-colors block py-0.5" href="{{ district.url | relative_url }}">

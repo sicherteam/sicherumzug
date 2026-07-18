@@ -2,7 +2,7 @@
 {% if states == nil %}
 {% assign states = '' | split: '' %}
 {% endif %}
-{% assign states = states | sort: 'order' %}
+{% assign states = states  %}
 <div id="mobile-menu" class="fixed inset-0 z-50 hidden flex-col bg-background-dark/98 text-white backdrop-blur-lg lg:hidden" data-mobile-menu>
   <div class="flex items-center justify-between gap-4 border-b border-white/10 p-4">
     <a href="{{ '/' | relative_url }}" class="flex max-w-[65vw] items-center gap-3">

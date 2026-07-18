@@ -15,7 +15,7 @@ layout: default
 </section>
 <section class="bg-background-light py-12">
   <div class="container mx-auto px-4">
-    {% assign guides = site.guides | sort: 'date' | reverse %}
+    {% assign guides = site.guides  | reverse %}
     {% if guides.size > 0 %}
     <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
       {% for guide in guides %}

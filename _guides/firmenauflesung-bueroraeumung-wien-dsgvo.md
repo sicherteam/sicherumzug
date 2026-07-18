@@ -1,4 +1,5 @@
 ---
+date: "2024-05-18"
 title: "Firmenauflösung & Büroräumung in Wien: DSGVO-konforme Aktenvernichtung und Inventar-Verwertung"
 seo_title: "Firmenauflösung & Büroräumung Wien | DSGVO & Wertanrechnung"
 description: "Professionelle Büroräumung und Firmenauflösung in Wien. Wir bieten DSGVO-konforme Aktenvernichtung, Inventar-Verwertung (Wertanrechnung) und Fixpreise."

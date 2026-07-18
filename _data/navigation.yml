@@ -5,12 +5,14 @@ services:
         url: /leistungen/umzug-oesterreich/
       - title: Umzug Wien
         url: /leistungen/umzug-wien/
-      - title: Räumung
-        url: /leistungen/raeumung/
-      - title: Entrümpelung
-        url: /leistungen/entruempelung-wien/
+      - title: Privatumzug
+        url: /leistungen/privatumzug/
+      - title: Möbeltransport
+        url: /leistungen/moebeltransport/
   - label: Gewerblich
     items:
+      - title: Firmenumzug
+        url: /leistungen/firmenumzug/
       - title: Firmenauflösung
         url: /leistungen/firmenaufloesung/
       - title: Alle Gewerbe-Leistungen
