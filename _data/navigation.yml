@@ -25,14 +25,18 @@ services:
         url: /leistungen/
       - title: Alle Gewerbe-Leistungen
         url: /leistungen/
-  - label: Spezialdienste
+  - label: Premium Logistik
     items:
-      - title: Express Räumung
+      - title: Wohlfühl-Umzug (Full-Service)
+        url: /leistungen/wohlfuehl-umzug/
+      - title: Premium Logistik & Montage
+        url: /leistungen/premium-logistik/
+      - title: Seniorenumzug
+        url: /leistungen/seniorenumzug/
+      - title: Express Notdienst
         url: /leistungen/express-notdienst/
-      - title: Verlassenschaft
-        url: /leistungen/verlassenschaft/
-      - title: Messie-Entrümpelung
-        url: /leistungen/messie-entruempelung/
+      - title: Studentenumzug
+        url: /leistungen/studentenumzug/
   - label: Wertanrechnung
     items:
       - title: Gratis Entrümpelung
