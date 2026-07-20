@@ -40,7 +40,7 @@ Für Geschäftskunden, Büros und Gewerbetreibende ist "Minimal Downtime" – al
 
 Die Sicherheit Ihres Hab und Guts hat höchste Priorität. Ein essenzielles Qualitätsmerkmal seriöser Umzugsfirmen ist eine weitreichende **Transportversicherung**. Sollte trotz sorgfältigster Arbeitsweise unserer Möbelpacker ein Schaden entstehen, sind Sie finanziell vollständig abgesichert. Dies gibt Ihnen die nötige Ruhe, sich auf die wichtigen Dinge rund um Ihren Wohnortwechsel oder Firmenstandortwechsel zu konzentrieren.
 
-Zusätzlich ergänzen Mikro-Dienstleistungen wie Zwischenlagerung (Storage), Räumung von Kellern und Dachböden sowie Sperrmüllabholung unser Portfolio und machen uns zu Ihrem zentralen Ansprechpartner für alle logistischen Herausforderungen.
+Zusätzlich ergänzen Mikro-Dienstleistungen wie Möbelmontage, Räumung von Kellern und Dachböden sowie Sperrmüllabholung unser Portfolio und machen uns zu Ihrem zentralen Ansprechpartner für alle logistischen Herausforderungen.
 
 ## Häufig gestellte Fragen (FAQ) zur Übersiedlung
 
