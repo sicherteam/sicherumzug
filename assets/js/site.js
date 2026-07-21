@@ -10,6 +10,19 @@ window.mobileMenuToggle = function mobileMenuToggle() {
   mobileMenu.classList.toggle('hidden');
   var isHidden = mobileMenu.classList.contains('hidden');
   setBodyOverflow(!isHidden);
+
+  // Focus management
+  if (!isHidden) {
+    var closeBtn = document.getElementById('mobile-menu-close');
+    if (closeBtn) {
+      setTimeout(function() { closeBtn.focus(); }, 50);
+    }
+  } else {
+    var openBtn = document.getElementById('mobile-menu-open');
+    if (openBtn) {
+      openBtn.focus();
+    }
+  }
 };
 
 window.toggleSubMenu = function toggleSubMenu(targetId) {
@@ -35,6 +48,15 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   if (yearTarget) {
     yearTarget.textContent = new Date().getFullYear();
   }
+
+  // Handle Escape key to close mobile menu
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape' || event.key === 'Esc') {
+      if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
+        mobileMenuToggle();
+      }
+    }
+  });
 
   Array.prototype.forEach.call(faqButtons, function register(btn) {
     btn.addEventListener('click', function handleFaqToggle() {
