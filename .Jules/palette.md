@@ -5,3 +5,7 @@
 ## 2026-07-17 - Tailwind Focus Rings & Interactive File Previews
 **Learning:** In Tailwind CSS, simply adding color classes (like `focus:ring-primary-light`) has no visual effect on element borders unless an explicit ring-width class (like `focus:ring-2`) is provided. Furthermore, adding simple FileReader-based image thumbnail lists to static file inputs significantly increases user confidence and provides delightful interaction.
 **Action:** Always pair focus color classes with `focus:ring-2` (or similar) to ensure WCAG 2.1 visible focus states, and enhance upload forms with instant image previews using pure JS FileReader logic.
+
+## 2026-07-21 - CSS group-open for Native Accordions & Keyboard Dismiss
+**Learning:** Combining native HTML `<details>`/`<summary>` elements with Tailwind CSS's `group` and `group-open:` modifiers lets us style fully keyboard-accessible accordions and rotate indicator chevrons with zero JavaScript. Furthermore, supporting global `Escape` key events to dismiss mobile menus and navigation drawers provides high-impact keyboard accessibility for power users.
+**Action:** Style native `<details>` accordions using `group` and child indicators with `group-open:rotate-180 transition-transform`. Always bind a global Escape key event handler to dismiss open overlays and mobile navigation drawers.

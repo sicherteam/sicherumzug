@@ -22,6 +22,15 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   mobileMenu = document.getElementById('mobile-menu');
   faqButtons = document.querySelectorAll('[data-faq-toggle]');
 
+  // Close mobile menu on Escape key press
+  document.addEventListener('keydown', function handleEscapeKey(e) {
+    if (e.key === 'Escape' || e.keyCode === 27) {
+      if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
+        mobileMenuToggle();
+      }
+    }
+  });
+
   var yearTarget = document.getElementById('current-year');
   if (yearTarget) {
     yearTarget.textContent = new Date().getFullYear();
