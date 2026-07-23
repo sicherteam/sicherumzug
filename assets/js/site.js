@@ -108,26 +108,52 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   var photosInput = document.getElementById('form-photos');
   var previewContainer = document.getElementById('file-preview-container');
   if (photosInput && previewContainer) {
-    photosInput.addEventListener('change', function() {
+    var selectedFiles = [];
+    function updateInputAndRender() {
+      var dt = new DataTransfer();
+      selectedFiles.forEach(function(f) { dt.items.add(f); });
+      photosInput.files = dt.files;
+      if (selectedFiles.length === 0) photosInput.value = '';
+      renderPreviews();
+    }
+    function renderPreviews() {
       previewContainer.innerHTML = '';
-      if (!photosInput.files || photosInput.files.length === 0) return;
-      Array.prototype.forEach.call(photosInput.files, function(file) {
-        if (!file.type.startsWith('image/')) return;
+      selectedFiles.forEach(function(file, index) {
+        var wrapper = document.createElement('div');
+        wrapper.className = 'relative aspect-square rounded-xl overflow-hidden border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:scale-105 group';
+
+        var img = document.createElement('img');
+        img.className = 'h-full w-full object-cover';
+        img.alt = file.name;
+
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-white shadow hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-2 transition-all duration-200 z-10';
+        btn.setAttribute('aria-label', 'Foto entfernen');
+        btn.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">close</span>';
+        btn.addEventListener('click', function() {
+          selectedFiles.splice(index, 1);
+          updateInputAndRender();
+        });
+
+        wrapper.appendChild(img);
+        wrapper.appendChild(btn);
+        previewContainer.appendChild(wrapper);
+
         var reader = new FileReader();
         reader.onload = function(e) {
-          var wrapper = document.createElement('div');
-          wrapper.className = 'relative aspect-square rounded-xl overflow-hidden border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:scale-105';
-
-          var img = document.createElement('img');
           img.src = e.target.result;
-          img.className = 'h-full w-full object-cover';
-          img.alt = file.name;
-
-          wrapper.appendChild(img);
-          previewContainer.appendChild(wrapper);
         };
         reader.readAsDataURL(file);
       });
+    }
+    photosInput.addEventListener('change', function() {
+      if (photosInput.files) {
+        Array.prototype.forEach.call(photosInput.files, function(file) {
+          if (file.type.startsWith('image/')) selectedFiles.push(file);
+        });
+        updateInputAndRender();
+      }
     });
   }
 });
