@@ -19,6 +19,8 @@ services:
     items:
       - title: Gewerbe Umzug
         url: /leistungen/
+      - title: Firmenumzug Wien
+        url: /leistungen/firmenumzug-wien/
       - title: Firmenauflösung
         url: /leistungen/firmenaufloesung/
       - title: Büroumzug
@@ -49,6 +51,24 @@ services:
         url: /leistungen/moebel-ankauf/
       - title: Alle Leistungen
         url: /leistungen/
+  - label: Regionale Umzüge
+    items:
+      - title: Umzug Niederösterreich
+        url: /leistungen/umzug-niederoesterreich/
+      - title: Umzug Graz
+        url: /leistungen/umzug-graz/
+      - title: Umzug Linz
+        url: /leistungen/umzug-linz/
+      - title: Umzug Salzburg
+        url: /leistungen/umzug-salzburg/
+      - title: Umzug Kärnten
+        url: /leistungen/umzug-kaernten/
+      - title: Umzug Tirol
+        url: /leistungen/umzug-tirol/
+      - title: Umzug Burgenland
+        url: /leistungen/umzug-burgenland/
+      - title: Umzug Vorarlberg
+        url: /leistungen/umzug-vorarlberg/
 districts:
   - title: Tirol
     url: /bundesland/tirol/
