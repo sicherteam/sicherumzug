@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
 
   // Close mobile menu on Escape key press
   document.addEventListener('keydown', function handleEscapeKey(e) {
-    if (e.key === 'Escape' || e.keyCode === 27) {
+    if (e.key === 'Escape' || e.key === 'Esc' || e.keyCode === 27) {
       if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
         mobileMenuToggle();
       }
@@ -48,15 +48,6 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   if (yearTarget) {
     yearTarget.textContent = new Date().getFullYear();
   }
-
-  // Handle Escape key to close mobile menu
-  document.addEventListener('keydown', function(event) {
-    if (event.key === 'Escape' || event.key === 'Esc') {
-      if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
-        mobileMenuToggle();
-      }
-    }
-  });
 
   Array.prototype.forEach.call(faqButtons, function register(btn) {
     btn.addEventListener('click', function handleFaqToggle() {
@@ -108,26 +99,86 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   var photosInput = document.getElementById('form-photos');
   var previewContainer = document.getElementById('file-preview-container');
   if (photosInput && previewContainer) {
+    var allFiles = [];
+
+    function updateFileInput() {
+      try {
+        var dt = new DataTransfer();
+        allFiles.forEach(function(file) {
+          dt.items.add(file);
+        });
+        photosInput.files = dt.files;
+      } catch (e) {
+        console.error('DataTransfer not supported', e);
+      }
+    }
+
     photosInput.addEventListener('change', function() {
-      previewContainer.innerHTML = '';
       if (!photosInput.files || photosInput.files.length === 0) return;
-      Array.prototype.forEach.call(photosInput.files, function(file) {
+      var filesArray = Array.prototype.slice.call(photosInput.files);
+
+      filesArray.forEach(function(file) {
         if (!file.type.startsWith('image/')) return;
+
+        // Prevent exact duplicates
+        var isDuplicate = allFiles.some(function(f) {
+          return f.name === file.name && f.size === file.size && f.lastModified === file.lastModified;
+        });
+        if (isDuplicate) return;
+
+        allFiles.push(file);
+
+        // Create preview wrapper synchronously
+        var wrapper = document.createElement('div');
+        wrapper.className = 'relative aspect-square rounded-xl overflow-hidden border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:scale-105 group';
+
+        // Image element
+        var img = document.createElement('img');
+        img.className = 'h-full w-full object-cover opacity-0 transition-opacity duration-300';
+        img.alt = file.name;
+
+        // Loading placeholder
+        var placeholder = document.createElement('div');
+        placeholder.className = 'absolute inset-0 flex items-center justify-center bg-gray-50';
+        placeholder.innerHTML = '<span class="material-symbols-outlined animate-spin text-gray-400">autorenew</span>';
+        wrapper.appendChild(placeholder);
+
+        // Delete button
+        var deleteBtn = document.createElement('button');
+        deleteBtn.type = 'button';
+        deleteBtn.className = 'absolute top-1.5 right-1.5 h-6 w-6 rounded-full bg-red-600/95 hover:bg-red-700 text-white flex items-center justify-center transition-all duration-200 shadow-md focus-visible:ring-2 focus-visible:ring-red-500 focus-visible:outline-none md:opacity-0 md:group-hover:opacity-100 md:group-focus-within:opacity-100 md:focus:opacity-100';
+        deleteBtn.setAttribute('aria-label', 'Foto "' + file.name + '" entfernen');
+        deleteBtn.innerHTML = '<span class="material-symbols-outlined text-sm leading-none">close</span>';
+
+        deleteBtn.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+
+          var index = allFiles.indexOf(file);
+          if (index > -1) {
+            allFiles.splice(index, 1);
+          }
+          updateFileInput();
+          wrapper.remove();
+        });
+
+        wrapper.appendChild(img);
+        wrapper.appendChild(deleteBtn);
+        previewContainer.appendChild(wrapper);
+
+        // Asynchronously load image
         var reader = new FileReader();
         reader.onload = function(e) {
-          var wrapper = document.createElement('div');
-          wrapper.className = 'relative aspect-square rounded-xl overflow-hidden border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:scale-105';
-
-          var img = document.createElement('img');
           img.src = e.target.result;
-          img.className = 'h-full w-full object-cover';
-          img.alt = file.name;
-
-          wrapper.appendChild(img);
-          previewContainer.appendChild(wrapper);
+          img.onload = function() {
+            img.classList.remove('opacity-0');
+            placeholder.remove();
+          };
         };
         reader.readAsDataURL(file);
       });
+
+      updateFileInput();
     });
   }
 });
