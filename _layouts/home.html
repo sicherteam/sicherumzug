@@ -1,46 +1,50 @@
 ---
 layout: default
 ---
-<section class="bg-white border border-gray-200 rounded-3xl overflow-hidden shadow-xl relative transition-all hover:shadow-2xl hover:border-red-400 mt-8 mb-12 max-w-7xl mx-auto">
-    <div class="p-8 sm:p-12 bg-iceGrayBg border-b border-gray-200">
-        <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-6">
-            <div>
-                <span class="text-red-700 font-bold text-xs uppercase tracking-widest">Wien & Umgebung • Fixpreise</span>
-                <h1 class="text-3xl sm:text-4xl font-black text-darkSlate mt-1">{{ page.hero.title | default: "Sicherer Möbeltransport & Räumung" }}</h1>
-            </div>
-            <span class="bg-red-100 text-red-800 border border-red-200 text-xs px-4 py-2 rounded-full font-bold shadow-sm whitespace-nowrap">
-                Express Notdienst 24/7
-            </span>
-        </div>
-
-        <div class="max-w-3xl space-y-6">
-            <h2 class="text-2xl sm:text-3xl font-extrabold text-gray-900 leading-tight">
-                {{ page.hero.subtitle | default: "Schneller Umzug & professionelle Entrümpelung" }}
-            </h2>
-            <p class="text-gray-700 text-base sm:text-lg leading-relaxed">
-                Kurzfristige Termine für Umzüge, Räumungen und Kleintransporte. Wir sind sofort einsatzbereit mit geschultem Team und LKW. Kostenlose Besichtigung und transparente Preise ohne versteckte Kosten.
-            </p>
-
-            <div class="flex flex-wrap gap-4 pt-4">
-                <a href="tel:{{ site.phone | remove: ' ' }}" class="bg-crimsonRed hover:bg-crimsonHover text-white font-extrabold px-8 py-4 rounded-xl shadow-lg shadow-red-600/20 text-sm tracking-wide uppercase transition-all min-h-[48px] inline-flex items-center justify-center">
-                    ⚡ Jetzt Anrufen: {{ site.phone }}
-                </a>
-                <a href="#angebot" class="bg-white hover:bg-gray-50 text-darkSlate border-2 border-darkSlate/30 px-6 py-4 rounded-xl text-sm font-bold transition-all min-h-[48px] inline-flex items-center justify-center shadow-sm">
-                    Kostenloses Angebot anfordern &rarr;
-                </a>
-            </div>
-        </div>
+{% include home-hero-vars.liquid %}
+<section class="relative min-h-[65vh] md:min-h-[80vh] flex items-center text-white overflow-hidden" data-hero-banner>
+  <div class="absolute left-0 top-0 z-30 w-full bg-gradient-to-b from-primary/80 to-transparent py-4">
+    <div class="container mx-auto px-4 md:px-6">
+      <p class="text-xs md:text-sm font-extrabold uppercase tracking-[0.25em] text-primary-accent">Umzug, Räumung & Entrümpelung Österreich</p>
     </div>
+  </div>
 
-    <div class="p-6 sm:p-8 bg-white grid grid-cols-1 md:grid-cols-3 gap-6">
-        {% for risk in site.data.risk_reversal limit:3 %}
-        <div class="bg-slate-50 p-6 rounded-2xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
-            <div class="w-12 h-12 bg-red-100 rounded-xl flex items-center justify-center text-crimsonRed font-extrabold mb-4 text-2xl">{% if forloop.index == 1 %}⚡{% elsif forloop.index == 2 %}🛡️{% else %}🇦🇹{% endif %}</div>
-            <h3 class="text-gray-900 font-bold text-lg mb-2">{{ risk.label }}</h3>
-            <p class="text-gray-600 text-sm leading-relaxed">{{ risk.detail }}</p>
-        </div>
-        {% endfor %}
-    </div>
+  {% include hero-content.html
+    title=page.hero.title
+    subtitle=page.hero.subtitle
+    primary_cta=page.hero.primary_cta
+    cta_variant=page.cta_variant
+    risk_items=site.data.risk_reversal
+    container_classes="container relative z-20 mx-auto px-4 md:px-6 py-20 md:py-28 text-white"
+    content_classes="max-w-4xl space-y-6"
+    title_class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black leading-tight tracking-tight text-white drop-shadow-md"
+    subtitle_class="text-base sm:text-lg md:text-xl text-white/90 font-medium leading-relaxed max-w-2xl drop-shadow-sm"
+  %}
+
+  <picture class="absolute inset-0 z-0">
+    <source
+      media="(max-width: 767px)"
+      srcset="{{ hero_mobile_srcset | strip }}"
+      sizes="100vw"
+      type="image/webp">
+    <source
+      media="(min-width: 768px)"
+      srcset="{{ hero_desktop_srcset | strip }}"
+      sizes="{{ hero_image_sizes }}"
+      type="image/webp">
+    <img src="{{ hero_desktop | relative_url }}"
+         srcset="{{ hero_desktop_srcset | strip }}"
+         sizes="{{ hero_image_sizes }}"
+         alt="Professioneller Umzug und Räumung in Österreich"
+         class="w-full h-full object-cover object-center scale-105 transform transition duration-[10000ms]"
+         fetchpriority="high"
+         loading="eager"
+         width="{{ hero_width }}"
+         height="{{ hero_height }}">
+  </picture>
+
+  <!-- High contrast background scrim -->
+  <div class="absolute inset-0 z-10 bg-gradient-to-r from-background-dark/90 via-background-dark/65 to-transparent"></div>
 </section>
 
 <section class="bg-white border-b border-gray-100 defer-section">
