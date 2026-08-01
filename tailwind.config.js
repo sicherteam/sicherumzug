@@ -27,7 +27,6 @@ module.exports = {
           accent: "#DC2626",
           light: "#EF4444"
         },
-        // Semantic custom colors matching Design 12
         crimsonRed: "#DC2626",
         crimsonHover: "#B91C1C",
         darkSlate: "#0F172A",
