@@ -1,16 +1,16 @@
 - title: Volumen- & Bedarfsanalyse
   description: Kostenlose Besichtigung und Volumenberechnung (in Kubikmeter) vor Ort oder via Foto/Video-Check zur exakten Bedarfsermittlung.
-  icon: straight_straighten
+  icon: fa-ruler-combined
   order: 1
 - title: Schriftliches Fixpreis-Angebot
   description: Sie erhalten ein verbindliches, detailliertes Angebot inklusive Verpackungsmaterial, De-/Montage und All-Risk-Transportversicherung – garantiert ohne versteckte Kosten.
-  icon: description
+  icon: fa-file-contract
   order: 2
 - title: Verpackung, Demontage & Sicherer Transport
   description: Fachmännische Verpackung, Demontage Ihrer Möbel und sicherer Transport im luftgefederten LKW durch unser geschultes Personal.
-  icon: local_shipping
+  icon: fa-truck-moving
   order: 3
 - title: Montage & Schlüsselfertige Übergabe
   description: Millimetergenaue Möbelmontage am neuen Standort und gemeinsame Endabnahme für einen stressfreien Abschluss.
-  icon: hand_gesture
+  icon: fa-handshake
   order: 4

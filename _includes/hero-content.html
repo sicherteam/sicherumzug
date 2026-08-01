@@ -41,7 +41,7 @@
       {% for risk in sorted_risk_items %}
       {% if risk.active != false %}
       <span class="inline-flex items-center gap-1 rounded-full border border-white/30 bg-black/20 px-3 py-1" title="{{ risk.detail }}">
-        <i class="fas fa-check-circle text-sm text-green-500" aria-hidden="true"></i>
+        <i class="fas {{ risk.icon | default: 'fa-check-circle' }} text-sm text-green-500" aria-hidden="true"></i>
         <span>{{ risk.label }}</span>
       </span>
       {% endif %}

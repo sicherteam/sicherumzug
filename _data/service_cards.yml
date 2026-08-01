@@ -1,32 +1,32 @@
 - title: Umzug & Übersiedlung Österreich
   description: Professioneller Privatumzug & Firmenumzug bundesweit. Sicherer Transport mit All-Risk-Transportversicherung, Demontage/Montage und 100% Fixpreisgarantie.
   url: /leistungen/umzug-oesterreich/
-  icon: local_shipping
+  icon: fa-truck-moving
 - title: Räumung & Hausauflösung Wien
   description: Komplette Räumung von Wohnungen, Häusern und Gewerbeobjekten in Wien & Umgebung. Inklusive besenreiner Übergabe, Containerlogistik und Fixpreis.
   url: /leistungen/raeumung/
-  icon: location_city
+  icon: fa-city
 - title: Entrümpelung & Wertanrechnung
   description: Professionelle Entrümpelung mit fairer Wertanrechnung. Fachgerechte Mülltrennung, umweltfreundliche Entsorgung und besenreine Hinterlassung zum Festpreis.
   url: /leistungen/entruempelung/
-  icon: recycling
+  icon: fa-recycle
 - title: Kellerräumung
   description: Wir schaffen Platz in Keller, Garage oder Hobbyraum und entsorgen fachgerecht.
   url: /leistungen/kellerraeumung/
-  icon: inventory_2
+  icon: fa-box-open
 - title: Garagenräumung
   description: Garage entrümpeln mit Fixpreis, Wertanrechnung und besenreiner Übergabe.
   url: /leistungen/garagenraeumung/
-  icon: garage
+  icon: fa-warehouse
 - title: Verlassenschaften
   description: Diskrete Nachlassräumung mit Dokumentation und enger Abstimmung mit Notaren.
   url: /leistungen/verlassenschaft/
-  icon: diversity_3
+  icon: fa-users
 - title: Firmen- & Büroauflösung
   description: DSGVO-konforme Räumung von Büros, Lagerflächen und Produktionshallen.
   url: /leistungen/firmenaufloesung/
-  icon: business
+  icon: fa-building
 - title: Messie-Entrümpelung
   description: Speziell geschulte Teams für komplexe Situationen, inkl. Reinigung und Desinfektion.
   url: /leistungen/messie-entruempelung/
-  icon: cleaning_services
+  icon: fa-broom

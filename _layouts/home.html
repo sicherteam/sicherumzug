@@ -114,7 +114,7 @@ layout: default
           {% for cta in brand_intro.ctas %}
           <a href="{{ cta.url | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
             {{ cta.label }}
-            <span class="material-symbols-outlined text-base">north_east</span>
+            <i class="fas fa-external-link-alt text-sm"></i>
           </a>
           {% endfor %}
         </div>
@@ -140,7 +140,7 @@ layout: default
           </div>
           <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] rounded-2xl bg-white p-6 shadow-sm border border-gray-100 hover:shadow-md transition-opacity">
             <div class="flex items-center gap-3 mb-2">
-              <span class="material-symbols-outlined text-primary-accent">{{ step.icon }}</span>
+              <i class="fas {{ step.icon | default: 'fa-check-circle' }} text-primary-accent text-2xl"></i>
               <h3 class="text-lg font-bold text-primary">{{ step.title }}</h3>
             </div>
             <p class="text-sm text-text-light leading-relaxed">{{ step.description }}</p>
@@ -161,15 +161,15 @@ layout: default
       <div class="mt-8 flex flex-wrap justify-center gap-4">
         <a href="{{ '/leistungen/umzug-oesterreich/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
           Umzug & Übersiedlung zum Fixpreis
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
         <a href="{{ '/leistungen/raeumung/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
           Räumung & Wohnungsauflösung Wien
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
         <a href="{{ '/leistungen/entruempelung/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
           Entrümpelung & Wertanrechnung
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
       </div>
     </div>
@@ -184,7 +184,7 @@ layout: default
       <a href="{{ card.url | relative_url }}" class="group flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-background-light p-8 text-left shadow-sm hover:shadow-xl hover:border-primary/20 hover:-translate-y-1.5 transition-opacity duration-300">
         <div>
           <div class="inline-flex rounded-2xl bg-white p-4 shadow-sm text-primary group-hover:bg-primary group-hover:text-white transition-opacity duration-300">
-            <span class="material-symbols-outlined text-3xl">{{ card.icon }}</span>
+            <i class="fas {{ card.icon | default: 'fa-star' }} text-3xl"></i>
           </div>
           <h3 class="mt-6 text-xl font-bold text-primary leading-tight group-hover:text-primary-light transition-opacity duration-200">{{ card.title }}</h3>
           <p class="mt-3 text-sm text-text-light leading-relaxed">{{ card.description }}</p>
@@ -215,7 +215,7 @@ layout: default
         {% for card in clearing_services %}
         <a href="{{ card.url | relative_url }}" class="group flex flex-col justify-between rounded-2xl border border-gray-100 bg-white p-6 text-left shadow-sm hover:shadow-md transition-opacity duration-300">
           <div class="flex items-center gap-3">
-            <span class="material-symbols-outlined text-primary-accent text-2xl">{{ card.icon }}</span>
+            <i class="fas {{ card.icon | default: 'fa-check' }} text-primary-accent text-xl"></i>
             <h4 class="text-base font-bold text-primary leading-tight group-hover:text-primary-light transition-opacity duration-200">{{ card.title }}</h4>
           </div>
         </a>
@@ -242,7 +242,7 @@ layout: default
         </div>
         <a href="{{ '/ratgeber/gratis-entruempelung-wien/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-light px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
           <span>Mehr lesen</span>
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
       </article>
       <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-white p-8 text-left shadow-sm hover:shadow-lg transition-opacity duration-200">
@@ -252,7 +252,7 @@ layout: default
         </div>
         <a href="{{ '/ratgeber/entruepelung-mit-sofort-hilfe/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-light px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
           <span>Mehr lesen</span>
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
       </article>
       <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-white p-8 text-left shadow-sm hover:shadow-lg transition-opacity duration-200">
@@ -262,7 +262,7 @@ layout: default
         </div>
         <a href="{{ '/ratgeber/wohnungsentruempelung-wien-guide/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-light px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
           <span>Mehr lesen</span>
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
       </article>
       <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-white p-8 text-left shadow-sm hover:shadow-lg transition-opacity duration-200">
@@ -272,14 +272,14 @@ layout: default
         </div>
         <a href="{{ '/ratgeber/wertausgleich-raeumung-wien/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-light px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
           <span>Mehr lesen</span>
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
       </article>
     </div>
     <div class="mt-10 text-center">
       <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary-light hover:bg-primary-accent px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
         Alle Ratgeber ansehen
-        <span class="material-symbols-outlined text-base">north_east</span>
+        <i class="fas fa-external-link-alt text-sm"></i>
       </a>
     </div>
   </div>
@@ -303,7 +303,7 @@ layout: default
         </div>
         <a href="{{ guide.url | relative_url }}" class="mt-6 inline-flex items-center gap-1 text-sm font-bold text-primary hover:text-primary-accent transition-opacity duration-150">
           <span>Zum Artikel</span>
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
       </article>
       {% endfor %}
@@ -311,7 +311,7 @@ layout: default
     <div class="mt-10 text-center">
       <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary-light hover:bg-primary-accent px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
         Alle Ratgeber ansehen
-        <span class="material-symbols-outlined text-base">north_east</span>
+        <i class="fas fa-external-link-alt text-sm"></i>
       </a>
     </div>
   </div>
@@ -350,7 +350,7 @@ layout: default
     <div class="mt-10 text-center">
       <a href="{{ '/bewertungen/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary-light hover:bg-primary-accent px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
         Alle Bewertungen ansehen
-        <span class="material-symbols-outlined text-base">north_east</span>
+        <i class="fas fa-external-link-alt text-sm"></i>
       </a>
     </div>
   </div>
@@ -373,7 +373,7 @@ layout: default
           <div class="rounded-2xl border border-gray-200 bg-background-light p-4 shadow-sm hover:shadow-md transition-opacity">
             <button class="flex w-full items-center justify-between text-left text-base font-semibold text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded-lg" data-faq-toggle="faq-{{ forloop.index }}" aria-expanded="false" aria-controls="faq-{{ forloop.index }}" id="faq-btn-{{ forloop.index }}">
               <h3 class="text-base font-semibold text-primary pr-4">{{ faq.question }}</h3>
-              <span class="material-symbols-outlined transition-transform duration-200 shrink-0">expand_more</span>
+              <i class="fas fa-chevron-down transition-transform duration-200 shrink-0"></i>
             </button>
             <div id="faq-{{ forloop.index }}" role="region" aria-labelledby="faq-btn-{{ forloop.index }}" class="hidden">
               <p class="mt-3 text-sm text-text-light">{{ faq.answer }}</p>

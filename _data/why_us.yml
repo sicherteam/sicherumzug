@@ -1,12 +1,12 @@
 - title: Sicherer & geschützter Transport
   description: Wir verwenden spezielle Schutzdecken, Luftpolsterfolien und Transportroller, um Kratzer oder Beschädigungen an Ihren wertvollen Möbeln auszuschließen.
-  icon: local_shipping
+  icon: fa-truck-moving
 - title: Professionelle De- & Montage
   description: Unser erfahrenes Team kümmert sich um den millimetergenauen Abbau und den stabilen Aufbau Ihrer Einrichtung am neuen Wohnort.
-  icon: build_circle
+  icon: fa-tools
 - title: 100% Fixpreis ohne Überraschungen
   description: Sie erhalten vorab ein transparentes, schriftliches Festpreisangebot. Wir berechnen weder Anfahrtskosten noch versteckte Wochenendzuschläge.
-  icon: price_check
+  icon: fa-tags
 - title: Hochwertiges Verpackungsmaterial
   description: Für einen optimalen Schutz stellen wir Ihnen stabile Umzugskartons, Kleiderboxen und spezielles Seidenpapier für Zerbrechliches zur Verfügung.
-  icon: inventory_2
+  icon: fa-box-open

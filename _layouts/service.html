@@ -59,7 +59,7 @@ layout: default
       {% assign risk_items = site.data.risk_reversal | where: 'active', true | sort: 'priority' %}
       {% for risk in risk_items %}
       <span class="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-iceGrayBg px-4 py-2" title="{{ risk.detail }}">
-        <i class="fas fa-check-circle text-base"></i>
+        <i class="fas {{ risk.icon | default: 'fa-check-circle' }} text-base"></i>
         <span>{{ risk.label }}</span>
       </span>
       {% endfor %}
