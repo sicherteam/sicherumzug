@@ -17,19 +17,25 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#064e3b", // emerald-900 (dark green)
-          light: "#059669",   // emerald-600
-          button: "#059669",
-          accent: "#047857"   // emerald-700
+          DEFAULT: "#0F172A", // Nordic Slate (Slate-900)
+          light: "#334155",   // Slate-700
+          button: "#DC2626",  // Crimson Red (Red-600)
+          accent: "#B91C1C",  // Darker Crimson (Red-700)
+          hover: "#991B1B"    // Red-800
         },
         content: {
-          accent: "#059669",
-          light: "#047857"
+          accent: "#DC2626",
+          light: "#EF4444"
         },
-        "background-light": "#f8fafc",
-        "background-dark": "#022c22", // emerald-950
-        "text-light": "#1e293b",
-        "text-dark": "#f8fafc"
+        // Semantic custom colors matching Design 12
+        crimsonRed: "#DC2626",
+        crimsonHover: "#B91C1C",
+        darkSlate: "#0F172A",
+        iceGrayBg: "#F8FAFC",
+        "background-light": "#F8FAFC",
+        "background-dark": "#0F172A",
+        "text-light": "#334155", // Slate-700
+        "text-dark": "#F8FAFC"
       },
       fontFamily: {
         display: ["Inter", "system-ui", "-apple-system", "BlinkMacSystemFont", "Roboto", "sans-serif"]

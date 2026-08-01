@@ -3,7 +3,7 @@
   <div class="mx-auto flex w-full max-w-xl gap-3">
     <!-- Call Action Button -->
     <a href="tel:{{ site.phone | replace: ' ', '' }}" class="flex flex-1 items-center justify-center gap-2 rounded-full bg-primary hover:bg-primary-light px-5 py-3 text-sm md:text-base font-bold text-white shadow-sm hover:shadow transition-opacity duration-200">
-      <span class="material-symbols-outlined text-lg">call</span>
+      <i class="fas fa-phone-alt text-lg"></i>
       <span>{{ sticky_cta.call_label | default: "Anrufen" }}</span>
     </a>
     <!-- WhatsApp Action Button -->

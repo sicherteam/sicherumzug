@@ -28,7 +28,7 @@ layout: default
         </div>
         <a href="{{ guide.url | relative_url }}" class="mt-4 inline-flex items-center gap-2 rounded-full bg-primary/10 px-4 py-2 text-sm font-semibold text-primary transition-opacity hover:bg-primary hover:text-white">
           {{ guide.button_text | default: 'Weiterlesen' }}
-          <span class="material-symbols-outlined text-base">north_east</span>
+          <i class="fas fa-external-link-alt text-sm"></i>
         </a>
       </article>
       {% endfor %}

@@ -41,7 +41,7 @@
       {% for risk in sorted_risk_items %}
       {% if risk.active != false %}
       <span class="inline-flex items-center gap-1 rounded-full border border-white/30 bg-black/20 px-3 py-1" title="{{ risk.detail }}">
-        <span class="material-symbols-outlined text-sm" aria-hidden="true">{{ risk.icon | default: 'verified' }}</span>
+        <i class="fas fa-check-circle text-sm text-green-500" aria-hidden="true"></i>
         <span>{{ risk.label }}</span>
       </span>
       {% endif %}
@@ -66,11 +66,11 @@
       {% endif %}
       <div class="flex flex-row gap-3 w-full sm:w-auto">
         <a href="{{ whatsapp_url }}" class="flex flex-1 sm:flex-initial items-center justify-center gap-2 rounded-full bg-emerald-600 hover:bg-emerald-500 px-6 py-4 text-sm font-bold text-white shadow hover:shadow-md hover:-translate-y-0.5 transition-opacity duration-200">
-          <span class="material-symbols-outlined text-lg text-white">chat</span>
+          <i class="fab fa-whatsapp text-lg text-white"></i>
           {{ whatsapp_label }}
         </a>
         <a href="{{ call_url }}" class="flex flex-1 sm:flex-initial items-center justify-center gap-2 rounded-full border border-white/30 hover:border-white bg-white/10 hover:bg-white/20 px-6 py-4 text-sm font-bold text-white shadow hover:shadow-md hover:-translate-y-0.5 transition-opacity duration-200">
-          <span class="material-symbols-outlined text-lg">call</span>
+          <i class="fas fa-phone-alt text-lg"></i>
           <span class="whitespace-nowrap">{{ call_label }}</span>
         </a>
       </div>
