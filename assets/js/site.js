@@ -164,6 +164,23 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   var phoneInp = document.getElementById('form-phone');
   var emailInp = document.getElementById('form-email');
 
+  // Live character counter for Kurzbeschreibung
+  var messageInp = document.getElementById('form-message');
+  var messageCounter = document.getElementById('form-message-counter');
+  if (messageInp && messageCounter) {
+    messageInp.addEventListener('input', function() {
+      var len = messageInp.value.length;
+      messageCounter.textContent = len + ' / 1000 Zeichen';
+      if (len >= 900) {
+        messageCounter.classList.remove('text-text-light/60');
+        messageCounter.classList.add('text-red-500', 'font-semibold');
+      } else {
+        messageCounter.classList.add('text-text-light/60');
+        messageCounter.classList.remove('text-red-500', 'font-semibold');
+      }
+    });
+  }
+
   function setFieldError(input, errorMsg) {
     if (!input) return;
     var errorId = input.id + '-error';
