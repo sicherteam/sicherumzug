@@ -300,6 +300,23 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     });
   }
 
+  // Live character counter for Kurzbeschreibung
+  var messageInp = document.getElementById('form-message');
+  var messageCounter = document.getElementById('form-message-counter');
+  if (messageInp && messageCounter) {
+    var updateCounter = function() {
+      var len = messageInp.value.length;
+      messageCounter.textContent = len + ' / 1000';
+      if (len >= 900) {
+        messageCounter.className = 'text-xs text-crimson font-bold';
+      } else {
+        messageCounter.className = 'text-xs text-text-light/80';
+      }
+    };
+    messageInp.addEventListener('input', updateCounter);
+    updateCounter();
+  }
+
   // Double-submit prevention and direct loading feedback on the quote form
   var quoteForm = document.querySelector('form[action*="formspree.io"]');
   if (quoteForm) {
