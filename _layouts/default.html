@@ -7,6 +7,7 @@
     <link rel="dns-prefetch" href="https://fonts.gstatic.com"/>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <style>
       :root { color-scheme: light dark; }
       body {
@@ -98,8 +99,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}"/>
     <meta name="apple-mobile-web-app-title" content="{{ site.brand_name }}"/>
     <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}"/>
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" media="print" onload="this.media='all';this.onload=null;"/>
-    <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"/></noscript>
     {% assign hero_preload = page.hero_preload | default: page.hero_image %}
     {% if page.layout == 'home' or page.layout == 'service' or page.layout == 'state' %}
     {% include head-home-hero-preload.html %}
