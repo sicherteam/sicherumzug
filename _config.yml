@@ -3,10 +3,11 @@ brand_name: "Sicher Team"
 brand_ascii: "Sicher Team"
 description: "Sicher Team ist Ihr voll versicherter Partner für Umzug & Übersiedlung in ganz Österreich. 100% Fixpreis, All-Risk-Transportversicherung & geschultes Fachpersonal."
 lang: de-AT
-url: "https://sicher-umzug.at"
+url: "https://sicherteam.github.io"
 canonical_base_url: "https://sicher-umzug.at"
-baseurl: ""
-
+baseurl: "/sicherumzug"
+#url: "https://sicher-umzug.at"
+#baseurl: ""
 email: office@sicher-umzug.at
 phone: "+43 660 6060775"
 whatsapp: "https://wa.me/436606060775"
@@ -24,10 +25,15 @@ open_hours:
       - Wednesday
       - Thursday
       - Friday
+    opens: "08:00"
+    closes: "18:00"
+  - days:
       - Saturday
+    opens: "09:00"
+    closes: "14:00"
+  - days:
       - Sunday
-    opens: "06:00"
-    closes: "23:00"
+    closed: true
 
 quote_form_action: "https://formspree.io/f/mqagkeya"
 logo: /logo.svg

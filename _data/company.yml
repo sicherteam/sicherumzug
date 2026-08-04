@@ -4,14 +4,14 @@ description: "Professionelle Umzugsfirma und Entrümpelungsexperten in Österrei
 slogan: "Ihr sicherer Weg ins neue Zuhause."
 
 contact:
-  phone: "+43 660 6060775"
-  email: "office@sicher-umzug.at"
+  phone: "+43 1 234 5678"
+  email: "office@sicherumzug.at"
   address:
-    street: "Wildgartenallee 1"
-    postal_code: "1120"
+    street: "Musterstraße 1"
+    postal_code: "1010"
     city: "Wien"
     country: "Österreich"
-  business_hours: "Mo-So: 06:00 - 23:00 Uhr"
+  business_hours: "Mo-Sa: 08:00 - 18:00 Uhr"
 
 trust_signals:
   experience_years: 15
