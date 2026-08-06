@@ -29,7 +29,7 @@ open_hours:
     opens: "06:00"
     closes: "23:00"
 
-logo: /logo.svg
+logo: /assets/images/house-logo.png
 og_image: /assets/images/hero/desktop.avif
 og_image_alt: "Sicher Team im Einsatz"
 

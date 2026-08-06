@@ -28,7 +28,7 @@
   </div>
 </div>
 
-<header class="sticky top-0 z-50 bg-slate-900/90 backdrop-blur-md border-b border-white/10 text-white shadow-xl">
+<header class="sticky top-0 z-50 bg-slate-950/90 backdrop-blur-md border-b border-white/10 text-white shadow-xl">
   <div class="container mx-auto px-4">
     <div class="flex py-2 h-16 sm:h-18 items-center justify-between">
 
@@ -38,14 +38,14 @@
 >
   <span class="sr-only">{{ site.brand_name }}</span>
 
-<img
-  src="{{ site.logo | default: '/logo.svg' | relative_url }}"
-  alt="Sicher Team Logo"
-  title="{{ site.brand_name }}"
-  class="h-12 w-12 max-h-12 max-w-12 object-contain shrink-0"
-  width="48"
-  height="48"
-/>
+  <img
+    src="{{ site.logo | default: '/logo.svg' | relative_url }}"
+    alt="Sicher Team Logo"
+    title="{{ site.brand_name }}"
+    class="h-12 w-auto shrink-0"
+    width="56"
+    height="56"
+  />
 
   <span class="flex items-center text-xl sm:text-2xl font-extrabold tracking-wide leading-none whitespace-nowrap">
     <span class="text-white">SICHER</span>
