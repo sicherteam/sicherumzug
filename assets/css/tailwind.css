@@ -1,201 +1,2107 @@
+/* ==========================================================================
+   TAILWIND
+   ========================================================================== */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  color-scheme: dark light;
+/* ==========================================================================
+   DESIGN SYSTEM
+   ========================================================================== */
+
+:root{
+
+    color-scheme: dark;
+
+    /* ------------------------------------------------------------------
+       COLORS
+    ------------------------------------------------------------------- */
+
+    --color-bg:#0b1220;
+    --color-surface:#111827;
+    --color-surface-2:#182234;
+    --color-card:#1e293b;
+
+    --color-border:#334155;
+    --color-border-light:#475569;
+
+    --color-text:#f8fafc;
+    --color-text-soft:#cbd5e1;
+    --color-text-muted:#94a3b8;
+
+    --color-primary:#fbbf24;
+    --color-primary-hover:#f59e0b;
+    --color-primary-soft:#fde68a;
+
+    --color-success:#22c55e;
+    --color-danger:#ef4444;
+    --color-warning:#f59e0b;
+    --color-info:#38bdf8;
+
+    /* ------------------------------------------------------------------
+       RADIUS
+    ------------------------------------------------------------------- */
+
+    --radius-xs:6px;
+    --radius-sm:10px;
+    --radius:14px;
+    --radius-lg:18px;
+    --radius-xl:24px;
+    --radius-2xl:32px;
+    --radius-full:999px;
+
+    /* ------------------------------------------------------------------
+       SHADOWS
+    ------------------------------------------------------------------- */
+
+    --shadow-xs:
+    0 1px 2px rgba(0,0,0,.08);
+
+    --shadow-sm:
+    0 4px 10px rgba(0,0,0,.15);
+
+    --shadow:
+    0 10px 30px rgba(0,0,0,.25);
+
+    --shadow-lg:
+    0 20px 50px rgba(0,0,0,.32);
+
+    --shadow-xl:
+    0 30px 80px rgba(0,0,0,.40);
+
+    /* ------------------------------------------------------------------
+       BLUR
+    ------------------------------------------------------------------- */
+
+    --blur-xs:4px;
+    --blur-sm:8px;
+    --blur:16px;
+    --blur-lg:24px;
+
+    /* ------------------------------------------------------------------
+       SPACING
+    ------------------------------------------------------------------- */
+
+    --space-xs:.25rem;
+    --space-sm:.5rem;
+    --space:.75rem;
+    --space-md:1rem;
+    --space-lg:1.5rem;
+    --space-xl:2rem;
+    --space-2xl:3rem;
+
+    /* ------------------------------------------------------------------
+       ANIMATION
+    ------------------------------------------------------------------- */
+
+    --ease:cubic-bezier(.2,.8,.2,1);
+
+    --speed-fast:.15s;
+    --speed:.25s;
+    --speed-slow:.4s;
+
 }
 
-body {
-  font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
-  /* DÜZELTME: Midnight Slate temamıza uygun koyu arka plan (FOUC önleme) */
-  background-color: #0f172a; 
-  color: #f8fafc;
-  min-height: 100vh;
+/* ==========================================================================
+   RESET
+   ========================================================================== */
+
+*,
+*::before,
+*::after{
+
+    box-sizing:border-box;
+
 }
 
-[data-hero-banner] {
-  --hero-image: var(--hero-desktop);
-  background-image: linear-gradient(rgba(15, 23, 42, 0.45), rgba(15, 23, 42, 0.75)), var(--hero-image);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+html{
+
+    scroll-behavior:smooth;
+
+    -webkit-text-size-adjust:100%;
+
 }
 
-@media (max-width: 767px) {
-  [data-hero-banner] {
-    --hero-image: var(--hero-mobile, var(--hero-desktop));
-  }
+body{
+
+    margin:0;
+
+    min-height:100vh;
+
+    background:var(--color-bg);
+
+    color:var(--color-text);
+
+    font-family:
+    Inter,
+    "Segoe UI",
+    system-ui,
+    sans-serif;
+
+    line-height:1.6;
+
+    overflow-x:hidden;
+
+    text-rendering:optimizeLegibility;
+
+    -webkit-font-smoothing:antialiased;
+
+    -moz-osx-font-smoothing:grayscale;
+
 }
 
-/* DÜZELTME: Hem yerel hem CDN font ailesi ismini tutarlı hale getirdik */
-@font-face {
-  font-family: 'Material Symbols Outlined';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('../fonts/material-symbols-outlined.woff2') format('woff2');
+img{
+
+    display:block;
+
+    max-width:100%;
+
+    height:auto;
+
 }
 
-.material-symbols-outlined {
-  font-family: 'Material Symbols Outlined', 'Material Symbols Outlined Local', sans-serif;
-  font-weight: normal;
-  font-style: normal;
-  font-size: 1em;
-  line-height: 1;
-  letter-spacing: normal;
-  text-transform: none;
-  display: inline-block;
-  white-space: nowrap;
-  word-wrap: normal;
-  direction: ltr;
-  -webkit-font-feature-settings: 'liga';
-  -webkit-font-smoothing: antialiased;
+picture{
+
+    display:block;
+
 }
 
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+svg{
+
+    flex-shrink:0;
+
 }
 
-::-webkit-scrollbar-thumb {
-  background-color: rgba(30, 41, 59, 0.8);
-  border-radius: 999px;
+button{
+
+    font:inherit;
+
 }
 
-.trust-badge {
-  font-size: 0.875rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+input,
+textarea,
+select{
+
+    font:inherit;
+
 }
 
-.defer-section {
-  content-visibility: auto;
-  contain-intrinsic-size: auto 900px;
+a{
+
+    color:inherit;
+
+    text-decoration:none;
+
 }
 
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  }
+ul,
+ol{
+
+    padding-left:1.4rem;
+
 }
+
+hr{
+
+    border:none;
+
+    height:1px;
+
+    background:var(--color-border);
+
+}
+
+/* ==========================================================================
+   TEXT SELECTION
+   ========================================================================== */
+
+::selection{
+
+    background:var(--color-primary);
+
+    color:#111827;
+
+}
+
+::-moz-selection{
+
+    background:var(--color-primary);
+
+    color:#111827;
+
+}
+
+/* ==========================================================================
+   SCROLLBAR
+   ========================================================================== */
+
+::-webkit-scrollbar{
+
+    width:10px;
+
+    height:10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+    background:transparent;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#334155;
+
+    border-radius:999px;
+
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+    background:#475569;
+
+}
+
+/* ==========================================================================
+   FOCUS
+   ========================================================================== */
+
+:focus{
+
+    outline:none;
+
+}
+
+:focus-visible{
+
+    outline:none;
+
+    box-shadow:
+
+    0 0 0 3px rgba(251,191,36,.30),
+
+    0 0 0 6px rgba(251,191,36,.12);
+
+    transition:box-shadow .2s;
+
+    border-radius:12px;
+
+}
+
+/* ==========================================================================
+   MOTION
+   ========================================================================== */
+
+*{
+
+    transition:
+
+    background-color var(--speed),
+
+    color var(--speed),
+
+    border-color var(--speed),
+
+    box-shadow var(--speed),
+
+    opacity var(--speed),
+
+    transform var(--speed);
+
+}
+
+@media(prefers-reduced-motion:reduce){
+
+*{
+
+animation:none!important;
+
+transition:none!important;
+
+scroll-behavior:auto!important;
+
+}
+
+}
+
+/* ==========================================================================
+   COMPONENTS
+   ========================================================================== */
 
 @layer components {
-  .richtext {
-    @apply max-w-none text-base leading-relaxed text-slate-300;
+
+  /* --------------------------------------------------------------------------
+     CONTAINER
+  -------------------------------------------------------------------------- */
+
+  .container {
+    @apply mx-auto w-full max-w-7xl px-6 lg:px-8;
   }
 
-  .richtext > *:first-child {
-    margin-top: 0;
+  .container-sm {
+    @apply mx-auto w-full max-w-4xl px-6;
+  }
+
+  .container-xs {
+    @apply mx-auto w-full max-w-2xl px-6;
+  }
+
+  /* --------------------------------------------------------------------------
+     SECTION
+  -------------------------------------------------------------------------- */
+
+  .section {
+    @apply py-20 lg:py-28;
+  }
+
+  .section-sm {
+    @apply py-14;
+  }
+
+  .section-lg {
+    @apply py-32;
+  }
+
+  /* --------------------------------------------------------------------------
+     SURFACE
+  -------------------------------------------------------------------------- */
+
+  .surface {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+  }
+
+  .surface-soft {
+    background: rgba(255,255,255,.03);
+    border: 1px solid rgba(255,255,255,.06);
+    border-radius: var(--radius-lg);
+  }
+
+  /* --------------------------------------------------------------------------
+     CARD
+  -------------------------------------------------------------------------- */
+
+  .card {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow);
+    transition: all var(--speed) var(--ease);
+  }
+
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--color-border-light);
+  }
+
+  .card-body {
+    @apply p-6 lg:p-8;
+  }
+
+  /* --------------------------------------------------------------------------
+     GLASS
+  -------------------------------------------------------------------------- */
+
+  .glass {
+    background: rgba(17,24,39,.55);
+    backdrop-filter: blur(var(--blur));
+    -webkit-backdrop-filter: blur(var(--blur));
+
+    border: 1px solid rgba(255,255,255,.08);
+
+    border-radius: var(--radius-lg);
+
+    box-shadow: var(--shadow);
+  }
+
+  /* --------------------------------------------------------------------------
+     BADGE
+  -------------------------------------------------------------------------- */
+
+  .badge {
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:.5rem;
+
+    padding:.45rem .85rem;
+
+    border-radius:999px;
+
+    font-size:.78rem;
+
+    font-weight:600;
+
+    letter-spacing:.03em;
+
+    border:1px solid rgba(255,255,255,.08);
+
+    background:rgba(255,255,255,.04);
+
+    color:var(--color-text-soft);
+
+  }
+
+  .badge-primary{
+
+    background:rgba(251,191,36,.12);
+
+    color:var(--color-primary);
+
+    border-color:rgba(251,191,36,.25);
+
+  }
+
+  .badge-success{
+
+    background:rgba(34,197,94,.12);
+
+    color:#4ade80;
+
+    border-color:rgba(34,197,94,.25);
+
+  }
+
+  .badge-danger{
+
+    background:rgba(239,68,68,.12);
+
+    color:#f87171;
+
+    border-color:rgba(239,68,68,.25);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     BUTTON
+  -------------------------------------------------------------------------- */
+
+  .btn{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    gap:.65rem;
+
+    padding:.85rem 1.3rem;
+
+    border-radius:var(--radius);
+
+    font-weight:600;
+
+    font-size:.95rem;
+
+    line-height:1;
+
+    cursor:pointer;
+
+    white-space:nowrap;
+
+    user-select:none;
+
+    transition:all var(--speed) var(--ease);
+
+  }
+
+  .btn:disabled{
+
+    opacity:.45;
+
+    cursor:not-allowed;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     PRIMARY
+  -------------------------------------------------------------------------- */
+
+  .btn-primary{
+
+    background:var(--color-primary);
+
+    color:#111827;
+
+    box-shadow:var(--shadow-sm);
+
+  }
+
+  .btn-primary:hover{
+
+    background:var(--color-primary-hover);
+
+    transform:translateY(-2px);
+
+    box-shadow:var(--shadow);
+
+  }
+
+  .btn-primary:active{
+
+    transform:translateY(0);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     SECONDARY
+  -------------------------------------------------------------------------- */
+
+  .btn-secondary{
+
+    background:var(--color-surface);
+
+    color:var(--color-text);
+
+    border:1px solid var(--color-border);
+
+  }
+
+  .btn-secondary:hover{
+
+    background:var(--color-surface-2);
+
+    border-color:var(--color-border-light);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     GHOST
+  -------------------------------------------------------------------------- */
+
+  .btn-ghost{
+
+    background:transparent;
+
+    color:var(--color-text-soft);
+
+  }
+
+  .btn-ghost:hover{
+
+    background:rgba(255,255,255,.05);
+
+    color:white;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     INPUT
+  -------------------------------------------------------------------------- */
+
+  .input{
+
+    width:100%;
+
+    padding:.9rem 1rem;
+
+    border-radius:var(--radius);
+
+    border:1px solid var(--color-border);
+
+    background:var(--color-surface);
+
+    color:var(--color-text);
+
+  }
+
+  .input::placeholder{
+
+    color:var(--color-text-muted);
+
+  }
+
+  .input:hover{
+
+    border-color:var(--color-border-light);
+
+  }
+
+  .input:focus{
+
+    border-color:var(--color-primary);
+
+    box-shadow:
+
+    0 0 0 4px rgba(251,191,36,.15);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     TEXTAREA
+  -------------------------------------------------------------------------- */
+
+  .textarea{
+
+    @apply input;
+
+    resize:vertical;
+
+    min-height:160px;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     SELECT
+  -------------------------------------------------------------------------- */
+
+  .select{
+
+    @apply input;
+
+    appearance:none;
+
+    cursor:pointer;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     DIVIDER
+  -------------------------------------------------------------------------- */
+
+  .divider{
+
+    height:1px;
+
+    background:var(--color-border);
+
+    width:100%;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     HERO
+  -------------------------------------------------------------------------- */
+
+  .hero{
+
+    position:relative;
+
+    overflow:hidden;
+
+    isolation:isolate;
+
+  }
+
+  .hero-overlay{
+
+    position:absolute;
+
+    inset:0;
+
+    background:
+
+    linear-gradient(
+
+    rgba(11,18,32,.30),
+
+    rgba(11,18,32,.82)
+
+    );
+
+    z-index:1;
+
+  }
+
+  .hero-content{
+
+    position:relative;
+
+    z-index:2;
+
+  }
+
+}
+
+/* ==========================================================================
+   TYPOGRAPHY & RICH CONTENT
+   ========================================================================== */
+
+@layer components {
+
+  /* --------------------------------------------------------------------------
+     HEADINGS
+  -------------------------------------------------------------------------- */
+
+  .display {
+    @apply font-black tracking-tight text-white;
+    font-size: clamp(3rem, 8vw, 5rem);
+    line-height: .95;
+    text-wrap: balance;
+  }
+
+  .display-lg {
+    @apply font-black tracking-tight text-white;
+    font-size: clamp(4rem, 10vw, 6.5rem);
+    line-height: .92;
+    text-wrap: balance;
+  }
+
+  .heading-1 {
+    @apply font-extrabold text-white;
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    line-height: 1.05;
+    text-wrap: balance;
+  }
+
+  .heading-2 {
+    @apply font-bold text-white;
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.1;
+    text-wrap: balance;
+  }
+
+  .heading-3 {
+    @apply font-bold text-white;
+    font-size: clamp(1.5rem, 4vw, 2.25rem);
+    line-height: 1.15;
+  }
+
+  .heading-4 {
+    @apply font-semibold text-white;
+    font-size: clamp(1.25rem, 3vw, 1.6rem);
+    line-height: 1.25;
+  }
+
+  .lead {
+    @apply text-slate-300;
+    font-size: clamp(1.125rem, 2vw, 1.35rem);
+    line-height: 1.8;
+    max-width: 70ch;
+  }
+
+  .muted {
+    color: var(--color-text-muted);
+  }
+
+  /* --------------------------------------------------------------------------
+     RICHTEXT
+  -------------------------------------------------------------------------- */
+
+  .richtext {
+    @apply max-w-none text-slate-300;
+    line-height: 1.85;
+    font-size: 1.05rem;
+  }
+
+  /* Dikey ritim */
+  .richtext > * + * {
+    margin-top: 1.5rem;
+  }
+
+  /* Maksimum okunabilirlik */
+  .richtext > * {
+    max-width: 72ch;
+  }
+
+  .richtext > img,
+  .richtext > figure,
+  .richtext > table {
+    max-width: 100%;
+  }
+
+  /* --------------------------------------------------------------------------
+     HEADINGS
+  -------------------------------------------------------------------------- */
+
+  .richtext h1 {
+    @apply font-black text-white;
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    line-height: 1.05;
+    margin-top: 3rem;
   }
 
   .richtext h2 {
-    @apply mt-10 text-3xl font-extrabold text-white;
+    @apply font-bold text-white;
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 1.1;
+    margin-top: 3rem;
   }
 
   .richtext h3 {
-    @apply mt-8 text-2xl font-bold text-white;
+    @apply font-bold text-white;
+    font-size: clamp(1.6rem, 3vw, 2rem);
+    line-height: 1.2;
+    margin-top: 2.5rem;
   }
 
   .richtext h4 {
-    @apply mt-6 text-xl font-semibold text-white;
+    @apply font-semibold text-white;
+    font-size: 1.35rem;
+    margin-top: 2rem;
   }
 
-  .richtext p,
-  .richtext ul,
-  .richtext ol,
-  .richtext blockquote {
-    @apply mt-4;
+  /* --------------------------------------------------------------------------
+     PARAGRAPH
+  -------------------------------------------------------------------------- */
+
+  .richtext p {
+    color: var(--color-text-soft);
   }
+
+  /* --------------------------------------------------------------------------
+     LINKS
+  -------------------------------------------------------------------------- */
+
+  .richtext a {
+    color: var(--color-primary);
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: rgba(251,191,36,.35);
+    text-underline-offset: .25rem;
+    transition: all .2s ease;
+  }
+
+  .richtext a:hover {
+    color: #fde68a;
+    text-decoration-color: currentColor;
+  }
+
+  /* --------------------------------------------------------------------------
+     STRONG
+  -------------------------------------------------------------------------- */
+
+  .richtext strong {
+    color: white;
+    font-weight: 700;
+  }
+
+  .richtext em {
+    font-style: italic;
+    color: #e2e8f0;
+  }
+
+  /* --------------------------------------------------------------------------
+     LISTS
+  -------------------------------------------------------------------------- */
 
   .richtext ul {
-    @apply list-disc space-y-2 pl-5;
+    list-style: disc;
+    padding-left: 1.5rem;
   }
 
   .richtext ol {
-    @apply list-decimal space-y-2 pl-5;
+    list-style: decimal;
+    padding-left: 1.5rem;
   }
 
   .richtext li {
-    @apply text-base leading-relaxed text-slate-300;
+    margin-top: .5rem;
+    color: var(--color-text-soft);
   }
+
+  .richtext li::marker {
+    color: var(--color-primary);
+  }
+
+  /* --------------------------------------------------------------------------
+     BLOCKQUOTE
+  -------------------------------------------------------------------------- */
 
   .richtext blockquote {
-    @apply border-l-4 border-amber-500/50 pl-4 italic text-slate-200;
+    padding: 1.25rem 1.5rem;
+    border-left: 4px solid var(--color-primary);
+    background: rgba(255,255,255,.03);
+    border-radius: var(--radius);
+    color: #e2e8f0;
+    font-style: italic;
   }
 
-  .richtext a {
-    @apply font-semibold text-amber-400 underline-offset-4 hover:text-amber-300;
+  /* --------------------------------------------------------------------------
+     INLINE CODE
+  -------------------------------------------------------------------------- */
+
+  .richtext code {
+    background: rgba(255,255,255,.08);
+    color: #fde68a;
+    padding: .18rem .45rem;
+    border-radius: .45rem;
+    font-size: .92em;
+    font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
   }
 
-  .richtext strong {
-    @apply font-semibold text-white;
+  /* --------------------------------------------------------------------------
+     CODE BLOCK
+  -------------------------------------------------------------------------- */
+
+  .richtext pre {
+    background: #0f172a;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: 1.25rem;
+    overflow-x: auto;
+    box-shadow: var(--shadow-sm);
   }
+
+  .richtext pre code {
+    background: transparent;
+    padding: 0;
+    color: #e2e8f0;
+    font-size: .9rem;
+  }
+
+  /* --------------------------------------------------------------------------
+     HORIZONTAL RULE
+  -------------------------------------------------------------------------- */
+
+  .richtext hr {
+    margin: 3rem 0;
+    border: 0;
+    border-top: 1px solid var(--color-border);
+  }
+
+  /* --------------------------------------------------------------------------
+     TABLE
+  -------------------------------------------------------------------------- */
 
   .richtext table {
-    @apply mt-6 w-full border-collapse rounded-lg border border-slate-700/50 bg-slate-900/60 text-left shadow-sm;
-    table-layout: auto;
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-sm);
   }
 
   .richtext thead {
-    @apply bg-slate-800 text-white;
+    background: var(--color-surface-2);
   }
 
-  .richtext thead th {
-    @apply px-4 py-3 text-xs font-semibold uppercase tracking-wide text-slate-200;
+  .richtext th {
+    padding: 1rem;
+    text-align: left;
+    color: white;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: .03em;
   }
 
-  .richtext tbody tr:nth-child(even) {
-    @apply bg-slate-800/40;
-  }
-
-  .richtext th,
   .richtext td {
-    @apply border-b border-slate-700/50 px-4 py-3 align-top text-sm text-slate-300;
+    padding: 1rem;
+    border-top: 1px solid var(--color-border);
+    color: var(--color-text-soft);
   }
 
-  .richtext tbody tr:last-child td {
-    @apply border-b-0;
+  .richtext tbody tr {
+    transition: background-color .2s ease;
   }
 
-  @media (max-width: 640px) {
+  .richtext tbody tr:hover {
+    background: rgba(255,255,255,.03);
+  }
+
+  /* --------------------------------------------------------------------------
+     IMAGE
+  -------------------------------------------------------------------------- */
+
+  .richtext img {
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow);
+    margin: 2rem 0;
+  }
+
+  .richtext figure {
+    margin: 2rem 0;
+  }
+
+  .richtext figcaption {
+    margin-top: .75rem;
+    text-align: center;
+    font-size: .875rem;
+    color: var(--color-text-muted);
+  }
+
+  /* --------------------------------------------------------------------------
+     RESPONSIVE TABLE
+  -------------------------------------------------------------------------- */
+
+  @media (max-width: 768px) {
     .richtext table {
       display: block;
-      width: 100%;
-      max-width: 100%;
       overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
+      white-space: nowrap;
     }
 
     .richtext th,
     .richtext td {
-      padding: 0.5rem;
-      font-size: 0.75rem;
-      line-height: 1rem;
-      white-space: normal;
-      word-break: break-word;
-      hyphens: auto;
+      min-width: 160px;
     }
   }
 }
 
 /* ==========================================================================
-   PRECISION UI/UX ACCESSIBILITY OVERRIDES (WCAG AA COMPLIANT)
+   APPLICATION COMPONENTS
    ========================================================================== */
-@layer utilities {
-  /* DÜZELTME: Legacy pembe (#fca5a5) silindi. Vivid Amber (#fbbf24) ile değiştirildi. */
-  .dark .text-primary-accent,
-  footer .text-primary-accent,
-  [data-hero-banner] .text-primary-accent {
-    color: #fbbf24;
+
+@layer components {
+
+  /* --------------------------------------------------------------------------
+     APP SHELL
+  -------------------------------------------------------------------------- */
+
+  .app-shell {
+    @apply min-h-screen;
+    background: var(--color-bg);
   }
 
-  .dark .hover\:text-primary-accent:hover,
-  footer .hover\:text-primary-accent:hover,
-  [data-hero-banner] .hover\:text-primary-accent:hover {
-    color: #f59e0b;
+  .app-content {
+    @apply container py-10 lg:py-12;
   }
+
+  /* --------------------------------------------------------------------------
+     HEADER
+  -------------------------------------------------------------------------- */
+
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+
+    backdrop-filter: blur(var(--blur));
+    -webkit-backdrop-filter: blur(var(--blur));
+
+    background: rgba(11,18,32,.75);
+
+    border-bottom: 1px solid rgba(255,255,255,.06);
+  }
+
+  .header-inner {
+    @apply container;
+
+    height: 72px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+  }
+
+  /* --------------------------------------------------------------------------
+     NAVIGATION
+  -------------------------------------------------------------------------- */
+
+  .nav {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: .5rem;
+
+  }
+
+  .nav-link {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    gap: .5rem;
+
+    padding: .7rem 1rem;
+
+    border-radius: var(--radius);
+
+    color: var(--color-text-soft);
+
+    font-weight: 500;
+
+  }
+
+  .nav-link:hover {
+
+    background: rgba(255,255,255,.04);
+
+    color: white;
+
+  }
+
+  .nav-link.active {
+
+    background: rgba(251,191,36,.12);
+
+    color: var(--color-primary);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     DROPDOWN
+  -------------------------------------------------------------------------- */
+
+  .dropdown {
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+
+    border-radius: var(--radius-lg);
+
+    overflow: hidden;
+
+    box-shadow: var(--shadow-lg);
+
+  }
+
+  .dropdown-item {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: .75rem;
+
+    padding: .9rem 1rem;
+
+    color: var(--color-text-soft);
+
+  }
+
+  .dropdown-item:hover {
+
+    background: rgba(255,255,255,.04);
+
+    color: white;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     MODAL
+  -------------------------------------------------------------------------- */
+
+  .modal-backdrop {
+
+    position: fixed;
+
+    inset: 0;
+
+    background: rgba(0,0,0,.65);
+
+    backdrop-filter: blur(8px);
+
+    z-index: 100;
+
+  }
+
+  .modal {
+
+    width: min(92vw, 640px);
+
+    margin: auto;
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+
+    border-radius: var(--radius-xl);
+
+    box-shadow: var(--shadow-xl);
+
+  }
+
+  .modal-header {
+
+    padding: 1.5rem;
+
+    border-bottom: 1px solid var(--color-border);
+
+  }
+
+  .modal-body {
+
+    padding: 1.5rem;
+
+  }
+
+  .modal-footer {
+
+    padding: 1.25rem 1.5rem;
+
+    border-top: 1px solid var(--color-border);
+
+    display: flex;
+
+    justify-content: flex-end;
+
+    gap: .75rem;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     DRAWER
+  -------------------------------------------------------------------------- */
+
+  .drawer {
+
+    width: 340px;
+
+    height: 100vh;
+
+    background: var(--color-surface);
+
+    border-right: 1px solid var(--color-border);
+
+    box-shadow: var(--shadow-lg);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     ALERT
+  -------------------------------------------------------------------------- */
+
+  .alert {
+
+    display: flex;
+
+    gap: 1rem;
+
+    align-items: flex-start;
+
+    padding: 1rem 1.2rem;
+
+    border-radius: var(--radius-lg);
+
+    border: 1px solid transparent;
+
+  }
+
+  .alert-success {
+
+    background: rgba(34,197,94,.12);
+
+    border-color: rgba(34,197,94,.28);
+
+    color: #86efac;
+
+  }
+
+  .alert-warning {
+
+    background: rgba(245,158,11,.12);
+
+    border-color: rgba(245,158,11,.28);
+
+    color: #fcd34d;
+
+  }
+
+  .alert-danger {
+
+    background: rgba(239,68,68,.12);
+
+    border-color: rgba(239,68,68,.28);
+
+    color: #fca5a5;
+
+  }
+
+  .alert-info {
+
+    background: rgba(56,189,248,.12);
+
+    border-color: rgba(56,189,248,.28);
+
+    color: #7dd3fc;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     TOAST
+  -------------------------------------------------------------------------- */
+
+  .toast {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: .9rem;
+
+    padding: 1rem 1.25rem;
+
+    border-radius: var(--radius-lg);
+
+    background: var(--color-surface);
+
+    border: 1px solid var(--color-border);
+
+    box-shadow: var(--shadow-lg);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     LOADING
+  -------------------------------------------------------------------------- */
+
+  .spinner {
+
+    width: 1.15rem;
+
+    height: 1.15rem;
+
+    border-radius: 999px;
+
+    border: 2px solid rgba(255,255,255,.2);
+
+    border-top-color: var(--color-primary);
+
+    animation: spin .7s linear infinite;
+
+  }
+
+  @keyframes spin {
+
+    to {
+
+      transform: rotate(360deg);
+
+    }
+
+  }
+
+  /* --------------------------------------------------------------------------
+     SKELETON
+  -------------------------------------------------------------------------- */
+
+  .skeleton {
+
+    position: relative;
+
+    overflow: hidden;
+
+    background: rgba(255,255,255,.05);
+
+    border-radius: var(--radius);
+
+  }
+
+  .skeleton::after {
+
+    content: "";
+
+    position: absolute;
+
+    inset: 0;
+
+    transform: translateX(-100%);
+
+    background:
+
+    linear-gradient(
+
+      90deg,
+
+      transparent,
+
+      rgba(255,255,255,.08),
+
+      transparent
+
+    );
+
+    animation: skeleton 1.6s infinite;
+
+  }
+
+  @keyframes skeleton {
+
+    100% {
+
+      transform: translateX(100%);
+
+    }
+
+  }
+
+  /* --------------------------------------------------------------------------
+     EMPTY STATE
+  -------------------------------------------------------------------------- */
+
+  .empty-state {
+
+    text-align: center;
+
+    padding: 4rem 2rem;
+
+    border: 1px dashed var(--color-border);
+
+    border-radius: var(--radius-xl);
+
+    color: var(--color-text-muted);
+
+  }
+
+  /* --------------------------------------------------------------------------
+     PAGINATION
+  -------------------------------------------------------------------------- */
+
+  .pagination {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: .5rem;
+
+  }
+
+  .page-item {
+
+    width: 40px;
+
+    height: 40px;
+
+    display: grid;
+
+    place-items: center;
+
+    border-radius: var(--radius);
+
+    border: 1px solid var(--color-border);
+
+    background: var(--color-surface);
+
+  }
+
+  .page-item:hover {
+
+    border-color: var(--color-primary);
+
+  }
+
+  .page-item.active {
+
+    background: var(--color-primary);
+
+    color: #111827;
+
+    border-color: transparent;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     BREADCRUMB
+  -------------------------------------------------------------------------- */
+
+  .breadcrumb {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: .6rem;
+
+    color: var(--color-text-muted);
+
+    font-size: .92rem;
+
+  }
+
+  .breadcrumb a:hover {
+
+    color: white;
+
+  }
+
+  /* --------------------------------------------------------------------------
+     RESPONSIVE
+  -------------------------------------------------------------------------- */
+
+  @media (max-width: 768px) {
+
+    .header-inner {
+
+      height: 64px;
+
+    }
+
+    .drawer {
+
+      width: 280px;
+
+    }
+
+    .modal {
+
+      width: calc(100% - 1.5rem);
+
+    }
+
+    .nav {
+
+      gap: .25rem;
+
+    }
+
+  }
+
+}
+/* ==========================================================================
+   PREMIUM UTILITIES
+   ========================================================================== */
+
+@layer utilities{
+
+/* --------------------------------------------------------------------------
+   GRADIENT TEXT
+--------------------------------------------------------------------------- */
+
+.text-gradient{
+
+background:linear-gradient(
+135deg,
+#ffffff 0%,
+#f8fafc 30%,
+#fde68a 70%,
+#fbbf24 100%
+);
+
+-webkit-background-clip:text;
+
+background-clip:text;
+
+color:transparent;
+
+}
+
+/* --------------------------------------------------------------------------
+   GLOW
+--------------------------------------------------------------------------- */
+
+.glow{
+
+box-shadow:
+
+0 0 0 1px rgba(251,191,36,.15),
+
+0 0 30px rgba(251,191,36,.18),
+
+0 10px 60px rgba(251,191,36,.12);
+
+}
+
+/* --------------------------------------------------------------------------
+   GLASS HOVER
+--------------------------------------------------------------------------- */
+
+.glass-hover{
+
+transition:all .25s ease;
+
+}
+
+.glass-hover:hover{
+
+background:rgba(255,255,255,.05);
+
+backdrop-filter:blur(18px);
+
+transform:translateY(-3px);
+
+}
+
+/* --------------------------------------------------------------------------
+   BORDER GRADIENT
+--------------------------------------------------------------------------- */
+
+.border-gradient{
+
+position:relative;
+
+overflow:hidden;
+
+}
+
+.border-gradient::before{
+
+content:"";
+
+position:absolute;
+
+inset:0;
+
+padding:1px;
+
+border-radius:inherit;
+
+background:
+
+linear-gradient(
+
+135deg,
+
+rgba(251,191,36,.7),
+
+rgba(255,255,255,.12)
+
+);
+
+-webkit-mask:
+
+linear-gradient(#fff 0 0) content-box,
+
+linear-gradient(#fff 0 0);
+
+-webkit-mask-composite:xor;
+
+mask-composite:exclude;
+
+pointer-events:none;
+
+}
+
+/* --------------------------------------------------------------------------
+   HOVER LIFT
+--------------------------------------------------------------------------- */
+
+.hover-lift{
+
+transition:
+
+transform .25s,
+
+box-shadow .25s;
+
+}
+
+.hover-lift:hover{
+
+transform:translateY(-6px);
+
+box-shadow:var(--shadow-lg);
+
+}
+
+/* --------------------------------------------------------------------------
+   HOVER SCALE
+--------------------------------------------------------------------------- */
+
+.hover-scale{
+
+transition:transform .25s;
+
+}
+
+.hover-scale:hover{
+
+transform:scale(1.03);
+
+}
+
+/* --------------------------------------------------------------------------
+   SOFT BORDER
+--------------------------------------------------------------------------- */
+
+.border-soft{
+
+border:1px solid rgba(255,255,255,.06);
+
+}
+
+/* --------------------------------------------------------------------------
+   DIVIDER
+--------------------------------------------------------------------------- */
+
+.divider-gradient{
+
+height:1px;
+
+background:
+
+linear-gradient(
+
+90deg,
+
+transparent,
+
+rgba(255,255,255,.18),
+
+transparent
+
+);
+
+}
+
+/* --------------------------------------------------------------------------
+   GRID BACKGROUND
+--------------------------------------------------------------------------- */
+
+.bg-grid{
+
+background-image:
+
+linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),
+
+linear-gradient(90deg,rgba(255,255,255,.04) 1px,transparent 1px);
+
+background-size:32px 32px;
+
+}
+
+/* --------------------------------------------------------------------------
+   DOTS
+--------------------------------------------------------------------------- */
+
+.bg-dots{
+
+background-image:
+
+radial-gradient(
+
+rgba(255,255,255,.08) 1px,
+
+transparent 1px
+
+);
+
+background-size:24px 24px;
+
+}
+
+/* --------------------------------------------------------------------------
+   SAFE AREA
+--------------------------------------------------------------------------- */
+
+.safe-top{
+
+padding-top:env(safe-area-inset-top);
+
+}
+
+.safe-bottom{
+
+padding-bottom:env(safe-area-inset-bottom);
+
+}
+
+/* --------------------------------------------------------------------------
+   SCROLL MARGIN
+--------------------------------------------------------------------------- */
+
+.scroll-offset{
+
+scroll-margin-top:110px;
+
+}
+
+/* --------------------------------------------------------------------------
+   BALANCE
+--------------------------------------------------------------------------- */
+
+.text-balance{
+
+text-wrap:balance;
+
+}
+
+/* --------------------------------------------------------------------------
+   PRETTY
+--------------------------------------------------------------------------- */
+
+.text-pretty{
+
+text-wrap:pretty;
+
+}
+
+/* --------------------------------------------------------------------------
+   ANIMATION
+--------------------------------------------------------------------------- */
+
+.animate-fade-up{
+
+animation:fadeUp .5s cubic-bezier(.2,.8,.2,1);
+
+}
+
+@keyframes fadeUp{
+
+from{
+
+opacity:0;
+
+transform:
+
+translateY(18px);
+
+}
+
+to{
+
+opacity:1;
+
+transform:none;
+
+}
+
+}
+
+/* --------------------------------------------------------------------------
+   SCALE
+--------------------------------------------------------------------------- */
+
+.animate-scale{
+
+animation:scaleIn .4s ease;
+
+}
+
+@keyframes scaleIn{
+
+from{
+
+opacity:0;
+
+transform:scale(.96);
+
+}
+
+to{
+
+opacity:1;
+
+transform:scale(1);
+
+}
+
+}
+
+/* --------------------------------------------------------------------------
+   FLOAT
+--------------------------------------------------------------------------- */
+
+.animate-float{
+
+animation:float 6s ease-in-out infinite;
+
+}
+
+@keyframes float{
+
+0%,100%{
+
+transform:translateY(0);
+
+}
+
+50%{
+
+transform:translateY(-8px);
+
+}
+
+}
+
+/* --------------------------------------------------------------------------
+   SHIMMER
+--------------------------------------------------------------------------- */
+
+.animate-shimmer{
+
+background-size:200% 100%;
+
+animation:shimmer 2s linear infinite;
+
+}
+
+@keyframes shimmer{
+
+to{
+
+background-position:-200% 0;
+
+}
+
+}
+
+/* --------------------------------------------------------------------------
+   CONTENT VISIBILITY
+--------------------------------------------------------------------------- */
+
+.defer{
+
+content-visibility:auto;
+
+contain-intrinsic-size:auto 900px;
+
+}
+
+}
+
+
+/* ==========================================================================
+   ENTERPRISE POLISH
+   ========================================================================== */
+
+@layer base {
+
+  html {
+    accent-color: var(--color-primary);
+    scrollbar-gutter: stable both-edges;
+  }
+
+  body {
+    font-feature-settings:
+      "cv02",
+      "cv03",
+      "cv04",
+      "cv11";
+
+    font-kerning: normal;
+  }
+
+  :target {
+    scroll-margin-top: 120px;
+  }
+
+  img,
+  svg,
+  video,
+  canvas {
+    vertical-align: middle;
+  }
+
+  button,
+  input,
+  textarea,
+  select {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+}
+
+/* ==========================================================================
+   ADVANCED COMPONENTS
+   ========================================================================== */
+
+@layer components {
+
+  .panel {
+
+    background: linear-gradient(
+      180deg,
+      rgba(255,255,255,.03),
+      rgba(255,255,255,.015)
+    );
+
+    border: 1px solid rgba(255,255,255,.06);
+
+    border-radius: var(--radius-xl);
+
+    box-shadow: var(--shadow);
+
+  }
+
+  .panel-hover {
+
+    transition: all .25s var(--ease);
+
+  }
+
+  .panel-hover:hover {
+
+    transform: translateY(-4px);
+
+    border-color: rgba(251,191,36,.25);
+
+    box-shadow: var(--shadow-lg);
+
+  }
+
+  .icon-box {
+
+    width: 56px;
+    height: 56px;
+
+    display: grid;
+    place-items: center;
+
+    border-radius: var(--radius-lg);
+
+    background: rgba(251,191,36,.08);
+
+    color: var(--color-primary);
+
+  }
+
+  .section-title {
+
+    max-width: 20ch;
+
+    text-wrap: balance;
+
+  }
+
+  .section-description {
+
+    max-width: 65ch;
+
+    color: var(--color-text-soft);
+
+  }
+
+}
+
+/* ==========================================================================
+   UTILITIES
+   ========================================================================== */
+
+@layer utilities {
+
+  .surface-1 {
+    background: var(--color-bg);
+  }
+
+  .surface-2 {
+    background: var(--color-surface);
+  }
+
+  .surface-3 {
+    background: var(--color-card);
+  }
+
+  .border-default {
+    border-color: var(--color-border);
+  }
+
+  .text-soft {
+    color: var(--color-text-soft);
+  }
+
+  .text-muted {
+    color: var(--color-text-muted);
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-sm);
+  }
+
+  .shadow-default {
+    box-shadow: var(--shadow);
+  }
+
+  .shadow-large {
+    box-shadow: var(--shadow-lg);
+  }
+
+  .radius-default {
+    border-radius: var(--radius);
+  }
+
+  .radius-large {
+    border-radius: var(--radius-lg);
+  }
+
+  .radius-xl {
+    border-radius: var(--radius-xl);
+  }
+
 }
