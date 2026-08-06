@@ -1,7 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-
 module.exports = {
-
   content: [
     "./*.html",
     "./*.md",
@@ -18,288 +16,125 @@ module.exports = {
   darkMode: "class",
 
   theme: {
+    // Container'ı extend dışına alıyoruz çünkü temel bir yapılandırma
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: "1.5rem",
+        lg: "2rem",
+      },
+    },
 
     extend: {
-
-
       /* =====================================================
-         COLORS
+         COLORS (RGB Bridge for Opacity Support)
       ====================================================== */
-
       colors: {
-
-        background: {
-          DEFAULT:"#0b1220",
-          soft:"#111827",
-        },
-
-
+        // 'rgb(var(--color-name) / <alpha-value>)' kullanımı 
+        // bg-primary/50 gibi opacity sınıflarının çalışmasını sağlar.
+        background: "rgb(var(--color-bg) / <alpha-value>)",
         surface: {
-
-          DEFAULT:"#111827",
-
-          elevated:"#182234",
-
-          card:"#1e293b",
-
+          DEFAULT: "rgb(var(--color-surface) / <alpha-value>)",
+          soft: "rgb(var(--color-surface-soft) / <alpha-value>)",
+          elevated: "rgb(var(--color-surface-2) / <alpha-value>)",
+          card: "rgb(var(--color-card) / <alpha-value>)",
         },
-
-
         border: {
-
-          DEFAULT:"#334155",
-
-          light:"#475569",
-
+          DEFAULT: "rgb(var(--color-border) / <alpha-value>)",
+          light: "rgb(var(--color-border-light) / <alpha-value>)",
         },
-
-
         text: {
-
-          DEFAULT:"#f8fafc",
-
-          soft:"#cbd5e1",
-
-          muted:"#94a3b8",
-
+          DEFAULT: "rgb(var(--color-text) / <alpha-value>)",
+          soft: "rgb(var(--color-text-soft) / <alpha-value>)",
+          muted: "rgb(var(--color-text-muted) / <alpha-value>)",
         },
-
-
         primary: {
-
-          DEFAULT:"#fbbf24",
-
-          hover:"#f59e0b",
-
-          soft:"#fde68a",
-
+          DEFAULT: "rgb(var(--color-primary) / <alpha-value>)",
+          hover: "rgb(var(--color-primary-hover) / <alpha-value>)",
+          soft: "rgb(var(--color-primary-soft) / <alpha-value>)",
         },
-
-
-        success:"#22c55e",
-
-        danger:"#ef4444",
-
-        warning:"#f59e0b",
-
-        info:"#38bdf8",
-
-
+        success: "rgb(var(--color-success) / <alpha-value>)",
+        danger: "rgb(var(--color-danger) / <alpha-value>)",
+        warning: "rgb(var(--color-warning) / <alpha-value>)",
+        info: "rgb(var(--color-info) / <alpha-value>)",
       },
-
 
       /* =====================================================
          TYPOGRAPHY
       ====================================================== */
-
       fontFamily: {
-
-        sans:[
-
+        sans: [
           "Inter",
-
-          "Segoe UI",
-
+          "ui-sans-serif",
           "system-ui",
-
           "-apple-system",
-
           "BlinkMacSystemFont",
-
+          "Segoe UI",
           "Roboto",
-
-          "sans-serif"
-
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif",
         ],
-
-        display:[
-
-          "Inter",
-
-          "system-ui",
-
-          "sans-serif"
-
-        ]
-
+        display: ["Inter", "system-ui", "sans-serif"],
       },
 
-
       /* =====================================================
-         RADIUS
+         RADIUS (Mapped to CSS Variables)
       ====================================================== */
-
       borderRadius: {
-
-        xs:"6px",
-
-        sm:"10px",
-
-        DEFAULT:"14px",
-
-        lg:"18px",
-
-        xl:"24px",
-
-        "2xl":"32px",
-
-        full:"999px",
-
+        xs: "var(--radius-xs)",
+        sm: "var(--radius-sm)",
+        DEFAULT: "var(--radius)",
+        lg: "var(--radius-lg)",
+        xl: "var(--radius-xl)",
+        "2xl": "var(--radius-2xl)",
+        full: "var(--radius-full)",
       },
 
-
       /* =====================================================
-         SHADOW
+         SHADOWS (Mapped to CSS Variables)
       ====================================================== */
-
-      boxShadow:{
-
-
-        soft:
-
-        "0 4px 10px rgba(0,0,0,.15)",
-
-
-        card:
-
-        "0 10px 30px rgba(0,0,0,.25)",
-
-
-        large:
-
-        "0 20px 50px rgba(0,0,0,.32)",
-
-
-        glow:
-
-        "0 0 40px rgba(251,191,36,.18)"
-
+      boxShadow: {
+        xs: "var(--shadow-xs)",
+        soft: "var(--shadow-sm)",
+        DEFAULT: "var(--shadow)",
+        large: "var(--shadow-lg)",
+        xl: "var(--shadow-xl)",
+        glow: "0 0 40px rgb(var(--color-primary) / 0.18)", // Dinamik glow
       },
 
-
       /* =====================================================
-         CONTAINER
+         ANIMATION & KEYFRAMES
       ====================================================== */
-
-      container:{
-
-        center:true,
-
-        padding:{
-
-          DEFAULT:"1.5rem",
-
-          lg:"2rem"
-
-        }
-
-      },
-
-
-      /* =====================================================
-         ANIMATION
-      ====================================================== */
-
-      keyframes:{
-
-
-        marquee:{
-
-          "0%":{
-
-            transform:"translateX(0%)"
-
-          },
-
-
-          "100%":{
-
-            transform:"translateX(-50%)"
-
-          },
-
-
+      keyframes: {
+        marquee: {
+          "0%": { transform: "translateX(0%)" },
+          "100%": { transform: "translateX(-50%)" },
         },
-
-
-        fadeUp:{
-
-
-          "0%":{
-
-            opacity:"0",
-
-            transform:"translateY(20px)"
-
-          },
-
-
-          "100%":{
-
-            opacity:"1",
-
-            transform:"translateY(0)"
-
-          }
-
-
+        fadeUp: {
+          "0%": { opacity: "0", transform: "translateY(18px)" },
+          "100%": { opacity: "1", transform: "translateY(0)" },
         },
-
-
-        float:{
-
-
-          "0%,100%":{
-
-            transform:"translateY(0)"
-
-          },
-
-
-          "50%":{
-
-            transform:"translateY(-8px)"
-
-          }
-
-
+        float: {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-8px)" },
+        },
+        shimmer: {
+          "100%": { transform: "translateX(100%)" },
         }
-
-
       },
-
-
-      animation:{
-
-
-        marquee:
-
-        "marquee 25s linear infinite",
-
-
-        fadeUp:
-
-        "fadeUp .5s ease-out",
-
-
-        float:
-
-        "float 6s ease-in-out infinite"
-
-
-      }
-
-    }
-
+      animation: {
+        marquee: "marquee 25s linear infinite",
+        fadeUp: "fadeUp 0.5s cubic-bezier(0.2, 0.8, 0.2, 1)",
+        float: "float 6s ease-in-out infinite",
+        shimmer: "shimmer 1.6s infinite",
+      },
+    },
   },
 
-
-  plugins:[
-
+  plugins: [
     require("@tailwindcss/forms"),
-
-    require("@tailwindcss/container-queries")
-
-  ]
-
+    require("@tailwindcss/container-queries"),
+    require("@tailwindcss/typography"), // Zengin metinler (richtext) için önemli
+  ],
 };
