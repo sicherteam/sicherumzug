@@ -1,0 +1,28 @@
+name: Build Tailwind CSS
+
+on:
+  push:
+    branches: [main] # Hangi branch'i kullanıyorsan onu yaz
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Tailwind
+        run: npm install -D tailwindcss postcss autoprefixer
+
+      - name: Build CSS
+        run: npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css --minify
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: auto-generate tailwind css"
+          file_pattern: "assets/css/main.css"
