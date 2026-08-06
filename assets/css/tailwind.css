@@ -3,18 +3,20 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light dark;
+  color-scheme: dark light;
 }
 
 body {
   font-family: 'Segoe UI', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
-  background-color: #F5F5F5;
+  /* DÜZELTME: Midnight Slate temamıza uygun koyu arka plan (FOUC önleme) */
+  background-color: #0f172a; 
+  color: #f8fafc;
   min-height: 100vh;
 }
 
 [data-hero-banner] {
   --hero-image: var(--hero-desktop);
-  background-image: linear-gradient(rgba(10, 35, 66, 0.15), rgba(10, 35, 66, 0.45)), var(--hero-image);
+  background-image: linear-gradient(rgba(15, 23, 42, 0.45), rgba(15, 23, 42, 0.75)), var(--hero-image);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -22,13 +24,13 @@ body {
 
 @media (max-width: 767px) {
   [data-hero-banner] {
-    /* Swap to mobile hero asset when available */
     --hero-image: var(--hero-mobile, var(--hero-desktop));
   }
 }
 
+/* DÜZELTME: Hem yerel hem CDN font ailesi ismini tutarlı hale getirdik */
 @font-face {
-  font-family: 'Material Symbols Outlined Local';
+  font-family: 'Material Symbols Outlined';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -36,7 +38,6 @@ body {
 }
 
 .material-symbols-outlined {
-  /* Fallback to local if CDN fails, but explicitly use the CDN font family first */
   font-family: 'Material Symbols Outlined', 'Material Symbols Outlined Local', sans-serif;
   font-weight: normal;
   font-style: normal;
@@ -58,7 +59,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(10, 35, 66, 0.55);
+  background-color: rgba(30, 41, 59, 0.8);
   border-radius: 999px;
 }
 
@@ -69,7 +70,6 @@ body {
 }
 
 .defer-section {
-  /* Delay layout/paint work for below-the-fold sections without layout shifts */
   content-visibility: auto;
   contain-intrinsic-size: auto 900px;
 }
@@ -85,7 +85,7 @@ body {
 
 @layer components {
   .richtext {
-    @apply max-w-none text-base leading-relaxed text-text-light;
+    @apply max-w-none text-base leading-relaxed text-slate-300;
   }
 
   .richtext > *:first-child {
@@ -93,15 +93,15 @@ body {
   }
 
   .richtext h2 {
-    @apply mt-10 text-3xl font-extrabold text-primary;
+    @apply mt-10 text-3xl font-extrabold text-white;
   }
 
   .richtext h3 {
-    @apply mt-8 text-2xl font-bold text-primary;
+    @apply mt-8 text-2xl font-bold text-white;
   }
 
   .richtext h4 {
-    @apply mt-6 text-xl font-semibold text-primary;
+    @apply mt-6 text-xl font-semibold text-white;
   }
 
   .richtext p,
@@ -120,41 +120,41 @@ body {
   }
 
   .richtext li {
-    @apply text-base leading-relaxed text-text-light;
+    @apply text-base leading-relaxed text-slate-300;
   }
 
   .richtext blockquote {
-    @apply border-l-4 border-primary/40 pl-4 italic text-primary;
+    @apply border-l-4 border-amber-500/50 pl-4 italic text-slate-200;
   }
 
   .richtext a {
-    @apply font-semibold text-primary underline-offset-4 hover:text-primary-light;
+    @apply font-semibold text-amber-400 underline-offset-4 hover:text-amber-300;
   }
 
   .richtext strong {
-    @apply font-semibold text-primary;
+    @apply font-semibold text-white;
   }
 
   .richtext table {
-    @apply mt-6 w-full border-collapse rounded-lg border border-primary/20 bg-white text-left shadow-sm;
+    @apply mt-6 w-full border-collapse rounded-lg border border-slate-700/50 bg-slate-900/60 text-left shadow-sm;
     table-layout: auto;
   }
 
   .richtext thead {
-    @apply bg-primary text-text-dark;
+    @apply bg-slate-800 text-white;
   }
 
   .richtext thead th {
-    @apply px-4 py-3 text-xs font-semibold uppercase tracking-wide text-background-light;
+    @apply px-4 py-3 text-xs font-semibold uppercase tracking-wide text-slate-200;
   }
 
   .richtext tbody tr:nth-child(even) {
-    @apply bg-background-light;
+    @apply bg-slate-800/40;
   }
 
   .richtext th,
   .richtext td {
-    @apply border-b border-primary/10 px-4 py-3 align-top text-sm text-text-light;
+    @apply border-b border-slate-700/50 px-4 py-3 align-top text-sm text-slate-300;
   }
 
   .richtext tbody tr:last-child td {
@@ -172,10 +172,7 @@ body {
 
     .richtext th,
     .richtext td {
-      padding-left: 0.5rem;
-      padding-right: 0.5rem;
-      padding-top: 0.5rem;
-      padding-bottom: 0.5rem;
+      padding: 0.5rem;
       font-size: 0.75rem;
       line-height: 1rem;
       white-space: normal;
@@ -186,19 +183,19 @@ body {
 }
 
 /* ==========================================================================
-   PRECISION UI/UX ACCESSIBILITY OVERRIDES (WCAG AA 4.5:1 COMPLIANT)
+   PRECISION UI/UX ACCESSIBILITY OVERRIDES (WCAG AA COMPLIANT)
    ========================================================================== */
 @layer utilities {
-  /* Override accent color on dark backgrounds to Red-300 (#fca5a5) for WCAG AA contrast */
+  /* DÜZELTME: Legacy pembe (#fca5a5) silindi. Vivid Amber (#fbbf24) ile değiştirildi. */
   .dark .text-primary-accent,
   footer .text-primary-accent,
   [data-hero-banner] .text-primary-accent {
-    color: #fca5a5;
+    color: #fbbf24;
   }
 
   .dark .hover\:text-primary-accent:hover,
   footer .hover\:text-primary-accent:hover,
   [data-hero-banner] .hover\:text-primary-accent:hover {
-    color: #f87171;
+    color: #f59e0b;
   }
 }
