@@ -1,5 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
+
   content: [
     "./*.html",
     "./*.md",
@@ -12,57 +14,292 @@ module.exports = {
     "./assets/js/**/*.js",
     "./_posts/**/*.md"
   ],
-  darkMode: "class",
-  theme: {
-    extend: {
-      colors: {
-        // Legacy colors mapped to new Nordic Slate & Crimson Signal branding for safe migration
-        primary: {
-          DEFAULT: "#2F3B45", // Nordic Slate replacing old dark green
-          light: "#3A4A57",   // Lighter slate
-          button: "#C62839",  // Buttons use Crimson Signal
-          accent: "#C62839"   // Uses Crimson Signal for WCAG AA 4.5:1 contrast on light backgrounds
-        },
-        content: {
-          accent: "#C62839",
-          light: "#3A4A57"
-        },
-        "background-light": "#F7F8FA",
-        "background-dark": "#1F2933",
-        "text-light": "#4B5563",
-        "text-dark": "#F7F8FA",
 
-        // New explicit design system tokens
-        nordic: {
-          DEFAULT: "#2F3B45",
-          light: "#3A4A57",
-          dark: "#1F2933",
+  darkMode: "class",
+
+  theme: {
+
+    extend: {
+
+
+      /* =====================================================
+         COLORS
+      ====================================================== */
+
+      colors: {
+
+        background: {
+          DEFAULT:"#0b1220",
+          soft:"#111827",
         },
-        crimson: {
-          DEFAULT: "#C62839",
-          hover: "#A3212F",
-        },
+
+
         surface: {
-          DEFAULT: "#FFFFFF",
-          background: "#F7F8FA",
-        }
+
+          DEFAULT:"#111827",
+
+          elevated:"#182234",
+
+          card:"#1e293b",
+
+        },
+
+
+        border: {
+
+          DEFAULT:"#334155",
+
+          light:"#475569",
+
+        },
+
+
+        text: {
+
+          DEFAULT:"#f8fafc",
+
+          soft:"#cbd5e1",
+
+          muted:"#94a3b8",
+
+        },
+
+
+        primary: {
+
+          DEFAULT:"#fbbf24",
+
+          hover:"#f59e0b",
+
+          soft:"#fde68a",
+
+        },
+
+
+        success:"#22c55e",
+
+        danger:"#ef4444",
+
+        warning:"#f59e0b",
+
+        info:"#38bdf8",
+
+
       },
+
+
+      /* =====================================================
+         TYPOGRAPHY
+      ====================================================== */
+
       fontFamily: {
-        display: ["Inter", "system-ui", "-apple-system", "BlinkMacSystemFont", "Roboto", "sans-serif"]
+
+        sans:[
+
+          "Inter",
+
+          "Segoe UI",
+
+          "system-ui",
+
+          "-apple-system",
+
+          "BlinkMacSystemFont",
+
+          "Roboto",
+
+          "sans-serif"
+
+        ],
+
+        display:[
+
+          "Inter",
+
+          "system-ui",
+
+          "sans-serif"
+
+        ]
+
       },
-      keyframes: {
-        marquee: {
-          '0%': { transform: 'translateX(0%)' },
-          '100%': { transform: 'translateX(-50%)' },
+
+
+      /* =====================================================
+         RADIUS
+      ====================================================== */
+
+      borderRadius: {
+
+        xs:"6px",
+
+        sm:"10px",
+
+        DEFAULT:"14px",
+
+        lg:"18px",
+
+        xl:"24px",
+
+        "2xl":"32px",
+
+        full:"999px",
+
+      },
+
+
+      /* =====================================================
+         SHADOW
+      ====================================================== */
+
+      boxShadow:{
+
+
+        soft:
+
+        "0 4px 10px rgba(0,0,0,.15)",
+
+
+        card:
+
+        "0 10px 30px rgba(0,0,0,.25)",
+
+
+        large:
+
+        "0 20px 50px rgba(0,0,0,.32)",
+
+
+        glow:
+
+        "0 0 40px rgba(251,191,36,.18)"
+
+      },
+
+
+      /* =====================================================
+         CONTAINER
+      ====================================================== */
+
+      container:{
+
+        center:true,
+
+        padding:{
+
+          DEFAULT:"1.5rem",
+
+          lg:"2rem"
+
         }
+
       },
-      animation: {
-        marquee: 'marquee 25s linear infinite',
+
+
+      /* =====================================================
+         ANIMATION
+      ====================================================== */
+
+      keyframes:{
+
+
+        marquee:{
+
+          "0%":{
+
+            transform:"translateX(0%)"
+
+          },
+
+
+          "100%":{
+
+            transform:"translateX(-50%)"
+
+          },
+
+
+        },
+
+
+        fadeUp:{
+
+
+          "0%":{
+
+            opacity:"0",
+
+            transform:"translateY(20px)"
+
+          },
+
+
+          "100%":{
+
+            opacity:"1",
+
+            transform:"translateY(0)"
+
+          }
+
+
+        },
+
+
+        float:{
+
+
+          "0%,100%":{
+
+            transform:"translateY(0)"
+
+          },
+
+
+          "50%":{
+
+            transform:"translateY(-8px)"
+
+          }
+
+
+        }
+
+
+      },
+
+
+      animation:{
+
+
+        marquee:
+
+        "marquee 25s linear infinite",
+
+
+        fadeUp:
+
+        "fadeUp .5s ease-out",
+
+
+        float:
+
+        "float 6s ease-in-out infinite"
+
+
       }
+
     }
+
   },
-  plugins: [
+
+
+  plugins:[
+
     require("@tailwindcss/forms"),
+
     require("@tailwindcss/container-queries")
+
   ]
+
 };
