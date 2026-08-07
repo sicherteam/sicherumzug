@@ -7,23 +7,24 @@ function setBodyOverflow(hidden) {
 
 window.mobileMenuToggle = function mobileMenuToggle() {
   if (!mobileMenu) return;
+  
+  var openBtn = document.getElementById('mobile-menu-open');
+  var closeBtn = document.getElementById('mobile-menu-close');
+  
   mobileMenu.classList.toggle('hidden');
   var isHidden = mobileMenu.classList.contains('hidden');
-  var openBtn = document.getElementById('mobile-menu-open');
-  if(openBtn) openBtn.setAttribute('aria-expanded', !isHidden);
+  
+  if (openBtn) {
+    openBtn.setAttribute('aria-expanded', String(!isHidden));
+  }
+  
   setBodyOverflow(!isHidden);
 
   // Focus management
-  if (!isHidden) {
-    var closeBtn = document.getElementById('mobile-menu-close');
-    if (closeBtn) {
-      setTimeout(function() { closeBtn.focus(); }, 50);
-    }
-  } else {
-    var openBtn = document.getElementById('mobile-menu-open');
-    if (openBtn) {
-      openBtn.focus();
-    }
+  if (!isHidden && closeBtn) {
+    setTimeout(function() { closeBtn.focus(); }, 50);
+  } else if (isHidden && openBtn) {
+    openBtn.focus();
   }
 };
 
@@ -52,9 +53,13 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   mobileMenu = document.getElementById('mobile-menu');
   faqButtons = document.querySelectorAll('[data-faq-toggle]');
 
+  // Global Scope für Dateiverarbeitung
+  var selectedFiles = [];
+  var updateInputAndRender = function() {};
+
   // Close mobile menu or desktop megamenus on Escape key press
   document.addEventListener('keydown', function handleEscapeKey(e) {
-    if (e.key === 'Escape' || e.key === 'Esc' || e.keyCode === 27) {
+    if (e.key === 'Escape') {
       if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
         mobileMenuToggle();
       } else {
@@ -92,14 +97,14 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   var photosInput = document.getElementById('form-photos');
   var previewContainer = document.getElementById('file-preview-container');
   if (photosInput && previewContainer) {
-    var selectedFiles = [];
-    function updateInputAndRender() {
+    updateInputAndRender = function() {
       var dt = new DataTransfer();
       selectedFiles.forEach(function(f) { dt.items.add(f); });
       photosInput.files = dt.files;
       if (selectedFiles.length === 0) photosInput.value = '';
       renderPreviews();
-    }
+    };
+
     function renderPreviews() {
       previewContainer.innerHTML = '';
 
@@ -148,6 +153,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         r.readAsDataURL(file);
       });
     }
+
     photosInput.addEventListener('change', function() {
       if (photosInput.files) {
         Array.prototype.forEach.call(photosInput.files, function(file) {
@@ -184,7 +190,13 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         errorEl.className = 'mt-1.5 text-xs text-red-600 font-bold flex items-center gap-1 transition-all duration-200';
         input.parentNode.appendChild(errorEl);
       }
-      errorEl.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">warning</span><span>' + errorMsg + '</span>';
+      
+      // Güvenli içerik ekleme (XSS koruması)
+      errorEl.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">warning</span> ';
+      var textSpan = document.createElement('span');
+      textSpan.textContent = errorMsg;
+      errorEl.appendChild(textSpan);
+      
       input.setAttribute('aria-invalid', 'true');
       input.setAttribute('aria-describedby', errorId);
     } else {
@@ -223,7 +235,13 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           regionEl.className = 'mt-1.5 text-xs text-emerald-600 font-bold flex items-center gap-1 transition-all duration-200';
           postcodeInp.parentNode.appendChild(regionEl);
         }
-        regionEl.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">check_circle</span><span>Region: ' + region + ' (Service verfügbar)</span>';
+        
+        // Güvenli içerik ekleme (XSS koruması)
+        regionEl.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">check_circle</span> ';
+        var textSpan = document.createElement('span');
+        textSpan.textContent = 'Region: ' + region + ' (Service verfügbar)';
+        regionEl.appendChild(textSpan);
+        
         postcodeInp.setAttribute('aria-describedby', regionId);
       } else {
         if (regionEl) regionEl.remove();
@@ -395,9 +413,13 @@ document.addEventListener('DOMContentLoaded', function domReady() {
 
       var submitBtn = quoteForm.querySelector('button[type="submit"]');
       const responseDiv = document.getElementById('formResponse');
+      
       if (responseDiv) {
-        responseDiv.innerText = 'Wird gesendet...';
+        responseDiv.setAttribute('role', 'status');
+        responseDiv.setAttribute('aria-live', 'polite');
+        responseDiv.textContent = 'Wird gesendet...';
         responseDiv.className = 'mt-4 text-center text-sm font-bold text-gray-700';
+        responseDiv.classList.remove('hidden');
       }
 
       if (submitBtn) {
@@ -436,62 +458,46 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         const data = await res.json();
 
         if (res.ok && data.success) {
+          // Formular mit Fade-Out animiert ausblenden
+          quoteForm.classList.add('opacity-0', 'transition-opacity', 'duration-300');
+          setTimeout(function() {
+            quoteForm.classList.add('hidden');
+          }, 300);
 
-  // Formular ausblenden
-  quoteForm.classList.add('none');
-
-if (responseDiv) {
-  responseDiv.className = 'mt-8 rounded-3xl bg-green-50 border-2 border-green-200 p-10 text-center shadow-lg animate-fade-in';
-
-  responseDiv.innerHTML = `
-    <div class="flex justify-center">
-      <div class="flex h-24 w-24 items-center justify-center rounded-full bg-green-100 shadow-inner">
-        <span class="material-symbols-outlined text-6xl text-green-600">
-          check_circle
-        </span>
-      </div>
-    </div>
-
-    <h3 class="mt-6 text-3xl font-extrabold text-gray-900">
-      Vielen Dank!
-    </h3>
-
-    <p class="mt-4 text-lg font-semibold text-gray-700">
-      Ihre Anfrage wurde erfolgreich übermittelt.
-    </p>
-
-    <p class="mt-3 text-base text-gray-600 leading-relaxed">
-      Wir haben Ihre Nachricht erhalten und melden uns
-      schnellstmöglich bei Ihnen.
-    </p>
-
-    <div class="mt-6 inline-flex items-center gap-2 rounded-full bg-green-600 px-6 py-3 text-white font-bold shadow-md">
-      <span class="material-symbols-outlined text-xl">
-        phone_in_talk
-      </span>
-      Wir kontaktieren Sie persönlich
-    </div>
-  `;
-}
-
-          
-          if (typeof selectedFiles !== 'undefined') {
-            selectedFiles = [];
-            updateInputAndRender();
+          // HTML içindeki başarı mesajını göster
+          var successMessage = document.getElementById('successMessage');
+          if (successMessage) {
+            successMessage.classList.remove('hidden');
+            successMessage.setAttribute('role', 'status');
+            successMessage.setAttribute('aria-live', 'polite');
+            
+            // Mobil kullanıcılar ve CRO için mesaja yumuşak scroll
+            successMessage.scrollIntoView({
+              behavior: 'smooth',
+              block: 'center'
+            });
           }
+          
+          if (responseDiv) {
+            responseDiv.classList.add('hidden');
+          }
+
+          // Bilder zurücksetzen
+          selectedFiles = [];
+          updateInputAndRender();
         } else {
           if (responseDiv) {
-            responseDiv.innerText = 'Fehler: ' + (data.message || 'Ein Fehler ist aufgetreten.');
+            responseDiv.textContent = 'Fehler: ' + (data.message || 'Ein Fehler ist aufgetreten.');
             responseDiv.className = 'mt-4 text-center text-sm font-bold text-red-600';
           }
         }
       } catch (err) {
         if (responseDiv) {
-          responseDiv.innerText = 'Es ist ein Verbindungsfehler aufgetreten.';
+          responseDiv.textContent = 'Es ist ein Verbindungsfehler aufgetreten.';
           responseDiv.className = 'mt-4 text-center text-sm font-bold text-red-600';
         }
       } finally {
-        if (submitBtn) {
+        if (submitBtn && !quoteForm.classList.contains('hidden')) {
           submitBtn.innerHTML = originalBtnContent;
           submitBtn.classList.remove('opacity-75', 'cursor-not-allowed');
           submitBtn.classList.add('hover:bg-primary-accent', 'hover:-translate-y-0.5', 'hover:shadow-xl', 'cursor-pointer');
