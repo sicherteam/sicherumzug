@@ -3,98 +3,149 @@ layout: default
 ---
 {% include reading-progress.html %}
 {% include breadcrumbs.html %}
-<article class="bg-white py-16">
-  <div class="container mx-auto px-4">
-    <div class="mx-auto max-w-3xl">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ page.category | default: 'Ratgeber' }}</p>
-      <h1 class="mt-3 text-4xl font-black text-primary">{{ page.title }}</h1>
-      <p class="mt-3 text-sm text-gray-500">Aktualisiert am {{ page.date | date: "%d.%m.%Y" }}</p>
-      <div class="mt-3 inline-flex items-center gap-2 rounded-full border border-gray-200 bg-background-light px-4 py-2 text-xs font-semibold uppercase tracking-[0.2em] text-primary">
-        <span class="material-symbols-outlined text-sm">verified</span>
-        Geprüft am {{ page.last_reviewed | default: page.date | date: "%d.%m.%Y" }}
-      </div>
-      {% if page.proof_snippet %}
-      <p class="mt-2 text-xs uppercase tracking-[0.2em] text-gray-500">Nachweis: {{ page.proof_snippet }}</p>
-      {% endif %}
-      <div class="mt-8 lg:grid lg:grid-cols-4 lg:gap-8 items-start">
-        <aside class="hidden lg:block lg:col-span-1 sticky top-24">
-          <div class="rounded-2xl bg-background-light p-5 border border-gray-100">
-            <h3 class="text-sm font-bold uppercase tracking-wider text-primary mb-3">Inhaltsverzeichnis</h3>
-            <div class="text-sm text-text-light hover:[&_a]:text-crimson">
+
+<!-- Master Plan: Article Modernization -->
+<article class="bg-background py-16 md:py-24">
+  <div class="container">
+    <div class="mx-auto max-w-4xl">
+      
+      <!-- Kicker & Title -->
+      <header class="animate-fadeUp">
+        <p class="text-xs font-black uppercase tracking-[0.3em] text-primary mb-4">
+          {{ page.category | default: 'Ratgeber' }}
+        </p>
+        <h1 class="text-3xl md:text-5xl lg:text-6xl font-black text-white leading-tight">
+          {{ page.title }}
+        </h1>
+        
+        <!-- Metadata & Trust Badges (Section 1 Fix) -->
+        <div class="mt-6 flex flex-wrap items-center gap-4">
+          <p class="text-[11px] font-bold uppercase tracking-widest text-text-muted flex items-center gap-2">
+            <span class="material-symbols-outlined !text-[16px]">calendar_today</span>
+            Aktualisiert am {{ page.date | date: "%d.%m.%Y" }}
+          </p>
+          
+          <div class="inline-flex items-center gap-2 rounded-full border border-success/20 bg-success/10 px-3 py-1.5 text-[10px] font-black uppercase tracking-widest text-success">
+            <span class="material-symbols-outlined !text-[14px]">verified</span>
+            Geprüft am {{ page.last_reviewed | default: page.date | date: "%d.%m.%Y" }}
+          </div>
+          
+          {% if page.proof_snippet %}
+          <p class="text-[10px] font-bold uppercase tracking-widest text-text-muted">
+            Nachweis: <span class="text-white/60 italic">{{ page.proof_snippet }}</span>
+          </p>
+          {% endif %}
+        </div>
+      </header>
+
+      <!-- Layout: Content + Sidebar -->
+      <div class="mt-12 lg:grid lg:grid-cols-4 lg:gap-12 items-start">
+        
+        <!-- Sticky TOC (Sidebar) -->
+        <aside class="hidden lg:block lg:col-span-1 sticky top-28">
+          <div class="rounded-2xl bg-surface-elevated/50 backdrop-blur-md p-5 border border-white/5">
+            <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-primary mb-4 border-b border-white/5 pb-3">Inhalt</h3>
+            <div class="text-sm font-medium">
               {% include toc.html html=content %}
             </div>
           </div>
         </aside>
 
-        <div class="lg:col-span-3 richtext" role="document">
+        <!-- Main Body (Richtext) -->
+        <div class="lg:col-span-3 richtext animate-fadeUp" style="animation-delay: 100ms;" role="document">
           {{ content }}
         </div>
       </div>
 
+      <!-- Key Takeaways (Section 1 Trust Indicator) -->
       {% if page.takeaways %}
-      <div class="mt-8 rounded-3xl bg-background-light p-6">
-        <h2 class="text-2xl font-extrabold text-primary">Wichtigste Punkte</h2>
-        <ul class="mt-4 space-y-2 text-sm text-text-light">
+      <div class="mt-16 rounded-3xl bg-surface/40 backdrop-blur-md border border-white/5 p-8 md:p-10 animate-fadeUp">
+        <h2 class="text-2xl font-black text-white flex items-center gap-3 mb-6">
+          <span class="material-symbols-outlined text-success !text-3xl">verified</span>
+          Wichtigste Punkte
+        </h2>
+        <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
           {% for takeaway in page.takeaways %}
-          <li class="flex items-start gap-3">
-            <span class="material-symbols-outlined text-primary">bookmark_added</span>
-            <span>{{ takeaway }}</span>
+          <li class="flex items-start gap-3 p-4 rounded-xl bg-white/5 border border-white/5 hover:border-primary/20 transition-colors">
+            <span class="material-symbols-outlined text-primary !text-[20px]">check_circle</span>
+            <span class="text-text-soft text-sm leading-relaxed">{{ takeaway }}</span>
           </li>
           {% endfor %}
         </ul>
       </div>
       {% endif %}
-      <div class="mt-8 rounded-3xl border border-gray-200 bg-background-light p-6">
-        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gray-600">Nächster Schritt</p>
-        <div class="mt-3 flex flex-wrap gap-3">
-          <a href="{{ '/leistungen/entruempelung-wien/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full border border-primary px-4 py-2 text-sm font-semibold text-primary hover:bg-primary hover:text-white transition">
+
+      <!-- Next Step CTA -->
+      <div class="mt-12 rounded-3xl border border-primary/20 bg-surface-elevated p-8 animate-fadeUp shadow-glow">
+        <p class="text-[10px] font-black uppercase tracking-[0.3em] text-primary mb-4">Nächster Schritt</p>
+        <div class="flex flex-col sm:flex-row items-center gap-4">
+          <a href="{{ '/leistungen/entruempelung-wien/' | relative_url }}" class="btn btn-secondary w-full sm:w-auto">
             Entrümpelung Wien
-            <span class="material-symbols-outlined text-base">north_east</span>
+            <span class="material-symbols-outlined !text-base">north_east</span>
           </a>
-          <a href="{{ '/angebot/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white hover:bg-primary-light transition">
+          <a href="{{ '/angebot/' | relative_url }}" class="btn btn-primary w-full sm:w-auto">
             Kostenloses Angebot
-            <span class="material-symbols-outlined text-base">north_east</span>
+            <span class="material-symbols-outlined !text-base">north_east</span>
           </a>
         </div>
       </div>
+
     </div>
   </div>
 </article>
-<section class="bg-background-light py-12">
-  <div class="container mx-auto px-4">
-    <div class="grid gap-8 lg:grid-cols-2">
+
+<!-- Services & Form Area -->
+<section class="bg-surface/30 py-20 border-t border-white/5">
+  <div class="container">
+    <div class="grid gap-12 lg:grid-cols-2 items-start">
+      
       <div>
-        <h2 class="text-2xl font-extrabold text-primary">Weiterführende Leistungen</h2>
-        <ul class="mt-4 space-y-2 text-sm text-primary">
+        <h2 class="text-2xl font-black text-white mb-8 flex items-center gap-3">
+          <span class="w-2 h-8 bg-primary rounded-full"></span>
+          Weiterführende Leistungen
+        </h2>
+        <ul class="space-y-4">
           {% for service in site.services limit:5 %}
-          <li><a class="font-semibold hover:text-gray-800" href="{{ service.url | relative_url }}">{{ service.title }}</a></li>
+          <li>
+            <a class="flex items-center justify-between p-4 rounded-xl border border-white/5 hover:border-primary/30 hover:bg-white/5 transition-all group" href="{{ service.url | relative_url }}">
+              <span class="font-bold text-text-soft group-hover:text-primary transition-colors">{{ service.title }}</span>
+              <span class="material-symbols-outlined text-primary !text-base opacity-0 group-hover:opacity-100 transition-all group-hover:translate-x-1">arrow_forward</span>
+            </a>
+          </li>
           {% endfor %}
         </ul>
       </div>
-      <div class="rounded-3xl bg-white p-6 shadow-xl">
-        <h2 class="text-xl font-bold text-primary">Fixpreis anfordern</h2>
+
+      <div class="rounded-3xl bg-surface-elevated p-8 md:p-10 shadow-large border border-white/5 relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-32 h-32 bg-primary/5 rounded-full -mr-16 -mt-16 blur-3xl"></div>
+        <h2 class="text-2xl font-black text-white mb-2">Fixpreis anfordern</h2>
+        <p class="text-text-muted text-sm mb-8">Unverbindlich, kostenlos & innerhalb von 24h.</p>
         {% include quote-form.html %}
       </div>
+
     </div>
   </div>
 </section>
+
+<!-- FAQ Section (Crimson Cleanup) -->
 {% assign faq_items = page.faqs %}
 {% if faq_items == nil and page.use_global_faqs %}
   {% assign faq_items = site.data.faqs %}
 {% endif %}
+
 {% if faq_items %}
-<section class="bg-white py-12">
-  <div class="container mx-auto px-4">
-    <h2 class="text-2xl font-extrabold text-primary">FAQ</h2>
-    <div class="mt-6 space-y-4">
+<section class="bg-background py-20 border-t border-white/5">
+  <div class="container">
+    <h2 class="text-3xl font-black text-white text-center mb-12">Häufig gestellte Fragen (FAQ)</h2>
+    <div class="max-w-3xl mx-auto space-y-4">
       {% for faq in faq_items %}
-      <details class="group rounded-2xl border border-gray-200 bg-background-light p-4 shadow-sm hover:shadow-md transition-opacity duration-200">
-        <summary class="flex cursor-pointer items-center justify-between text-left text-base font-semibold text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded-lg list-none [&::-webkit-details-marker]:hidden">
+      <details class="group rounded-2xl border border-white/5 bg-surface/50 p-5 hover:border-primary/20 transition-all duration-300">
+        <summary class="flex cursor-pointer items-center justify-between text-left text-base font-bold text-text-soft group-open:text-primary outline-none list-none [&::-webkit-details-marker]:hidden">
           <span class="pr-4">{{ faq.question }}</span>
-          <span class="material-symbols-outlined transition-transform duration-200 shrink-0 group-open:rotate-180">expand_more</span>
+          <span class="material-symbols-outlined transition-transform duration-300 shrink-0 group-open:rotate-180 text-primary">expand_more</span>
         </summary>
-        <div class="mt-3 border-t border-gray-100/50 pt-3">
-          <p class="text-sm text-text-light">{{ faq.answer }}</p>
+        <div class="mt-4 border-t border-white/5 pt-4">
+          <p class="text-sm text-text-muted leading-relaxed">{{ faq.answer }}</p>
         </div>
       </details>
       {% endfor %}
