@@ -1,17 +1,20 @@
-<!-- Mobile Sticky Bottom Bar (Conversion Engine) -->
-<div class="fixed bottom-0 inset-x-0 z-50 md:hidden">
-  <div class="bg-slate-950/90 backdrop-blur-xl border-t border-slate-800/80 p-3 pb-safe shadow-[0_-10px_25px_-5px_rgba(0,0,0,0.5)] flex gap-2.5">
+<!-- Master Plan: Mobile Sticky Bottom Bar (Conversion Engine) Modernization -->
+<div class="fixed bottom-0 inset-x-0 z-[60] md:hidden">
+  <!-- Seamless Background & Backdrop Blur -->
+  <div class="bg-background/95 backdrop-blur-xl border-t border-white/5 p-3 pb-safe shadow-[0_-10px_30px_rgba(0,0,0,0.5)] flex gap-3 transition-transform duration-300">
 
-    <!-- Button 1 (Direct Call - Primary) -->
-    <a href="tel:{{ site.phone | replace: ' ', '' }}" class="bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-slate-950 font-bold rounded-xl py-3.5 px-3 flex-1 flex items-center justify-center gap-2 text-center text-[11px] uppercase tracking-wider shadow-lg shadow-orange-500/20 active:scale-95 transition-all">
-      <span class="material-symbols-outlined text-base">call</span>
+    <!-- Button 1: Direct Call (Primary System) -->
+    <a href="tel:{{ site.phone | replace: ' ', '' }}" 
+       class="btn-primary flex-1 flex items-center justify-center gap-2 rounded-xl py-3.5 px-2 text-center text-[10px] font-black uppercase tracking-widest shadow-glow active:scale-95 transition-all">
+      <span class="material-symbols-outlined !text-[20px]">call</span>
       <span>JETZT ANRUFEN</span>
     </a>
 
-    <!-- Button 2 (WhatsApp Photo Quote - Secondary) -->
-    <a href="{{ site.whatsapp }}" class="bg-emerald-700 hover:bg-emerald-800 text-white font-bold rounded-xl py-3.5 px-3 flex-1 flex items-center justify-center gap-2 text-center text-[11px] uppercase tracking-wider shadow-lg shadow-emerald-900/30 active:scale-95 transition-all">
-      <span class="material-symbols-outlined text-base">chat</span>
-      <span>WHATSAPP FOTO SENDEN</span>
+    <!-- Button 2: WhatsApp Photo Quote (Success System) -->
+    <a href="{{ site.whatsapp }}" 
+       class="bg-[#25D366] hover:bg-[#20ba5a] text-white font-black rounded-xl py-3.5 px-2 flex-1 flex items-center justify-center gap-2 text-center text-[10px] uppercase tracking-widest shadow-lg shadow-emerald-950/20 active:scale-95 transition-all">
+      <span class="material-symbols-outlined !text-[20px]">chat</span>
+      <span>WHATSAPP FOTO</span>
     </a>
 
   </div>
