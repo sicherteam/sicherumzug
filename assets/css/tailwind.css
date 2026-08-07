@@ -96,7 +96,7 @@
   }
 
   .card {
-    @apply bg-surface-card border border-border rounded-lg shadow-default transition-all duration-300;
+    @apply bg-surface-card border border-border rounded-lg shadow transition-all duration-300;
   }
 
   .card:hover {
@@ -104,7 +104,7 @@
   }
 
   .glass {
-    @apply bg-surface/55 backdrop-blur-md border border-white/10 rounded-lg shadow-default;
+    @apply bg-surface/55 backdrop-blur-md border border-white/10 rounded-lg shadow;
   }
 
   /* BUTTONS */
@@ -114,7 +114,7 @@
   }
 
   .btn-primary {
-    @apply bg-primary text-background shadow-soft hover:bg-primary-hover hover:-translate-y-0.5 hover:shadow-default;
+    @apply bg-primary text-background shadow-soft hover:bg-primary-hover hover:-translate-y-0.5 hover:shadow;
   }
 
   .btn-secondary {
