@@ -57,17 +57,27 @@
         position: relative;
         z-index: 20;
       }
+      @font-face {
+        font-family: 'Material Symbols Outlined Local';
+        font-style: normal;
+        font-weight: 400;
+        src: url('{{ "/assets/fonts/material-symbols-outlined.woff2" | relative_url }}') format('woff2');
+      }
       .material-symbols-outlined {
-        font-family: 'Material Symbols Outlined', 'Segoe UI Symbol', sans-serif;
+        font-family: 'Material Symbols Outlined Local' !important;
+        font-feature-settings: 'liga';
         font-weight: normal;
         font-style: normal;
-        font-size: 1.5rem;
+        font-size: 24px;
         line-height: 1;
         letter-spacing: normal;
         text-transform: none;
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        -webkit-font-feature-settings: 'liga';
+        -webkit-font-smoothing: antialiased;
       }
       [data-mega-panel] {
         opacity: 0;

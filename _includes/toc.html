@@ -11,7 +11,7 @@
       {% assign title = content_after_bracket | split: '</h2' | first | strip_html | strip %}
 
       {% if id and title != empty %}
-        <li class="toc-entry"><a href="#{{ id }}" class="hover:text-crimson transition-colors">{{ title }}</a></li>
+        <li class="toc-entry"><a href="#{{ id }}" class="hover:text-primary transition-colors">{{ title }}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}

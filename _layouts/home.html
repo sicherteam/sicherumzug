@@ -9,7 +9,7 @@ layout: default
     primary_cta=page.hero.primary_cta
     cta_variant=page.cta_variant
     risk_items=site.data.risk_reversal
-    container_classes="container relative z-20 mx-auto px-4 md:px-6 py-20 md:py-28 text-white"
+    container_classes="container relative z-20 mx-auto px-4 md:px-6 pt-32 md:pt-40 pb-20 md:pb-28 text-white"
     content_classes="max-w-4xl"
   %}
 
@@ -46,14 +46,14 @@ layout: default
       {% if risk_items.size > 0 %}
       {% for risk in risk_items %}
       <div class="inline-flex items-center gap-2 text-sm font-bold uppercase tracking-wider text-primary">
-        <span class="material-symbols-outlined text-lg text-primary-accent">verified</span>
+        <span class="material-symbols-outlined text-lg text-success">verified</span>
         <span class="trust-badge" title="{{ risk.detail }}">{{ risk.label }}</span>
       </div>
       {% endfor %}
       {% else %}
       {% for badge in site.data.trust_bar %}
       <div class="inline-flex items-center gap-2 text-sm font-bold uppercase tracking-wider text-primary">
-        <span class="material-symbols-outlined text-lg text-primary-accent">verified</span>
+        <span class="material-symbols-outlined text-lg text-success">verified</span>
         <span class="trust-badge">{{ badge.label }}</span>
       </div>
       {% endfor %}
@@ -69,7 +69,7 @@ layout: default
     <div class="max-w-4xl mx-auto bg-background-light rounded-3xl p-8 md:p-12 shadow-sm border border-gray-100">
       <div>
         {% if brand_intro.kicker %}
-        <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">{{ brand_intro.kicker }}</p>
+        <p class="text-xs font-bold uppercase tracking-widest text-primary">{{ brand_intro.kicker }}</p>
         {% endif %}
         <h2 class="mt-3 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">{{ brand_intro.heading | default: 'Sicher Team' }}</h2>
         {% if brand_intro.text %}
@@ -79,7 +79,7 @@ layout: default
         <ul class="mt-8 grid gap-4 sm:grid-cols-2 text-base text-text-light">
           {% for bullet in brand_intro.bullets %}
           <li class="flex items-start gap-3">
-            <span class="text-primary-accent material-symbols-outlined text-xl shrink-0 mt-0.5">verified</span>
+            <span class="text-success material-symbols-outlined text-xl shrink-0 mt-0.5">verified</span>
             <span class="font-medium text-text-light">{{ bullet | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</span>
           </li>
           {% endfor %}
@@ -87,11 +87,11 @@ layout: default
         {% endif %}
 
         <div class="mt-10 pt-8 border-t border-gray-200">
-          <p class="text-xs font-bold uppercase tracking-widest text-primary-accent mb-4">Ihre Vorteile</p>
+          <p class="text-xs font-bold uppercase tracking-widest text-primary mb-4">Ihre Vorteile</p>
           <ul class="grid gap-6 sm:grid-cols-2">
             {% for usp in site.data.why_us %}
             <li class="flex items-start gap-3">
-              <span class="text-primary-accent material-symbols-outlined text-2xl shrink-0 mt-0.5">task_alt</span>
+              <span class="text-success material-symbols-outlined text-2xl shrink-0 mt-0.5">task_alt</span>
               <div>
                 <strong class="block text-primary font-bold">{{ usp.title }}</strong>
                 <span class="text-sm text-text-light">{{ usp.description }}</span>
@@ -119,7 +119,7 @@ layout: default
 
 <section class="bg-background-light py-20 defer-section border-t border-b border-gray-100">
   <div class="container mx-auto px-4 md:px-6 text-center">
-    <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Ablauf</p>
+    <p class="text-xs font-bold uppercase tracking-widest text-primary">Ablauf</p>
     <h2 class="text-3xl md:text-4xl font-extrabold text-primary mt-2 tracking-tight">So einfach funktioniert's</h2>
     <p class="mt-3 text-lg text-text-light max-w-2xl mx-auto">{{ page.process_intro }}</p>
 
@@ -132,7 +132,7 @@ layout: default
           </div>
           <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] rounded-2xl bg-white p-6 shadow-sm border border-gray-100 hover:shadow-md transition-opacity">
             <div class="flex items-center gap-3 mb-2">
-              <span class="material-symbols-outlined text-primary-accent">{{ step.icon }}</span>
+              <span class="material-symbols-outlined text-primary">{{ step.icon }}</span>
               <h3 class="text-lg font-bold text-primary">{{ step.title }}</h3>
             </div>
             <p class="text-sm text-text-light leading-relaxed">{{ step.description }}</p>
@@ -147,7 +147,7 @@ layout: default
 <section class="bg-white py-20 defer-section" id="leistungen">
   <div class="container mx-auto px-4 md:px-6">
     <div class="text-center max-w-3xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Leistungen</p>
+      <p class="text-xs font-bold uppercase tracking-widest text-primary">Leistungen</p>
       <h2 class="mt-2 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">Unsere Leistungen für Umzug, Räumung & Entrümpelung</h2>
       <p class="mt-3 text-lg text-text-light leading-relaxed">{{ page.services_intro }}</p>
       <div class="mt-8 flex flex-wrap justify-center gap-4">
@@ -181,7 +181,7 @@ layout: default
           <h3 class="mt-6 text-xl font-bold text-primary leading-tight group-hover:text-primary-light transition-opacity duration-200">{{ card.title }}</h3>
           <p class="mt-3 text-sm text-text-light leading-relaxed">{{ card.description }}</p>
         </div>
-        <div class="mt-8 flex items-center gap-1.5 text-sm font-bold text-primary group-hover:text-primary-accent transition-opacity duration-200">
+        <div class="mt-8 flex items-center gap-1.5 text-sm font-bold text-primary group-hover:text-primary transition-opacity duration-200">
           <span>Mehr erfahren</span>
           <span class="material-symbols-outlined text-base transition-transform group-hover:translate-x-1 duration-200">arrow_right_alt</span>
         </div>
@@ -207,7 +207,7 @@ layout: default
         {% for card in clearing_services %}
         <a href="{{ card.url | relative_url }}" class="group flex flex-col justify-between rounded-2xl border border-gray-100 bg-white p-6 text-left shadow-sm hover:shadow-md transition-opacity duration-300">
           <div class="flex items-center gap-3">
-            <span class="material-symbols-outlined text-primary-accent text-2xl">{{ card.icon }}</span>
+            <span class="material-symbols-outlined text-primary text-2xl">{{ card.icon }}</span>
             <h4 class="text-base font-bold text-primary leading-tight group-hover:text-primary-light transition-opacity duration-200">{{ card.title }}</h4>
           </div>
         </a>
@@ -222,7 +222,7 @@ layout: default
 <section class="bg-background-light py-20 defer-section">
   <div class="container mx-auto px-4 md:px-6">
     <div class="text-center max-w-2xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Ratgeber</p>
+      <p class="text-xs font-bold uppercase tracking-widest text-primary">Ratgeber</p>
       <h2 class="mt-2 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">Top Ratgeber für Ihre Planung</h2>
       <p class="mt-3 text-lg text-text-light">Wir haben die wichtigsten Fragen aus ganz Österreich bereits beantwortet.</p>
     </div>
@@ -242,7 +242,7 @@ layout: default
           <h3 class="text-lg font-bold text-primary leading-snug">Express-Räumung organisieren</h3>
           <p class="mt-3 text-sm text-text-light leading-relaxed">Welche Schritte nötig sind, damit wir bei Notfällen binnen 24 Stunden starten können.</p>
         </div>
-        <a href="{{ '/ratgeber/entruepelung-mit-sofort-hilfe/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-crimson hover:bg-crimson-hover px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
+        <a href="{{ '/ratgeber/entruepelung-mit-sofort-hilfe/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-hover px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
           <span>Mehr lesen</span>
           <span class="material-symbols-outlined text-base">north_east</span>
         </a>
@@ -252,7 +252,7 @@ layout: default
           <h3 class="text-lg font-bold text-primary leading-snug">Wohnungsentrümpelung Österreich</h3>
           <p class="mt-3 text-sm text-text-light leading-relaxed">Ablauf, Kosten, Mülltrennung vs. Profi und Wertausgleich – kompakt für die ganze Wohnung.</p>
         </div>
-        <a href="{{ '/ratgeber/wohnungsentruempelung-wien-guide/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-crimson hover:bg-crimson-hover px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
+        <a href="{{ '/ratgeber/wohnungsentruempelung-wien-guide/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-hover px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
           <span>Mehr lesen</span>
           <span class="material-symbols-outlined text-base">north_east</span>
         </a>
@@ -262,14 +262,14 @@ layout: default
           <h3 class="text-lg font-bold text-primary leading-snug">Wertausgleich richtig nutzen</h3>
           <p class="mt-3 text-sm text-text-light leading-relaxed">Wie Sie Möbel und Wertstücke fair anrechnen lassen und damit die Entrümpelungskosten senken.</p>
         </div>
-        <a href="{{ '/ratgeber/wertausgleich-raeumung-wien/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-crimson hover:bg-crimson-hover px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
+        <a href="{{ '/ratgeber/wertausgleich-raeumung-wien/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-hover px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
           <span>Mehr lesen</span>
           <span class="material-symbols-outlined text-base">north_east</span>
         </a>
       </article>
     </div>
     <div class="mt-10 text-center">
-      <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-crimson hover:bg-crimson-hover px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
+      <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-hover px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
         Alle Ratgeber ansehen
         <span class="material-symbols-outlined text-base">north_east</span>
       </a>
@@ -280,7 +280,7 @@ layout: default
 <section class="bg-white py-20 defer-section" id="ratgeber-articles">
   <div class="container mx-auto px-4 md:px-6">
     <div class="text-center max-w-2xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Fachartikel</p>
+      <p class="text-xs font-bold uppercase tracking-widest text-primary">Fachartikel</p>
       <h2 class="mt-2 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">Lokales Wissen rund um Entrümpelungen & Umzüge</h2>
       <p class="mt-3 text-lg text-text-light">Tipps zu Behördenwegen, Kosten und Spezialfällen - damit Sie jeden Umzug und jede Räumung souverän planen.</p>
     </div>
@@ -289,11 +289,11 @@ layout: default
       {% for guide in guides limit:3 %}
       <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-background-light p-8 shadow-sm hover:shadow-lg transition-opacity duration-200 text-left">
         <div>
-          <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">{{ guide.category | default: 'Leitfaden' }}</p>
+          <p class="text-xs font-bold uppercase tracking-widest text-primary">{{ guide.category | default: 'Leitfaden' }}</p>
           <h3 class="text-lg font-bold text-primary mt-3 leading-snug">{{ guide.title }}</h3>
           <p class="mt-2.5 text-sm text-text-light leading-relaxed">{{ guide.excerpt | strip_html | truncate: 140 }}</p>
         </div>
-        <a href="{{ guide.url | relative_url }}" class="mt-6 inline-flex items-center gap-1 text-sm font-bold text-primary hover:text-primary-accent transition-opacity duration-150">
+        <a href="{{ guide.url | relative_url }}" class="mt-6 inline-flex items-center gap-1 text-sm font-bold text-primary hover:text-primary transition-opacity duration-150">
           <span>Zum Artikel</span>
           <span class="material-symbols-outlined text-base">north_east</span>
         </a>
@@ -301,7 +301,7 @@ layout: default
       {% endfor %}
     </div>
     <div class="mt-10 text-center">
-      <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary-light hover:bg-primary-accent px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
+      <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary-light hover:bg-primary px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
         Alle Ratgeber ansehen
         <span class="material-symbols-outlined text-base">north_east</span>
       </a>
@@ -312,7 +312,7 @@ layout: default
 <section class="bg-background-light py-20 defer-section border-t border-b border-gray-100">
   <div class="container mx-auto px-4 md:px-6">
     <div class="text-center max-w-2xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Kundenmeinungen</p>
+      <p class="text-xs font-bold uppercase tracking-widest text-primary">Kundenmeinungen</p>
       <h2 class="text-3xl md:text-4xl font-extrabold text-primary mt-2 tracking-tight">Das sagen unsere Kund:innen</h2>
       <p class="mt-3 text-lg text-text-light">Zufriedene Kunden sind unsere beste Referenz.</p>
     </div>
@@ -340,7 +340,7 @@ layout: default
       {% endfor %}
     </div>
     <div class="mt-10 text-center">
-      <a href="{{ '/bewertungen/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-crimson hover:bg-crimson-hover px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
+      <a href="{{ '/bewertungen/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-hover px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
         Alle Bewertungen ansehen
         <span class="material-symbols-outlined text-base">north_east</span>
       </a>

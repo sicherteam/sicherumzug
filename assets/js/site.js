@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         }
         
         // Güvenli içerik ekleme (XSS koruması)
-        regionEl.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">check_circle</span> ';
+        regionEl.innerHTML = '<span class="material-symbols-outlined text-success !text-[14px] !leading-none !font-bold">check_circle</span> ';
         var textSpan = document.createElement('span');
         textSpan.textContent = 'Region: ' + region + ' (Service verfügbar)';
         regionEl.appendChild(textSpan);
@@ -378,7 +378,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var len = messageInp.value.length;
       messageCounter.textContent = len + ' / 1000';
       if (len >= 900) {
-        messageCounter.className = 'text-xs text-primary-accent font-bold';
+        messageCounter.className = 'text-xs text-primary font-bold';
       } else {
         messageCounter.className = 'text-xs text-text-light';
       }

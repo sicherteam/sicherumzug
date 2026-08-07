@@ -1,6 +1,10 @@
+{% if page.layout == 'home' %}
+<div class="absolute w-full z-50">
+{% endif %}
+
 <!-- Top Announcement Bar --> 
 <!-- Sisteme özel: bg-background/90 ve text-primary kullanıldı -->
-<div class="bg-background/90 backdrop-blur-md py-2 overflow-hidden whitespace-nowrap select-none border-b border-border/30">
+<div class="{% if page.layout == 'home' %}bg-transparent py-2 overflow-hidden whitespace-nowrap select-none{% else %}bg-background/90 backdrop-blur-md py-2 overflow-hidden whitespace-nowrap select-none border-b border-border/30{% endif %}">
   <!-- Desktop -->
   <div class="hidden md:flex justify-between items-center container text-[11px] font-medium tracking-wide text-primary">
     <span>🏷️ 100% Fixpreisgarantie — Keine versteckten Kosten</span>
@@ -30,7 +34,7 @@
 </div>
 
 <!-- Main Header -->
-<header class="sticky top-0 z-50 bg-background/80 backdrop-blur-lg border-b border-white/5 text-white shadow-large">
+<header class="{% if page.layout == 'home' %}bg-transparent text-white{% else %}sticky top-0 z-50 bg-background/80 backdrop-blur-lg border-b border-white/5 text-white shadow-large{% endif %}">
   <div class="container h-16 sm:h-20 flex items-center justify-between">
 
     <!-- Logo Section -->
@@ -125,3 +129,7 @@
 
   </div>
 </header>
+
+{% if page.layout == 'home' %}
+</div>
+{% endif %}

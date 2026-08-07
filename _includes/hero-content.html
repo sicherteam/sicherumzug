@@ -35,7 +35,7 @@
     {% endif %}
     {% assign whatsapp_url = include.whatsapp_url | default: cta_variant.whatsapp_url | default: site.whatsapp %}
 
-    <div class="mt-8 flex flex-col sm:flex-row items-center gap-4 hidden md:flex">
+    <div class="mt-4 md:mt-8 flex flex-col sm:flex-row items-center gap-4 hidden md:flex">
       <a href="{{ '/kontakt/' | relative_url }}" class="flex w-full sm:w-auto min-h-[44px] items-center justify-center rounded-xl bg-gradient-to-r from-orange-500 to-amber-500 text-slate-950 px-8 py-3.5 text-base font-black shadow-lg shadow-orange-500/20 hover:-translate-y-0.5 transition-transform duration-200">
         <span class="material-symbols-outlined mr-2">call</span>
         Kostenloses Angebot erhalten
@@ -47,7 +47,7 @@
     </div>
 
     <!-- Feature Grid -->
-    <div class="grid grid-cols-2 gap-3 mt-8">
+    <div class="grid grid-cols-2 gap-3 mt-4 md:mt-8">
       <div class="bg-slate-800/40 backdrop-blur-md border border-slate-700/50 rounded-2xl p-4 flex flex-col hover:border-orange-500/40 transition-colors">
         <div class="flex items-center gap-2 text-white font-semibold mb-1">
           <svg class="w-5 h-5 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path></svg>
