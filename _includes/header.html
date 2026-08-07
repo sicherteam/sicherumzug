@@ -1,127 +1,132 @@
+<!-- Master Plan - Section 2: Seamless Background Logic -->
+{% assign is_home = false %}
+{% if page.url == '/' or page.url == '/index.html' %}
+  {% assign is_home = true %}
+{% endif %}
+
 <!-- Top Announcement Bar --> 
-<!-- Sisteme özel: bg-background/90 ve text-primary kullanıldı -->
-<div class="bg-background/90 backdrop-blur-md py-2 overflow-hidden whitespace-nowrap select-none border-b border-border/30">
+<div class="{% if is_home %}bg-transparent border-none{% else %}bg-background/95 backdrop-blur-md border-b border-border/30{% endif %} py-2 overflow-hidden whitespace-nowrap select-none relative z-[60] transition-colors duration-500">
   <!-- Desktop -->
-  <div class="hidden md:flex justify-between items-center container text-[11px] font-medium tracking-wide text-primary">
-    <span>🏷️ 100% Fixpreisgarantie — Keine versteckten Kosten</span>
-    <span>🛡️ All-Risk Transportversicherung bis €100.000</span>
-    <span>⭐ 5/5 Sterne aus 450+ Bewertungen in Österreich</span>
+  <div class="hidden md:flex justify-between items-center container text-[11px] font-bold tracking-widest text-primary">
+    <span class="flex items-center gap-1.5">🏷️ 100% Fixpreisgarantie — Keine versteckten Kosten</span>
+    <span class="flex items-center gap-1.5">🛡️ All-Risk Transportversicherung bis €100.000</span>
+    <span class="flex items-center gap-1.5 text-white/90">⭐ 5/5 Sterne aus 450+ Bewertungen</span>
   </div>
+  
   <!-- Mobile Marquee -->
   <div class="flex md:hidden overflow-hidden">
-    <div class="animate-marquee flex w-max gap-4 text-[11px] font-medium tracking-wide text-primary" style="will-change: transform;">
-      <span class="shrink-0">🏷️ 100% Fixpreisgarantie — Keine versteckten Kosten</span>
+    <div class="animate-marquee flex w-max gap-6 text-[11px] font-bold tracking-wide text-primary" style="will-change: transform;">
+      <span class="shrink-0">🏷️ 100% Fixpreisgarantie</span>
       <span class="shrink-0">•</span>
-      <span class="shrink-0">⚡ Express-Umzug innerhalb von 24h möglich</span>
+      <span class="shrink-0">⚡ Express-Umzug innerhalb 24h</span>
       <span class="shrink-0">•</span>
-      <span class="shrink-0">🛡️ All-Risk Schutz bis €100.000 versichert</span>
+      <span class="shrink-0">🛡️ All-Risk Schutz €100.000</span>
       <span class="shrink-0">•</span>
-      <span class="shrink-0">📸 Foto per WhatsApp senden & Fixpreis erhalten</span>
+      <span class="shrink-0">📸 Foto per WhatsApp senden</span>
       <!-- Duplicate for seamless loop -->
-      <span class="shrink-0">🏷️ 100% Fixpreisgarantie — Keine versteckten Kosten</span>
+      <span class="shrink-0">🏷️ 100% Fixpreisgarantie</span>
       <span class="shrink-0">•</span>
-      <span class="shrink-0">⚡ Express-Umzug innerhalb von 24h möglich</span>
-      <span class="shrink-0">•</span>
-      <span class="shrink-0">🛡️ All-Risk Schutz bis €100.000 versichert</span>
-      <span class="shrink-0">•</span>
-      <span class="shrink-0">📸 Foto per WhatsApp senden & Fixpreis erhalten</span>
+      <span class="shrink-0">⚡ Express-Umzug içinde 24h</span>
     </div>
   </div>
 </div>
 
 <!-- Main Header -->
-<header class="sticky top-0 z-50 bg-background/80 backdrop-blur-lg border-b border-white/5 text-white shadow-large">
+<header class="sticky top-0 z-50 transition-all duration-500
+  {% if is_home %} bg-transparent border-none shadow-none {% else %} bg-background/90 backdrop-blur-lg border-b border-white/5 shadow-large {% endif %}">
+  
   <div class="container h-16 sm:h-20 flex items-center justify-between">
 
     <!-- Logo Section -->
-    <a href="{{ '/' | relative_url }}" class="flex items-center gap-3 rounded-lg focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background outline-none">
+    <a href="{{ '/' | relative_url }}" class="flex items-center gap-3 rounded-lg focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background outline-none group">
       <span class="sr-only">{{ site.brand_name }}</span>
       <img
         src="{{ site.logo | default: '/logo.svg' | relative_url }}"
         alt="Sicher Team Logo"
-        class="h-10 sm:h-12 w-auto shrink-0 transition-transform hover:scale-105"
+        class="h-10 sm:h-12 w-auto shrink-0 transition-transform group-hover:scale-105"
         width="56"
         height="56"
       />
-      <span class="flex items-center text-xl sm:text-2xl font-black tracking-tight leading-none uppercase">
+      <span class="flex items-center text-xl sm:text-2xl font-black tracking-tighter leading-none uppercase">
         <span class="text-white">SICHER</span>
         <span class="ml-1 text-gradient">TEAM</span>
       </span>
     </a>
       
-      <!-- Desktop Navigation -->
-      <nav class="hidden items-center gap-1 text-sm font-semibold lg:flex">
-        
-        <!-- Services dropdown -->
-        <div class="group relative">
-          <button class="flex items-center gap-1.5 px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-all" type="button">
-            Leistungen
-            <svg class="w-4 h-4 opacity-50 group-hover:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-          </button>
-          
-          <!-- Dropdown Panel: Glass effect ve Surface Elevated kullanıldı -->
-          <div class="invisible absolute left-1/2 z-30 mt-2 w-[520px] -translate-x-1/2 rounded-xl bg-surface-elevated border border-border p-6 text-text-soft opacity-0 shadow-xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
-            <div class="grid grid-cols-2 gap-8">
-              {% for group in site.data.navigation.services %}
-              <div>
-                <p class="text-[10px] font-bold uppercase tracking-[0.1em] text-primary/80 mb-4">{{ group.label }}</p>
-                <ul class="space-y-3">
-                  {% for item in group.items %}
-                  <li>
-                    <a class="hover:text-white flex items-center gap-2 text-[13px] transition-colors text-text-muted hover:translate-x-1 duration-200" href="{{ item.url | relative_url }}">
-                      <span class="w-1 h-1 rounded-full bg-primary/40"></span>
-                      {{ item.title }}
-                    </a>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </div>
-              {% endfor %}
-            </div>
-            <div class="mt-8 flex items-center justify-between border-t border-border pt-5">
-              <a class="text-xs font-bold text-primary hover:text-primary-soft transition-colors" href="{{ '/leistungen/' | relative_url }}">
-                ALLE LEISTUNGEN &rarr;
-              </a>
-              <a class="text-xs font-bold text-text hover:text-white" href="{{ '/preise/' | relative_url }}">
-                Tarife ansehen
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <!-- Standorte dropdown -->
-        <div class="group relative">
-          <button class="flex items-center gap-1.5 px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-all" type="button">
-            Bundesländer
-          </button>
-          <div class="invisible absolute left-1/2 z-30 mt-2 w-64 -translate-x-1/2 rounded-xl bg-surface-elevated border border-border p-5 opacity-0 shadow-xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
-            <p class="text-[10px] font-bold uppercase tracking-[0.1em] text-primary/80 mb-4">Einsatzgebiete</p>
-            <ul class="space-y-2">
-              {% for state in site.data.navigation.districts %}
-              <li>
-                <a class="hover:text-white block py-1 text-sm text-text-muted transition-colors" href="{{ state.url | relative_url }}">{{ state.title }}</a>
-              </li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-
-        {% for link in site.data.navigation.links %}
-        <a class="px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-all" href="{{ link.url | relative_url }}">{{ link.label }}</a>
-        {% endfor %}
-
-        <!-- Main Button CTA: Yeni btn-primary sınıfı ve özel glow/gradient -->
-        <a class="btn btn-primary ml-4 px-6 shadow-glow" href="{{ site.data.navigation.cta.url | relative_url }}">
-          {{ site.data.navigation.cta.label }}
-        </a>
-      </nav>
-
-      <!-- Mobile Menu Button -->
-      <div class="flex items-center lg:hidden">
-        <button id="mobile-menu-open" class="inline-flex h-11 w-11 items-center justify-center rounded-lg text-white bg-surface-elevated border border-border hover:bg-card active:scale-95 transition-all outline-none" onclick="mobileMenuToggle()">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+    <!-- Desktop Navigation -->
+    <nav class="hidden items-center gap-1 text-sm font-bold lg:flex">
+      
+      <!-- Services dropdown -->
+      <div class="group relative">
+        <button class="flex items-center gap-1.5 px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-colors" type="button">
+          Leistungen
+          <svg class="w-4 h-4 opacity-40 group-hover:rotate-180 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
         </button>
+        
+        <!-- Dropdown Panel: Glass effect -->
+        <div class="invisible absolute left-1/2 z-30 mt-2 w-[520px] -translate-x-1/2 rounded-xl bg-surface-elevated border border-border p-6 text-text-soft opacity-0 shadow-xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
+          <div class="grid grid-cols-2 gap-8">
+            {% for group in site.data.navigation.services %}
+            <div>
+              <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary mb-4">{{ group.label }}</p>
+              <ul class="space-y-3">
+                {% for item in group.items %}
+                <li>
+                  <a class="hover:text-white flex items-center gap-2 text-[13px] transition-colors text-text-muted hover:translate-x-1 duration-200" href="{{ item.url | relative_url }}">
+                    <span class="w-1 h-1 rounded-full bg-primary/40"></span>
+                    {{ item.title }}
+                  </a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endfor %}
+          </div>
+          <div class="mt-8 flex items-center justify-between border-t border-border pt-5">
+            <a class="text-xs font-black text-primary hover:text-primary-soft transition-colors tracking-widest uppercase" href="{{ '/leistungen/' | relative_url }}">
+              Alle Leistungen &rarr;
+            </a>
+            <a class="text-xs font-bold text-text-muted hover:text-white transition-colors" href="{{ '/preise/' | relative_url }}">
+              Tarife ansehen
+            </a>
+          </div>
+        </div>
       </div>
+
+      <!-- Standorte dropdown -->
+      <div class="group relative">
+        <button class="flex items-center gap-1.5 px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-colors" type="button">
+          Bundesländer
+          <svg class="w-4 h-4 opacity-40 group-hover:rotate-180 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+        </button>
+        <div class="invisible absolute left-1/2 z-30 mt-2 w-64 -translate-x-1/2 rounded-xl bg-surface-elevated border border-border p-5 opacity-0 shadow-xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
+          <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary mb-4">Einsatzgebiete</p>
+          <ul class="space-y-2">
+            {% for state in site.data.navigation.districts %}
+            <li>
+              <a class="hover:text-white block py-1.5 text-sm text-text-muted transition-colors hover:translate-x-1 duration-200" href="{{ state.url | relative_url }}">{{ state.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      {% for link in site.data.navigation.links %}
+      <a class="px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-colors" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+      {% endfor %}
+
+      <!-- Main Button CTA -->
+      <a class="btn btn-primary ml-4 px-7 shadow-glow hover:scale-105 active:scale-95" href="{{ site.data.navigation.cta.url | relative_url }}">
+        {{ site.data.navigation.cta.label }}
+      </a>
+    </nav>
+
+    <!-- Mobile Menu Button -->
+    <div class="flex items-center lg:hidden">
+      <button id="mobile-menu-open" class="inline-flex h-11 w-11 items-center justify-center rounded-lg text-white bg-white/5 border border-white/10 hover:bg-white/10 active:scale-95 transition-all outline-none" onclick="mobileMenuToggle()">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+      </button>
+    </div>
 
   </div>
 </header>
