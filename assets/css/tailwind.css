@@ -83,11 +83,9 @@ KEYFRAMES
 transform: translateX(0%);
 }
 
-```
 100% {
   transform: translateX(-50%);
 }
-```
 
 }
 
@@ -97,12 +95,10 @@ opacity: 0;
 transform: translateY(18px);
 }
 
-```
 100% {
   opacity: 1;
   transform: translateY(0);
 }
-```
 
 }
 
@@ -112,11 +108,9 @@ transform: translateY(18px);
 transform: translateY(0);
 }
 
-```
 50% {
   transform: translateY(-8px);
 }
-```
 
 }
 
@@ -135,7 +129,6 @@ ROOT VARIABLES & BASE STYLES
 :root {
 color-scheme: dark;
 
-```
 /* ------------------------------------------------------
    RAW RGB DESIGN TOKENS
    ------------------------------------------------------ */
@@ -162,7 +155,6 @@ color-scheme: dark;
 --color-danger: 239 68 68;
 --color-warning: 245 158 11;
 --color-info: 56 189 248;
-```
 
 }
 
@@ -175,11 +167,9 @@ accent-color: rgb(var(--color-primary));
 body {
 @apply bg-background text-text antialiased;
 
-```
 font-family: var(--font-sans);
 line-height: 1.6;
 overflow-x: hidden;
-```
 
 }
 
@@ -327,7 +317,7 @@ LEGACY COMPATIBILITY
 
 /*
 
-* Tailwind v3 config'inden kalan `rounded-DEFAULT`
+* Tailwind v3 config'inden kalan rounded-DEFAULT
 * kullanımını kırmamak için korunuyor.
   */
   .rounded-DEFAULT {
@@ -363,16 +353,13 @@ GRADIENT BORDER
 .border-gradient {
 position: relative;
 
-```
 @apply rounded-lg;
-```
 
 }
 
 .border-gradient::before {
 content: "";
 
-```
 position: absolute;
 inset: 0;
 padding: 1px;
@@ -396,7 +383,6 @@ mask:
 mask-composite: exclude;
 
 pointer-events: none;
-```
 
 }
 
@@ -416,9 +402,7 @@ rgba(255, 255, 255, 0.04) 1px,
 transparent 1px
 );
 
-```
 background-size: 32px 32px;
-```
 
 }
 
