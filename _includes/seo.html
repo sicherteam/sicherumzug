@@ -1,29 +1,32 @@
 {% assign organization_name = site.brand_name %}
 {% assign og_image_source = page.og_image | default: site.og_image | default: site.logo %}
 {% assign og_image_alt = page.og_image_alt | default: site.og_image_alt | default: organization_name %}
+
+<!-- Master Plan: SEO & Meta Standards -->
 <title>{{ page.seo_title | default: page.title | default: organization_name }}</title>
-<meta name="description"
-  content="{{ page.description | default: site.description | strip_html | normalize_whitespace }}">
+<meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
 <meta name="robots" content="{{ page.robots | default: 'index, follow' }}">
 <meta name="author" content="{{ site.author | default: organization_name }}">
 
-<!-- Canonical tags handled in meta_tags.html -->
+<!-- Modern UI Browser Integration -->
+<meta name="theme-color" content="#0b1220">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-<!-- Open Graph -->
+<!-- Open Graph / Social -->
 <meta property="og:title" content="{{ page.seo_title | default: page.title | default: organization_name }}">
-<meta property="og:description"
-  content="{{ page.description | default: site.description | strip_html | normalize_whitespace }}">
+<meta property="og:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:type" content="website">
 <meta property="og:image" content="{{ og_image_source | relative_url | absolute_url }}">
 <meta property="og:image:alt" content="{{ og_image_alt | strip_html | normalize_whitespace }}">
+
+<!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.seo_title | default: page.title | default: organization_name }}">
-<meta name="twitter:description"
-  content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200, '...' }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 }}">
 <meta name="twitter:image" content="{{ og_image_source | relative_url | absolute_url }}">
 
-<!-- Organization Schema -->
+<!-- Organization & WebSite Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,7 +48,6 @@
 }
 </script>
 
-<!-- WebSite Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -60,24 +62,7 @@
 }
 </script>
 
-<!-- WebPage Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#webpage",
-  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
-  "name": "{{ page.seo_title | default: page.title | default: organization_name }}",
-  "isPartOf": {
-    "@id": "{{ site.canonical_base_url }}/#website"
-  },
-  "about": {
-    "@id": "{{ site.canonical_base_url }}/#organization"
-  },
-  "description": "{{ page.description | default: site.description | strip_html | normalize_whitespace }}"
-}
-</script>
-
+<!-- LocalBusiness Schema (MovingCompany & Construction) -->
 {% assign lb = site.local_business %}
 {% if lb %}
 <script type="application/ld+json">
@@ -93,7 +78,7 @@
     "@id": "{{ site.canonical_base_url }}/#organization"
   },
   "description": "{{ site.description | strip_html | normalize_whitespace }}",
-  "telephone": "+43 660 6060775",
+  "telephone": "{{ site.phone }}",
   "email": "{{ site.email }}",
   "priceRange": "{{ lb.price_range | default: '€€' }}",
   "address": {
@@ -112,90 +97,18 @@
     { "@type": "Country", "name": "AT" },
     { "@type": "City", "name": "Wien" },
     { "@type": "AdministrativeArea", "name": "Niederösterreich" },
-    { "@type": "AdministrativeArea", "name": "Burgenland" },
-    { "@type": "AdministrativeArea", "name": "Steiermark" },
-    { "@type": "AdministrativeArea", "name": "Kärnten" },
-    { "@type": "AdministrativeArea", "name": "Oberösterreich" },
-    { "@type": "AdministrativeArea", "name": "Salzburg" }
+    { "@type": "AdministrativeArea", "name": "Burgenland" }
   ],
-  "knowsAbout": [
-    "Umzug",
-    "Möbeltransport",
-    "Privatumzug",
-    "Firmenumzug",
-    "Entrümpelung",
-    "Räumung",
-    "Haushaltsauflösung",
-    "Verlassenschaft",
-    "Wertausgleich",
-    "MA 48 Koordination",
-    "Messie-Entrümpelung",
-    "Firmenräumung"
-  ],
-  "serviceType": [
-    "Umzug",
-    "Möbeltransport",
-    "Privatumzug",
-    "Firmenumzug",
-    "Haushaltsauflösung",
-    "Entrümpelung",
-    "Wohnungsräumung",
-    "Firmenräumung",
-    "Kellerräumung",
-    "Dachbodenräumung",
-    "Messie-Entrümpelung",
-    "Verlassenschaft"
-  ],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Umzugs- und Räumungsleistungen",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Umzug & Übersiedlung",
-          "description": "Professioneller Privatumzug, Firmenumzug und Möbeltransport in ganz Österreich"
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Haushaltsauflösung",
-          "description": "Komplette Auflösung von Wohnungen und Häusern inklusive Wertausgleich und besenreiner Übergabe"
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Firmenräumung",
-          "description": "DSGVO-konforme Räumung von Büros, Lagerflächen und Produktionshallen"
-        }
-      }
-    ]
-  },
+  "knowsAbout": ["Umzug", "Entrümpelung", "Räumung", "Möbeltransport"],
   "openingHoursSpecification": [
     {% for window in site.open_hours %}
-    {% assign window_days = window.days %}
-    {% if window_days == nil and window.day %}
-      {% assign window_days = window.day | split: ',' %}
-    {% endif %}
+    {% assign window_days = window.days | default: window.day | split: ',' %}
     {% for day in window_days %}
     {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": "{{ day | strip }}",
-      {% if window.closed %}
-      "opens": "00:00",
-      "closes": "00:00",
-      "description": "geschlossen"
-      {% else %}
-      "opens": "{{ window.opens }}",
-      "closes": "{{ window.closes }}"
-      {% endif %}
-    }{% unless forloop.last and forloop.parentloop.last %},
-    {% endunless %}
+      {% if window.closed %}"opens": "00:00", "closes": "00:00"{% else %}"opens": "{{ window.opens }}", "closes": "{{ window.closes }}"{% endif %}
+    }{% unless forloop.last and forloop.parentloop.last %}, {% endunless %}
     {% endfor %}
     {% endfor %}
   ],
@@ -204,179 +117,46 @@
 }
 </script>
 {% endif %}
+
+<!-- Service Specific Schema -->
 {% if page.schema_type == 'Service' %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "{{ page.title }}",
-  "serviceType": "{{ page.service_type | default: page.title }}",
-  "provider": {
-    "@id": "{{ site.canonical_base_url }}/#localbusiness"
-  },
-  "mainEntityOfPage": {
-    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#webpage"
-  },
-  {% assign service_areas = page.schema_service_areas | default: lb.service_area %}
-  {% if service_areas and service_areas != empty %}
-  "areaServed": [
-    {% for area in service_areas %}
-    {% assign normalized_service_area = area | downcase | replace: 'ö', 'oe' | replace: 'ä', 'ae' | replace: 'ü', 'ue' | replace: 'ß', 'ss' %}
-    {% assign service_area_type = 'City' %}
-    {% if normalized_service_area contains 'niederosterreich' or normalized_service_area contains 'burgenland' %}
-      {% assign service_area_type = 'AdministrativeArea' %}
-    {% endif %}
-    { "@type": "{{ service_area_type }}", "name": "{{ area }}" }{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
-  ],
-  {% else %}
-  "areaServed": {
-    "@type": "City",
-    "name": "Wien"
-  },
-  {% endif %}
-  "description": "{{ page.description | default: page.excerpt | strip_html | normalize_whitespace }}",
-  {% assign service_price_from = page.schema_price_from %}
-  {% assign service_price_to = page.schema_price_to %}
-  {% assign service_price_currency = page.schema_price_currency | default: 'EUR' %}
-  {% assign service_price_desc = page.schema_price_description | default: page.schema_price_note %}
-  {% assign service_offer_count = page.schema_offer_count | default: 1 %}
-  {% if service_price_from %}
-  "offers": {
-    "@type": "{% if service_price_to %}AggregateOffer{% else %}Offer{% endif %}",
-    "priceCurrency": "{{ service_price_currency }}",
-    {% if service_price_to %}
-    "lowPrice": "{{ service_price_from }}",
-    "highPrice": "{{ service_price_to }}",
-    "offerCount": "{{ service_offer_count }}",
-    {% else %}
-    "price": "{{ service_price_from }}",
-    {% endif %}
-    "url": "{{ page.url | relative_url | absolute_url }}"
-    {% if service_price_desc %},
-    "description": "{{ service_price_desc | strip_html | normalize_whitespace }}"
-    {% endif %}
-  }
-  {% else %}
+  "name": "{{ page.title | escape }}",
+  "serviceType": "{{ page.service_type | default: page.title | escape }}",
+  "provider": { "@id": "{{ site.canonical_base_url }}/#localbusiness" },
+  "description": "{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | escape }}",
   "offers": {
     "@type": "Offer",
-    "price": "0",
+    "price": "{{ page.schema_price_from | default: '0' }}",
     "priceCurrency": "EUR",
-    "url": "{{ page.url | relative_url | absolute_url }}"
+    "url": "{{ page.url | absolute_url }}"
   }
-  {% endif %}
-}
-</script>
-{% endif %}
-{% assign faq_items = page.faqs %}
-{% if faq_items == nil and page.use_global_faqs %}
-{% assign faq_items = site.data.faqs %}
-{% endif %}
-{% if faq_items %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#faq",
-  "mainEntityOfPage": {
-    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#webpage"
-  },
-  "mainEntity": [
-    {% for faq in faq_items %}
-    {
-      "@type": "Question",
-      "name": "{{ faq.question | strip_html }}",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "{{ faq.answer | strip_newlines | escape }}",
-        "author": {
-          "@id": "{{ site.canonical_base_url }}/#organization"
-        }
-      }
-    }{% unless forloop.last %},
-    {% endunless %}
-    {% endfor %}
-  ]
 }
 </script>
 {% endif %}
 
-{% if page.collection == 'guides' %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#article",
-  "headline": "{{ page.title | escape }}",
-  "description": "{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | escape }}",
-  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
-  "dateModified": "{{ page.lastmod | default: page.date | date: '%Y-%m-%d' }}",
-  "author": {
-    "@id": "{{ site.canonical_base_url }}/#organization"
-  },
-  "publisher": {
-    "@id": "{{ site.canonical_base_url }}/#organization"
-  },
-  "mainEntityOfPage": {
-    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#webpage"
-  },
-  "articleSection": "{{ page.category | default: 'Ratgeber' | escape }}",
-  "keywords": "{{ page.tags | join: ', ' | escape }}"
-}
-</script>
-{% endif %}
-
-<!-- Breadcrumb Navigation Schema -->
+<!-- Breadcrumb Schema -->
 {% if page.url != '/' %}
-{% assign crumb_parent_name = nil %}
-{% assign crumb_parent_url = nil %}
-{% case page.collection %}
-{% when 'services' %}
-  {% assign crumb_parent_name = 'Leistungen' %}
-  {% assign crumb_parent_url = '/leistungen/' %}
-{% when 'districts' %}
-  {% assign crumb_parent_name = 'Bezirke' %}
-  {% assign crumb_parent_url = '/bezirke/' %}
-{% when 'guides' %}
-  {% assign crumb_parent_name = 'Ratgeber' %}
-  {% assign crumb_parent_url = '/ratgeber/' %}
-{% when 'states' %}
-  {% assign crumb_parent_name = 'Bundesländer' %}
-  {% assign crumb_parent_url = '/bezirke/' %}
-{% endcase %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#breadcrumb",
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
       "item": "{{ site.url }}{{ site.baseurl }}/"
-    }
-    {% if crumb_parent_name and crumb_parent_url %}
-    ,{
+    },
+    {
       "@type": "ListItem",
       "position": 2,
-      "name": "{{ crumb_parent_name }}",
-      "item": "{{ site.url }}{{ site.baseurl }}{{ crumb_parent_url }}"
+      "name": "{{ page.title | escape }}",
+      "item": "{{ page.url | absolute_url }}"
     }
-    ,{
-      "@type": "ListItem",
-      "position": 3,
-      "name": "{{ page.title | default: organization_name | escape }}",
-      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-    }
-    {% else %}
-    ,{
-      "@type": "ListItem",
-      "position": 2,
-      "name": "{{ page.title | default: organization_name | escape }}",
-      "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-    }
-    {% endif %}
   ]
 }
 </script>
