@@ -1,7 +1,17 @@
 {% assign toc = '' %}
 {% assign headings = include.html | split: '<h2' %}
+
 {% if headings.size > 1 %}
-  <ul class="toc space-y-2">
+<!-- Master Plan: Table of Contents Modernization -->
+<nav class="toc-container bg-surface/40 backdrop-blur-md border border-white/5 rounded-2xl p-6 mb-10 animate-fadeUp" aria-label="Inhaltsverzeichnis">
+  
+  <!-- TOC Header (Section 1 Local Icon Fix) -->
+  <div class="flex items-center gap-3 mb-6 pb-4 border-b border-white/5">
+    <span class="material-symbols-outlined text-primary !text-[22px]">format_list_bulleted</span>
+    <h3 class="text-sm font-black uppercase tracking-[0.2em] text-white">Inhalt</h3>
+  </div>
+
+  <ul class="space-y-4">
   {% for heading in headings %}
     {% if forloop.first == false %}
       {% assign id_part = heading | split: 'id="' | last %}
@@ -11,9 +21,16 @@
       {% assign title = content_after_bracket | split: '</h2' | first | strip_html | strip %}
 
       {% if id and title != empty %}
-        <li class="toc-entry"><a href="#{{ id }}" class="hover:text-crimson transition-colors">{{ title }}</a></li>
+        <li class="group">
+          <a href="#{{ id }}" class="flex items-start gap-3 text-[14px] leading-tight text-text-soft hover:text-primary transition-all duration-200 group-hover:translate-x-1">
+            <!-- Active/Hover Indicator -->
+            <span class="w-1.5 h-1.5 rounded-full bg-primary/30 mt-[0.4rem] group-hover:bg-primary transition-colors"></span>
+            <span class="flex-1 font-medium italic group-hover:not-italic">{{ title }}</span>
+          </a>
+        </li>
       {% endif %}
     {% endif %}
   {% endfor %}
   </ul>
+</nav>
 {% endif %}
