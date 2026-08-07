@@ -23,7 +23,7 @@ hero_preload: /topbg.webp
 <section class="relative overflow-hidden bg-primary text-white">
   <div class="container mx-auto px-4 py-20">
     <div class="max-w-3xl space-y-5">
-      <p class="text-l font-semibold uppercase tracking-[0.4em] text-primary-accent">Bewertungen</p>
+      <p class="text-l font-semibold uppercase tracking-[0.4em] text-primary">Bewertungen</p>
       <h1 class="text-4xl font-black leading-tight md:text-5xl">Das sagen Kund:innen über Sicher Team</h1>
       <p class="text-lg text-white/90">Transparente Erfahrungsberichte mit dokumentierten Fixpreisen, Wertanrechnung und besenreinen Übergaben in ganz Wien &amp; NÖ.</p>
       <div class="grid gap-4 rounded-2xl bg-white/10 p-6 text-sm font-semibold uppercase tracking-[0.2em] text-white md:grid-cols-2">
@@ -63,7 +63,7 @@ hero_preload: /topbg.webp
 <section class="bg-background-light py-16">
   <div class="container mx-auto px-4">
     <div class="max-w-3xl">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Bewertungen</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">Bewertungen</p>
       <h2 class="mt-3 text-3xl font-extrabold text-primary">Authentische Erfahrungsberichte aus Wohnungs-, Haus- &amp; Firmenräumungen</h2>
       <p class="mt-4 text-base text-text-light">Jede Geschichte steht für eine erledigte Räumung mit fixiertem Zeitplan, dokumentierter Übergabe und sauberer Abrechnung. Filtern Sie direkt nach Ihrer Situation oder scrollen Sie durch alle Stimmen.</p>
     </div>
@@ -98,7 +98,7 @@ hero_preload: /topbg.webp
   <div class="container mx-auto px-4">
     <div class="grid gap-12 lg:grid-cols-2">
       <div class="space-y-5">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Warum das Feedback zählt</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">Warum das Feedback zählt</p>
         <h3 class="text-3xl font-extrabold text-primary">Jede Bewertung fließt in bessere Abläufe und transparente Angebote ein</h3>
         <p class="text-base text-text-light">Ob Dachbodenräumung, Büroauflösung oder Messie-Spezialfall – wir analysieren jedes Kundenfeedback und verbessern daraus Logistik, Wertanrechnung und Dokumentation. So stellen wir sicher, dass der nächste Einsatz noch reibungsloser abläuft.</p>
         <ul class="space-y-3 text-base text-text-light">
@@ -108,7 +108,7 @@ hero_preload: /topbg.webp
         </ul>
       </div>
       <div class="rounded-3xl bg-background-light p-8 shadow-xl">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Gratis Angebot</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">Gratis Angebot</p>
         <h3 class="mt-3 text-2xl font-extrabold text-primary">Ersteinschätzung &amp; Fixpreis erhalten</h3>
         <p class="mt-2 text-sm text-text-light">Laden Sie Fotos hoch oder schildern Sie kurz den Umfang. Wir melden uns innerhalb eines Werktags.</p>
         <div class="mt-6">

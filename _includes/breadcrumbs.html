@@ -1,7 +1,7 @@
 {% if page.url != '/' %}
 <nav class="bg-surface-background py-3 border-b border-gray-100" aria-label="Breadcrumb">
   <div class="container mx-auto px-4 flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-text-body overflow-x-auto whitespace-nowrap scrollbar-none">
-    <a href="{{ '/' | relative_url }}" class="hover:text-crimson transition-colors flex items-center gap-1">
+    <a href="{{ '/' | relative_url }}" class="hover:text-primary transition-colors flex items-center gap-1">
       <span class="material-symbols-outlined text-[1rem]">home</span>
       <span>Home</span>
     </a>
@@ -20,7 +20,7 @@
           {% if part == 'leistungen' %}{% assign breadcrumb_title = 'Leistungen' %}{% endif %}
           {% if part == 'bezirke' %}{% assign breadcrumb_title = 'Bezirke' %}{% endif %}
           {% if part == 'ratgeber' %}{% assign breadcrumb_title = 'Ratgeber' %}{% endif %}
-          <a href="{{ current_url | append: '/' | relative_url }}" class="hover:text-crimson transition-colors">{{ breadcrumb_title }}</a>
+          <a href="{{ current_url | append: '/' | relative_url }}" class="hover:text-primary transition-colors">{{ breadcrumb_title }}</a>
           <span class="material-symbols-outlined text-sm text-gray-300">chevron_right</span>
         {% endif %}
       {% endif %}

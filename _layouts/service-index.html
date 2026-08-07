@@ -5,7 +5,7 @@ layout: default
 <section class="bg-white py-16">
   <div class="container mx-auto px-4">
     <div class="max-w-4xl">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ page.kicker | default: 'Leistungen' }}</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ page.kicker | default: 'Leistungen' }}</p>
       <h1 class="mt-3 text-4xl font-black text-primary">{{ page.title }}</h1>
       {% if page.description %}
       <p class="mt-4 text-lg text-text-light">{{ page.description }}</p>
@@ -29,7 +29,7 @@ layout: default
     {% assign services_all = site.services | sort: 'title' %}
     {% for category in page.categories %}
     <div id="category-{{ category.key | downcase | replace: ' ', '-' }}">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ category.title }}</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ category.title }}</p>
       <div class="mt-2 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
         <h2 class="text-3xl font-extrabold text-primary">{{ category.heading | default: category.title }}</h2>
         {% if category.cta %}
@@ -65,7 +65,7 @@ layout: default
 <section class="bg-background-light py-12">
   <div class="container mx-auto px-4">
     <div class="flex flex-col gap-3 text-center">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Bezirke</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">Bezirke</p>
       <h2 class="text-3xl font-extrabold text-primary">Standorte in Wien & Umgebung</h2>
       {% if page.districts_intro %}
       <p class="text-base text-text-light">{{ page.districts_intro }}</p>

@@ -11,7 +11,7 @@ kicker: "Standorte"
 <section class="bg-white py-16">
   <div class="container mx-auto px-4">
     <div class="max-w-3xl">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ page.kicker }}</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ page.kicker }}</p>
       <h1 class="mt-3 text-4xl font-black text-primary">Wien bleibt Kerngebiet – Österreichweit planbar</h1>
       <p class="mt-4 text-lg text-text-light">
         Über 80&nbsp;% unserer Einsätze finden in Wien statt – deshalb bleiben dort Teams, Lager und Halteverbotsmaterialien stationiert. Für Kund:innen mit
@@ -36,12 +36,12 @@ kicker: "Standorte"
 <section class="bg-background-light py-16">
   <div class="container mx-auto px-4">
     <div class="flex flex-col gap-3 text-center">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Bundesland wählen</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">Bundesland wählen</p>
       <h2 class="text-3xl font-extrabold text-primary">Standort auswählen & Details öffnen</h2>
       <p class="text-base text-text-light">Zuerst Wien, dann Niederösterreich, Burgenland, Steiermark, Kärnten, Oberösterreich und Salzburg – innerhalb jedes Bundeslands finden Sie unsere Bezirks- und Regionsseiten.</p>
     </div>
     <div class="mt-10 rounded-3xl bg-white p-6 shadow-lg">
-      <p class="text-sm font-semibold uppercase tracking-[0.3em] text-primary-accent">Meistgesuchte Bezirke</p>
+      <p class="text-sm font-semibold uppercase tracking-[0.3em] text-primary">Meistgesuchte Bezirke</p>
       <p class="mt-2 text-base text-text-light">Diese Seiten decken Suchanfragen wie „Umzug 1180 Wien“ oder „Übersiedlung 1210“ ab – direkt verlinkt, damit Sie ohne Umwege zum passenden Angebot kommen.</p>
       <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {% assign hot_districts = "
@@ -99,7 +99,7 @@ kicker: "Standorte"
   <div class="container mx-auto px-4">
     <div class="grid gap-8 lg:grid-cols-2">
       <div class="space-y-4">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Serviceversprechen</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">Serviceversprechen</p>
         <h2 class="text-3xl font-extrabold text-primary">Fixpreis + Wertanrechnung für jeden Bezirk</h2>
         <p class="text-base text-text-light">
           Egal ob Dachgeschoss am Spittelberg, Atelier in der Neubaugasse oder Villa in Grinzing – wir kombinieren lokale Logistik mit transparenten Preisen,
@@ -113,7 +113,7 @@ kicker: "Standorte"
         </ul>
       </div>
       <div class="rounded-3xl bg-background-light p-8 shadow-xl">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Schnelle Anfrage</p>
+        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">Schnelle Anfrage</p>
         <h3 class="mt-3 text-2xl font-extrabold text-primary">Noch nicht sicher, welcher Bezirk passt?</h3>
         <p class="mt-2 text-sm text-text-light">
           Beschreiben Sie kurz Ihr Objekt – wir ordnen es zu und melden uns mit einem Terminvorschlag.

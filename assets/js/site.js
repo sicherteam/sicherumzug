@@ -360,7 +360,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var len = messageInp.value.length;
       messageCounter.textContent = len + ' / 1000';
       if (len >= 900) {
-        messageCounter.className = 'text-xs text-primary-accent font-bold';
+        messageCounter.className = 'text-xs text-primary font-bold';
       } else {
         messageCounter.className = 'text-xs text-text-light';
       }

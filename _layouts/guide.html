@@ -6,7 +6,7 @@ layout: default
 <article class="bg-white py-16">
   <div class="container mx-auto px-4">
     <div class="mx-auto max-w-3xl">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ page.category | default: 'Ratgeber' }}</p>
+      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ page.category | default: 'Ratgeber' }}</p>
       <h1 class="mt-3 text-4xl font-black text-primary">{{ page.title }}</h1>
       <p class="mt-3 text-sm text-gray-500">Aktualisiert am {{ page.date | date: "%d.%m.%Y" }}</p>
       <div class="mt-3 inline-flex items-center gap-2 rounded-full border border-gray-200 bg-background-light px-4 py-2 text-xs font-semibold uppercase tracking-[0.2em] text-primary">
@@ -20,7 +20,7 @@ layout: default
         <aside class="hidden lg:block lg:col-span-1 sticky top-24">
           <div class="rounded-2xl bg-background-light p-5 border border-gray-100">
             <h3 class="text-sm font-bold uppercase tracking-wider text-primary mb-3">Inhaltsverzeichnis</h3>
-            <div class="text-sm text-text-light hover:[&_a]:text-crimson">
+            <div class="text-sm text-text-light hover:[&_a]:text-primary">
               {% include toc.html html=content %}
             </div>
           </div>
