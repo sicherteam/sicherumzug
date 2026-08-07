@@ -1,68 +1,90 @@
 {% assign states = site.states | default: site.collections.states.docs %}
 {% if states == nil %}
-{% assign states = '' | split: '' %}
+  {% assign states = '' | split: '' %}
 {% endif %}
 {% assign states = states | sort: 'order' %}
-<div id="mobile-menu" class="fixed inset-0 z-50 hidden flex-col bg-background-dark text-white lg:hidden" data-mobile-menu>
-  <div class="flex items-center justify-between gap-4 border-b border-white/10 p-4">
-    <a href="{{ '/' | relative_url }}" class="flex max-w-[65vw] items-center gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded-lg">
+
+<!-- Master Plan: Mobile Menu Modernization -->
+<div id="mobile-menu" class="fixed inset-0 z-[100] hidden flex-col bg-background text-white lg:hidden" data-mobile-menu>
+  
+  <!-- Header: Logo & Close -->
+  <div class="flex items-center justify-between gap-4 border-b border-white/5 p-5 bg-surface/30 backdrop-blur-md">
+    <a href="{{ '/' | relative_url }}" class="flex max-w-[60vw] items-center gap-3 outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
       <span class="sr-only">{{ site.brand_name }}</span>
-      <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="{{ site.brand_name }}" class="h-[45px] w-auto" width="808" height="270" />
+      <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="{{ site.brand_name }}" class="h-10 w-auto" width="808" height="270" />
+      <span class="text-lg font-black tracking-tighter uppercase italic">SICHER<span class="text-primary">TEAM</span></span>
     </a>
-    <button id="mobile-menu-close" class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white/10 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 transition-opacity" onclick="mobileMenuToggle()" aria-label="Menü schließen">
-      <span class="material-symbols-outlined text-2xl">close</span>
+    <button id="mobile-menu-close" class="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-white/5 border border-white/10 text-white active:scale-95 transition-all outline-none focus-visible:ring-2 focus-visible:ring-primary" onclick="mobileMenuToggle()" aria-label="Menü schließen">
+      <span class="material-symbols-outlined !text-[28px]">close</span>
     </button>
   </div>
-  <div class="flex-1 overflow-y-auto px-6 py-6 space-y-6">
-    <!-- Services -->
+
+  <!-- Body: Navigation -->
+  <div class="flex-1 overflow-y-auto px-6 py-8 space-y-8">
+    
+    <!-- Services (Leistungen) -->
     <div>
-      <button class="flex w-full items-center justify-between border-b border-white/10 py-3 text-lg font-semibold text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" aria-expanded="false" aria-controls="mobile-services" onclick="toggleSubMenu(this, 'mobile-services')">
-        <span>Leistungen</span>
-        <span class="material-symbols-outlined text-xl transition-transform duration-200">expand_more</span>
+      <button class="flex w-full items-center justify-between border-b border-white/5 py-4 text-xl font-black text-left outline-none group" aria-expanded="false" aria-controls="mobile-services" onclick="toggleSubMenu(this, 'mobile-services')">
+        <span class="group-hover:text-primary transition-colors">Leistungen</span>
+        <span class="material-symbols-outlined text-primary transition-transform duration-300">expand_more</span>
       </button>
-      <div id="mobile-services" role="region" class="hidden space-y-4 pt-3 pl-2">
+      <div id="mobile-services" role="region" class="hidden space-y-6 pt-5 pl-2 animate-fadeUp">
         {% for group in site.data.navigation.services %}
-        <div>
-          <p class="mb-1 text-xs font-bold uppercase tracking-wider text-white/50">{{ group.label }}</p>
-          <ul class="space-y-2 text-sm border-l border-white/10 pl-3">
+        <div class="space-y-3">
+          <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary/60 border-l-2 border-primary/30 pl-3">{{ group.label }}</p>
+          <ul class="space-y-3 pl-3">
             {% for item in group.items %}
-            <li><a class="block py-1 hover:text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ item.url | relative_url }}" onclick="mobileMenuToggle()">{{ item.title }}</a></li>
+            <li>
+              <a class="block py-1 text-base font-medium text-text-soft hover:text-white transition-colors" href="{{ item.url | relative_url }}" onclick="mobileMenuToggle()">{{ item.title }}</a>
+            </li>
             {% endfor %}
           </ul>
         </div>
         {% endfor %}
-        <a class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ '/leistungen/' | relative_url }}" onclick="mobileMenuToggle()">
-          Alle Leistungen ansehen
-          <span class="material-symbols-outlined text-base">north_east</span>
+        <a class="mt-4 flex items-center gap-2 text-sm font-black text-primary uppercase tracking-widest" href="{{ '/leistungen/' | relative_url }}" onclick="mobileMenuToggle()">
+          Alle Leistungen
+          <span class="material-symbols-outlined !text-[18px]">north_east</span>
         </a>
       </div>
     </div>
 
     <!-- Bundesländer -->
     <div>
-      <button class="flex w-full items-center justify-between border-b border-white/10 py-3 text-lg font-semibold text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" aria-expanded="false" aria-controls="mobile-districts" onclick="toggleSubMenu(this, 'mobile-districts')">
-        <span>Bundesländer</span>
-        <span class="material-symbols-outlined text-xl transition-transform duration-200">expand_more</span>
+      <button class="flex w-full items-center justify-between border-b border-white/5 py-4 text-xl font-black text-left outline-none group" aria-expanded="false" aria-controls="mobile-districts" onclick="toggleSubMenu(this, 'mobile-districts')">
+        <span class="group-hover:text-primary transition-colors">Bundesländer</span>
+        <span class="material-symbols-outlined text-primary transition-transform duration-300">expand_more</span>
       </button>
-      <div id="mobile-districts" role="region" class="hidden space-y-2 pt-3 pl-2 text-sm border-l border-white/10 ml-2 pl-3">
+      <div id="mobile-districts" role="region" class="hidden space-y-4 pt-5 pl-5 border-l border-white/5 ml-1 animate-fadeUp">
         {% for state in site.data.navigation.districts %}
-        <a class="block py-1 hover:text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ state.url | relative_url }}" onclick="mobileMenuToggle()">{{ state.title }}</a>
+        <a class="block py-1 text-base font-medium text-text-soft hover:text-white transition-colors" href="{{ state.url | relative_url }}" onclick="mobileMenuToggle()">{{ state.title }}</a>
         {% endfor %}
-        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
-          Alle Standorte anzeigen
-          <span class="material-symbols-outlined text-base">north_east</span>
+        <a class="mt-4 flex items-center gap-2 text-sm font-black text-primary uppercase tracking-widest" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
+          Alle Standorte
+          <span class="material-symbols-outlined !text-[18px]">north_east</span>
         </a>
       </div>
     </div>
 
     <!-- Custom Links -->
-    <div class="space-y-4 pt-2">
+    <div class="space-y-2">
       {% for link in site.data.navigation.links %}
-      <a class="block border-b border-white/10 py-3 text-lg font-semibold hover:text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ link.url | relative_url }}" onclick="mobileMenuToggle()">{{ link.label }}</a>
+      <a class="block border-b border-white/5 py-4 text-xl font-black text-text hover:text-primary transition-colors italic" href="{{ link.url | relative_url }}" onclick="mobileMenuToggle()">{{ link.label }}</a>
       {% endfor %}
     </div>
   </div>
-  <div class="border-t border-white/10 p-6 bg-background-dark/50">
-    <a class="flex w-full items-center justify-center rounded-full bg-crimson hover:bg-crimson-hover py-3.5 text-white font-bold shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 transition-opacity" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">{{ site.data.navigation.cta.label }}</a>
+
+  <!-- Footer: CTA Button (Crimson -> Primary) -->
+  <div class="p-6 bg-surface/50 backdrop-blur-xl border-t border-white/5">
+    <a class="btn btn-primary w-full shadow-glow !py-4 !text-base uppercase tracking-widest font-black" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">
+      <span class="material-symbols-outlined">call</span>
+      {{ site.data.navigation.cta.label }}
+    </a>
+    
+    <!-- Secondary Contact Info in Menu -->
+    <div class="mt-6 flex justify-center gap-6 opacity-60">
+       <a href="tel:{{ site.phone }}" class="material-symbols-outlined text-white">phone_in_talk</a>
+       <a href="https://wa.me/{{ site.whatsapp }}" class="material-symbols-outlined text-success">chat</a>
+       <a href="mailto:{{ site.email }}" class="material-symbols-outlined text-white">alternate_email</a>
+    </div>
   </div>
 </div>
