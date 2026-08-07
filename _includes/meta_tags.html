@@ -1,13 +1,24 @@
-<!-- Generated SEO & Meta tags -->
+<!-- SEO & Meta Tags - Master Plan Modernization -->
 <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<!-- Standard Meta Tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta name="robots" content="index,follow,max-image-preview:large">
+
+<!-- Theme Color for Mobile Browsers (Matches Modern Dark UI Background) -->
+<meta name="theme-color" content="#0b1220">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<!-- Canonical & Internationalization -->
 <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 <link rel="alternate" hreflang="de-at" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 <link rel="alternate" hreflang="de" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 
-<!-- Open Graph -->
+<!-- Open Graph / Facebook -->
+<meta property="og:site_name" content="{{ site.brand_name }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
@@ -15,7 +26,7 @@
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.image %}{{ page.image }}{% else %}{{ site.og_image }}{% endif %}">
 <meta property="og:locale" content="{{ site.lang | default: 'de_AT' }}">
 
-<!-- Twitter Card -->
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
