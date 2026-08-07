@@ -26,12 +26,12 @@
           <p class="mb-1 text-xs font-bold uppercase tracking-wider text-white/50">{{ group.label }}</p>
           <ul class="space-y-2 text-sm border-l border-white/10 pl-3">
             {% for item in group.items %}
-            <li><a class="block py-1 hover:text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ item.url | relative_url }}" onclick="mobileMenuToggle()">{{ item.title }}</a></li>
+            <li><a class="block py-1 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ item.url | relative_url }}" onclick="mobileMenuToggle()">{{ item.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
         {% endfor %}
-        <a class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ '/leistungen/' | relative_url }}" onclick="mobileMenuToggle()">
+        <a class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ '/leistungen/' | relative_url }}" onclick="mobileMenuToggle()">
           Alle Leistungen ansehen
           <span class="material-symbols-outlined text-base">north_east</span>
         </a>
@@ -46,9 +46,9 @@
       </button>
       <div id="mobile-districts" role="region" class="hidden space-y-2 pt-3 pl-2 text-sm border-l border-white/10 ml-2 pl-3">
         {% for state in site.data.navigation.districts %}
-        <a class="block py-1 hover:text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ state.url | relative_url }}" onclick="mobileMenuToggle()">{{ state.title }}</a>
+        <a class="block py-1 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ state.url | relative_url }}" onclick="mobileMenuToggle()">{{ state.title }}</a>
         {% endfor %}
-        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
+        <a class="mt-2 inline-flex items-center gap-1 text-sm font-semibold text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ '/bezirke/' | relative_url }}" onclick="mobileMenuToggle()">
           Alle Standorte anzeigen
           <span class="material-symbols-outlined text-base">north_east</span>
         </a>
@@ -58,11 +58,11 @@
     <!-- Custom Links -->
     <div class="space-y-4 pt-2">
       {% for link in site.data.navigation.links %}
-      <a class="block border-b border-white/10 py-3 text-lg font-semibold hover:text-primary-accent focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ link.url | relative_url }}" onclick="mobileMenuToggle()">{{ link.label }}</a>
+      <a class="block border-b border-white/10 py-3 text-lg font-semibold hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light/40 rounded px-1" href="{{ link.url | relative_url }}" onclick="mobileMenuToggle()">{{ link.label }}</a>
       {% endfor %}
     </div>
   </div>
   <div class="border-t border-white/10 p-6 bg-background-dark/50">
-    <a class="flex w-full items-center justify-center rounded-full bg-crimson hover:bg-crimson-hover py-3.5 text-white font-bold shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 transition-opacity" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">{{ site.data.navigation.cta.label }}</a>
+    <a class="flex w-full items-center justify-center rounded-full bg-primary hover:bg-primary-hover py-3.5 text-white font-bold shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 transition-opacity" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">{{ site.data.navigation.cta.label }}</a>
   </div>
 </div>
