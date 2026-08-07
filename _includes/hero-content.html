@@ -1,4 +1,4 @@
-{% assign container_classes = include.container_classes | default: 'container relative z-20 mx-auto p-4 pt-6 md:pt-8 text-white' %}
+{% assign container_classes = include.container_classes | default: 'container relative z-20 mx-auto p-4 pt-[128px] md:pt-[160px] text-white' %}
 {% assign content_classes = include.content_classes | default: 'max-w-4xl space-y-4 md:space-y-5' %}
 {% assign cta_variant_key = include.cta_variant | default: 'default' %}
 {% assign cta_variant = site.data.cta_variants[cta_variant_key] | default: site.data.cta_variants.default %}
