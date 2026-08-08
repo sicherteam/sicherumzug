@@ -1,12 +1,22 @@
+{% comment %}
+  Master Plan - Section 2: Görsel Performans ve Seamless Background Mantığı
+  Bu dosya Hero görselinin (LCP) en hızlı ve kaliteli şekilde yüklenmesini sağlar.
+{% endcomment %}
+
 {% assign hero_mobile = site.images.hero_mobile | default: site.images.hero %}
 {% assign hero_desktop = site.images.hero_desktop | default: hero_mobile %}
 {% assign hero_mobile_variants = site.images.hero_mobile_srcset %}
 {% assign hero_desktop_variants = site.images.hero_desktop_srcset %}
+
+{% comment %} Section 2: Seamless tasarım için masaüstü genişliğini 1920'ye optimize ediyoruz {% endcomment %}
 {% assign hero_dimensions = site.images.hero_dimensions.desktop %}
-{% assign hero_width = hero_dimensions.width | default: 1632 %}
-{% assign hero_height = hero_dimensions.height | default: 640 %}
-{% assign hero_image_sizes = "(min-width: 1280px) 1440px, 100vw" %}
+{% assign hero_width = hero_dimensions.width | default: 1920 %}
+{% assign hero_height = hero_dimensions.height | default: 800 %}
+
+{% comment %} Responsive Sizes: Section 2 için tam genişlik (100vw) {% endcomment %}
+{% assign hero_image_sizes = "(min-width: 1280px) 100vw, 100vw" %}
 {% assign hero_mobile_sizes = "100vw" %}
+
 {% capture hero_mobile_srcset -%}
   {% if hero_mobile_variants %}
     {% for variant in hero_mobile_variants -%}
@@ -16,6 +26,7 @@
     {{ hero_mobile | relative_url }} {{ hero_width }}w
   {% endif -%}
 {%- endcapture %}
+
 {% capture hero_desktop_srcset -%}
   {% if hero_desktop_variants %}
     {% for variant in hero_desktop_variants -%}
@@ -25,6 +36,12 @@
     {{ hero_desktop | relative_url }} {{ hero_width }}w
   {% endif -%}
 {%- endcapture %}
+
+{% comment %}
+  SECTION 2: Preload Adayı Belirleme
+  Seamless background için tarayıcıya "en ideal" görseli önceden haber veriyoruz.
+{% endcomment %}
+
 {% assign hero_mobile_preload_href = hero_mobile %}
 {% if hero_mobile_variants and hero_mobile_variants.size > 0 %}
   {% assign hero_mobile_candidate = hero_mobile_variants | last %}
@@ -39,6 +56,7 @@
     {% endif %}
   {% endfor %}
 {% endif %}
+
 {% assign hero_desktop_preload_href = hero_desktop %}
 {% if hero_desktop_variants and hero_desktop_variants.size > 0 %}
   {% assign hero_desktop_candidate = hero_desktop_variants | last %}
@@ -47,7 +65,8 @@
   {% endif %}
   {% for variant in hero_desktop_variants %}
     {% assign descriptor = variant.descriptor | downcase %}
-    {% if descriptor contains '1440' %}
+    {% comment %} 1440w veya 1920w seamless background için en idealidir {% endcomment %}
+    {% if descriptor contains '1440' or descriptor contains '1600' or descriptor contains '1920' %}
       {% assign hero_desktop_preload_href = variant.url %}
       {% break %}
     {% endif %}

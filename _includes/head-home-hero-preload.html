@@ -1,4 +1,6 @@
 {% include home-hero-vars.liquid %}
+
+<!-- SEO & Performance: Preload Logic -->
 {% if hero_mobile %}
 <link rel="preload"
       href="{{ hero_mobile_preload_href | relative_url }}"

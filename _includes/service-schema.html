@@ -1,15 +1,32 @@
 {% if page.service_schema %}
 {% assign s = page.service_schema %}
+<!-- Master Plan: Service-Specific Schema Modernization -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": {{ s.type | default: "Service" | jsonify }},
-  "name": {{ s.name | jsonify }},
+  "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#service",
+  "name": {{ s.name | default: page.title | jsonify }},
   "serviceType": {{ page.service_type | default: s.name | jsonify }},
-  {% if s.area_served %}"areaServed": {{ s.area_served | jsonify }},{% endif %}
-  {% if s.price_range %}"priceRange": {{ s.price_range | jsonify }},{% endif %}
-  {% if s.phone %}"telephone": {{ s.phone | replace: ' ', '' | jsonify }},{% endif %}
-  {% if s.url %}"url": {{ s.url | jsonify }},{% endif %}
+  "description": {{ page.description | default: site.description | strip_html | normalize_whitespace | jsonify }},
+  "provider": {
+    "@id": "{{ site.canonical_base_url }}/#localbusiness"
+  },
+  "mainEntityOfPage": {
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#webpage"
+  },
+  {% if s.area_served %}
+  "areaServed": {{ s.area_served | jsonify }},
+  {% endif %}
+  {% if s.price_range %}
+  "priceRange": {{ s.price_range | jsonify }},
+  {% endif %}
+  {% if s.phone %}
+  "telephone": {{ s.phone | replace: ' ', '' | jsonify }},
+  {% endif %}
+  {% if s.url %}
+  "url": {{ s.url | absolute_url | jsonify }},
+  {% endif %}
   {% if s.same_as %}
   "sameAs": [
     {% for url in s.same_as %}
@@ -17,10 +34,18 @@
     {% endfor %}
   ],
   {% endif %}
-  "provider": {
-    "@type": "Organization",
-    "name": {{ site.brand_name | jsonify }},
-    "url": {{ site.url | append: site.baseurl | jsonify }}
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Leistungskatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": {{ page.title | jsonify }}
+        }
+      }
+    ]
   }
 }
 </script>

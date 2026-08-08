@@ -38,11 +38,11 @@ hero_preload: /topbg.webp
       </div>
       <div class="flex flex-col gap-3 text-sm font-semibold uppercase tracking-[0.2em] text-white/80 sm:flex-row sm:items-center">
         <div class="inline-flex items-center gap-2">
-          <span class="material-symbols-outlined text-base text-success">verified</span>
+          <span class="material-symbols-outlined text-base">verified</span>
           Fixpreis &amp; Wertanrechnung bestätigt
         </div>
         <div class="inline-flex items-center gap-2">
-          <span class="material-symbols-outlined text-base text-success">shield_with_heart</span>
+          <span class="material-symbols-outlined text-base">shield_with_heart</span>
           Voll versichert &amp; dokumentiert
         </div>
       </div>
@@ -102,9 +102,9 @@ hero_preload: /topbg.webp
         <h3 class="text-3xl font-extrabold text-primary">Jede Bewertung fließt in bessere Abläufe und transparente Angebote ein</h3>
         <p class="text-base text-text-light">Ob Dachbodenräumung, Büroauflösung oder Messie-Spezialfall – wir analysieren jedes Kundenfeedback und verbessern daraus Logistik, Wertanrechnung und Dokumentation. So stellen wir sicher, dass der nächste Einsatz noch reibungsloser abläuft.</p>
         <ul class="space-y-3 text-base text-text-light">
-          <li class="flex items-start gap-3"><span class="material-symbols-outlined text-success">check_circle</span><span>Verifizierte Teams vor Ort dokumentieren den Zustand vor &amp; nach der Räumung.</span></li>
-          <li class="flex items-start gap-3"><span class="material-symbols-outlined text-success">check_circle</span><span>Wertanrechnung und Entsorgung werden schriftlich bestätigt, kein Nachverhandeln.</span></li>
-          <li class="flex items-start gap-3"><span class="material-symbols-outlined text-success">check_circle</span><span>Terminfenster und Schlüsselübergaben werden protokolliert – ideal für Hausverwaltungen.</span></li>
+          <li class="flex items-start gap-3"><span class="material-symbols-outlined text-gray-800">check_circle</span><span>Verifizierte Teams vor Ort dokumentieren den Zustand vor &amp; nach der Räumung.</span></li>
+          <li class="flex items-start gap-3"><span class="material-symbols-outlined text-gray-800">check_circle</span><span>Wertanrechnung und Entsorgung werden schriftlich bestätigt, kein Nachverhandeln.</span></li>
+          <li class="flex items-start gap-3"><span class="material-symbols-outlined text-gray-800">check_circle</span><span>Terminfenster und Schlüsselübergaben werden protokolliert – ideal für Hausverwaltungen.</span></li>
         </ul>
       </div>
       <div class="rounded-3xl bg-background-light p-8 shadow-xl">

@@ -1,33 +1,45 @@
-{% assign container_classes = include.container_classes | default: 'container relative z-20 mx-auto p-4 pt-[128px] md:pt-[160px] text-white' %}
-{% assign content_classes = include.content_classes | default: 'max-w-4xl space-y-4 md:space-y-5' %}
+{% assign container_classes = include.container_classes | default: 'container relative z-20 mx-auto px-4 pt-8 md:pt-12 pb-12 text-white' %}
+{% assign content_classes = include.content_classes | default: 'max-w-4xl space-y-6 md:space-y-8' %}
 {% assign cta_variant_key = include.cta_variant | default: 'default' %}
 {% assign cta_variant = site.data.cta_variants[cta_variant_key] | default: site.data.cta_variants.default %}
 
 <div class="{{ container_classes }}">
   <div class="{{ content_classes }}">
-    <!-- Trust Badge -->
-    <div class="inline-flex items-center gap-2 rounded-full bg-orange-500/10 border border-orange-500/30 px-3 py-1.5 text-xs font-bold text-orange-300 mb-2 md:mb-4 animate-slow-pulse">
-      <span class="material-symbols-outlined text-[14px]">bolt</span>
-      JETZT ANFRAGEN & 100% FIXPREIS SICHERN
+
+    <!-- SECTION 1: Trust Badge (Primary -> Primary & Success Entegrasyonu) -->
+    <div class="inline-flex flex-wrap items-center gap-3 rounded-full bg-primary/10 border border-primary/20 px-4 py-2 text-[10px] md:text-xs font-black tracking-widest text-primary mb-2 animate-fadeUp">
+      <div class="flex items-center gap-1.5 uppercase">
+        <span class="material-symbols-outlined !text-[16px]">bolt</span>
+        JETZT ANFRAGEN & 100% FIXPREIS SICHERN
+      </div>
+      <div class="hidden sm:block w-px h-3 bg-primary/30 mx-1"></div>
+      <div class="flex items-center gap-1 text-success uppercase">
+        <span class="material-symbols-outlined !text-[16px]">verified</span>
+        Staatlich Geprüft
+      </div>
     </div>
 
-    <!-- H1 Headline -->
-    {% if page.hero_title %}
-    <h1 class="text-3xl md:text-5xl font-black leading-tight text-white mb-4" data-hero-heading>
-      {{ page.hero_title }} — <span class="bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent">{{ page.hero_highlight }}</span>
-    </h1>
-    {% else %}
-    <h1 class="text-3xl md:text-5xl font-black leading-tight text-white mb-4" data-hero-heading>
-      {{ page.title }} — <span class="bg-gradient-to-r from-orange-400 to-amber-300 bg-clip-text text-transparent">Stressfrei & Sicher</span>
-    </h1>
-    {% endif %}
+    <!-- H1 Headline (Master Plan: Text Gradient & Spacing Fix) -->
+    <div class="animate-fadeUp" style="animation-delay: 100ms;">
+      {% if page.hero_title %}
+      <h1 class="text-4xl md:text-6xl lg:text-7xl font-black leading-[0.95] tracking-tight text-white" data-hero-heading>
+        {{ page.hero_title }} <br>
+        <span class="text-gradient">{{ page.hero_highlight }}</span>
+      </h1>
+      {% else %}
+      <h1 class="text-4xl md:text-6xl lg:text-7xl font-black leading-[0.95] tracking-tight text-white" data-hero-heading>
+        {{ page.title }} <br>
+        <span class="text-gradient">Stressfrei & Sicher</span>
+      </h1>
+      {% endif %}
+    </div>
 
-    <!-- Sub-Paragraph -->
-    <p class="text-base md:text-lg text-slate-300 max-w-3xl mb-6">
-      Wir sind Ihr verlässlicher Experte für <span class="text-orange-400 font-semibold">Privatumzüge</span>, <span class="text-orange-400 font-semibold">Firmenumzüge</span> und <span class="text-orange-400 font-semibold">Räumung & Entrümpelung</span> österreichweit.
+    <!-- Sub-Paragraph (Section 1: text-slate-300 -> text-text-soft) -->
+    <p class="text-lg md:text-xl text-text-soft max-w-2xl leading-relaxed animate-fadeUp italic" style="animation-delay: 200ms;">
+      Wir sind Ihr verlässlicher Experte für <span class="text-white font-bold underline decoration-primary/30">Privatumzüge</span>, <span class="text-white font-bold underline decoration-primary/30">Firmenumzüge</span> und <span class="text-white font-bold underline decoration-primary/30">Räumung</span> österreichweit.
     </p>
 
-    <!-- Desktop CTA Area (Hidden on Mobile, or partially shown depending on design) -->
+    <!-- SECTION 2: CTA Area (Spacing optimized) -->
     {% assign call_label = cta_variant.call_label | default: include.call_label | default: site.phone %}
     {% assign call_url = include.call_url | default: cta_variant.call_url %}
     {% if call_url == nil or call_url == '' %}
@@ -35,50 +47,56 @@
     {% endif %}
     {% assign whatsapp_url = include.whatsapp_url | default: cta_variant.whatsapp_url | default: site.whatsapp %}
 
-    <div class="mt-4 md:mt-8 flex flex-col sm:flex-row items-center gap-4 hidden md:flex">
-      <a href="{{ '/kontakt/' | relative_url }}" class="flex w-full sm:w-auto min-h-[44px] items-center justify-center rounded-xl bg-gradient-to-r from-orange-500 to-amber-500 text-slate-950 px-8 py-3.5 text-base font-black shadow-lg shadow-orange-500/20 hover:-translate-y-0.5 transition-transform duration-200">
-        <span class="material-symbols-outlined mr-2">call</span>
+    <div class="flex flex-wrap items-center gap-4 pt-4 md:pt-6 animate-fadeUp" style="animation-delay: 300ms;">
+      <a href="{{ '/kontakt/' | relative_url }}" class="btn btn-primary px-8 py-4 shadow-glow group">
+        <span class="material-symbols-outlined group-hover:rotate-12 transition-transform">call</span>
         Kostenloses Angebot erhalten
       </a>
-      <a href="{{ whatsapp_url }}" class="flex w-full sm:w-auto min-h-[44px] items-center justify-center rounded-xl bg-emerald-700 text-white px-8 py-3.5 text-base font-bold shadow-lg shadow-emerald-900/30 hover:-translate-y-0.5 transition-transform duration-200">
-        <span class="material-symbols-outlined mr-2">chat</span>
+      <a href="{{ whatsapp_url }}" class="btn bg-[#25D366] text-white hover:bg-[#20ba5a] px-8 py-4 transition-all hover:-translate-y-1">
+        <span class="material-symbols-outlined">chat</span>
         WhatsApp Foto senden
       </a>
     </div>
 
-    <!-- Feature Grid -->
-    <div class="grid grid-cols-2 gap-3 mt-4 md:mt-8">
-      <div class="bg-slate-800/40 backdrop-blur-md border border-slate-700/50 rounded-2xl p-4 flex flex-col hover:border-orange-500/40 transition-colors">
-        <div class="flex items-center gap-2 text-white font-semibold mb-1">
-          <svg class="w-5 h-5 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path></svg>
+    <!-- Feature Grid (Master Plan: Local Font Icons & Surface Cards) -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12 animate-fadeUp" style="animation-delay: 400ms;">
+
+      <!-- Item 1 -->
+      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
+        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-primary transition-colors">
+          <span class="material-symbols-outlined text-primary !text-[20px]">published_with_changes</span>
           Möbeltransport
         </div>
-        <div class="text-sm text-slate-400">Österreichweit</div>
+        <div class="text-[11px] text-text-muted uppercase tracking-wider">Österreichweit</div>
       </div>
 
-      <div class="bg-slate-800/40 backdrop-blur-md border border-slate-700/50 rounded-2xl p-4 flex flex-col hover:border-orange-500/40 transition-colors">
-        <div class="flex items-center gap-2 text-white font-semibold mb-1">
-          <svg class="w-5 h-5 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+      <!-- Item 2 -->
+      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
+        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-primary transition-colors">
+          <span class="material-symbols-outlined text-primary !text-[20px]">handyman</span>
           Montage-Service
         </div>
-        <div class="text-sm text-slate-400">Profi-Handwerker</div>
+        <div class="text-[11px] text-text-muted uppercase tracking-wider">Profi-Handwerker</div>
       </div>
 
-      <div class="bg-slate-800/40 backdrop-blur-md border border-slate-700/50 rounded-2xl p-4 flex flex-col hover:border-orange-500/40 transition-colors">
-        <div class="flex items-center gap-2 text-white font-semibold mb-1">
-          <svg class="w-5 h-5 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+      <!-- Item 3 -->
+      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
+        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-success transition-colors">
+          <span class="material-symbols-outlined text-success !text-[20px]">verified</span>
           Fixpreis-Garantie
         </div>
-        <div class="text-sm text-slate-400">Keine Zusatzkosten</div>
+        <div class="text-[11px] text-text-muted uppercase tracking-wider">Keine Zusatzkosten</div>
       </div>
 
-      <div class="bg-slate-800/40 backdrop-blur-md border border-slate-700/50 rounded-2xl p-4 flex flex-col hover:border-orange-500/40 transition-colors">
-        <div class="flex items-center gap-2 text-white font-semibold mb-1">
-          <svg class="w-5 h-5 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.618 5.984A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016zM12 9v2m0 4h.01"></path></svg>
+      <!-- Item 4 -->
+      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
+        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-success transition-colors">
+          <span class="material-symbols-outlined text-success !text-[20px]">shield_with_heart</span>
           Vollversichert
         </div>
-        <div class="text-sm text-slate-400">All-Risk Schutz</div>
+        <div class="text-[11px] text-text-muted uppercase tracking-wider">All-Risk Schutz</div>
       </div>
+
     </div>
   </div>
 </div>

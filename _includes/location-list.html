@@ -1,19 +1,47 @@
-<div class="location-list">
+<!-- Master Plan: Location List Modernization -->
+<div class="location-list space-y-16">
   {% for state in site.data.locations %}
-  <div class="mb-8">
-    <h3 class="text-xl font-bold mb-4">{{ state.state }}</h3>
-    <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+  <div class="animate-fadeUp" style="animation-delay: {{ forloop.index | times: 100 }}ms;">
+
+    <!-- State Title (Eyalet Başlığı) -->
+    <div class="flex items-center gap-4 mb-8">
+      <h3 class="text-2xl md:text-3xl font-black text-white tracking-tight uppercase">
+        {{ state.state }}
+      </h3>
+      <div class="h-px flex-1 bg-gradient-to-r from-primary/30 to-transparent"></div>
+    </div>
+
+    <!-- Cities Grid -->
+    <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       {% for city in state.cities %}
-      <li class="bg-white p-4 rounded shadow">
-        <span class="font-semibold block mb-2">{{ city.name }}</span>
-        <ul class="text-sm text-gray-600 space-y-1">
+      <li class="bg-surface/40 backdrop-blur-md border border-white/5 p-6 rounded-xl shadow-soft hover:border-primary/40 hover:-translate-y-1 transition-all duration-300 group">
+
+        <!-- City Name with Local Icon -->
+        <div class="flex items-center gap-2 mb-4">
+          <span class="material-symbols-outlined text-primary !text-[20px] group-hover:scale-110 transition-transform">location_on</span>
+          <span class="text-lg font-black text-white group-hover:text-primary transition-colors italic">
+            {{ city.name }}
+          </span>
+        </div>
+
+        <!-- Services List -->
+        <ul class="space-y-2.5">
           {% for service in city.services %}
-          <li>
-            <!-- Future link: /{{ state.slug }}/{{ city.slug }}/{{ service.slug }}/ -->
-            <span class="text-gray-800">{{ service.name }} in {{ city.name }}</span>
+          <li class="flex items-start gap-2 group/item">
+            <span class="material-symbols-outlined text-primary/40 !text-[16px] mt-0.5 group-hover/item:text-primary transition-colors">arrow_right_alt</span>
+            <span class="text-sm text-text-soft leading-tight group-hover/item:text-white transition-colors">
+              {{ service.name }} in {{ city.name }}
+            </span>
           </li>
           {% endfor %}
         </ul>
+
+        <!-- Future Link Placeholder (SEO Friendly) -->
+        <div class="mt-5 pt-4 border-t border-white/5">
+          <span class="text-[10px] font-black text-primary/50 uppercase tracking-widest group-hover:text-primary transition-colors">
+            Verfügbar &bull; Jetzt anfragen
+          </span>
+        </div>
       </li>
       {% endfor %}
     </ul>

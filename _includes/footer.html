@@ -1,90 +1,123 @@
 {% assign states = site.states | default: site.collections.states.docs %}
 {% if states == nil %}
-{% assign states = '' | split: '' %}
+  {% assign states = '' | split: '' %}
 {% endif %}
 {% assign states = states | sort: 'order' %}
-<footer class="bg-background-dark text-white border-t border-white/10">
-  <div class="container mx-auto px-4 md:px-6 py-16">
-    <div class="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-6 max-w-6xl mx-auto">
-      <div id="kontakt" class="lg:col-span-2 space-y-4">
-        <a href="{{ '/' | relative_url }}" class="inline-flex items-center gap-2 sm:gap-2.5 group shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded-lg mb-2">
-          <span class="sr-only">{{ site.brand_name }}</span>
-          <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="Sicher Team Logo" title="{{ site.brand_name }}" class="h-10 sm:h-11 w-auto object-contain transition group-hover:opacity-90 shrink-0" width="44" height="44" />
-          <span class="text-base sm:text-xl lg:text-2xl font-black text-white tracking-tight group-hover:text-primary transition whitespace-nowrap">
-              SICHER<span class="text-primary">TEAM</span>
+
+<footer class="bg-surface border-t border-white/5 pt-16 pb-8 mt-20 relative overflow-hidden">
+  <!-- Süsleme Katmanı (Opsiyonel) -->
+  <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-px bg-gradient-to-r from-transparent via-primary/20 to-transparent"></div>
+
+  <div class="container mx-auto px-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
+
+      <!-- Sütun 1: Marka ve Tanıtım -->
+      <div class="space-y-6">
+        <a href="{{ '/' | relative_url }}" class="flex items-center gap-3 group">
+          <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="Logo" class="h-10 w-auto transition-transform group-hover:scale-105" />
+          <span class="text-2xl font-black tracking-tight leading-none uppercase">
+            <span class="text-white">SICHER</span><span class="text-gradient">TEAM</span>
           </span>
         </a>
-        <p class="text-sm text-white/70 leading-relaxed">Staatlich konzessionierter Fachbetrieb für Umzug, Räumung und Entrümpelung in ganz Österreich. Fixpreis-Garantie, Wertanrechnung &amp; All-Risk-Transportversicherung.</p>
-        <address class="space-y-2 text-sm text-white/80 not-italic">
-          <p class="flex items-center gap-2"><span class="material-symbols-outlined text-base text-primary">location_on</span>{{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}</p>
-          <p class="flex items-center gap-2"><span class="material-symbols-outlined text-base text-primary">call</span>Tel: <a class="hover:text-primary font-bold" href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a></p>
-          <p class="flex items-center gap-2"><span class="material-symbols-outlined text-base text-primary">mail</span>Email: <a class="hover:text-primary font-bold" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-        </address>
+        <p class="text-text-soft text-sm leading-relaxed max-w-xs">
+          Staatlich konzessionierter Fachbetrieb für Umzug, Räumung und Entrümpelung in ganz Österreich.
+          <span class="text-success font-bold flex items-center gap-1 mt-2">
+            <span class="material-symbols-outlined !text-[16px]">verified</span>
+            Staatlich Geprüft & Versichert
+          </span>
+        </p>
+
+        <!-- İletişim Bilgileri (Section 1 Local Icon Fix) -->
+        <div class="space-y-3 pt-4 border-t border-white/5">
+          <div class="flex items-start gap-3 text-text-muted hover:text-white transition-colors">
+            <span class="material-symbols-outlined text-primary">location_on</span>
+            <span class="text-sm">{{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}</span>
+          </div>
+          <a href="tel:{{ site.phone }}" class="flex items-center gap-3 text-text-muted hover:text-primary transition-colors group">
+            <span class="material-symbols-outlined text-primary group-hover:scale-110 transition-transform">call</span>
+            <span class="text-sm font-semibold">{{ site.phone }}</span>
+          </a>
+          <a href="mailto:{{ site.email }}" class="flex items-center gap-3 text-text-muted hover:text-primary transition-colors">
+            <span class="material-symbols-outlined text-primary">mail</span>
+            <span class="text-sm">{{ site.email }}</span>
+          </a>
+        </div>
       </div>
+
+      <!-- Sütun 2: Leistungen (Hizmetler) -->
       <div>
-        <h3 class="text-base font-bold text-white uppercase tracking-wider">Leistungen</h3>
-        <ul class="mt-4 space-y-2.5 text-sm">
+        <h3 class="text-white text-sm font-black uppercase tracking-[0.15em] mb-6 border-l-2 border-primary pl-3">Leistungen</h3>
+        <ul class="grid grid-cols-1 gap-3">
           {% for group in site.data.navigation.services %}
-            {% for item in group.items %}
-              <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+            {% for item in group.items | limit: 6 %}
+              <li>
+                <a href="{{ item.url | relative_url }}" class="text-text-muted hover:text-primary text-sm transition-all hover:translate-x-1 inline-block">
+                  {{ item.title }}
+                </a>
+              </li>
             {% endfor %}
           {% endfor %}
-          <li><a class="text-primary hover:text-white font-bold block pt-2 border-t border-white/5" href="{{ '/leistungen/' | relative_url }}">Alle Leistungen</a></li>
+          <li class="pt-2">
+            <a href="{{ '/leistungen/' | relative_url }}" class="text-primary font-bold text-xs hover:underline uppercase tracking-wider">
+              Alle Leistungen &rarr;
+            </a>
+          </li>
         </ul>
       </div>
-      {% if states.size > 0 %}
-      <div>
-        <h3 class="text-base font-bold text-white uppercase tracking-wider">Bundesländer</h3>
-        <ul class="mt-4 space-y-2.5 text-sm">
-          {% for state in states %}
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ state.url | relative_url }}">{{ state.title }}</a></li>
-          {% endfor %}
-          <li><a class="text-primary hover:text-white font-bold block pt-2 border-t border-white/5" href="{{ '/bezirke/' | relative_url }}">Alle Standorte</a></li>
-        </ul>
-      </div>
-      {% endif %}
-      <div>
-        <h3 class="text-base font-bold text-white uppercase tracking-wider">Mehr</h3>
-        <ul class="mt-4 space-y-2.5 text-sm">
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ '/ablauf/' | relative_url }}">Ablauf</a></li>
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ '/preise/' | relative_url }}">Preise</a></li>
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ '/ratgeber/' | relative_url }}">Ratgeber</a></li>
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ '/ratgeber/raeumungsfirma-wien-checkliste/' | relative_url }}">Räumungsfirma Wien Leitfaden</a></li>
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ '/ueber-uns/' | relative_url }}">Über Uns</a></li>
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ '/angebot/' | relative_url }}">Gratis Angebot</a></li>
-          <li><a class="text-white/70 hover:text-primary transition-opacity block py-0.5" href="{{ '/impressum/' | relative_url }}">Impressum &amp; Datenschutz</a></li>
-        </ul>
-        <div class="mt-6 pt-4 border-t border-white/5 flex gap-4">
-          <a class="text-white/60 hover:text-primary transition-opacity focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-full p-1 inline-flex items-center justify-center" href="https://www.facebook.com/profile.php?id=61582785665791" aria-label="Facebook">
-            <span class="material-symbols-outlined text-xl">public</span>
-          </a>
-          <a class="text-white/60 hover:text-primary transition-opacity focus:outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-full p-1 inline-flex items-center justify-center" href="{{ site.instagram }}" aria-label="Instagram">
-            <span class="material-symbols-outlined text-xl">photo_camera</span>
-          </a>
-        </div>
 
-        <!-- Einsatzgebiete (Prepared for Future Expansion) -->
-        <div>
-          <h3 class="text-white text-lg font-bold mb-6">Einsatzgebiete</h3>
-          <ul class="space-y-3">
-            <li>
-              <span class="text-gray-400">Wien &amp; Umgebung</span>
-            </li>
-            <li>
-              <span class="text-gray-400">Niederösterreich</span>
-            </li>
-            <li>
-              <span class="text-gray-400">Burgenland</span>
-            </li>
-            <li>
-              <span class="text-gray-400">Ganz Österreich (auf Anfrage)</span>
-            </li>
+      <!-- Sütun 3: Bundesländer (Emsatzgebiete) -->
+      <div>
+        <h3 class="text-white text-sm font-black uppercase tracking-[0.15em] mb-6 border-l-2 border-primary pl-3">Bundesländer</h3>
+        {% if states.size > 0 %}
+          <ul class="grid grid-cols-2 lg:grid-cols-1 gap-3">
+            {% for state in states %}
+              <li>
+                <a href="{{ state.url | relative_url }}" class="text-text-muted hover:text-primary text-sm transition-all hover:translate-x-1 inline-block">
+                  {{ state.title }}
+                </a>
+              </li>
+            {% endfor %}
           </ul>
+          <a href="{{ '/bezirke/' | relative_url }}" class="text-primary font-bold text-xs hover:underline uppercase tracking-wider mt-4 inline-block">
+            Alle Standorte &rarr;
+          </a>
+        {% endif %}
+      </div>
+
+      <!-- Sütun 4: Mehr & Legal -->
+      <div>
+        <h3 class="text-white text-sm font-black uppercase tracking-[0.15em] mb-6 border-l-2 border-primary pl-3">Mehr</h3>
+        <ul class="space-y-3 mb-6">
+          <li><a href="/ablauf/" class="text-text-muted hover:text-white text-sm transition-colors italic">Ablauf</a></li>
+          <li><a href="/preise/" class="text-text-muted hover:text-white text-sm transition-colors italic">Preise</a></li>
+          <li><a href="/ratgeber/" class="text-text-muted hover:text-white text-sm transition-colors italic">Ratgeber</a></li>
+          <li><a href="/uber-uns/" class="text-text-muted hover:text-white text-sm transition-colors italic">Über Uns</a></li>
+        </ul>
+        <a href="/gratis-angebot/" class="btn btn-primary w-full !py-2.5 !text-xs shadow-glow">
+          Gratis Angebot
+        </a>
+        <div class="mt-6 flex gap-4">
+           <a href="/impressum/" class="text-[10px] text-text-muted hover:text-white uppercase tracking-tighter">Impressum</a>
+           <a href="/datenschutz/" class="text-[10px] text-text-muted hover:text-white uppercase tracking-tighter">Datenschutz</a>
         </div>
       </div>
+
     </div>
-    <div class="mt-16 border-t border-white/10 pt-8 text-center text-xs text-white/50 tracking-wider">
-      © <span id="current-year"></span> {{ site.social.name | default: site.brand_name }}. Alle Rechte vorbehalten.
+
+    <!-- Copyright (Master Plan Spacing) -->
+    <div class="mt-16 border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+      <div class="text-[10px] text-text-muted tracking-widest uppercase">
+        © <span id="current-year"></span> {{ site.brand_name }}. Alle Rechte vorbehalten.
+      </div>
+      <div class="flex items-center gap-6 opacity-30 grayscale hover:grayscale-0 transition-all duration-500">
+        <!-- Örn: Ödeme yöntemleri veya partner logoları buraya gelebilir -->
+        <span class="material-symbols-outlined !text-[20px]">public</span>
+        <span class="material-symbols-outlined !text-[20px]">photo_camera</span>
+      </div>
     </div>
   </div>
 </footer>
+
+<script>
+  document.getElementById('current-year').textContent = new Date().getFullYear();
+</script>
