@@ -1,102 +1,154 @@
-{% assign container_classes = include.container_classes | default: 'container relative z-20 mx-auto px-4 pt-8 md:pt-12 pb-12 text-white' %}
-{% assign content_classes = include.content_classes | default: 'max-w-4xl space-y-6 md:space-y-8' %}
+{% assign container_classes = include.container_classes | default: 'container relative z-20 mx-auto px-4 sm:px-6 lg:px-8 pt-6 sm:pt-10 lg:pt-14 pb-12 sm:pb-16 text-white' %}
 {% assign cta_variant_key = include.cta_variant | default: 'default' %}
 {% assign cta_variant = site.data.cta_variants[cta_variant_key] | default: site.data.cta_variants.default %}
+{% assign whatsapp_url = include.whatsapp_url | default: cta_variant.whatsapp_url | default: site.whatsapp %}
 
-<div class="{{ container_classes }}">
-  <div class="{{ content_classes }}">
-    
-    <!-- SECTION 1: Trust Badge (Crimson -> Primary & Success Entegrasyonu) -->
-    <div class="inline-flex flex-wrap items-center gap-3 rounded-full bg-primary/10 border border-primary/20 px-4 py-2 text-[10px] md:text-xs font-black tracking-widest text-primary mb-2 animate-fadeUp">
-      <div class="flex items-center gap-1.5 uppercase">
-        <span class="material-symbols-outlined !text-[16px]">bolt</span>
-        JETZT ANFRAGEN & 100% FIXPREIS SICHERN
-      </div>
-      <div class="hidden sm:block w-px h-3 bg-primary/30 mx-1"></div>
-      <div class="flex items-center gap-1 text-success uppercase">
-        <span class="material-symbols-outlined !text-[16px]">verified</span>
-        Staatlich Geprüft
-      </div>
-    </div>
+<section class="relative overflow-hidden bg-slate-900/90 backdrop-blur-md" aria-label="Hero Section">
+  <div class="{{ container_classes }}">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
 
-    <!-- H1 Headline (Master Plan: Text Gradient & Spacing Fix) -->
-    <div class="animate-fadeUp" style="animation-delay: 100ms;">
-      {% if page.hero_title %}
-      <h1 class="text-4xl md:text-6xl lg:text-7xl font-black leading-[0.95] tracking-tight text-white" data-hero-heading>
-        {{ page.hero_title }} <br>
-        <span class="text-gradient">{{ page.hero_highlight }}</span>
-      </h1>
-      {% else %}
-      <h1 class="text-4xl md:text-6xl lg:text-7xl font-black leading-[0.95] tracking-tight text-white" data-hero-heading>
-        {{ page.title }} <br>
-        <span class="text-gradient">Stressfrei & Sicher</span>
-      </h1>
-      {% endif %}
-    </div>
-
-    <!-- Sub-Paragraph (Section 1: text-slate-300 -> text-text-soft) -->
-    <p class="text-lg md:text-xl text-text-soft max-w-2xl leading-relaxed animate-fadeUp italic" style="animation-delay: 200ms;">
-      Wir sind Ihr verlässlicher Experte für <span class="text-white font-bold underline decoration-primary/30">Privatumzüge</span>, <span class="text-white font-bold underline decoration-primary/30">Firmenumzüge</span> und <span class="text-white font-bold underline decoration-primary/30">Räumung</span> österreichweit.
-    </p>
-
-    <!-- SECTION 2: CTA Area (Spacing optimized) -->
-    {% assign call_label = cta_variant.call_label | default: include.call_label | default: site.phone %}
-    {% assign call_url = include.call_url | default: cta_variant.call_url %}
-    {% if call_url == nil or call_url == '' %}
-      {% assign call_url = site.phone | replace: ' ', '' | prepend: 'tel:' %}
-    {% endif %}
-    {% assign whatsapp_url = include.whatsapp_url | default: cta_variant.whatsapp_url | default: site.whatsapp %}
-
-    <div class="flex flex-wrap items-center gap-4 pt-4 md:pt-6 animate-fadeUp" style="animation-delay: 300ms;">
-      <a href="{{ '/kontakt/' | relative_url }}" class="btn btn-primary px-8 py-4 shadow-glow group">
-        <span class="material-symbols-outlined group-hover:rotate-12 transition-transform">call</span>
-        Kostenloses Angebot erhalten
-      </a>
-      <a href="{{ whatsapp_url }}" class="btn bg-[#25D366] text-white hover:bg-[#20ba5a] px-8 py-4 transition-all hover:-translate-y-1">
-        <span class="material-symbols-outlined">chat</span>
-        WhatsApp Foto senden
-      </a>
-    </div>
-
-    <!-- Feature Grid (Master Plan: Local Font Icons & Surface Cards) -->
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12 animate-fadeUp" style="animation-delay: 400ms;">
-      
-      <!-- Item 1 -->
-      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
-        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-primary transition-colors">
-          <span class="material-symbols-outlined text-primary !text-[20px]">published_with_changes</span>
-          Möbeltransport
+      <!-- ============================================================ -->
+      <!-- SOL KOLON (7 Kolon): Başlık, Açıklama, Avantajlar, Butonlar  -->
+      <!-- ============================================================ -->
+      <div class="lg:col-span-7 space-y-6 sm:space-y-8 text-left">
+        
+        <!-- Premium Trust Badge -->
+        <div class="inline-flex items-center gap-2.5 rounded-full bg-slate-800/90 border border-slate-700/80 px-3.5 sm:px-4 py-2 text-xs font-extrabold tracking-wide text-amber-400 shadow-md backdrop-blur-md animate-fadeUp">
+          <span class="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse shrink-0" aria-hidden="true"></span>
+          <span class="flex items-center gap-1.5 uppercase leading-none">
+            <span class="material-symbols-outlined !text-[18px]" aria-hidden="true">bolt</span>
+            100% Fixpreisgarantie — Keine versteckten Kosten
+          </span>
         </div>
-        <div class="text-[11px] text-text-muted uppercase tracking-wider">Österreichweit</div>
+
+        <!-- H1 Main Headline (SEO Preserved & Enhanced) -->
+        <div class="animate-fadeUp" style="animation-delay: 100ms;">
+          {% if page.hero_title %}
+          <h1 class="text-3xl sm:text-5xl lg:text-6xl font-black leading-[1.1] sm:leading-[1.08] tracking-tight text-white" data-hero-heading>
+            {{ page.hero_title }} <br class="hidden sm:inline">
+            <span class="text-amber-400 drop-shadow-sm">{{ page.hero_highlight }}</span>
+          </h1>
+          {% else %}
+          <h1 class="text-3xl sm:text-5xl lg:text-6xl font-black leading-[1.1] sm:leading-[1.08] tracking-tight text-white" data-hero-heading>
+            Professioneller Umzug & <br class="hidden sm:inline">
+            <span class="text-amber-400 drop-shadow-sm">Übersiedlung in Österreich</span>
+          </h1>
+          {% endif %}
+        </div>
+
+        <!-- Sub-Paragraph (SEO İç Linkleme Korundu) -->
+        <p class="text-base sm:text-lg lg:text-xl text-slate-200 font-medium max-w-2xl leading-relaxed animate-fadeUp" style="animation-delay: 200ms;">
+          Wir sind Ihr verlässlicher Experte für 
+          <a href="{{ '/leistungen/' | relative_url }}" class="text-amber-300 hover:text-amber-400 underline decoration-amber-400/50 underline-offset-4 font-bold transition-colors">Privatumzüge</a>, 
+          <a href="{{ '/leistungen/' | relative_url }}" class="text-amber-300 hover:text-amber-400 underline decoration-amber-400/50 underline-offset-4 font-bold transition-colors">Firmenumzüge</a> und 
+          <a href="{{ '/leistungen/' | relative_url }}" class="text-amber-300 hover:text-amber-400 underline decoration-amber-400/50 underline-offset-4 font-bold transition-colors">Räumung</a> österreichweit.
+        </p>
+
+        <!-- Feature Grid (Tech-Grade Surface Cards) -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4 pt-2 animate-fadeUp" style="animation-delay: 300ms;">
+          
+          <div class="flex items-center gap-3.5 p-3.5 sm:p-4 rounded-xl bg-slate-800/80 border border-slate-700/70 text-white font-bold text-sm shadow-sm hover:border-amber-400/60 transition-all duration-300 group backdrop-blur-sm">
+            <span class="material-symbols-outlined text-amber-400 shrink-0 !text-[22px] group-hover:scale-110 transition-transform" aria-hidden="true">published_with_changes</span>
+            <div>
+              <div class="leading-snug">Möbeltransport</div>
+              <div class="text-[11px] text-slate-400 uppercase tracking-wider font-semibold">Österreichweit</div>
+            </div>
+          </div>
+
+          <div class="flex items-center gap-3.5 p-3.5 sm:p-4 rounded-xl bg-slate-800/80 border border-slate-700/70 text-white font-bold text-sm shadow-sm hover:border-amber-400/60 transition-all duration-300 group backdrop-blur-sm">
+            <span class="material-symbols-outlined text-amber-400 shrink-0 !text-[22px] group-hover:scale-110 transition-transform" aria-hidden="true">handyman</span>
+            <div>
+              <div class="leading-snug">Montage-Service</div>
+              <div class="text-[11px] text-slate-400 uppercase tracking-wider font-semibold">Profi-Handwerker</div>
+            </div>
+          </div>
+
+          <div class="flex items-center gap-3.5 p-3.5 sm:p-4 rounded-xl bg-slate-800/80 border border-slate-700/70 text-white font-bold text-sm shadow-sm hover:border-emerald-500/60 transition-all duration-300 group backdrop-blur-sm">
+            <span class="material-symbols-outlined text-emerald-500 shrink-0 !text-[22px] group-hover:scale-110 transition-transform" aria-hidden="true">verified</span>
+            <div>
+              <div class="leading-snug">Fixpreis-Garantie</div>
+              <div class="text-[11px] text-slate-400 uppercase tracking-wider font-semibold">Keine Zusatzkosten</div>
+            </div>
+          </div>
+
+          <div class="flex items-center gap-3.5 p-3.5 sm:p-4 rounded-xl bg-slate-800/80 border border-slate-700/70 text-white font-bold text-sm shadow-sm hover:border-emerald-500/60 transition-all duration-300 group backdrop-blur-sm">
+            <span class="material-symbols-outlined text-emerald-500 shrink-0 !text-[22px] group-hover:scale-110 transition-transform" aria-hidden="true">shield_with_heart</span>
+            <div>
+              <div class="leading-snug">Vollversichert</div>
+              <div class="text-[11px] text-slate-400 uppercase tracking-wider font-semibold">All-Risk Schutz</div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- CTA Action Buttons (WCAG 2.2 AA Standartlarında) -->
+        <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-3.5 sm:gap-4 pt-2 sm:pt-4 animate-fadeUp" style="animation-delay: 400ms;">
+          
+          <a href="{{ '/kontakt/' | relative_url }}" class="btn-primary inline-flex items-center justify-center gap-3 px-8 py-4 rounded-xl text-base font-extrabold shadow-xl hover:scale-[1.02] active:scale-95 transition-all focus:outline-none focus:ring-4 focus:ring-amber-400/50">
+            <span class="material-symbols-outlined text-slate-950 !text-[22px]" aria-hidden="true">call</span>
+            Kostenloses Angebot erhalten
+          </a>
+
+          <a href="{{ whatsapp_url }}" target="_blank" rel="noopener noreferrer" aria-label="Kontaktieren Sie uns via WhatsApp" class="btn-whatsapp inline-flex items-center justify-center gap-3 px-8 py-4 rounded-xl text-base font-bold shadow-xl hover:scale-[1.02] active:scale-95 transition-all focus:outline-none focus:ring-4 focus:ring-emerald-500/50">
+            <span class="material-symbols-outlined text-white !text-[22px]" aria-hidden="true">chat</span>
+            WhatsApp Foto senden
+          </a>
+
+        </div>
+
       </div>
 
-      <!-- Item 2 -->
-      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
-        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-primary transition-colors">
-          <span class="material-symbols-outlined text-primary !text-[20px]">handyman</span>
-          Montage-Service
-        </div>
-        <div class="text-[11px] text-text-muted uppercase tracking-wider">Profi-Handwerker</div>
-      </div>
+      <!-- ============================================================ -->
+      <!-- SAĞ KOLON (5 Kolon): High-Converting Modern Rückruf Formu   -->
+      <!-- ============================================================ -->
+      <div class="lg:col-span-5 w-full mt-6 lg:mt-0 animate-fadeUp" style="animation-delay: 200ms;">
+        <div class="bg-white rounded-2xl p-6 sm:p-8 shadow-2xl border border-slate-100 text-slate-900 space-y-5">
+          
+          <div class="text-center space-y-1.5">
+            <span class="inline-block px-3 py-1 rounded-full bg-slate-900 text-amber-400 text-[11px] font-black uppercase tracking-widest shadow-sm">
+              JETZT RÜCKRUF ANFORDERN
+            </span>
+            <h2 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight pt-1">Bitte um einen Rückruf</h2>
+            <p class="text-xs sm:text-sm text-slate-600 font-medium">Wir beraten dich gerne kostenlos und unverbindlich.</p>
+          </div>
 
-      <!-- Item 3 -->
-      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
-        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-success transition-colors">
-          <span class="material-symbols-outlined text-success !text-[20px]">verified</span>
-          Fixpreis-Garantie
-        </div>
-        <div class="text-[11px] text-text-muted uppercase tracking-wider">Keine Zusatzkosten</div>
-      </div>
+          <!-- Form (WCAG 2.2 Uyumlu Etiketler ve Focus Alanları) -->
+          <form action="{{ '/kontakt/' | relative_url }}" method="POST" class="space-y-4 pt-1">
+            
+            <div>
+              <label for="hero-form-name" class="block text-xs font-extrabold text-slate-800 uppercase tracking-wider mb-1.5">
+                DEIN VOR- & NACHNAME <span class="text-red-600" aria-hidden="true">*</span>
+              </label>
+              <input type="text" id="hero-form-name" name="name" placeholder="z.B. Max Mustermann" required class="w-full min-h-[48px] px-4 py-3 rounded-xl bg-slate-50 border border-slate-300 text-slate-900 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-amber-500 focus:bg-white transition-all shadow-inner">
+            </div>
 
-      <!-- Item 4 -->
-      <div class="bg-surface/40 backdrop-blur-md border border-white/5 rounded-xl p-4 flex flex-col hover:border-primary/40 transition-all group">
-        <div class="flex items-center gap-2 text-white font-bold text-sm mb-1 group-hover:text-success transition-colors">
-          <span class="material-symbols-outlined text-success !text-[20px]">shield_with_heart</span>
-          Vollversichert
+            <div>
+              <label for="hero-form-phone" class="block text-xs font-extrabold text-slate-800 uppercase tracking-wider mb-1.5">
+                DEINE TELEFONNUMMER <span class="text-red-600" aria-hidden="true">*</span>
+              </label>
+              <input type="tel" id="hero-form-phone" name="phone" placeholder="+43 660 000 0000" required class="w-full min-h-[48px] px-4 py-3 rounded-xl bg-slate-50 border border-slate-300 text-slate-900 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-amber-500 focus:border-amber-500 focus:bg-white transition-all shadow-inner">
+            </div>
+
+            <div>
+              <label for="hero-form-file" class="block text-xs font-extrabold text-slate-800 uppercase tracking-wider mb-1.5">
+                DATEI / FOTO ANHÄNGEN (OPTIONAL)
+              </label>
+              <input type="file" id="hero-form-file" name="attachment" class="w-full text-xs text-slate-600 file:mr-3 file:py-2.5 file:px-4 file:rounded-lg file:border-0 file:text-xs file:font-bold file:bg-slate-200 file:text-slate-800 hover:file:bg-slate-300 cursor-pointer focus:outline-none focus:ring-2 focus:ring-amber-500 transition-all">
+            </div>
+
+            <button type="submit" class="w-full min-h-[52px] rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-black text-sm tracking-wide shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-2.5 cursor-pointer focus:outline-none focus:ring-4 focus:ring-slate-900/40">
+              <span>Rückruf anfordern</span>
+              <span class="material-symbols-outlined text-amber-400 !text-[20px]" aria-hidden="true">send</span>
+            </button>
+
+            <p class="text-[11px] text-center text-slate-500 font-semibold pt-0.5">
+              🔒 100% unverbindlich & kostenlos.
+            </p>
+          </form>
+
         </div>
-        <div class="text-[11px] text-text-muted uppercase tracking-wider">All-Risk Schutz</div>
       </div>
 
     </div>
   </div>
-</div>
+</section>
