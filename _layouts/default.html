@@ -3,24 +3,23 @@
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-
+    
     <!-- Section 1 & 2: Browser UI Integration (Seamless Dark UI) -->
     <meta name="theme-color" content="#0b1220"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
 
-    <!-- Section 1: Material Symbols (Google Fonts CDN) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+    <!-- Section 1: Material Symbols Local Fix (High Priority Preload) -->
+    <link rel="preload" href="/main/sicherumzug/assets/fonts/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin/>
 
     <style>
       /* Layout seviyesinde kritik CSS - FOUC (Flash of Unstyled Content) önlemek için */
       :root { color-scheme: dark; }
       [data-mobile-menu] { display: none; }
       [data-mobile-menu]:not(.hidden) { display: flex; }
-
+      
+      /* Master Plan Section 1: Material Symbols Local Config */
       .material-symbols-outlined {
-        font-family: 'Material Symbols Outlined' !important;
+        font-family: 'Material Symbols Outlined Local' !important;
         font-weight: 400;
         font-style: normal;
         font-size: 24px;
@@ -50,7 +49,7 @@
     <!-- Preload Logic for Hero Images (LCP Optimization) -->
     {% assign hero_preload = page.hero_preload | default: page.hero_image %}
     {% if page.layout == 'home' or page.layout == 'service' or page.layout == 'state' %}
-      {% comment %}{% include home-hero-preloads.html %}{% endcomment %}
+      {% include head-home-hero-preload.html %}
     {% elsif hero_preload %}
       <link rel="preload" href="{{ hero_preload | relative_url }}" as="image" fetchpriority="high"/>
     {% endif %}
@@ -71,14 +70,14 @@
       });
     </script>
   </head>
-
+  
   <body class="bg-background text-text antialiased selection:bg-primary selection:text-background font-sans">
     
     <!-- Reading Progress Bar (Opsiyonel) -->
     {% include reading-progress.html %}
 
     <div class="relative flex min-h-screen flex-col overflow-x-hidden">
-
+      
       <!-- Section 2: Header Seamless Background Logic (Header'ın içinde sayfa kontrolü var) -->
       {% include header.html %}
 
@@ -89,15 +88,15 @@
 
       <!-- Footer & Global Components -->
       {% include footer.html %}
-
+      
       <!-- Mobile Conversion Tools -->
-      {% comment %}{% include mobile-sticky-bar.html %}{% endcomment %}
+      {% include sticky-cta.html %}
       {% include mobile-menu.html %}
-
+      
     </div>
 
     <!-- Scripts (Cache Busting Entegre Edildi) -->
     <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
-
+    
   </body>
 </html>

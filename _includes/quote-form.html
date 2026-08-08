@@ -1,13 +1,13 @@
 <!-- Master Plan: Contact Form Modernization -->
 <form id="contactForm" enctype="multipart/form-data" class="space-y-5 animate-fadeUp">
   <input type="hidden" name="subject" value="Neue Anfrage über die Website"/>
-
+  
   <!-- Name Field -->
   <div class="group">
     <label class="text-xs font-black uppercase tracking-widest text-primary/80 ml-1 mb-2 block" for="form-name">Name*</label>
     <div class="relative">
-      <input id="form-name" name="name" required type="text"
-             class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none"
+      <input id="form-name" name="name" required type="text" 
+             class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none" 
              placeholder="Max Mustermann"/>
     </div>
   </div>
@@ -16,14 +16,14 @@
   <div class="grid grid-cols-1 gap-5 md:grid-cols-2">
     <div class="group">
       <label class="text-xs font-black uppercase tracking-widest text-primary/80 ml-1 mb-2 block" for="form-email">E-Mail (optional)</label>
-      <input id="form-email" name="email" type="email"
-             class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none"
+      <input id="form-email" name="email" type="email" 
+             class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none" 
              placeholder="max@example.com"/>
     </div>
     <div class="group">
       <label class="text-xs font-black uppercase tracking-widest text-primary/80 ml-1 mb-2 block" for="form-phone">Telefon*</label>
-      <input id="form-phone" name="phone" required type="tel"
-             class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none"
+      <input id="form-phone" name="phone" required type="tel" 
+             class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none" 
              placeholder="{{ site.phone }}"/>
     </div>
   </div>
@@ -31,8 +31,8 @@
   <!-- PLZ Field -->
   <div class="group">
     <label class="text-xs font-black uppercase tracking-widest text-primary/80 ml-1 mb-2 block" for="form-postcode">PLZ (Postleitzahl)*</label>
-    <input id="form-postcode" name="postcode" required type="text" pattern="[0-9]{4}" inputmode="numeric" maxlength="4"
-           class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none"
+    <input id="form-postcode" name="postcode" required type="text" pattern="[0-9]{4}" inputmode="numeric" maxlength="4" 
+           class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none" 
            placeholder="1010"/>
   </div>
 
@@ -42,8 +42,8 @@
       <label class="text-xs font-black uppercase tracking-widest text-primary/80 ml-1 block" for="form-message">Kurzbeschreibung (optional)</label>
       <span id="form-message-counter" class="text-[10px] font-bold text-text-muted uppercase tracking-tighter" aria-live="polite">0 / 1000</span>
     </div>
-    <textarea id="form-message" name="message" rows="4" maxlength="1000"
-              class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none resize-none"
+    <textarea id="form-message" name="message" rows="4" maxlength="1000" 
+              class="input block w-full rounded-xl border border-border bg-surface px-4 py-3.5 text-sm text-white placeholder:text-text-muted focus:border-primary focus:ring-4 focus:ring-primary/10 transition-all outline-none resize-none" 
               placeholder="Was soll geräumt werden? Gibt es Besonderheiten?"></textarea>
   </div>
 
@@ -53,9 +53,9 @@
       <span class="material-symbols-outlined !text-[16px]">attach_file</span>
       Fotos (optional)
     </label>
-    <input id="form-photos" name="photos[]" type="file" multiple accept="image/*"
+    <input id="form-photos" name="photos[]" type="file" multiple accept="image/*" 
            class="block w-full text-xs text-text-soft border border-dashed border-border rounded-xl bg-surface/50 p-4
-                  file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0
+                  file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 
                   file:text-[10px] file:font-black file:uppercase file:tracking-widest
                   file:bg-primary file:text-background hover:file:bg-primary-hover
                   transition-all cursor-pointer"/>
@@ -66,13 +66,13 @@
     </p>
   </div>
 
-  <!-- Submit Button (Primary -> Primary) -->
+  <!-- Submit Button (Crimson -> Primary) -->
   <div class="pt-4 space-y-4">
     <button type="submit" class="btn btn-primary w-full shadow-glow group !py-4">
       <span class="material-symbols-outlined group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform">send</span>
       Jetzt kostenloses Angebot sichern
     </button>
-
+    
     <div class="flex items-center justify-center gap-4 py-2">
       <p class="text-[10px] font-bold text-text-muted flex items-center gap-1.5 uppercase tracking-widest">
         <span class="material-symbols-outlined text-success !text-[14px]">verified_user</span>

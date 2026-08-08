@@ -2,8 +2,8 @@
 <!-- Breadcrumb Navigasyonu - Master Plan Modernizasyonu -->
 <nav class="bg-surface/30 backdrop-blur-md py-3.5 border-b border-white/5" aria-label="Breadcrumb">
   <div class="container flex items-center gap-2.5 text-[10px] sm:text-xs font-bold uppercase tracking-[0.05em] text-text-muted overflow-x-auto whitespace-nowrap scrollbar-hide">
-
-    <!-- Home Link: Primary -> Primary Transition -->
+    
+    <!-- Home Link: Crimson -> Primary Transition -->
     <a href="{{ '/' | relative_url }}" class="hover:text-primary text-text-soft transition-colors duration-200 flex items-center gap-1.5 group">
       <span class="material-symbols-outlined !text-[1.1rem] transition-transform group-hover:scale-110">home</span>
       <span>Home</span>
@@ -18,23 +18,23 @@
     {% for part in url_parts %}
       {% if part != '' %}
         {% assign current_url = current_url | append: '/' | append: part %}
-
+        
         {% if forloop.last %}
           <!-- Current Page: Primary-Dark -> White (High Contrast) -->
           <span class="text-white font-black max-w-[240px] truncate" aria-current="page">
             {{ page.title }}
           </span>
         {% else %}
-          <!-- Parent Pages: Primary -> Primary -->
+          <!-- Parent Pages: Crimson -> Primary -->
           {% assign breadcrumb_title = part | capitalize | replace: '-', ' ' %}
           {% if part == 'leistungen' %}{% assign breadcrumb_title = 'Leistungen' %}{% endif %}
           {% if part == 'bezirke' %}{% assign breadcrumb_title = 'Bezirke' %}{% endif %}
           {% if part == 'ratgeber' %}{% assign breadcrumb_title = 'Ratgeber' %}{% endif %}
-
+          
           <a href="{{ current_url | append: '/' | relative_url }}" class="hover:text-primary text-text-soft transition-colors duration-200">
             {{ breadcrumb_title }}
           </a>
-
+          
           <!-- Separator -->
           <span class="material-symbols-outlined text-[0.9rem] opacity-30 select-none">chevron_right</span>
         {% endif %}

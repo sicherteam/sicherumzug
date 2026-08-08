@@ -1,20 +1,24 @@
 <!-- Master Plan: Mobile Sticky Bottom Bar (Conversion Engine) Modernization -->
-<div class="fixed bottom-0 inset-x-0 z-[60] md:hidden">
-  <!-- Seamless Background & Backdrop Blur -->
-  <div class="bg-background/95 backdrop-blur-xl border-t border-white/5 p-3 pb-safe shadow-[0_-10px_30px_rgba(0,0,0,0.5)] flex gap-3 transition-transform duration-300">
+<div class="fixed bottom-0 inset-x-0 z-[60] md:hidden" aria-label="Mobil Hızlı İletişim">
+  <!-- Seamless Background & Tech-Grade Backdrop Blur -->
+  <div class="bg-slate-900/95 backdrop-blur-xl border-t border-slate-800/80 p-3 pb-[calc(0.75rem+env(safe-area-inset-bottom))] shadow-[0_-10px_30px_rgba(0,0,0,0.7)] flex gap-2.5 transition-transform duration-300">
 
-    <!-- Button 1: Direct Call (Primary System) -->
-    <a href="tel:{{ site.phone | replace: ' ', '' }}"
-       class="btn-primary flex-1 flex items-center justify-center gap-2 rounded-xl py-3.5 px-2 text-center text-[10px] font-black uppercase tracking-widest shadow-glow active:scale-95 transition-all">
-      <span class="material-symbols-outlined !text-[20px]">call</span>
-      <span>JETZT ANRUFEN</span>
+    <!-- Button 1: Direct Call (WCAG AAA - #FBBF24 Sarı Zemin / #020617 Siyah Metin) -->
+    <a href="tel:{{ site.phone | replace: ' ', '' }}" 
+       class="btn-primary flex-1 flex items-center justify-center gap-2 rounded-xl py-3.5 px-2 text-center text-xs font-black uppercase tracking-wider shadow-lg active:scale-95 transition-all focus:outline-none focus:ring-4 focus:ring-amber-400/50"
+       aria-label="Jetzt anrufen unter {{ site.phone }}">
+      <span class="material-symbols-outlined text-slate-950 !text-[20px]" aria-hidden="true">call</span>
+      <span>Jetzt Anrufen</span>
     </a>
 
-    <!-- Button 2: WhatsApp Photo Quote (Success System) -->
-    <a href="{{ site.whatsapp }}"
-       class="bg-[#25D366] hover:bg-[#20ba5a] text-white font-black rounded-xl py-3.5 px-2 flex-1 flex items-center justify-center gap-2 text-center text-[10px] uppercase tracking-widest shadow-lg shadow-emerald-950/20 active:scale-95 transition-all">
-      <span class="material-symbols-outlined !text-[20px]">chat</span>
-      <span>WHATSAPP FOTO</span>
+    <!-- Button 2: WhatsApp Photo Quote (WCAG AA - #059669 Yeşil Zemin / Beyaz Metin) -->
+    <a href="{{ site.whatsapp }}" 
+       target="_blank"
+       rel="noopener noreferrer"
+       class="btn-whatsapp flex-1 flex items-center justify-center gap-2 rounded-xl py-3.5 px-2 text-center text-xs font-bold uppercase tracking-wider shadow-lg active:scale-95 transition-all focus:outline-none focus:ring-4 focus:ring-emerald-500/50"
+       aria-label="Fotos per WhatsApp senden">
+      <span class="material-symbols-outlined text-white !text-[20px]" aria-hidden="true">chat</span>
+      <span>WhatsApp Foto</span>
     </a>
 
   </div>

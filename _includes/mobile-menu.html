@@ -6,7 +6,7 @@
 
 <!-- Master Plan: Mobile Menu Modernization -->
 <div id="mobile-menu" class="fixed inset-0 z-[100] hidden flex-col bg-background text-white lg:hidden" data-mobile-menu>
-
+  
   <!-- Header: Logo & Close -->
   <div class="flex items-center justify-between gap-4 border-b border-white/5 p-5 bg-surface/30 backdrop-blur-md">
     <a href="{{ '/' | relative_url }}" class="flex max-w-[60vw] items-center gap-3 outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-lg">
@@ -21,7 +21,7 @@
 
   <!-- Body: Navigation -->
   <div class="flex-1 overflow-y-auto px-6 py-8 space-y-8">
-
+    
     <!-- Services (Leistungen) -->
     <div>
       <button class="flex w-full items-center justify-between border-b border-white/5 py-4 text-xl font-black text-left outline-none group" aria-expanded="false" aria-controls="mobile-services" onclick="toggleSubMenu(this, 'mobile-services')">
@@ -73,13 +73,13 @@
     </div>
   </div>
 
-  <!-- Footer: CTA Button (Primary -> Primary) -->
+  <!-- Footer: CTA Button (Crimson -> Primary) -->
   <div class="p-6 bg-surface/50 backdrop-blur-xl border-t border-white/5">
     <a class="btn btn-primary w-full shadow-glow !py-4 !text-base uppercase tracking-widest font-black" href="{{ site.data.navigation.cta.url | relative_url }}" onclick="mobileMenuToggle()">
       <span class="material-symbols-outlined">call</span>
       {{ site.data.navigation.cta.label }}
     </a>
-
+    
     <!-- Secondary Contact Info in Menu -->
     <div class="mt-6 flex justify-center gap-6 opacity-60">
        <a href="tel:{{ site.phone }}" class="material-symbols-outlined text-white">phone_in_talk</a>

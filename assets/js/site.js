@@ -1,3 +1,8 @@
+/**
+ * SICHER TEAM - Master Plan UI/UX Modernization
+ * Section 1 & 2 + Tailwind v4 + WCAG 2.2 AA
+ */
+
 var mobileMenu = document.getElementById('mobile-menu');
 var faqButtons = document.querySelectorAll('[data-faq-toggle]');
 
@@ -5,6 +10,7 @@ function setBodyOverflow(hidden) {
   document.body.style.overflow = hidden ? 'hidden' : '';
 }
 
+// Global Mobile Menu Toggle
 window.mobileMenuToggle = function mobileMenuToggle() {
   if (!mobileMenu) return;
   
@@ -20,7 +26,7 @@ window.mobileMenuToggle = function mobileMenuToggle() {
   
   setBodyOverflow(!isHidden);
 
-  // Focus management
+  // WCAG Focus Management
   if (!isHidden && closeBtn) {
     setTimeout(function() { closeBtn.focus(); }, 50);
   } else if (isHidden && openBtn) {
@@ -28,6 +34,7 @@ window.mobileMenuToggle = function mobileMenuToggle() {
   }
 };
 
+// Global SubMenu Toggle (Services/Districts)
 window.toggleSubMenu = function toggleSubMenu(btn, targetId) {
   if (arguments.length === 1 || typeof btn === 'string') {
     targetId = btn;
@@ -35,7 +42,9 @@ window.toggleSubMenu = function toggleSubMenu(btn, targetId) {
   }
   var target = document.getElementById(targetId);
   if (!target) return;
+  
   var isHidden = target.classList.toggle('hidden');
+  
   if (btn) {
     btn.setAttribute('aria-expanded', !isHidden);
     var icon = btn.querySelector('.material-symbols-outlined');
@@ -53,11 +62,12 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   mobileMenu = document.getElementById('mobile-menu');
   faqButtons = document.querySelectorAll('[data-faq-toggle]');
 
-  // Global Scope für Dateiverarbeitung
+  // File Upload Logic
   var selectedFiles = [];
-  var updateInputAndRender = function() {};
+  var photosInput = document.getElementById('form-photos');
+  var previewContainer = document.getElementById('file-preview-container');
 
-  // Close mobile menu or desktop megamenus on Escape key press
+  // Escape key handling for Accessibility
   document.addEventListener('keydown', function handleEscapeKey(e) {
     if (e.key === 'Escape') {
       if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
@@ -71,33 +81,32 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     }
   });
 
+  // Dynamic Year Footer
   var yearTarget = document.getElementById('current-year');
   if (yearTarget) {
     yearTarget.textContent = new Date().getFullYear();
   }
 
+  // FAQ Accordion Logic
   Array.prototype.forEach.call(faqButtons, function register(btn) {
     btn.addEventListener('click', function handleFaqToggle() {
       var answerId = btn.getAttribute('data-faq-toggle');
       var answer = document.getElementById(answerId);
       if (!answer) return;
+      
       var isHidden = answer.classList.toggle('hidden');
       btn.setAttribute('aria-expanded', !isHidden);
+      
       var icon = btn.querySelector('.material-symbols-outlined');
       if (icon) {
-        if (!isHidden) {
-          icon.classList.add('rotate-180');
-        } else {
-          icon.classList.remove('rotate-180');
-        }
+        icon.style.transform = !isHidden ? 'rotate(180deg)' : 'rotate(0deg)';
       }
     });
   });
 
-  var photosInput = document.getElementById('form-photos');
-  var previewContainer = document.getElementById('file-preview-container');
+  // Form Photo Preview Modernization
   if (photosInput && previewContainer) {
-    updateInputAndRender = function() {
+    var updateInputAndRender = function() {
       var dt = new DataTransfer();
       selectedFiles.forEach(function(f) { dt.items.add(f); });
       photosInput.files = dt.files;
@@ -107,38 +116,34 @@ document.addEventListener('DOMContentLoaded', function domReady() {
 
     function renderPreviews() {
       previewContainer.innerHTML = '';
-
       var countIndicator = document.getElementById('file-count-indicator');
+      
       if (selectedFiles.length > 0) {
         if (!countIndicator) {
           countIndicator = document.createElement('p');
           countIndicator.id = 'file-count-indicator';
-          countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
+          countIndicator.className = 'mt-3 text-[11px] font-black text-primary uppercase tracking-widest animate-fadeUp';
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
-        countIndicator.textContent = selectedFiles.length === 1
-          ? '1 Foto ausgewählt'
-          : selectedFiles.length + ' Fotos ausgewählt';
-        countIndicator.style.display = 'block';
-      } else {
-        if (countIndicator) {
-          countIndicator.style.display = 'none';
-        }
+        countIndicator.textContent = selectedFiles.length + ' Foto(s) bereit zum Senden';
+      } else if (countIndicator) {
+        countIndicator.remove();
       }
 
       selectedFiles.forEach(function(file, index) {
         var wrapper = document.createElement('div');
-        wrapper.className = 'relative aspect-square rounded-xl overflow-hidden border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:scale-105 group';
+        // Modern Dark UI Card Style for Previews
+        wrapper.className = 'relative aspect-square rounded-xl overflow-hidden border border-white/10 bg-surface shadow-soft transition-all duration-300 hover:border-primary/40 group';
 
         var img = document.createElement('img');
-        img.className = 'h-full w-full object-cover';
+        img.className = 'h-full w-full object-cover opacity-80 group-hover:opacity-100 transition-opacity';
         img.alt = file.name;
 
         var btn = document.createElement('button');
         btn.type = 'button';
-        btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-white shadow hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-2 transition-all duration-200 z-10';
+        btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-lg bg-danger text-white shadow-lg hover:scale-110 transition-all z-10';
         btn.setAttribute('aria-label', 'Foto entfernen');
-        btn.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">close</span>';
+        btn.innerHTML = '<span class="material-symbols-outlined !text-[14px] !font-black">close</span>';
         btn.addEventListener('click', function() {
           selectedFiles.splice(index, 1);
           updateInputAndRender();
@@ -164,35 +169,32 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     });
   }
 
-  // Live validation for form fields
-  var nameInp = document.getElementById('form-name');
-  var postcodeInp = document.getElementById('form-postcode');
-  var phoneInp = document.getElementById('form-phone');
-  var emailInp = document.getElementById('form-email');
+  // Form Validation - Master Plan & WCAG 2.2 AA Standards
+  var formInputs = {
+    name: document.getElementById('form-name'),
+    postcode: document.getElementById('form-postcode'),
+    phone: document.getElementById('form-phone'),
+    email: document.getElementById('form-email')
+  };
 
   function setFieldError(input, errorMsg) {
     if (!input) return;
     var errorId = input.id + '-error';
     var errorEl = document.getElementById(errorId);
 
-    // Clear postcode success region when error is present
-    if (input.id === 'form-postcode' && errorMsg) {
-      var regionEl = document.getElementById('form-postcode-region');
-      if (regionEl) regionEl.remove();
-    }
-
     if (errorMsg) {
-      input.classList.remove('border-gray-200', 'focus:border-primary-light', 'focus:ring-primary-light/30');
-      input.classList.add('border-red-500', 'focus:border-red-500', 'focus:ring-red-500/30');
+      // Modern UI Hata Durumu (Section 1: Red -> Danger)
+      input.classList.remove('border-border', 'focus:border-primary');
+      input.classList.add('border-danger', 'focus:border-danger', 'ring-danger/20');
+      
       if (!errorEl) {
         errorEl = document.createElement('p');
         errorEl.id = errorId;
-        errorEl.className = 'mt-1.5 text-xs text-red-600 font-bold flex items-center gap-1 transition-all duration-200';
+        errorEl.className = 'mt-2 text-[11px] text-danger font-black uppercase tracking-widest flex items-center gap-1.5 animate-fadeUp';
         input.parentNode.appendChild(errorEl);
       }
       
-      // Güvenli içerik ekleme (XSS koruması)
-      errorEl.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">warning</span> ';
+      errorEl.innerHTML = '<span class="material-symbols-outlined !text-[16px]">report</span> ';
       var textSpan = document.createElement('span');
       textSpan.textContent = errorMsg;
       errorEl.appendChild(textSpan);
@@ -200,308 +202,107 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       input.setAttribute('aria-invalid', 'true');
       input.setAttribute('aria-describedby', errorId);
     } else {
-      input.classList.add('border-gray-200', 'focus:border-primary-light', 'focus:ring-primary-light/30');
-      input.classList.remove('border-red-500', 'focus:border-red-500', 'focus:ring-red-500/30');
-      if (errorEl) {
-        errorEl.remove();
-      }
+      // Başarılı Durum (Section 1: Border Default)
+      input.classList.add('border-border');
+      input.classList.remove('border-danger', 'focus:border-danger', 'ring-danger/20');
+      if (errorEl) errorEl.remove();
       input.removeAttribute('aria-invalid');
       input.removeAttribute('aria-describedby');
     }
   }
 
   function updatePostcodeFeedback() {
-    if (!postcodeInp) return;
-    var val = postcodeInp.value;
+    if (!formInputs.postcode) return;
+    var val = formInputs.postcode.value;
     var regionId = 'form-postcode-region';
     var regionEl = document.getElementById(regionId);
 
     if (/^[0-9]{4}$/.test(val)) {
       var firstChar = val.charAt(0);
-      var region = '';
-      if (firstChar === '1') region = 'Wien';
-      else if (firstChar === '2' || firstChar === '3') region = 'Niederösterreich';
-      else if (firstChar === '4') region = 'Oberösterreich';
-      else if (firstChar === '5') region = 'Salzburg';
-      else if (firstChar === '6') region = 'Tirol / Vorarlberg';
-      else if (firstChar === '7') region = 'Burgenland';
-      else if (firstChar === '8') region = 'Steiermark';
-      else if (firstChar === '9') region = 'Kärnten';
+      var regions = { '1': 'Wien', '2': 'NÖ', '3': 'NÖ', '4': 'OÖ', '5': 'Salzburg', '6': 'Tirol/VBG', '7': 'Burgenland', '8': 'Steiermark', '9': 'Kärnten' };
+      var region = regions[firstChar];
 
       if (region) {
         if (!regionEl) {
           regionEl = document.createElement('p');
           regionEl.id = regionId;
-          regionEl.className = 'mt-1.5 text-xs text-emerald-600 font-bold flex items-center gap-1 transition-all duration-200';
-          postcodeInp.parentNode.appendChild(regionEl);
+          regionEl.className = 'mt-2 text-[11px] text-success font-black uppercase tracking-widest flex items-center gap-1.5 animate-fadeUp';
+          formInputs.postcode.parentNode.appendChild(regionEl);
         }
-        
-        // Güvenli içerik ekleme (XSS koruması)
-        regionEl.innerHTML = '<span class="material-symbols-outlined !text-[14px] !leading-none !font-bold">check_circle</span> ';
-        var textSpan = document.createElement('span');
-        textSpan.textContent = 'Region: ' + region + ' (Service verfügbar)';
-        regionEl.appendChild(textSpan);
-        
-        postcodeInp.setAttribute('aria-describedby', regionId);
-      } else {
-        if (regionEl) regionEl.remove();
+        regionEl.innerHTML = '<span class="material-symbols-outlined !text-[16px]">check_circle</span> <span>Region: ' + region + ' (Service verfügbar)</span>';
       }
-    } else {
-      if (regionEl) regionEl.remove();
+    } else if (regionEl) {
+      regionEl.remove();
     }
   }
 
-  function validateName() {
-    if (!nameInp) return true;
-    var val = nameInp.value.trim();
-    if (!val) {
-      setFieldError(nameInp, 'Name ist ein Pflichtfeld.');
-      return false;
-    }
-    setFieldError(nameInp, null);
-    return true;
-  }
-
-  function validatePostcode() {
-    if (!postcodeInp) return true;
-    var val = postcodeInp.value;
-    if (!val) {
-      setFieldError(postcodeInp, 'PLZ ist ein Pflichtfeld.');
-      return false;
-    }
-    if (!/^[0-9]{4}$/.test(val)) {
-      setFieldError(postcodeInp, 'Geben Sie eine gültige 4-stellige PLZ ein (z.B. 1010).');
-      return false;
-    }
-    setFieldError(postcodeInp, null);
-    updatePostcodeFeedback();
-    return true;
-  }
-
-  function validatePhone() {
-    if (!phoneInp) return true;
-    var val = phoneInp.value;
-    if (!val) {
-      setFieldError(phoneInp, 'Telefonnummer ist ein Pflichtfeld.');
-      return false;
-    }
-    if (!/^[0-9\s\+\-\(\)]+$/.test(val)) {
-      setFieldError(phoneInp, 'Ungültige Zeichen in der Telefonnummer.');
-      return false;
-    }
-    if (val.replace(/[^0-9]/g, '').length < 5) {
-      setFieldError(phoneInp, 'Bitte geben Sie eine gültige Telefonnummer ein (mind. 5 Ziffern).');
-      return false;
-    }
-    setFieldError(phoneInp, null);
-    return true;
-  }
-
-  function validateEmail() {
-    if (!emailInp) return true;
-    var val = emailInp.value;
-    if (val && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
-      setFieldError(emailInp, 'Bitte geben Sie eine gültige E-Mail-Adresse ein.');
-      return false;
-    }
-    setFieldError(emailInp, null);
-    return true;
-  }
-
-  if (nameInp) {
-    nameInp.addEventListener('input', function() {
-      if (nameInp.value.trim()) {
-        setFieldError(nameInp, null);
-      }
-    });
-    nameInp.addEventListener('blur', function() {
-      validateName();
+  // Live Input Observers
+  if (formInputs.name) {
+    formInputs.name.addEventListener('blur', function() {
+      if (!this.value.trim()) setFieldError(this, 'Name ist erforderlich.');
+      else setFieldError(this, null);
     });
   }
 
-  if (postcodeInp) {
-    postcodeInp.addEventListener('input', function() {
-      var val = postcodeInp.value;
-      if (val && !/^[0-9]{4}$/.test(val)) {
-        if (val.length === 4 || !/^[0-9]*$/.test(val)) {
-          setFieldError(postcodeInp, 'PLZ muss aus genau 4 Ziffern bestehen.');
-        } else {
-          setFieldError(postcodeInp, null);
-          var regionEl = document.getElementById('form-postcode-region');
-          if (regionEl) regionEl.remove();
-        }
-      } else if (/^[0-9]{4}$/.test(val)) {
-        setFieldError(postcodeInp, null);
-        updatePostcodeFeedback();
-      } else {
-        setFieldError(postcodeInp, null);
-        var regionEl = document.getElementById('form-postcode-region');
-        if (regionEl) regionEl.remove();
-      }
-    });
-    postcodeInp.addEventListener('blur', function() {
-      validatePostcode();
+  if (formInputs.postcode) {
+    formInputs.postcode.addEventListener('input', updatePostcodeFeedback);
+    formInputs.postcode.addEventListener('blur', function() {
+      if (!/^[0-9]{4}$/.test(this.value)) setFieldError(this, 'Ungültige PLZ (z.B. 1010).');
+      else setFieldError(this, null);
     });
   }
 
-  if (phoneInp) {
-    phoneInp.addEventListener('input', function() {
-      var val = phoneInp.value;
-      if (val && !/^[0-9\s\+\-\(\)]+$/.test(val)) {
-        setFieldError(phoneInp, 'Ungültige Zeichen in der Telefonnummer.');
-      } else {
-        setFieldError(phoneInp, null);
-      }
-    });
-    phoneInp.addEventListener('blur', function() {
-      validatePhone();
-    });
-  }
-
-  if (emailInp) {
-    emailInp.addEventListener('input', function() {
-      var val = emailInp.value;
-      if (val && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
-        setFieldError(emailInp, null);
-      }
-    });
-    emailInp.addEventListener('blur', function() {
-      validateEmail();
-    });
-  }
-
-  // Live character counter for Kurzbeschreibung
-  var messageInp = document.getElementById('form-message');
-  var messageCounter = document.getElementById('form-message-counter');
-  if (messageInp && messageCounter) {
-    var updateCounter = function() {
-      var len = messageInp.value.length;
-      messageCounter.textContent = len + ' / 1000';
-      if (len >= 900) {
-        messageCounter.className = 'text-xs text-primary font-bold';
-      } else {
-        messageCounter.className = 'text-xs text-text-light';
-      }
-    };
-    messageInp.addEventListener('input', updateCounter);
-    updateCounter();
-  }
-
+  // Form Submission Logic (Cloudflare Worker Entegre)
   const WORKER_URL = 'https://form-handler.yasin2celik-62a.workers.dev';
   var quoteForm = document.getElementById('contactForm');
+  
   if (quoteForm) {
     quoteForm.addEventListener('submit', async function handleFormSubmit(e) {
       e.preventDefault();
 
-      var isNameValid = validateName();
-      var isPostcodeValid = validatePostcode();
-      var isPhoneValid = validatePhone();
-      var isEmailValid = validateEmail();
-
-      if (!isNameValid || !isPostcodeValid || !isPhoneValid || !isEmailValid) {
-        var firstInvalid = null;
-        if (!isNameValid) firstInvalid = nameInp;
-        else if (!isPhoneValid) firstInvalid = phoneInp;
-        else if (!isPostcodeValid) firstInvalid = postcodeInp;
-        else if (!isEmailValid) firstInvalid = emailInp;
-
-        if (firstInvalid) {
-          firstInvalid.focus();
-        }
+      var submitBtn = quoteForm.querySelector('button[type="submit"]');
+      var responseDiv = document.getElementById('formResponse');
+      
+      // Basic Final Validation
+      if (!formInputs.name.value.trim() || !/^[0-9]{4}$/.test(formInputs.postcode.value)) {
+        formInputs.name.focus();
         return;
       }
 
-      var submitBtn = quoteForm.querySelector('button[type="submit"]');
-      const responseDiv = document.getElementById('formResponse');
-      
-      if (responseDiv) {
-        responseDiv.setAttribute('role', 'status');
-        responseDiv.setAttribute('aria-live', 'polite');
-        responseDiv.textContent = 'Wird gesendet...';
-        responseDiv.className = 'mt-4 text-center text-sm font-bold text-gray-700';
-        responseDiv.classList.remove('hidden');
-      }
-
       if (submitBtn) {
-        var originalBtnContent = submitBtn.innerHTML;
-        submitBtn.innerHTML = '<svg class="animate-spin -ml-1 mr-3 h-5 w-5 text-white inline-block" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg><span>Wird gesendet...</span>';
-        submitBtn.classList.add('opacity-75', 'cursor-not-allowed');
-        submitBtn.classList.remove('hover:bg-primary', 'hover:-translate-y-0.5', 'hover:shadow-xl', 'cursor-pointer');
         submitBtn.disabled = true;
+        submitBtn.innerHTML = '<span class="spinner"></span> <span>Wird gesendet...</span>';
       }
 
-      const formData = new FormData();
-      if (nameInp) formData.append('name', nameInp.value);
-      if (emailInp) formData.append('email', emailInp.value);
-      if (phoneInp) formData.append('phone', phoneInp.value);
-      if (postcodeInp) formData.append('postcode', postcodeInp.value);
-      if (messageInp) formData.append('message', messageInp.value);
+      const formData = new FormData(quoteForm);
       formData.append('source_page', window.location.href);
-      formData.append('page_title', document.title);
-
-      var subjectInp = quoteForm.querySelector('input[name="subject"]');
-      if (subjectInp) formData.append('subject', subjectInp.value);
-
-      const fileInput = document.getElementById('form-photos');
-      if (fileInput && fileInput.files.length > 0) {
-        for (let i = 0; i < fileInput.files.length; i++) {
-          formData.append('files', fileInput.files[i]);
-        }
-      }
 
       try {
-        const res = await fetch(WORKER_URL, {
-          method: 'POST',
-          body: formData
-        });
-
+        const res = await fetch(WORKER_URL, { method: 'POST', body: formData });
         const data = await res.json();
 
         if (res.ok && data.success) {
-          // Formular mit Fade-Out animiert ausblenden
-          quoteForm.classList.add('opacity-0', 'transition-opacity', 'duration-300');
-          setTimeout(function() {
-            quoteForm.classList.add('hidden');
+          quoteForm.classList.add('opacity-0');
+          setTimeout(() => {
+            quoteForm.innerHTML = `
+              <div class="text-center py-10 animate-fadeUp">
+                <span class="material-symbols-outlined !text-6xl text-success mb-6">task_alt</span>
+                <h3 class="text-2xl font-black text-white mb-2">Anfrage erfolgreich!</h3>
+                <p class="text-text-soft">Vielen Dank. Wir melden uns innerhalb von 24h bei Ihnen.</p>
+              </div>`;
+            quoteForm.classList.remove('opacity-0');
           }, 300);
-
-          // HTML içindeki başarı mesajını göster
-          var successMessage = document.getElementById('successMessage');
-          if (successMessage) {
-            successMessage.classList.remove('hidden');
-            successMessage.setAttribute('role', 'status');
-            successMessage.setAttribute('aria-live', 'polite');
-            
-            // Mobil kullanıcılar ve CRO için mesaja yumuşak scroll
-            successMessage.scrollIntoView({
-              behavior: 'smooth',
-              block: 'center'
-            });
-          }
-          
-          if (responseDiv) {
-            responseDiv.classList.add('hidden');
-          }
-
-          // Bilder zurücksetzen
-          selectedFiles = [];
-          updateInputAndRender();
         } else {
-          if (responseDiv) {
-            responseDiv.textContent = 'Fehler: ' + (data.message || 'Ein Fehler ist aufgetreten.');
-            responseDiv.className = 'mt-4 text-center text-sm font-bold text-red-600';
-          }
+          throw new Error(data.message || 'Serverfehler');
         }
       } catch (err) {
         if (responseDiv) {
-          responseDiv.textContent = 'Es ist ein Verbindungsfehler aufgetreten.';
-          responseDiv.className = 'mt-4 text-center text-sm font-bold text-red-600';
+          responseDiv.className = 'mt-6 p-4 rounded-xl bg-danger/10 border border-danger/20 text-danger text-xs font-black uppercase tracking-widest text-center';
+          responseDiv.textContent = 'Fehler beim Senden. Bitte versuchen Sie es erneut.';
         }
-      } finally {
-        if (submitBtn && !quoteForm.classList.contains('hidden')) {
-          submitBtn.innerHTML = originalBtnContent;
-          submitBtn.classList.remove('opacity-75', 'cursor-not-allowed');
-          submitBtn.classList.add('hover:bg-primary', 'hover:-translate-y-0.5', 'hover:shadow-xl', 'cursor-pointer');
+        if (submitBtn) {
           submitBtn.disabled = false;
+          submitBtn.innerHTML = 'Jetzt Fixpreis anfragen';
         }
       }
     });

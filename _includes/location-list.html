@@ -2,7 +2,7 @@
 <div class="location-list space-y-16">
   {% for state in site.data.locations %}
   <div class="animate-fadeUp" style="animation-delay: {{ forloop.index | times: 100 }}ms;">
-
+    
     <!-- State Title (Eyalet Başlığı) -->
     <div class="flex items-center gap-4 mb-8">
       <h3 class="text-2xl md:text-3xl font-black text-white tracking-tight uppercase">
@@ -15,7 +15,7 @@
     <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       {% for city in state.cities %}
       <li class="bg-surface/40 backdrop-blur-md border border-white/5 p-6 rounded-xl shadow-soft hover:border-primary/40 hover:-translate-y-1 transition-all duration-300 group">
-
+        
         <!-- City Name with Local Icon -->
         <div class="flex items-center gap-2 mb-4">
           <span class="material-symbols-outlined text-primary !text-[20px] group-hover:scale-110 transition-transform">location_on</span>
