@@ -1,11 +1,45 @@
 ---
 layout: page
-title: "Serverfehler (500)"
+title: "Systemfehler (500)"
 permalink: /500.html
 sitemap: false
 ---
-<div class="text-center py-20">
-    <h1 class="text-4xl font-bold mb-4">500 - Serverfehler</h1>
-    <p class="text-gray-600 mb-8">Hoppla! Da ist auf unserem Server etwas schiefgelaufen. Wir arbeiten bereits daran.</p>
-    <p>Zurück zur <a href="{{ '/' | relative_url }}" class="text-brand-600 font-bold hover:underline">Startseite</a></p>
+
+<!-- Master Plan: 500 Modernization -->
+<div class="relative min-h-[60vh] flex items-center justify-center overflow-hidden">
+  <div class="absolute inset-0 bg-grid opacity-10 pointer-events-none"></div>
+  
+  <div class="container relative z-10 mx-auto px-4 py-20 text-center animate-fadeUp">
+    
+    <div class="mb-8 inline-flex h-20 w-20 items-center justify-center rounded-2xl bg-danger/10 border border-danger/20 shadow-glow">
+      <span class="material-symbols-outlined !text-4xl text-danger">engineering</span>
+    </div>
+
+    <h1 class="text-6xl md:text-8xl font-black leading-none mb-6">
+      <span class="text-gradient">500</span>
+    </h1>
+
+    <div class="max-w-xl mx-auto space-y-4">
+      <h2 class="text-2xl md:text-3xl font-black text-white italic">Hoppla! Ein Systemfehler.</h2>
+      <p class="text-text-soft text-lg leading-relaxed">
+        Auf unserem Server ist etwas schiefgelaufen. Keine Sorge, wir arbeiten bereits mit Hochdruck an der Lösung.
+      </p>
+    </div>
+
+    <div class="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
+      <button onclick="window.location.reload()" class="btn btn-primary px-10 py-4 shadow-glow group">
+        <span class="material-symbols-outlined group-hover:rotate-180 transition-transform">refresh</span>
+        Seite neu laden
+      </button>
+      <a href="{{ '/' | relative_url }}" class="btn btn-secondary px-10 py-4">
+        Zur Startseite
+      </a>
+    </div>
+
+    <p class="mt-12 text-xs font-bold text-text-muted uppercase tracking-widest italic">
+      Dringende Anfrage? Rufen Sie uns an: 
+      <a href="tel:{{ site.phone | replace: ' ', '' }}" class="text-primary hover:underline ml-1">{{ site.phone }}</a>
+    </p>
+
+  </div>
 </div>
