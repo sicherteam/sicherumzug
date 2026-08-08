@@ -96,13 +96,14 @@
   }
 
   /* SECTION 1: MATERIAL SYMBOLS LOCAL FIX */
-  @font-face {
-    font-family: 'Material Symbols Outlined Local';
-    font-style: normal;
-    font-weight: 400;
-    font-display: block;
-    src: url('/main/sicherumzug/assets/fonts/material-symbols-outlined.woff2') format('woff2');
-  }
+@font-face {
+  font-family: 'Material Symbols Outlined Local';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  /* Doğru Yol: Bir üst klasöre çık (..) ve fonts'a gir */
+  src: url('../fonts/material-symbols-outlined.woff2') format('woff2');
+}
 
   .material-symbols-outlined {
     font-family: 'Material Symbols Outlined Local' !important;
