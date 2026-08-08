@@ -2,104 +2,112 @@
 layout: default
 ---
 {% include home-hero-vars.liquid %}
-{% include breadcrumbs.html %}
-{% assign call_href = site.phone | replace: ' ', '' | prepend: 'tel:' %}
-{% assign hero_kicker = page.kicker | default: 'Bundesland' %}
-<section class="relative flex items-start text-white overflow-hidden bg-primary" data-hero-banner>
-  <picture class="absolute inset-0 z-0">
-    <source
-      media="(max-width: 767px)"
-      srcset="{{ hero_mobile_srcset | strip }}"
-      sizes="100vw"
-      type="image/webp">
-    <source
-      media="(min-width: 768px)"
-      srcset="{{ hero_desktop_srcset | strip }}"
-      sizes="{{ hero_image_sizes }}"
-      type="image/webp">
-    <img src="{{ hero_desktop | relative_url }}"
-         alt="{{ page.title | escape }}"
-         class="h-full w-full object-cover object-center"
-         fetchpriority="high"
-         decoding="async"
-         width="{{ hero_width }}"
-         height="{{ hero_height }}">
-  </picture>
 
+<!-- Master Plan: State Hero Modernization (Section 2 Seamless) -->
+<section class="relative min-h-[60vh] md:min-h-[70vh] flex items-center text-white overflow-hidden bg-background -mt-[120px] md:-mt-[136px]" data-hero-banner>
+  <!-- Background Layer -->
+  <div class="absolute inset-0 z-0">
+    <picture>
+      {% if hero_mobile %}
+      <source media="(max-width: 767px)" srcset="{{ hero_mobile_srcset | strip }}" type="image/webp">
+      {% endif %}
+      <source media="(min-width: 768px)" srcset="{{ hero_desktop_srcset | strip }}" type="image/webp">
+      <img src="{{ hero_desktop | relative_url }}" alt="{{ page.title | escape }}" class="h-full w-full object-cover object-center opacity-40">
+    </picture>
+    <div class="absolute inset-0 bg-gradient-to-t from-background via-background/60 to-background/90"></div>
+  </div>
 
-
-  <div class="absolute left-0 top-0 z-30 w-full bg-gradient-to-br from-primary/95 to-transparent">
-    <div class="container mx-auto px-4 md:px-6 py-2">
-      <p class="text-sm md:text-base font-semibold uppercase tracking-[0.4em] text-primary-accent">{{ hero_kicker }}</p>
+  <div class="container relative z-20 pt-40 md:pt-48">
+    {% include breadcrumbs.html %}
+    
+    <div class="mt-8 animate-fadeUp">
+      {% assign hero_kicker = page.kicker | default: 'Bundesland Expertise' %}
+      <p class="text-primary text-[10px] md:text-xs font-black uppercase tracking-[0.4em] mb-4">{{ hero_kicker }}</p>
+      
+      <div class="max-w-4xl space-y-6">
+        <h1 class="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-[0.95] tracking-tight">
+          {{ page.title }} <br>
+          <span class="text-gradient">Stressfrei & Sicher</span>
+        </h1>
+        <p class="text-lg md:text-xl text-text-soft leading-relaxed italic max-w-2xl">
+          {{ page.description }}
+        </p>
+        
+        <div class="flex flex-wrap gap-4 pt-4">
+          <a href="/angebot/" class="btn btn-primary px-8 shadow-glow">
+            <span class="material-symbols-outlined !text-base">calendar_month</span>
+            Gratis Besichtigung
+          </a>
+          <a href="tel:{{ site.phone | replace: ' ', '' }}" class="btn btn-secondary px-8">
+            <span class="material-symbols-outlined !text-base">call</span>
+            {{ site.phone }}
+          </a>
+        </div>
+      </div>
     </div>
   </div>
-  {% include hero-content.html
-    title=page.title
-    subtitle=page.description
-    highlights=page.highlights
-    primary_cta=page.primary_cta
-    primary_label="Gratis Besichtigung"
-    primary_url="/angebot/"
-    whatsapp_label="WhatsApp"
-    whatsapp_url=site.whatsapp
-    call_label=site.phone
-    call_url=call_href
-    container_classes="container relative z-20 mx-auto px-4 md:px-6 pt-18 pb-8 md:pt-20 text-white"
-    content_classes="max-w-4xl space-y-5 md:space-y-6"
-    cta_wrap_classes="mt-6 flex flex-col gap-3"
-    show_kicker=false
-    title_class="pt-8 md:pt-0"
-    subtitle_class="pb-4"
-  %}
 </section>
+
+<!-- Introduction Content (WCAG AA Contrast) -->
 {% assign trimmed = content | strip %}
 {% unless trimmed == '' %}
-<section class="bg-white py-12">
-  <div class="container mx-auto px-4">
-    <div class="richtext max-w-4xl">
+<section class="bg-background py-16 md:py-24 border-b border-white/5">
+  <div class="container">
+    <div class="richtext max-w-4xl mx-auto animate-fadeUp">
       {{ content }}
     </div>
   </div>
 </section>
 {% endunless %}
+
+<!-- Pillars / Vorteile (Section 1 & 2 Modernization) -->
 {% if page.pillars %}
-<section class="bg-background-light py-12">
-  <div class="container mx-auto px-4">
-    <div class="grid gap-6 md:grid-cols-3">
+<section class="bg-surface/30 py-20 relative overflow-hidden">
+  <div class="absolute inset-0 bg-grid opacity-10 pointer-events-none"></div>
+  <div class="container relative z-10">
+    <div class="grid gap-8 md:grid-cols-3">
       {% for pillar in page.pillars %}
-      <article class="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ pillar.kicker | default: 'Vorteil' }}</p>
-        <h3 class="mt-2 text-xl font-bold text-primary">{{ pillar.title }}</h3>
-        <p class="mt-2 text-sm text-text-light">{{ pillar.description }}</p>
+      <article class="group rounded-2xl border border-white/5 bg-surface-elevated/50 backdrop-blur-md p-8 shadow-soft hover:border-primary/30 transition-all duration-300">
+        <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary/60 mb-4 group-hover:text-primary transition-colors">
+          {{ pillar.kicker | default: 'Vorteil' }}
+        </p>
+        <h3 class="text-xl font-black text-white mb-3 group-hover:text-white leading-tight">{{ pillar.title }}</h3>
+        <p class="text-sm text-text-muted leading-relaxed">{{ pillar.description }}</p>
       </article>
       {% endfor %}
     </div>
   </div>
 </section>
 {% endif %}
+
+<!-- Locations / Districts Grid (Enhanced UX) -->
 {% assign locations = site.districts | where: 'state', page.slug | sort: 'title' %}
 {% if locations.size > 0 %}
-<section class="bg-white py-12">
-  <div class="container mx-auto px-4">
-    <div class="flex flex-col gap-3 text-center">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Standorte</p>
-      <h2 class="text-3xl font-extrabold text-primary">Entrümpelung in {{ page.title }}</h2>
+<section class="bg-background py-20">
+  <div class="container">
+    <div class="text-center max-w-3xl mx-auto mb-16">
+      <p class="text-xs font-black uppercase tracking-[0.3em] text-primary mb-4">Standorte</p>
+      <h2 class="text-3xl md:text-5xl font-black text-white tracking-tight">Entrümpelung in {{ page.title }}</h2>
       {% if page.locations_intro %}
-      <p class="text-base text-text-light">{{ page.locations_intro }}</p>
+      <p class="mt-6 text-lg text-text-soft italic">{{ page.locations_intro }}</p>
       {% endif %}
     </div>
-    <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {% for location in locations %}
-      <a href="{{ location.url | relative_url }}" class="group block h-full text-left">
-        <div class="flex h-full flex-col justify-between gap-4 rounded-2xl border border-gray-200 bg-background-light px-6 py-6 shadow-sm transition group-hover:-translate-y-0.5 group-hover:border-primary">
-          {% if location.kicker %}
-          <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ location.kicker }}</p>
-          {% endif %}
+      <a href="{{ location.url | relative_url }}" class="group h-full outline-none focus-visible:ring-2 focus-visible:ring-primary rounded-2xl">
+        <div class="flex h-full flex-col justify-between p-8 rounded-2xl border border-white/5 bg-surface/50 backdrop-blur-sm transition-all duration-300 group-hover:border-primary/40 group-hover:-translate-y-1.5 shadow-soft hover:shadow-large">
           <div>
-            <h3 class="text-lg font-bold text-primary">{{ location.title }}</h3>
-            <p class="mt-2 text-sm text-text-light">{{ location.description }}</p>
+            {% if location.kicker %}
+            <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary/60 mb-4 group-hover:text-primary transition-colors">{{ location.kicker }}</p>
+            {% endif %}
+            <h3 class="text-xl font-black text-white mb-3 group-hover:text-white leading-tight italic">{{ location.title }}</h3>
+            <p class="text-sm text-text-muted leading-relaxed line-clamp-3">{{ location.description }}</p>
           </div>
-          <span class="inline-flex items-center gap-2 text-sm font-semibold text-primary">Mehr erfahren<span class="material-symbols-outlined text-base">north_east</span></span>
+          <div class="mt-8 flex items-center gap-2 text-xs font-black text-primary uppercase tracking-widest">
+            Mehr erfahren
+            <span class="material-symbols-outlined !text-base transition-transform group-hover:translate-x-2">north_east</span>
+          </div>
         </div>
       </a>
       {% endfor %}
@@ -107,20 +115,28 @@ layout: default
   </div>
 </section>
 {% endif %}
-<section class="bg-background-light py-12">
-  <div class="container mx-auto px-4">
-    <div class="grid gap-8 md:grid-cols-2">
-      <div>
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Serviceversprechen</p>
-        <h2 class="mt-2 text-3xl font-extrabold text-primary">Fixpreis + Wertanrechnung</h2>
-        <p class="mt-3 text-sm text-text-light">Ob Wien oder die angrenzenden Bundesländer – wir kombinieren städtische Logistik mit regionalen Partnern und halten Wege kurz.</p>
+
+<!-- Final Service Commitment & Form -->
+<section class="bg-surface/30 py-20 border-t border-white/5">
+  <div class="container">
+    <div class="grid gap-16 lg:grid-cols-2 items-center">
+      <div class="animate-fadeUp">
+        <p class="text-xs font-black uppercase tracking-[0.3em] text-primary mb-4">Serviceversprechen</p>
+        <h2 class="text-3xl md:text-5xl font-black text-white leading-tight mb-6 italic">Fixpreis + Wertanrechnung</h2>
+        <p class="text-text-soft text-lg leading-relaxed max-w-xl">
+          Ob Wien veya die angrenzenden Bundesländer – wir kombinieren städtische Logistik mit regionalen Partnern und halten Wege kurz. 
+          <span class="text-success font-bold flex items-center gap-2 mt-4">
+            <span class="material-symbols-outlined !text-[20px]">verified</span>
+            Staatlich konzessionierter Fachbetrieb
+          </span>
+        </p>
       </div>
-      <div class="rounded-3xl bg-white p-8 shadow-xl">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Jetzt anfragen</p>
-        <h3 class="mt-3 text-2xl font-extrabold text-primary">Innerhalb eines Werktags Termin sichern</h3>
-        <div class="mt-6">
-          {% include quote-form.html %}
-        </div>
+
+      <div class="rounded-3xl bg-surface-elevated/50 backdrop-blur-md p-8 md:p-12 border border-white/10 shadow-large relative overflow-hidden animate-fadeUp">
+        <div class="absolute top-0 right-0 w-32 h-32 bg-primary/5 rounded-full -mr-16 -mt-16 blur-3xl"></div>
+        <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary mb-2">Anfrage</p>
+        <h3 class="text-2xl font-black text-white mb-8">Innerhalb 24h Termin sichern</h3>
+        {% include quote-form.html %}
       </div>
     </div>
   </div>
