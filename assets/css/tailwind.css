@@ -2,30 +2,32 @@
 
 /* ==========================================================
    DESIGN SYSTEM TOKENS — Tailwind CSS v4
+   (Birebir WCAG 2.2 Renk Haritası Uyumu)
    ========================================================== */
 @theme {
   /* --------------------------------------------------------
-     COLORS (v4 native variables)
+     COLORS (Hex & Native Tokens)
   -------------------------------------------------------- */
-  --color-background: rgb(var(--color-bg));
-  --color-surface: rgb(var(--color-surface));
-  --color-surface-soft: var(--color-surface-soft);
-  --color-surface-elevated: rgb(var(--color-surface-2));
-  --color-surface-card: rgb(var(--color-card));
+  --color-background: #0f172a;       /* Slate-900 */
+  --color-surface: #1e293b;          /* Slate-800 */
+  --color-surface-soft: rgba(255, 255, 255, 0.05);
+  --color-surface-elevated: #334155; /* Slate-700 */
+  --color-surface-card: #1e293b;
 
-  --color-border: rgb(var(--color-border));
-  --color-border-light: rgb(var(--color-border-light));
+  --color-border: #334155;           /* Slate-700 */
+  --color-border-light: #475569;     /* Slate-600 */
 
-  --color-text: rgb(var(--color-text));
-  --color-text-soft: rgb(var(--color-text-soft));
-  --color-text-muted: rgb(var(--color-text-muted));
+  --color-text: #ffffff;             /* Beyaz Metin */
+  --color-text-soft: #fcd34d;        /* Amber-300 (İç Linkler & Vurgular) */
+  --color-text-muted: #94a3b8;       /* Slate-400 */
 
-  --color-primary: rgb(var(--color-primary));
-  --color-primary-hover: rgb(var(--color-primary-hover));
-  --color-primary-soft: rgb(var(--color-primary-soft));
+  --color-primary: #fbbf24;          /* Amber-400 (Sarı Buton & Aksan) */
+  --color-primary-hover: #f59e0b;    /* Amber-500 */
+  --color-primary-dark: #020617;     /* Slate-950 (Siyah Metin Şartı) */
 
-  --color-success: rgb(var(--color-success));
-  --color-danger: rgb(var(--color-danger));
+  --color-success: #059669;          /* Emerald-600 (WhatsApp Yeşil) */
+  --color-success-hover: #047857;    /* Emerald-700 */
+  --color-danger: #ef4444;
 
   /* --------------------------------------------------------
      TYPOGRAPHY
@@ -43,9 +45,9 @@
   --radius-xl: 24px;
   --radius-full: 9999px;
 
-  --shadow-soft: 0 4px 10px rgba(0, 0, 0, 0.15);
-  --shadow-large: 0 20px 50px rgba(0, 0, 0, 0.32);
-  --shadow-glow: 0 0 40px rgb(var(--color-primary) / 0.18);
+  --shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.25);
+  --shadow-large: 0 20px 50px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 40px rgba(251, 191, 36, 0.2);
 
   /* --------------------------------------------------------
      ANIMATIONS & KEYFRAMES
@@ -74,23 +76,6 @@
 @layer base {
   :root {
     color-scheme: dark;
-
-    /* RGB RAW TOKENS */
-    --color-bg: 11 18 32;
-    --color-surface: 17 24 39;
-    --color-surface-soft: rgba(255, 255, 255, 0.03);
-    --color-surface-2: 24 34 52;
-    --color-card: 30 41 59;
-    --color-border: 51 65 85;
-    --color-border-light: 71 85 105;
-    --color-text: 248 250 252;
-    --color-text-soft: 203 213 225;
-    --color-text-muted: 148 163 184;
-    --color-primary: 251 191 36;       /* #FBBF24 Amber-400 */
-    --color-primary-hover: 245 158 11; /* #F59E0B Amber-500 */
-    --color-primary-soft: 253 230 138;  /* #FDE68A Amber-200 */
-    --color-success: 34 197 94;
-    --color-danger: 239 68 68;
   }
 
   /* Google CDN Fallback Icon Style */
@@ -111,8 +96,8 @@
   }
 
   body {
-    background-color: rgb(var(--color-bg));
-    color: rgb(var(--color-text));
+    background-color: #0f172a;
+    color: #ffffff;
     font-family: var(--font-sans);
     -webkit-font-smoothing: antialiased;
   }
@@ -127,34 +112,47 @@
   }
 
   .surface {
-    background-color: rgb(var(--color-surface));
-    border: 1px solid rgb(var(--color-border));
+    background-color: #1e293b;
+    border: 1px solid #334155;
     border-radius: var(--radius-lg);
   }
   
   .card { 
-    background-color: rgb(var(--color-card));
-    border: 1px solid rgb(var(--color-border));
+    background-color: #1e293b;
+    border: 1px solid #334155;
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-soft);
   }
 
   .card:hover {
     transform: translateY(-4px);
-    border-color: rgb(var(--color-border-light));
+    border-color: #475569;
     box-shadow: var(--shadow-large);
   }
 
-  /* WCAG 2.2 AA Uyumlu Buton (#0f172a metin rengi ile 11:1 AA/AAA) */
+  /* WCAG 2.2 AAA Sarı Arama/Çağrı Butonu (#FBBF24 Arka Plan + #020617 Siyah Metin) */
   .btn-primary {
-    background-color: rgb(var(--color-primary));
-    color: #0f172a;
-    font-weight: 700;
+    background-color: #fbbf24;
+    color: #020617 !important;
+    font-weight: 800;
     box-shadow: var(--shadow-soft);
   }
 
   .btn-primary:hover {
-    background-color: rgb(var(--color-primary-hover));
+    background-color: #f59e0b;
+    transform: translateY(-2px);
+  }
+
+  /* WCAG 2.2 AA Yeşil WhatsApp Butonu (#059669 Arka Plan + #FFFFFF Beyaz Metin) */
+  .btn-whatsapp {
+    background-color: #059669;
+    color: #ffffff !important;
+    font-weight: 700;
+    box-shadow: var(--shadow-soft);
+  }
+
+  .btn-whatsapp:hover {
+    background-color: #047857;
     transform: translateY(-2px);
   }
 
