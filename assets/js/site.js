@@ -244,11 +244,34 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     });
   }
 
+  if (formInputs.phone) {
+    formInputs.phone.addEventListener('blur', function() {
+      if (!this.value.trim()) {
+        setFieldError(this, 'Telefonnummer ist erforderlich.');
+      } else if (!/^[+0-9\s\-/()]{5,}$/.test(this.value.trim())) {
+        setFieldError(this, 'Ungültige Telefonnummer.');
+      } else {
+        setFieldError(this, null);
+      }
+    });
+  }
+
   if (formInputs.postcode) {
     formInputs.postcode.addEventListener('input', updatePostcodeFeedback);
     formInputs.postcode.addEventListener('blur', function() {
       if (!/^[0-9]{4}$/.test(this.value)) setFieldError(this, 'Ungültige PLZ (z.B. 1010).');
       else setFieldError(this, null);
+    });
+  }
+
+  if (formInputs.email) {
+    formInputs.email.addEventListener('blur', function() {
+      var val = this.value.trim();
+      if (val && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
+        setFieldError(this, 'Ungültige E-Mail-Adresse.');
+      } else {
+        setFieldError(this, null);
+      }
     });
   }
 
@@ -263,9 +286,56 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var submitBtn = quoteForm.querySelector('button[type="submit"]');
       var responseDiv = document.getElementById('formResponse');
       
-      // Basic Final Validation
-      if (!formInputs.name.value.trim() || !/^[0-9]{4}$/.test(formInputs.postcode.value)) {
-        formInputs.name.focus();
+      // Comprehensive Custom Validation & Focus Redirection
+      var firstInvalid = null;
+
+      if (formInputs.name) {
+        if (!formInputs.name.value.trim()) {
+          setFieldError(formInputs.name, 'Name ist erforderlich.');
+          if (!firstInvalid) firstInvalid = formInputs.name;
+        } else {
+          setFieldError(formInputs.name, null);
+        }
+      }
+
+      if (formInputs.phone) {
+        var phoneVal = formInputs.phone.value.trim();
+        if (!phoneVal) {
+          setFieldError(formInputs.phone, 'Telefonnummer ist erforderlich.');
+          if (!firstInvalid) firstInvalid = formInputs.phone;
+        } else if (!/^[+0-9\s\-/()]{5,}$/.test(phoneVal)) {
+          setFieldError(formInputs.phone, 'Ungültige Telefonnummer.');
+          if (!firstInvalid) firstInvalid = formInputs.phone;
+        } else {
+          setFieldError(formInputs.phone, null);
+        }
+      }
+
+      if (formInputs.postcode) {
+        var postcodeVal = formInputs.postcode.value.trim();
+        if (!postcodeVal) {
+          setFieldError(formInputs.postcode, 'Postleitzahl ist erforderlich.');
+          if (!firstInvalid) firstInvalid = formInputs.postcode;
+        } else if (!/^[0-9]{4}$/.test(postcodeVal)) {
+          setFieldError(formInputs.postcode, 'Ungültige PLZ (z.B. 1010).');
+          if (!firstInvalid) firstInvalid = formInputs.postcode;
+        } else {
+          setFieldError(formInputs.postcode, null);
+        }
+      }
+
+      if (formInputs.email) {
+        var emailVal = formInputs.email.value.trim();
+        if (emailVal && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(emailVal)) {
+          setFieldError(formInputs.email, 'Ungültige E-Mail-Adresse.');
+          if (!firstInvalid) firstInvalid = formInputs.email;
+        } else {
+          setFieldError(formInputs.email, null);
+        }
+      }
+
+      if (firstInvalid) {
+        firstInvalid.focus();
         return;
       }
 
