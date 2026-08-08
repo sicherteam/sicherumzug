@@ -1,10 +1,40 @@
 ---
 layout: page
-title: "Seite nicht mehr verfügbar (410)"
+title: "Seite dauerhaft entfernt (410)"
 permalink: /410.html
 sitemap: false
 ---
-<div class="text-center py-20">
-    <h1 class="text-4xl font-bold mb-4">410 - Gone</h1>
-    <p class="text-gray-600 mb-8">Diese Seite wurde dauerhaft entfernt. Bitte kehren Sie zur <a href="{{ '/' | relative_url }}" class="text-brand-600 font-bold hover:underline">Startseite</a> zurück.</p>
+
+<!-- Master Plan: 410 Modernization -->
+<div class="relative min-h-[60vh] flex items-center justify-center overflow-hidden">
+  <div class="absolute inset-0 bg-grid opacity-10 pointer-events-none"></div>
+  
+  <div class="container relative z-10 mx-auto px-4 py-20 text-center animate-fadeUp">
+    
+    <div class="mb-8 inline-flex h-20 w-20 items-center justify-center rounded-2xl bg-white/5 border border-white/10 shadow-soft">
+      <span class="material-symbols-outlined !text-4xl text-primary">history_off</span>
+    </div>
+
+    <h1 class="text-6xl md:text-8xl font-black leading-none mb-6">
+      <span class="text-gradient">410</span>
+    </h1>
+
+    <div class="max-w-xl mx-auto space-y-4">
+      <h2 class="text-2xl md:text-3xl font-black text-white italic">Inhalt nicht mehr verfügbar.</h2>
+      <p class="text-text-soft text-lg leading-relaxed">
+        Diese Seite wurde dauerhaft von unserem Server entfernt. Wir ziehen um, genau wie unsere Kunden – nur dass diese Seite kein neues Zuhause hat.
+      </p>
+    </div>
+
+    <div class="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
+      <a href="{{ '/' | relative_url }}" class="btn btn-primary px-10 py-4 shadow-glow group">
+        <span class="material-symbols-outlined group-hover:-translate-x-1 transition-transform">home</span>
+        Zur Startseite
+      </a>
+      <a href="{{ '/leistungen/' | relative_url }}" class="btn btn-secondary px-10 py-4 italic">
+        Unsere Leistungen
+      </a>
+    </div>
+
+  </div>
 </div>
