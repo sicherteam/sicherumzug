@@ -33,3 +33,7 @@
 ## 2026-08-05 - Live Austrian Region Detection for Postcode Validation
 **Learning:** Providing real-time local region confirmation when typing a postcode in a localized service area drastically increases user trust and confidence. Coupling this with the existing dynamic error system and updating `aria-describedby` dynamically ensures high screen-reader accessibility and zero cognitive friction.
 **Action:** Always map national postcode prefixes to regional locations to provide immediate positive visual and auditory feedback on location coverage during typing.
+
+## 2026-08-08 - Cohesive Custom Form Validation and Programmatic Focus Redirection
+**Learning:** Combining the HTML `novalidate` attribute with full programmatic custom validation is essential to override clunky browser-native validation bubbles. This ensures a consistent, brand-aligned visual theme while guaranteeing that screen-readers receive instantaneous validation alerts with proper focus management on form submission.
+**Action:** Always set the `novalidate` attribute on public interactive forms, run robust custom verification on submit, and programmatically focus the first invalid field to guide users.
