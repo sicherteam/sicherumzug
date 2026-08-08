@@ -2,16 +2,16 @@
 {% assign headings = include.html | split: '<h2' %}
 
 {% if headings.size > 1 %}
-<!-- Master Plan: Table of Contents Modernization -->
-<nav class="toc-container bg-surface/40 backdrop-blur-md border border-white/5 rounded-2xl p-6 mb-10 animate-fadeUp" aria-label="Inhaltsverzeichnis">
+<!-- Master Plan: Table of Contents (TOC) Modernization -->
+<nav class="toc-container bg-slate-800/80 backdrop-blur-md border border-slate-700/80 rounded-2xl p-6 mb-10 shadow-lg animate-fadeUp" aria-label="Inhaltsverzeichnis">
   
-  <!-- TOC Header (Section 1 Local Icon Fix) -->
-  <div class="flex items-center gap-3 mb-6 pb-4 border-b border-white/5">
-    <span class="material-symbols-outlined text-primary !text-[22px]">format_list_bulleted</span>
-    <h3 class="text-sm font-black uppercase tracking-[0.2em] text-white">Inhalt</h3>
+  <!-- TOC Header (Accessibility & High Contrast Fix) -->
+  <div class="flex items-center gap-3 mb-5 pb-4 border-b border-slate-700/80">
+    <span class="material-symbols-outlined text-amber-400 !text-[22px]" aria-hidden="true">format_list_bulleted</span>
+    <h3 class="text-xs font-black uppercase tracking-[0.2em] text-white">Inhalt</h3>
   </div>
 
-  <ul class="space-y-4">
+  <ul class="space-y-3.5">
   {% for heading in headings %}
     {% if forloop.first == false %}
       {% assign id_part = heading | split: 'id="' | last %}
@@ -22,10 +22,10 @@
 
       {% if id and title != empty %}
         <li class="group">
-          <a href="#{{ id }}" class="flex items-start gap-3 text-[14px] leading-tight text-text-soft hover:text-primary transition-all duration-200 group-hover:translate-x-1">
+          <a href="#{{ id }}" class="flex items-start gap-3 text-sm leading-snug text-slate-300 hover:text-amber-400 transition-all duration-200 group-hover:translate-x-1 focus:outline-none focus:ring-2 focus:ring-amber-400 rounded py-0.5">
             <!-- Active/Hover Indicator -->
-            <span class="w-1.5 h-1.5 rounded-full bg-primary/30 mt-[0.4rem] group-hover:bg-primary transition-colors"></span>
-            <span class="flex-1 font-medium italic group-hover:not-italic">{{ title }}</span>
+            <span class="w-1.5 h-1.5 rounded-full bg-amber-400/50 mt-1.5 group-hover:bg-amber-400 group-hover:scale-125 transition-all shrink-0" aria-hidden="true"></span>
+            <span class="flex-1 font-medium text-slate-200 group-hover:text-amber-400 transition-colors">{{ title }}</span>
           </a>
         </li>
       {% endif %}
