@@ -5,17 +5,17 @@
 {% endif %}
 
 <!-- Top Announcement Bar --> 
-<div class="{% if is_home %}bg-transparent border-none{% else %}bg-background/95 backdrop-blur-md border-b border-border/30{% endif %} py-2 overflow-hidden whitespace-nowrap select-none relative z-[60] transition-colors duration-500">
+<div class="{% if is_home %}bg-transparent border-none{% else %}bg-slate-900/95 backdrop-blur-md border-b border-slate-800{% endif %} py-2 overflow-hidden whitespace-nowrap select-none relative z-[60] transition-colors duration-500">
   <!-- Desktop -->
-  <div class="hidden md:flex justify-between items-center container text-[11px] font-bold tracking-widest text-primary">
+  <div class="hidden md:flex justify-between items-center container text-[12px] font-bold tracking-wide text-amber-400">
     <span class="flex items-center gap-1.5">🏷️ 100% Fixpreisgarantie — Keine versteckten Kosten</span>
     <span class="flex items-center gap-1.5">🛡️ All-Risk Transportversicherung bis €100.000</span>
-    <span class="flex items-center gap-1.5 text-white/90">⭐ 5/5 Sterne aus 450+ Bewertungen</span>
+    <span class="flex items-center gap-1.5 text-white">⭐ 5/5 Sterne aus 450+ Bewertungen</span>
   </div>
   
   <!-- Mobile Marquee -->
   <div class="flex md:hidden overflow-hidden">
-    <div class="animate-marquee flex w-max gap-6 text-[11px] font-bold tracking-wide text-primary" style="will-change: transform;">
+    <div class="animate-marquee flex w-max gap-6 text-[11px] font-bold tracking-wide text-amber-400" style="will-change: transform;">
       <span class="shrink-0">🏷️ 100% Fixpreisgarantie</span>
       <span class="shrink-0">•</span>
       <span class="shrink-0">⚡ Express-Umzug innerhalb 24h</span>
@@ -26,19 +26,19 @@
       <!-- Duplicate for seamless loop -->
       <span class="shrink-0">🏷️ 100% Fixpreisgarantie</span>
       <span class="shrink-0">•</span>
-      <span class="shrink-0">⚡ Express-Umzug içinde 24h</span>
+      <span class="shrink-0">⚡ Express-Umzug innerhalb 24h</span>
     </div>
   </div>
 </div>
 
 <!-- Main Header -->
 <header class="sticky top-0 z-50 transition-all duration-500
-  {% if is_home %} bg-transparent border-none shadow-none {% else %} bg-background/90 backdrop-blur-lg border-b border-white/5 shadow-large {% endif %}">
+  {% if is_home %} bg-transparent border-none shadow-none {% else %} bg-slate-900/90 backdrop-blur-lg border-b border-slate-800 shadow-xl {% endif %}">
   
   <div class="container h-16 sm:h-20 flex items-center justify-between">
 
     <!-- Logo Section -->
-    <a href="{{ '/' | relative_url }}" class="flex items-center gap-3 rounded-lg focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background outline-none group">
+    <a href="{{ '/' | relative_url }}" class="flex items-center gap-3 rounded-lg focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 outline-none group">
       <span class="sr-only">{{ site.brand_name }}</span>
       <img
         src="{{ site.logo | default: '/logo.svg' | relative_url }}"
@@ -58,22 +58,22 @@
       
       <!-- Services dropdown -->
       <div class="group relative">
-        <button class="flex items-center gap-1.5 px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-colors" type="button">
+        <button class="flex items-center gap-1.5 px-4 py-2 rounded-lg text-slate-100 hover:text-amber-400 hover:bg-white/10 transition-colors cursor-pointer" type="button">
           Leistungen
-          <svg class="w-4 h-4 opacity-40 group-hover:rotate-180 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+          <svg class="w-4 h-4 text-slate-300 group-hover:text-amber-400 group-hover:rotate-180 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
         </button>
         
         <!-- Dropdown Panel: Glass effect -->
-        <div class="invisible absolute left-1/2 z-30 mt-2 w-[520px] -translate-x-1/2 rounded-xl bg-surface-elevated border border-border p-6 text-text-soft opacity-0 shadow-xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
+        <div class="invisible absolute left-1/2 z-30 mt-2 w-[520px] -translate-x-1/2 rounded-xl bg-slate-900 border border-slate-700 p-6 text-slate-200 opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
           <div class="grid grid-cols-2 gap-8">
             {% for group in site.data.navigation.services %}
             <div>
-              <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary mb-4">{{ group.label }}</p>
+              <p class="text-[10px] font-black uppercase tracking-[0.2em] text-amber-400 mb-4">{{ group.label }}</p>
               <ul class="space-y-3">
                 {% for item in group.items %}
                 <li>
-                  <a class="hover:text-white flex items-center gap-2 text-[13px] transition-colors text-text-muted hover:translate-x-1 duration-200" href="{{ item.url | relative_url }}">
-                    <span class="w-1 h-1 rounded-full bg-primary/40"></span>
+                  <a class="hover:text-amber-400 flex items-center gap-2 text-[13px] transition-colors text-slate-300 hover:translate-x-1 duration-200" href="{{ item.url | relative_url }}">
+                    <span class="w-1.5 h-1.5 rounded-full bg-amber-400/60"></span>
                     {{ item.title }}
                   </a>
                 </li>
@@ -82,11 +82,11 @@
             </div>
             {% endfor %}
           </div>
-          <div class="mt-8 flex items-center justify-between border-t border-border pt-5">
-            <a class="text-xs font-black text-primary hover:text-primary-soft transition-colors tracking-widest uppercase" href="{{ '/leistungen/' | relative_url }}">
+          <div class="mt-8 flex items-center justify-between border-t border-slate-800 pt-5">
+            <a class="text-xs font-black text-amber-400 hover:text-amber-300 transition-colors tracking-widest uppercase" href="{{ '/leistungen/' | relative_url }}">
               Alle Leistungen &rarr;
             </a>
-            <a class="text-xs font-bold text-text-muted hover:text-white transition-colors" href="{{ '/preise/' | relative_url }}">
+            <a class="text-xs font-bold text-slate-400 hover:text-white transition-colors" href="{{ '/preise/' | relative_url }}">
               Tarife ansehen
             </a>
           </div>
@@ -95,16 +95,16 @@
 
       <!-- Standorte dropdown -->
       <div class="group relative">
-        <button class="flex items-center gap-1.5 px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-colors" type="button">
+        <button class="flex items-center gap-1.5 px-4 py-2 rounded-lg text-slate-100 hover:text-amber-400 hover:bg-white/10 transition-colors cursor-pointer" type="button">
           Bundesländer
-          <svg class="w-4 h-4 opacity-40 group-hover:rotate-180 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+          <svg class="w-4 h-4 text-slate-300 group-hover:text-amber-400 group-hover:rotate-180 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
         </button>
-        <div class="invisible absolute left-1/2 z-30 mt-2 w-64 -translate-x-1/2 rounded-xl bg-surface-elevated border border-border p-5 opacity-0 shadow-xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
-          <p class="text-[10px] font-black uppercase tracking-[0.2em] text-primary mb-4">Einsatzgebiete</p>
+        <div class="invisible absolute left-1/2 z-30 mt-2 w-64 -translate-x-1/2 rounded-xl bg-slate-900 border border-slate-700 p-5 opacity-0 shadow-2xl transition-all duration-300 group-hover:visible group-hover:opacity-100 group-hover:translate-y-1">
+          <p class="text-[10px] font-black uppercase tracking-[0.2em] text-amber-400 mb-4">Einsatzgebiete</p>
           <ul class="space-y-2">
             {% for state in site.data.navigation.districts %}
             <li>
-              <a class="hover:text-white block py-1.5 text-sm text-text-muted transition-colors hover:translate-x-1 duration-200" href="{{ state.url | relative_url }}">{{ state.title }}</a>
+              <a class="hover:text-amber-400 block py-1.5 text-sm text-slate-300 transition-colors hover:translate-x-1 duration-200" href="{{ state.url | relative_url }}">{{ state.title }}</a>
             </li>
             {% endfor %}
           </ul>
@@ -112,18 +112,18 @@
       </div>
 
       {% for link in site.data.navigation.links %}
-      <a class="px-4 py-2 rounded-DEFAULT text-text-soft hover:text-primary hover:bg-white/5 transition-colors" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+      <a class="px-4 py-2 rounded-lg text-slate-100 hover:text-amber-400 hover:bg-white/10 transition-colors" href="{{ link.url | relative_url }}">{{ link.label }}</a>
       {% endfor %}
 
-      <!-- Main Button CTA -->
-      <a class="btn btn-primary ml-4 px-7 shadow-glow hover:scale-105 active:scale-95" href="{{ site.data.navigation.cta.url | relative_url }}">
+      <!-- Main Button CTA (Siyah Metin & Sarı Arka Plan) -->
+      <a class="ml-4 px-6 py-2.5 rounded-xl font-black text-sm bg-amber-400 text-slate-950 hover:bg-amber-300 hover:scale-105 active:scale-95 transition-all shadow-lg cursor-pointer" href="{{ site.data.navigation.cta.url | relative_url }}">
         {{ site.data.navigation.cta.label }}
       </a>
     </nav>
 
     <!-- Mobile Menu Button -->
     <div class="flex items-center lg:hidden">
-      <button id="mobile-menu-open" class="inline-flex h-11 w-11 items-center justify-center rounded-lg text-white bg-white/5 border border-white/10 hover:bg-white/10 active:scale-95 transition-all outline-none" onclick="mobileMenuToggle()">
+      <button id="mobile-menu-open" class="inline-flex h-11 w-11 items-center justify-center rounded-lg text-white bg-white/10 border border-white/20 hover:bg-white/20 active:scale-95 transition-all outline-none" onclick="mobileMenuToggle()">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
       </button>
     </div>
