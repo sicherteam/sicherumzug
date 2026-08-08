@@ -49,7 +49,7 @@
     <!-- Preload Logic for Hero Images (LCP Optimization) -->
     {% assign hero_preload = page.hero_preload | default: page.hero_image %}
     {% if page.layout == 'home' or page.layout == 'service' or page.layout == 'state' %}
-      {% include home-hero-preloads.html %}
+      {% include head-home-hero-preload.html %}
     {% elsif hero_preload %}
       <link rel="preload" href="{{ hero_preload | relative_url }}" as="image" fetchpriority="high"/>
     {% endif %}
