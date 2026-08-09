@@ -33,3 +33,7 @@
 ## 2026-08-05 - Live Austrian Region Detection for Postcode Validation
 **Learning:** Providing real-time local region confirmation when typing a postcode in a localized service area drastically increases user trust and confidence. Coupling this with the existing dynamic error system and updating `aria-describedby` dynamically ensures high screen-reader accessibility and zero cognitive friction.
 **Action:** Always map national postcode prefixes to regional locations to provide immediate positive visual and auditory feedback on location coverage during typing.
+
+## 2026-08-09 - Form success feedback and programmatic focus redirection
+**Learning:** When using AJAX-based forms on static pages, hiding the form upon successful submission must use standard utility classes (like Tailwind's `hidden`) rather than non-existent classes (like `none`) to avoid rendering overlapping or dual states. Additionally, programmatically redirecting the page focus to the success message element using `tabindex="-1"` and `.focus()` is crucial to guide keyboard and screen reader users, preventing them from being left on a hidden DOM element.
+**Action:** Always ensure target display utility classes match the design framework (e.g. `hidden` for Tailwind) and programmatically focus the confirmation/success message container to provide immediate context for assistive technologies.

@@ -441,7 +441,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         if (res.ok && data.success) {
 
   // Formular ausblenden
-  quoteForm.classList.add('none');
+  quoteForm.classList.add('hidden');
 
 if (responseDiv) {
   responseDiv.className = 'mt-8 rounded-3xl bg-green-50 border-2 border-green-200 p-10 text-center shadow-lg animate-fade-in';
@@ -449,7 +449,7 @@ if (responseDiv) {
   responseDiv.innerHTML = `
     <div class="flex justify-center">
       <div class="flex h-24 w-24 items-center justify-center rounded-full bg-green-100 shadow-inner">
-        {% include svg/check_circle.svg class="w-[18px] h-[18px] shrink-0 text-green-600 fill-current mx-auto mb-4" %}
+        {% include svg/check_circle.svg class="w-12 h-12 shrink-0 text-green-600 fill-current" %}
       </div>
     </div>
 
@@ -471,6 +471,8 @@ if (responseDiv) {
       Wir kontaktieren Sie persönlich
     </div>
   `;
+  responseDiv.setAttribute('tabindex', '-1');
+  responseDiv.focus();
 }
 
           
