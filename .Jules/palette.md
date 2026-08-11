@@ -1,3 +1,7 @@
+## 2026-08-11 - Custom focus-visible rings with CSS :focus-within for CSS-only Megamenus
+**Learning:** When using CSS-only megamenus with `focus-within`, providing custom focus-visible ring styles on all trigger buttons, links, and main CTAs ensures that keyboard navigation paths remain entirely clear and aesthetically pleasing. Modifying paddings/margins dynamically (e.g. `py-2 my-2 px-2 -mx-2`) preserves the target layout dimensions and keeps adjacent alignment pristine under focus.
+**Action:** Always complement `:focus-within` megamenu structures with robust, brand-compliant focus-visible ring offsets and ensure all major header and conversion elements receive unified, accessible highlight rings.
+
 ## 2026-02-12 - WAI-ARIA and Visual Cues on FAQ Accordions
 **Learning:** Accordion components must be fully keyboard navigable and announce their state correctly to screen readers using standard WAI-ARIA roles and attributes like `aria-expanded` and `aria-controls` properties. Providing visual feedback (such as rotating chevrons with smooth CSS transitions) bridges accessibility and delightful interaction.
 **Action:** Always ensure accordion headers are `<button>` elements with `aria-expanded` and `aria-controls` properties, and link them to the panel which has `role="region"`. Ensure chevrons have explicit CSS transitions (`transition-transform duration-200`) and toggle them with class names like `rotate-180`.
