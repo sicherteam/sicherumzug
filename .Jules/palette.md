@@ -37,3 +37,7 @@
 ## 2026-08-10 - Success Message Focus Redirects and Visible Scale Enhancements
 **Learning:** When asynchronously submitting form contents on static single-page layouts, hiding the active interactive inputs using standard Tailwind CSS classes like `hidden` (rather than non-standard keywords) prevents visual layout jumps. Furthermore, programmatically shifting focus to the success message element using `tabindex="-1"` and `.focus()` immediately informs assistive screen readers of the terminal state. Centering and scaling visual feedback SVGs (like checkmarks) to robust sizes like `w-12 h-12` significantly boosts user delight and cognitive comprehension of completed states.
 **Action:** Ensure success response containers have `tabindex="-1"`, call `.focus()` immediately upon generation, and scale checking assets dynamically to prominent grid/flex proportion dimensions.
+
+## 2026-08-14 - Skip to Main Content link for Keyboard Accessibility
+**Learning:** Bypassing repetitive navigation headers via a keyboard-accessible "Skip to content" link (e.g. 'Zum Hauptinhalt springen' targeting `#main`) is essential for a smooth navigation experience for screen reader and keyboard-only users. Applying `sr-only` by default and `focus:not-sr-only` transitions on focus ensures high accessibility and clean visuals.
+**Action:** Always provide a high-contrast skip-to-content anchor tag at the very top of layout pages to let power and assistive users easily jump directly to `<main id="main">` elements.
