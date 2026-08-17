@@ -74,6 +74,39 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     yearTarget.textContent = new Date().getFullYear();
   }
 
+  // Copy to clipboard buttons
+  var copyButtons = document.querySelectorAll('[data-copy-text]');
+  var feedbackEl = document.getElementById('footer-copy-feedback');
+  Array.prototype.forEach.call(copyButtons, function(btn) {
+    btn.addEventListener('click', function() {
+      var textToCopy = btn.getAttribute('data-copy-text');
+      var label = btn.getAttribute('data-copy-label') || 'Text';
+      if (!textToCopy) return;
+
+      var doFeedback = function() {
+        var origHTML = btn.innerHTML;
+        btn.innerHTML = `{% include svg/check_circle.svg class="w-3.5 h-3.5 shrink-0 text-emerald-400 fill-current" %}`;
+        if (feedbackEl) {
+          feedbackEl.textContent = label + ' in die Zwischenablage kopiert!';
+        }
+        setTimeout(function() {
+          btn.innerHTML = origHTML;
+          if (feedbackEl) {
+            feedbackEl.textContent = '';
+          }
+        }, 2000);
+      };
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(textToCopy).then(doFeedback).catch(function() {
+          doFeedback();
+        });
+      } else {
+        doFeedback();
+      }
+    });
+  });
+
   Array.prototype.forEach.call(faqButtons, function register(btn) {
     btn.addEventListener('click', function handleFaqToggle() {
       var answerId = btn.getAttribute('data-faq-toggle');
