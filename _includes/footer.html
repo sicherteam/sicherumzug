@@ -18,8 +18,21 @@
         <p class="text-sm text-white/70 leading-relaxed">Staatlich konzessionierter Fachbetrieb für Umzug, Räumung und Entrümpelung in ganz Österreich. Fixpreis-Garantie, Wertanrechnung &amp; All-Risk-Transportversicherung.</p>
         <address class="space-y-2 text-sm text-white/80 not-italic">
           <p class="flex items-center gap-2">{% include svg/location_on.svg class="w-[18px] h-[18px] shrink-0 text-red-400 fill-current" %}{{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}</p>
-          <p class="flex items-center gap-2">{% include svg/call.svg class="w-[18px] h-[18px] shrink-0 text-red-400 fill-current" %}Tel: <a class="hover:text-red-400 font-bold" href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a></p>
-          <p class="flex items-center gap-2">{% include svg/mail.svg class="w-[18px] h-[18px] shrink-0 text-red-400 fill-current" %}Email: <a class="hover:text-red-400 font-bold" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+          <p class="flex items-center gap-2">
+            {% include svg/call.svg class="w-[18px] h-[18px] shrink-0 text-red-400 fill-current" %}Tel:
+            <a class="hover:text-red-400 font-bold" href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a>
+            <button type="button" data-copy-text="{{ site.phone }}" data-copy-label="Telefonnummer" class="ml-1 p-1 text-white/60 hover:text-red-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 rounded-md transition-colors" aria-label="Telefonnummer in Zwischenablage kopieren" title="Telefonnummer kopieren">
+              {% include svg/description.svg class="w-3.5 h-3.5 shrink-0 fill-current" %}
+            </button>
+          </p>
+          <p class="flex items-center gap-2">
+            {% include svg/mail.svg class="w-[18px] h-[18px] shrink-0 text-red-400 fill-current" %}Email:
+            <a class="hover:text-red-400 font-bold" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            <button type="button" data-copy-text="{{ site.email }}" data-copy-label="E-Mail-Adresse" class="ml-1 p-1 text-white/60 hover:text-red-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 rounded-md transition-colors" aria-label="E-Mail-Adresse in Zwischenablage kopieren" title="E-Mail kopieren">
+              {% include svg/description.svg class="w-3.5 h-3.5 shrink-0 fill-current" %}
+            </button>
+          </p>
+          <span id="footer-copy-feedback" class="sr-only" aria-live="polite"></span>
         </address>
       </div>
       <div>
