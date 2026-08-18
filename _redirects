@@ -1,3 +1,7 @@
+# Canonical Hostname Redirection
+http://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
+https://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
+
 # Legacy blog posts and guides with new slugs
 /hallo-welt/ / 301
 /hallo-welt / 301
@@ -235,10 +239,7 @@
 /entruempelung-gemeindebau-wiener-wohnen /ratgeber/entruempelung-gemeindebau-wiener-wohnen/ 301
 
 # Legacy Service & WP Redirects
-/service/kuechenmontage/ /leistungen/moebelmontage/ 301
 /service/kuechenmontage /leistungen/moebelmontage/ 301
-/gallery-addon/ / 301
-/service-category/business/ /leistungen/firmenumzug-wien/ 301
 /service-category/business /leistungen/firmenumzug-wien/ 301
 /online-termin/ /angebot/ 301
 /online-termin /angebot/ 301
@@ -254,14 +255,12 @@
 /umzugsangebote-einholen /angebot/ 301
 /service/auslandsumzug/ /ratgeber/internationaler-umzug-oesterreich-profi/ 301
 /service/auslandsumzug /ratgeber/internationaler-umzug-oesterreich-profi/ 301
-/uber-uns/ /ueber-uns/ 301
 /uber-uns /ueber-uns/ 301
 
 # Legacy WordPress Assets
 /wp-includes/js/wp-emoji-release.min.js* 410
 
 # 404 Resolution for GSC URLs
-/service/verpackungsmaterial/ /leistungen/verpackungsservice/ 301
 /service/verpackungsmaterial /leistungen/verpackungsservice/ 301
 /ratgeber/2026-05-24-kueche-abbauen-und-umziehen/ /ratgeber/kueche-abbauen-umziehen/ 301
 /ratgeber/2026-05-24-kueche-abbauen-und-umziehen /ratgeber/kueche-abbauen-umziehen/ 301
@@ -318,26 +317,23 @@
 
 
 # SEO Recovery - 404s
-/gratis-angebot/ https://sicher-umzug.at/angebot/ 301
-/dienstleistungen/wohnungsaufloesung/ https://sicher-umzug.at/leistungen/wohnungsaufloesung/ 301
-/leistungen/umzug-ueberblick/ https://sicher-umzug.at/umzugsservice/ 301
-/ratgeber/auslandsumzug-planen-tipps/ https://sicher-umzug.at/ratgeber/internationaler-umzug-oesterreich-profi/ 301
-/uber-uns/ https://sicher-umzug.at/ueber-uns/ 301
-/service-category/business/ https://sicher-umzug.at/leistungen/firmenumzug-wien/ 301
-/leistungen/haushaltsaufloesung-1220-wien/ https://sicher-umzug.at/leistungen/haushaltsaufloesung/ 301
-/dienstleistungen/raeumung/ https://sicher-umzug.at/leistungen/raeumung/ 301
-/service/kuechenmontage/ https://sicher-umzug.at/leistungen/moebelmontage/ 301
-/dienstleistungen/umzug-wien/ https://sicher-umzug.at/leistungen/umzug-wien/ 301
-/service/verpackungsmaterial/ https://sicher-umzug.at/leistungen/verpackungsservice/ 301
-/leistungen/wohnungsraeumung/ https://sicher-umzug.at/leistungen/wohnungsaufloesung/ 301
-/leistungen/entruempelungsdienst/ https://sicher-umzug.at/leistungen/entruempelung/ 301
-/ratgeber/2026-08-23-moebelmontage-abbau-tipps/ https://sicher-umzug.at/ratgeber/moebelmontage-abbau-tipps/ 301
-/ratgeber/2026-08-23-moebelmontage-abbau-tipps https://sicher-umzug.at/ratgeber/moebelmontage-abbau-tipps/ 301
+/gratis-angebot/ /angebot/ 301
+/dienstleistungen/wohnungsaufloesung/ /leistungen/wohnungsaufloesung/ 301
+/leistungen/umzug-ueberblick/ /umzugsservice/ 301
+/ratgeber/auslandsumzug-planen-tipps/ /ratgeber/internationaler-umzug-oesterreich-profi/ 301
+/uber-uns/ /ueber-uns/ 301
+/service-category/business/ /leistungen/firmenumzug-wien/ 301
+/leistungen/haushaltsaufloesung-1220-wien/ /leistungen/haushaltsaufloesung/ 301
+/dienstleistungen/raeumung/ /leistungen/raeumung/ 301
+/service/kuechenmontage/ /leistungen/moebelmontage/ 301
+/dienstleistungen/umzug-wien/ /leistungen/umzug-wien/ 301
+/service/verpackungsmaterial/ /leistungen/verpackungsservice/ 301
+/leistungen/wohnungsraeumung/ /leistungen/wohnungsaufloesung/ 301
+/leistungen/entruempelungsdienst/ /leistungen/entruempelung/ 301
+/ratgeber/2026-08-23-moebelmontage-abbau-tipps/ /ratgeber/moebelmontage-abbau-tipps/ 301
+/ratgeber/2026-08-23-moebelmontage-abbau-tipps /ratgeber/moebelmontage-abbau-tipps/ 301
 /gallery-addon/ / 301
 
-# Canonical Hostname Redirection
-http://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
-https://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
 /ratgeber/ultimative-umzugs-checkliste/ /ratgeber/umzug-oesterreich-profi-guide/ 301
 /ratgeber/ultimative-umzugs-checkliste /ratgeber/umzug-oesterreich-profi-guide/ 301
 
@@ -349,3 +345,5 @@ https://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
 /ratgeber/wertausgleich-raeumung-wien /ratgeber/wertanrechnung-raeumung-wien/ 301
 /ratgeber/Wertanrechnung-raeumung-wien/ /ratgeber/wertanrechnung-raeumung-wien/ 301
 /ratgeber/Wertanrechnung-raeumung-wien /ratgeber/wertanrechnung-raeumung-wien/ 301
+/ratgeber/2026-08-08-behoerdenwege-ummelden-oesterreich/ /ratgeber/behoerdenwege-nach-umzug-oesterreich/ 301
+/ratgeber/2026-08-08-behoerdenwege-ummelden-oesterreich /ratgeber/behoerdenwege-nach-umzug-oesterreich/ 301
