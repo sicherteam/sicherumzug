@@ -1,19 +1,21 @@
 {% assign toc = '' %}
 {% assign headings = include.html | split: '<h2' %}
 {% if headings.size > 1 %}
-  <ul class="toc space-y-2">
-  {% for heading in headings %}
-    {% if forloop.first == false %}
-      {% assign id_part = heading | split: 'id="' | last %}
-      {% assign id = id_part | split: '"' | first %}
+  <nav aria-label="Inhaltsverzeichnis">
+    <ul class="toc space-y-2">
+    {% for heading in headings %}
+      {% if forloop.first == false %}
+        {% assign id_part = heading | split: 'id="' | last %}
+        {% assign id = id_part | split: '"' | first %}
 
-      {% assign content_after_bracket = heading | split: '>' | shift | join: '>' %}
-      {% assign title = content_after_bracket | split: '</h2' | first | strip_html | strip %}
+        {% assign content_after_bracket = heading | split: '>' | shift | join: '>' %}
+        {% assign title = content_after_bracket | split: '</h2' | first | strip_html | strip %}
 
-      {% if id and title != empty %}
-        <li class="toc-entry"><a href="#{{ id }}" class="hover:text-primary-accent transition-colors">{{ title }}</a></li>
+        {% if id and title != empty %}
+          <li class="toc-entry"><a href="#{{ id }}" class="hover:text-primary-accent transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 rounded-sm block py-0.5">{{ title }}</a></li>
+        {% endif %}
       {% endif %}
-    {% endif %}
-  {% endfor %}
-  </ul>
+    {% endfor %}
+    </ul>
+  </nav>
 {% endif %}
