@@ -74,6 +74,20 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     yearTarget.textContent = new Date().getFullYear();
   }
 
+  // Scroll to top button handler with focus management
+  var scrollToTopBtn = document.querySelector('[data-scroll-to-top]');
+  if (scrollToTopBtn) {
+    scrollToTopBtn.addEventListener('click', function handleScrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      var skipLink = document.querySelector('a[href="#main"]');
+      if (skipLink) {
+        skipLink.focus({ preventScroll: true });
+      } else {
+        document.body.focus({ preventScroll: true });
+      }
+    });
+  }
+
   Array.prototype.forEach.call(faqButtons, function register(btn) {
     btn.addEventListener('click', function handleFaqToggle() {
       var answerId = btn.getAttribute('data-faq-toggle');
