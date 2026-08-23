@@ -255,13 +255,19 @@ https://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
 /umzugsangebote-einholen /angebot/ 301
 /service/auslandsumzug/ /ratgeber/internationaler-umzug-oesterreich-profi/ 301
 /service/auslandsumzug /ratgeber/internationaler-umzug-oesterreich-profi/ 301
+/service /leistungen/ 301
+/service/ /leistungen/ 301
+/service/* /leistungen/ 301
 /uber-uns /ueber-uns/ 301
 
 # Legacy WordPress Assets
 /wp-includes/js/wp-emoji-release.min.js* 410
 
 # 404 Resolution for GSC URLs
+/docs/* / 301
 /service/verpackungsmaterial /leistungen/verpackungsservice/ 301
+/ratgeber/2026-08-18-messie-raeumung-wien-diskret/ /ratgeber/messie-wohnung-aufloesen/ 301
+/ratgeber/2026-08-18-messie-raeumung-wien-diskret /ratgeber/messie-wohnung-aufloesen/ 301
 /ratgeber/2026-05-24-kueche-abbauen-und-umziehen/ /ratgeber/kueche-abbauen-umziehen/ 301
 /ratgeber/2026-05-24-kueche-abbauen-und-umziehen /ratgeber/kueche-abbauen-umziehen/ 301
 /ratgeber/2026-08-11-kueche-abbauen-umziehen/ /ratgeber/kueche-abbauen-umziehen/ 301
@@ -345,5 +351,9 @@ https://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
 /ratgeber/wertausgleich-raeumung-wien /ratgeber/wertanrechnung-raeumung-wien/ 301
 /ratgeber/Wertanrechnung-raeumung-wien/ /ratgeber/wertanrechnung-raeumung-wien/ 301
 /ratgeber/Wertanrechnung-raeumung-wien /ratgeber/wertanrechnung-raeumung-wien/ 301
+/ratgeber/altbauwohnung-raeumung-wien-logistik-wertanrechnung/ /ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/ 301
+/ratgeber/altbauwohnung-raeumung-wien-logistik-wertanrechnung /ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/ 301
+/ratgeber/altbauwohnung-raeumung-wien-logistik-wertausgleich/ /ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/ 301
+/ratgeber/altbauwohnung-raeumung-wien-logistik-wertausgleich /ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/ 301
 /ratgeber/2026-08-08-behoerdenwege-ummelden-oesterreich/ /ratgeber/behoerdenwege-nach-umzug-oesterreich/ 301
 /ratgeber/2026-08-08-behoerdenwege-ummelden-oesterreich /ratgeber/behoerdenwege-nach-umzug-oesterreich/ 301
