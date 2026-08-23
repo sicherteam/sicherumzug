@@ -86,8 +86,12 @@
         </div>
       </div>
     </div>
-    <div class="mt-16 border-t border-white/10 pt-8 text-center text-xs text-white/50 tracking-wider">
-      © <span id="current-year"></span> {{ site.social.name | default: site.brand_name }}. Alle Rechte vorbehalten.
+    <div class="mt-16 border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/50 tracking-wider">
+      <p>© <span id="current-year"></span> {{ site.social.name | default: site.brand_name }}. Alle Rechte vorbehalten.</p>
+      <button type="button" data-scroll-to-top class="inline-flex items-center gap-1.5 rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-xs text-white/70 hover:text-white hover:bg-white/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer" aria-label="Nach oben scrollen">
+        <span>Nach oben</span>
+        {% include svg/expand_less.svg class="w-4 h-4 shrink-0 fill-current" %}
+      </button>
     </div>
   </div>
 </footer>
