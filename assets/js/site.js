@@ -55,6 +55,27 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   mobileMenu = document.getElementById('mobile-menu');
   faqButtons = document.querySelectorAll('[data-faq-toggle]');
 
+  // Desktop mega menu ARIA accessibility synchronization
+  var desktopMegaGroups = document.querySelectorAll('header .group');
+  Array.prototype.forEach.call(desktopMegaGroups, function(group) {
+    var btn = group.querySelector('button[aria-expanded]');
+    if (!btn) return;
+
+    function updateAriaExpanded() {
+      var panel = group.querySelector('[data-mega-panel]');
+      if (!panel) return;
+      var isVisible = group.matches(':hover') || group.contains(document.activeElement);
+      btn.setAttribute('aria-expanded', isVisible ? 'true' : 'false');
+    }
+
+    group.addEventListener('mouseenter', updateAriaExpanded);
+    group.addEventListener('mouseleave', updateAriaExpanded);
+    group.addEventListener('focusin', updateAriaExpanded);
+    group.addEventListener('focusout', function() {
+      setTimeout(updateAriaExpanded, 10);
+    });
+  });
+
   // Close mobile menu or desktop megamenus on Escape key press
   document.addEventListener('keydown', function handleEscapeKey(e) {
     if (e.key === 'Escape' || e.key === 'Esc' || e.keyCode === 27) {
@@ -64,6 +85,11 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         var activeEl = document.activeElement;
         if (activeEl && activeEl.closest('[data-mega-panel], .group')) {
           activeEl.blur();
+          var parentGroup = activeEl.closest('.group');
+          if (parentGroup) {
+            var btn = parentGroup.querySelector('button[aria-expanded]');
+            if (btn) btn.setAttribute('aria-expanded', 'false');
+          }
         }
       }
     }

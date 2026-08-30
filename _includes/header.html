@@ -64,11 +64,11 @@
         
         <!-- Services dropdown -->
         <div class="group relative">
-          <button class="flex items-center gap-1 py-4 text-slate-200 hover:text-amber-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded-md px-2 transition-colors" type="button">
+          <button class="flex items-center gap-1 py-4 text-slate-200 hover:text-amber-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded-md px-2 transition-colors" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="desktop-mega-services">
             Leistungen
             {% include svg/expand_more.svg class="w-4 h-4 transition-transform group-hover:rotate-180 shrink-0 fill-current" %}
           </button>
-          <div class="invisible absolute left-1/2 z-30 mt-1 w-[520px] -translate-x-1/2 rounded-2xl bg-slate-900 border border-slate-800 p-6 text-slate-200 opacity-0 shadow-2xl transition-all duration-200 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100" data-mega-panel>
+          <div id="desktop-mega-services" class="invisible absolute left-1/2 z-30 mt-1 w-[520px] -translate-x-1/2 rounded-2xl bg-slate-900 border border-slate-800 p-6 text-slate-200 opacity-0 shadow-2xl transition-all duration-200 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100" data-mega-panel role="region" aria-label="Leistungen Menü">
             <div class="grid grid-cols-2 gap-6">
               {% for group in site.data.navigation.services %}
               <div>
@@ -96,11 +96,11 @@
 
         <!-- Standorte / Bundesländer dropdown -->
         <div class="group relative">
-          <button class="flex items-center gap-1 py-4 text-slate-200 hover:text-amber-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded-md px-2 transition-colors" type="button">
+          <button class="flex items-center gap-1 py-4 text-slate-200 hover:text-amber-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded-md px-2 transition-colors" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="desktop-mega-districts">
             Bundesländer
             {% include svg/expand_more.svg class="w-4 h-4 transition-transform group-hover:rotate-180 shrink-0 fill-current" %}
           </button>
-          <div class="invisible absolute left-1/2 z-30 mt-1 w-72 -translate-x-1/2 rounded-2xl bg-slate-900 border border-slate-800 p-4 text-slate-200 opacity-0 shadow-2xl transition-all duration-200 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100" data-mega-panel>
+          <div id="desktop-mega-districts" class="invisible absolute left-1/2 z-30 mt-1 w-72 -translate-x-1/2 rounded-2xl bg-slate-900 border border-slate-800 p-4 text-slate-200 opacity-0 shadow-2xl transition-all duration-200 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100" data-mega-panel role="region" aria-label="Bundesländer Menü">
             <p class="mb-3 text-xs font-bold uppercase tracking-wider text-amber-400">Unsere Standorte</p>
             <ul class="space-y-2 text-sm">
               {% for state in site.data.navigation.districts %}

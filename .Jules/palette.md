@@ -45,3 +45,7 @@
 ## 2026-08-25 - High-Contrast Focus Visible Rings on Dark Breadcrumbs
 **Learning:** Navigation breadcrumb links rendered on dark backdrops often lack visible focus states when tabbed through via keyboard. Applying explicit `focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900` styling ensures high contrast and consistent focus indicators across dark theme headers, while adding explicit `aria-label="Startseite"` on icon-accompanied home links clarifies target context for screen reader users.
 **Action:** Always pair dark backdrop navigation links with high-contrast `focus-visible` rings matching brand accents, and provide descriptive `aria-label` tags for home/root links.
+
+## 2026-08-30 - Dynamic ARIA States for CSS Hover & Focus-Within Megamenus
+**Learning:** Even when dropdown menus are visually revealed using pure CSS (`group-hover` and `group-focus-within`), assistive technologies require dynamic `aria-expanded="true/false"`, `aria-haspopup="true"`, and `aria-controls` bindings to correctly convey panel visibility during mouse and keyboard navigation.
+**Action:** Always couple CSS-driven dropdown menus with explicit `aria-controls` and dynamic `aria-expanded` event synchronization for hover, focus, and Escape key events.
