@@ -94,6 +94,18 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     yearTarget.textContent = new Date().getFullYear();
   }
 
+  // Scroll to top button handler
+  var scrollTopBtn = document.querySelector('[data-scroll-to-top]');
+  if (scrollTopBtn) {
+    scrollTopBtn.addEventListener('click', function handleScrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      var mainEl = document.getElementById('main');
+      if (mainEl) {
+        mainEl.focus({ preventScroll: true });
+      }
+    });
+  }
+
   // Copy to clipboard buttons handler
   var copyButtons = document.querySelectorAll('[data-copy-text]');
   Array.prototype.forEach.call(copyButtons, function(btn) {
@@ -176,7 +188,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
 
         var btn = document.createElement('button');
         btn.type = 'button';
-        btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-white shadow hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-2 transition-all duration-200 z-10';
+        btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-white shadow hover:bg-red-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 focus-visible:ring-offset-2 transition-all duration-200 z-10';
         btn.setAttribute('aria-label', 'Foto entfernen');
         btn.innerHTML = `{% include svg/close.svg class="w-4 h-4 shrink-0 !font-bold fill-current" %}`;
         btn.addEventListener('click', function() {
