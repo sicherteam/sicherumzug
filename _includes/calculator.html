@@ -12,9 +12,9 @@
     </div>
 
     <!-- Step Progress Indicator -->
-    <div class="flex items-center justify-between mb-8 max-w-md mx-auto px-2">
+    <div class="flex items-center justify-between mb-8 max-w-md mx-auto px-2" role="region" aria-label="Rechner Fortgang">
       <div class="flex flex-col items-center">
-        <div id="step-dot-1" class="w-9 h-9 rounded-full flex items-center justify-center font-bold text-sm bg-orange-500 text-white shadow-lg transition-all duration-300">1</div>
+        <div id="step-dot-1" class="w-9 h-9 rounded-full flex items-center justify-center font-bold text-sm bg-orange-500 text-white shadow-lg transition-all duration-300" aria-current="step">1</div>
         <span class="text-[10px] md:text-xs font-medium text-orange-400 mt-1">Service</span>
       </div>
       <div id="step-line-1" class="flex-1 h-0.5 bg-slate-800 mx-2 transition-all duration-300"></div>
@@ -35,10 +35,10 @@
     </div>
 
     <!-- Step 1: Service Type -->
-    <div id="calc-step-1" class="calc-step space-y-4">
+    <div id="calc-step-1" class="calc-step space-y-4 focus:outline-none" tabindex="-1">
       <h3 class="text-lg font-bold text-slate-100 text-center mb-4">Welche Dienstleistung benötigen Sie?</h3>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-        <button type="button" onclick="selectService('umzug')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left transition-all duration-200 cursor-pointer">
+        <button type="button" onclick="selectService('umzug')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
           <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 mb-3 group-hover:scale-110 transition-transform">
             {% include svg/local_shipping.svg class="w-6 h-6 fill-current" %}
           </div>
@@ -46,7 +46,7 @@
           <p class="text-xs text-slate-400 mt-1">Möbeltransport, Packservice & De-/Montage.</p>
         </button>
 
-        <button type="button" onclick="selectService('entruempelung')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left transition-all duration-200 cursor-pointer">
+        <button type="button" onclick="selectService('entruempelung')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
           <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 mb-3 group-hover:scale-110 transition-transform">
             {% include svg/cleaning_services.svg class="w-6 h-6 fill-current" %}
           </div>
@@ -54,7 +54,7 @@
           <p class="text-xs text-slate-400 mt-1">Fachgerechte Entsorgung inkl. Wertanrechnung.</p>
         </button>
 
-        <button type="button" onclick="selectService('kombi')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left transition-all duration-200 cursor-pointer">
+        <button type="button" onclick="selectService('kombi')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
           <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 mb-3 group-hover:scale-110 transition-transform">
             {% include svg/recycling.svg class="w-6 h-6 fill-current" %}
           </div>
@@ -65,28 +65,28 @@
     </div>
 
     <!-- Step 2: Size -->
-    <div id="calc-step-2" class="calc-step hidden space-y-4">
+    <div id="calc-step-2" class="calc-step hidden space-y-4 focus:outline-none" tabindex="-1">
       <h3 class="text-lg font-bold text-slate-100 text-center mb-4">Wie groß ist das Objekt?</h3>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
-        <button type="button" onclick="selectSize('small', '1 Zimmer / bis 40 m²', 320)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('small', '1 Zimmer / bis 40 m²', 320)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
           <span class="block text-xl mb-1">🏢</span>
           <span class="block font-bold text-sm text-white">Garconniere</span>
           <span class="block text-[11px] text-slate-400">bis 40 m²</span>
         </button>
 
-        <button type="button" onclick="selectSize('medium', '2-3 Zimmer / 40-80 m²', 520)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('medium', '2-3 Zimmer / 40-80 m²', 520)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
           <span class="block text-xl mb-1">🏠</span>
           <span class="block font-bold text-sm text-white">2 - 3 Zimmer</span>
           <span class="block text-[11px] text-slate-400">40 - 80 m²</span>
         </button>
 
-        <button type="button" onclick="selectSize('large', '4+ Zimmer / ab 80 m²', 850)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('large', '4+ Zimmer / ab 80 m²', 850)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
           <span class="block text-xl mb-1">🏡</span>
           <span class="block font-bold text-sm text-white">4+ Zimmer / Haus</span>
           <span class="block text-[11px] text-slate-400">ab 80 m²</span>
         </button>
 
-        <button type="button" onclick="selectSize('special', 'Keller / Gewerbe', 280)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('special', 'Keller / Gewerbe', 280)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
           <span class="block text-xl mb-1">📦</span>
           <span class="block font-bold text-sm text-white">Keller / Büro</span>
           <span class="block text-[11px] text-slate-400">Teilbereich</span>
@@ -94,12 +94,12 @@
       </div>
 
       <div class="flex justify-between pt-4">
-        <button type="button" onclick="goToStep(1)" class="px-4 py-2 text-xs font-bold text-slate-400 hover:text-white transition">← Zurück</button>
+        <button type="button" onclick="goToStep(1)" class="px-4 py-2 text-xs font-bold text-slate-400 hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded transition">← Zurück</button>
       </div>
     </div>
 
     <!-- Step 3: Floor & Extras -->
-    <div id="calc-step-3" class="calc-step hidden space-y-6">
+    <div id="calc-step-3" class="calc-step hidden space-y-6 focus:outline-none" tabindex="-1">
       <div>
         <h3 class="text-base font-bold text-slate-100 mb-3">Stockwerk & Aufzug</h3>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
@@ -144,15 +144,15 @@
       </div>
 
       <div class="flex justify-between pt-4">
-        <button type="button" onclick="goToStep(2)" class="px-4 py-2 text-xs font-bold text-slate-400 hover:text-white transition">← Zurück</button>
-        <button type="button" onclick="calculateResult()" class="px-6 py-3 rounded-full bg-orange-500 hover:bg-orange-600 text-white font-bold text-sm shadow-lg transition">
+        <button type="button" onclick="goToStep(2)" class="px-4 py-2 text-xs font-bold text-slate-400 hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded transition">← Zurück</button>
+        <button type="button" onclick="calculateResult()" class="px-6 py-3 rounded-full bg-orange-500 hover:bg-orange-600 text-white font-bold text-sm shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition">
           Preis berechnen →
         </button>
       </div>
     </div>
 
     <!-- Step 4: Result & CTA -->
-    <div id="calc-step-4" class="calc-step hidden text-center space-y-6">
+    <div id="calc-step-4" class="calc-step hidden text-center space-y-6 focus:outline-none" tabindex="-1">
       <div class="p-6 rounded-3xl bg-slate-950 border border-orange-500/30">
         <span class="text-xs uppercase tracking-widest text-slate-400 font-bold">Geschätzter Richtwert (Fixpreis-Garantie)</span>
         <div id="price-output" class="text-4xl md:text-5xl font-extrabold text-orange-400 mt-2 mb-1">
@@ -165,19 +165,19 @@
         <p class="text-xs text-slate-300">Ergebnis per WhatsApp oder E-Mail für Ihr verbindliches Angebot senden:</p>
 
         <div class="flex flex-col sm:flex-row gap-3 justify-center">
-          <a id="whatsapp-calc-btn" href="#" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white px-6 py-3.5 text-sm font-bold shadow-lg transition">
+          <a id="whatsapp-calc-btn" href="#" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white px-6 py-3.5 text-sm font-bold shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition">
             {% include svg/chat.svg class="w-5 h-5 fill-current" %}
             Angebot via WhatsApp senden
           </a>
 
-          <a href="#contactForm" onclick="autofillQuoteForm()" class="inline-flex items-center justify-center gap-2 rounded-full border border-slate-700 bg-slate-800 hover:bg-slate-700 text-white px-6 py-3.5 text-sm font-bold transition">
+          <a href="#contactForm" onclick="autofillQuoteForm()" class="inline-flex items-center justify-center gap-2 rounded-full border border-slate-700 bg-slate-800 hover:bg-slate-700 text-white px-6 py-3.5 text-sm font-bold focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition">
             Formular vorausfüllen
           </a>
         </div>
       </div>
 
       <div class="pt-4 border-t border-slate-800">
-        <button type="button" onclick="resetCalc()" class="text-xs text-slate-400 hover:text-slate-200 underline">Neu berechnen</button>
+        <button type="button" onclick="resetCalc()" class="text-xs text-slate-400 hover:text-slate-200 underline focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 rounded px-1">Neu berechnen</button>
       </div>
     </div>
   </div>
@@ -197,7 +197,11 @@
 
   function goToStep(stepNum) {
     document.querySelectorAll('.calc-step').forEach(el => el.classList.add('hidden'));
-    document.getElementById(`calc-step-${stepNum}`).classList.remove('hidden');
+    const targetStep = document.getElementById(`calc-step-${stepNum}`);
+    if (targetStep) {
+      targetStep.classList.remove('hidden');
+      targetStep.focus();
+    }
 
     for (let i = 1; i <= 4; i++) {
       const dot = document.getElementById(`step-dot-${i}`);
@@ -205,10 +209,13 @@
       if (i <= stepNum) {
         dot.classList.remove('bg-slate-800', 'text-slate-400');
         dot.classList.add('bg-orange-500', 'text-white');
+        if (i === stepNum) dot.setAttribute('aria-current', 'step');
+        else dot.removeAttribute('aria-current');
         if (line) line.classList.add('bg-orange-500');
       } else {
         dot.classList.remove('bg-orange-500', 'text-white');
         dot.classList.add('bg-slate-800', 'text-slate-400');
+        dot.removeAttribute('aria-current');
         if (line) line.classList.remove('bg-orange-500');
       }
     }
