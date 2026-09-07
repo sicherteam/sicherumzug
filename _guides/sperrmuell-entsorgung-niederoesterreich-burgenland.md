@@ -30,7 +30,7 @@ faqs:
 | **Burgenland** | Burgenländischer Müllverband (BMV) & Altstoffzentren |
 | **Problemstoffe** | Farben, Lacke, Reifen, Bauschutt müssen getrennt werden |
 | **Kostenersparnis** | Wertanrechnung von Hausrat & Werkzeugen im Fixpreis |
-| **Entsorgungspartner** | [Sicher Team Entrümpelung & Hausräumung](/leistungen/entruempelung-niederoesterreich/) |
+| **Entsorgungspartner** | [Sicher Team Entrümpelung & Hausräumung](/bundesland/niederoesterreich/) |
 
 **Wie funktioniert die Sperrmüllentsorgung bei einem Umzug oder einer Hausräumung in Niederösterreich und dem Burgenland?** Während in Wien die MA 48 zentral zuständig ist, obliegt die Abfallwirtschaft in NÖ und dem Burgenland den jeweiligen regionalen Gemeindeverbänden und dem BMV. Bei größeren Mengen – etwa der Räumung eines Hauses, Kellers oder Gartens – lohnt sich die Beauftragung einer zertifizierten [Entrümpelungs- und Räumungsfirma](/leistungen/haushaltsaufloesung/), die Trennung, Transport und rechtssichere Deponieabgabe im Fixpreis übernimmt.
 
@@ -58,7 +58,7 @@ Mischmüll ist auf Deponien die teuerste Entsorgungsart. Deshalb sortieren Profi
 Ein Anwesen im Umland birgt oft beträchtliche Frachtmengen in Dachböden, Garagen und Nebengebäuden.
 
 1. **Kostenlose Vor-Ort-Besichtigung:** Wir besichtigen Ihr Haus in Niederösterreich oder dem Burgenland.
-2. **Sortierung & Wertanrechnung:** Verwertbares Inventar (z. B. Antiquitäten, gut erhaltene Gartenmöbel, Werkzeug) rechnet [Sicher Team transparent an](/leistungen/wertanrechnung-wien/).
+2. **Sortierung & Wertanrechnung:** Verwertbares Inventar (z. B. Antiquitäten, gut erhaltene Gartenmöbel, Werkzeug) rechnet [Sicher Team transparent an](/ratgeber/wertanrechnung-raeumung-wien/).
 3. **Mülltrennung vor Ort:** Das Team belädt die Transporter getrennt nach Fraktionen, um günstige Verwertungstarife zu nutzen.
 4. **Besenreine Übergabe:** Haus, Garage und Garten werden sauber gekehrt übergeben.
 

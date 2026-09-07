@@ -30,7 +30,7 @@ faqs:
 | **Versicherungsschutz**| Meist ausgeschlossen (Gefälligkeitsklausel) | Betriebshaftpflicht & Transportversicherung |
 | **Stiegenhausschäden**| Eigenes Risiko gegenüber Vermieter | Vollständig versichert durch Spedition |
 | **Beweispflicht** | Geschädigter muss Verschulden beweisen | Spedition haftet für Sorgfaltspflicht |
-| **Ansprechpartner** | Privatperson | [Sicher Team Kundenservice](/leistungen/uebersiedlung-wien/) |
+| **Ansprechpartner** | Privatperson | [Sicher Team Kundenservice](/leistungen/umzug-wien/) |
 
 **Wer haftet, wenn beim Umzug in Österreich Möbel oder Wände beschädigt werden?** Während private Bekannte bei einer unentgeltlichen Gefälligkeitshilfe gesetzlich stark privilegiert sind und bei leichter Fahrlässigkeit meist gar nicht haften, tragen gewerbliche Möbelspeditionen in Österreich eine gesetzliche Frachtführerhaftung nach dem Unternehmensgesetzbuch (UGB). Professionelle Anbieter sichern das Inventar zudem über umfassende Transportversicherungen ab.
 
@@ -52,7 +52,7 @@ Viele Österreicher glauben, dass in solchen Fällen die Privathaftpflichtversic
 
 ## Gewerbliche Speditionen: Gesetzlicher Schutz nach UGB
 
-Entscheiden Sie sich für eine professionelle [Übersiedlung mit einem Konzessionsbetrieb](/leistungen/uebersiedlung-wien/), greift der gesetzliche Schutzrahmen des Unternehmensgesetzbuches (UGB).
+Entscheiden Sie sich für eine professionelle [Übersiedlung mit einem Konzessionsbetrieb](/leistungen/umzug-wien/), greift der gesetzliche Schutzrahmen des Unternehmensgesetzbuches (UGB).
 
 ### Frachtführer-Haftpflichtversicherung
 
@@ -76,7 +76,7 @@ Sollte es trotz maximaler Vorsichtsmaßnahmen zu einem Transportschaden kommen, 
 3. **Fristen einhalten:**
    * **Offensichtliche Schäden:** Am Tag der Ablieferung dokumentieren und quittieren lassen.
    * **Verdeckte Schäden (in Kartons):** Innerhalb von **7 Tagen** nach dem Umzug schriftlich inklusive Fotodokumentation bei der Spedition einreichen.
-4. **Professionelles Einpacken nutzen:** Vermeiden Sie Haftungsausschlüsse wegen "unsachgemäßer Eigenverpackung", indem Sie den professionellen [Einpackservice und Verpackungsmaterial-Dienst](/leistungen/moebeltransport-wien/) nutzen.
+4. **Professionelles Einpacken nutzen:** Vermeiden Sie Haftungsausschlüsse wegen "unsachgemäßer Eigenverpackung", indem Sie den professionellen [Einpackservice und Verpackungsmaterial-Dienst](/leistungen/moebeltransport/) nutzen.
 
 ---
 
