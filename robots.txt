@@ -1,56 +1,8 @@
 ---
 permalink: /robots.txt
-llm_exclude: true
 layout: null
 ---
-# General Rules
 User-agent: *
 Allow: /
 
-# AI / LLM crawlers — explicitly allowed for citation & grounded answers.
-# (If Cloudflare bot/Content-Signal controls also apply at the edge, keep them
-# aligned with this Allow policy so Allow is not defeated by a blanket block.)
-User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: Omgilibot
-Allow: /
-
-# Block known abusive/low-value scrapers
-User-agent: MJ12bot
-Disallow: /
-
-User-agent: PetalBot
-Disallow: /
-
-User-agent: dotbot
-Disallow: /
-
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: SemrushBot
-Disallow: /
-
-Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
+Sitemap: https://sicher-umzug.at/sitemap.xml
