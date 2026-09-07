@@ -1,8 +1,6 @@
----
-permalink: /robots.txt
-layout: null
----
 User-agent: *
 Allow: /
+
+Content-Signal: search=yes,use=reference
 
 Sitemap: https://sicher-umzug.at/sitemap.xml
