@@ -76,4 +76,4 @@ Bevor ein Schrägaufzug eingesetzt werden kann, prüft die Spedition folgende Pu
 
 Der Einsatz eines Möbellifts macht schwere Kistentransporte zum Kinderspiel. Er schont das Gebäude, schützt Ihr Eigentum und spart wertvolle Umzugszeit.
 
-Benötigen Sie einen Umzugsaufzug inklusive geschultem Bediener und Behördenabwicklung für Ihre [Übersiedlung in Wien](/leistungen/uebersiedlung-wien/)? [Fordern Sie jetzt Ihr Fixpreis-Angebot an](/angebot/)!
+Benötigen Sie einen Umzugsaufzug inklusive geschultem Bediener und Behördenabwicklung für Ihre [Übersiedlung in Wien](/leistungen/umzug-wien/)? [Fordern Sie jetzt Ihr Fixpreis-Angebot an](/angebot/)!

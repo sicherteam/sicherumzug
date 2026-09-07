@@ -30,7 +30,7 @@ faqs:
 | **Anspruchsdauer** | 1 bis 2 Arbeitstage (gemäß Kollektivvertrag) |
 | **Bezahlung** | 100 % Fortzahlung des Entgelts (keine Urlaubsabbuchung) |
 | **Voraussetzung** | Fristgerechte Mitteilung & ggf. Nachweis (Meldezettel / Umzugsrechnung) |
-| **Zuständiger Partner** | [Sicher Team Umzugsservice](/leistungen/uebersiedlung-wien/) |
+| **Zuständiger Partner** | [Sicher Team Umzugsservice](/leistungen/umzug-wien/) |
 
 **Steht Beschäftigten bei einem Umzug in Österreich Sonderurlaub zu?** Ja, Arbeitnehmerinnen und Arbeitnehmer in Österreich haben bei einem Wohnungswechsel unter bestimmten Voraussetzungen Anspruch auf bezahlten Sonderurlaub. Gesetzlich stützt sich dieser Anspruch auf das Angestelltengesetz (§ 8 Abs. 3 AngG) sowie auf das Allgemeine Bürgerliche Gesetzbuch (§ 1154b ABGB) als Verhinderungsgrund aus wichtigen persönlichen Gründen. Die genaue Anzahl der freien Tage wird im jeweils gültigen Kollektivvertrag geregelt.
 
@@ -83,7 +83,7 @@ Zieht ein Mieter lediglich in eine andere Stiege oder Stockwerkswohnung desselbe
 
 Um den gewährten Sonderurlaub optimal zu nutzen, empfiehlt sich eine vorausschauende Planung:
 
-* **Halteverbotszone reservieren:** Nichts kostet am Umzugstag mehr Zeit als die Suche nach einem Parkplatz. Buchen Sie rechtzeitig eine behördliche [Halteverbotszone in Wien](/leistungen/haltestellen-halteverbot-wien/).
+* **Halteverbotszone reservieren:** Nichts kostet am Umzugstag mehr Zeit als die Suche nach einem Parkplatz. Buchen Sie rechtzeitig eine behördliche [Halteverbotszone in Wien](/ratgeber/halteverbotszone-umzug-oesterreich/).
 * **Entrümpelung integrieren:** Trennen Sie sich vor dem Transport von Altlasten. Mit einer professionellen [Wohnungsauflösung & Entrümpelung](/leistungen/entruempelung-wien/) übergeben Sie die alte Wohnung besenrein.
 * **Fixpreis-Garantie nutzen:** Vermeiden Sie finanzielle Überraschungen, indem Sie auf transparente Fixpreis-Angebote setzen.
 

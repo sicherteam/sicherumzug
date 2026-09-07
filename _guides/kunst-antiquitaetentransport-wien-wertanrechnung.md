@@ -30,9 +30,9 @@ faqs:
 | **Fahrzeugausstattung** | Luftgefederte Transporter mit Verzurrsystemen |
 | **Schätzung & Verwertung**| Kostenlose Vor-Ort-Expertise & Wertanrechnung |
 | **Versicherungsschutz** | All-Risk-Wertsachenversicherung nach Schätzwert |
-| **Spezial-Dienstleister**| [Sicher Team Wertanrechnung & Spezialtransporte](/leistungen/wertanrechnung-wien/) |
+| **Spezial-Dienstleister**| [Sicher Team Wertanrechnung & Spezialtransporte](/ratgeber/wertanrechnung-raeumung-wien/) |
 
-**Wie werden Kunstgegenstände und Antiquitäten in Wien sicher transportiert?** Der Transport von wertvollen Ölgemälden, Skulpturen, Porzellan und antiken Möbeln erfordert spezialisiertes Verpackungsmaterial, klimatisierte Transportbedingungen sowie geschultes Personal. Werden im Rahmen einer Wohnungsauflösung oder Verlassenschaft wertvolle Objekte identifiziert, bietet [Sicher Team die direkte Wertanrechnung](/leistungen/verlassenschaft-wien/) an: Der Wert der Antiquitäten wird sofort mit den Räumungskosten verrechnet.
+**Wie werden Kunstgegenstände und Antiquitäten in Wien sicher transportiert?** Der Transport von wertvollen Ölgemälden, Skulpturen, Porzellan und antiken Möbeln erfordert spezialisiertes Verpackungsmaterial, klimatisierte Transportbedingungen sowie geschultes Personal. Werden im Rahmen einer Wohnungsauflösung oder Verlassenschaft wertvolle Objekte identifiziert, bietet [Sicher Team die direkte Wertanrechnung](/leistungen/verlassenschaft/) an: Der Wert der Antiquitäten wird sofort mit den Räumungskosten verrechnet.
 
 ---
 

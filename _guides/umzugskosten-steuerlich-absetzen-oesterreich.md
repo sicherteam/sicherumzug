@@ -53,7 +53,7 @@ Wenn die berufliche Veranlassung vorliegt, können Sie folgende Posten als Werbu
 
 * **Transportkosten:** Rechnungen einer professionellen [Möbelspedition und Übersiedlungsfirma](/angebot/).
 * **Verpackungsmaterial:** Ausgaben für Umzugskartons, Kleiderboxen, Seidenpapier und Schutzfolien.
-* **Behördengebühren:** Kosten für die Genehmigung und Aufstellung von [Halteverbotszonen in Wien](/leistungen/haltestellen-halteverbot-wien/).
+* **Behördengebühren:** Kosten für die Genehmigung und Aufstellung von [Halteverbotszonen in Wien](/ratgeber/halteverbotszone-umzug-oesterreich/).
 * **Fachmännische Montage:** Aufwendungen für De- und Montage von Möbeln durch die Spedition.
 * **Maklergebühren:** Maklerprovisionen für die Beschaffung der neuen Mietwohnung am neuen Arbeitsort.
 * **Doppelte Mietzahlungen:** Überschneidende Mieten für einen kurzen Übergangszeitraum (maximal 1 bis 2 Monate), wenn eine überschneidungsfreie Kündigung nicht möglich war.

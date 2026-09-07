@@ -30,7 +30,7 @@ faqs:
 | **2. Transport ins Heim** | Schonender Transport & barrierefreie Montage vor Ort |
 | **3. Wertanrechnung & Räumung**| Gut erhaltene Altwaren schätzen; restliche Wohnung entrümpeln |
 | **4. Übergabe an Vermieter** | Besenreine Endreinigung & schlüsselfertige Übergabe |
-| **Spezial-Service** | [Sicher Team Seniorenumzug & Räumung](/leistungen/seniorenumzug-wien/) |
+| **Spezial-Service** | [Sicher Team Seniorenumzug & Räumung](/leistungen/seniorenumzug/) |
 
 **Was ist beim Umzug älterer Menschen ins betreute Wohnen in Österreich zu beachten?** Der Wechsel von einer jahrelang bewohnten Familienwohnung in eine Senioreneinrichtung oder eine Wohnung für Betreutes Wohnen ist eine große emotionale und organisatorische Umstellung. Neben dem sorgsamen Transport der verbleibenden Lieblingsmöbel bildet die fachgerechte [Wohnungsauflösung mit Wertanrechnung](/leistungen/haushaltsaufloesung/) das Herzstück einer gelungenen Seniorenübersiedlung.
 

@@ -32,7 +32,7 @@ permalink: /umzugskosten-rechner/
 
       <div class="p-6 rounded-2xl bg-gray-50 border border-gray-100">
         <h3 class="text-lg font-bold text-gray-900">3. Zusatzleistungen</h3>
-        <p class="mt-2 text-sm text-gray-600">Spezialservices wie professionelle De- und Remontage, Einpackservice oder das Einrichten von [Halteverbotszonen](/leistungen/haltestellen-halteverbot-wien/) erhöhen den Komfort.</p>
+        <p class="mt-2 text-sm text-gray-600">Spezialservices wie professionelle De- und Remontage, Einpackservice oder das Einrichten von [Halteverbotszonen](/ratgeber/halteverbotszone-umzug-oesterreich/) erhöhen den Komfort.</p>
       </div>
 
       <div class="p-6 rounded-2xl bg-gray-50 border border-gray-100">

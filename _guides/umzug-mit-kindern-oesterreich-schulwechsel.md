@@ -69,7 +69,7 @@ Damit der Umzug für Babys, Kleinkinder und Schulkinder stressfrei verläuft:
 
 1. **Kinderzimmer als Letztes einpacken, als Erstes aufbauen:** So bleibt der gewohnte Rückzugsort bis kurz vor der Abfahrt erhalten und steht in der neuen Wohnung sofort wieder zur Verfügung.
 2. **Eigenes Spielzeug-Karton-Projekt:** Lassen Sie die Kinder ihren eigenen Karton mit Buntstiften und Stickern gestalten. Dieser Karton wird nicht im Lkw verstaut, sondern fährt im Familienauto mit.
-3. **Sicherheit am Umzugstag:** Wenn schwere Möbel und [Umzugskartons von Packern](/leistungen/moebeltransport-wien/) getragen werden, sollten Kleinkinder aus Sicherheitsgründen bei Verwandten oder Freunden untergebracht sein.
+3. **Sicherheit am Umzugstag:** Wenn schwere Möbel und [Umzugskartons von Packern](/leistungen/moebeltransport/) getragen werden, sollten Kleinkinder aus Sicherheitsgründen bei Verwandten oder Freunden untergebracht sein.
 4. **Professionelle Entlastung:** Buchen Sie einen [Full-Service-Umzug mit Einpackservice](/angebot/), damit Sie sich voll und ganz auf Ihre Kinder konzentrieren können.
 
 ---
