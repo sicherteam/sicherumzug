@@ -103,15 +103,15 @@
       <div>
         <h3 class="text-base font-bold text-slate-100 mb-3">Stockwerk & Aufzug</h3>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
-          <label class="flex items-center p-3.5 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700">
+          <label class="flex items-center p-3.5 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700 focus-within:ring-2 focus-within:ring-orange-400 focus-within:ring-offset-2 focus-within:ring-offset-slate-900 focus-within:border-orange-500 transition-all">
             <input type="radio" name="floor_opt" value="0" checked onchange="updateFloor(0, 'Erdgeschoss / Lift vorhanden')" class="text-orange-500 focus:ring-orange-500">
             <span class="ml-2.5 text-xs text-slate-200">Erdgeschoss / Lift vorhanden</span>
           </label>
-          <label class="flex items-center p-3.5 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700">
+          <label class="flex items-center p-3.5 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700 focus-within:ring-2 focus-within:ring-orange-400 focus-within:ring-offset-2 focus-within:ring-offset-slate-900 focus-within:border-orange-500 transition-all">
             <input type="radio" name="floor_opt" value="60" onchange="updateFloor(60, '1.-2. Stock ohne Lift')" class="text-orange-500 focus:ring-orange-500">
             <span class="ml-2.5 text-xs text-slate-200">1. - 2. Stock ohne Lift (+€60)</span>
           </label>
-          <label class="flex items-center p-3.5 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700">
+          <label class="flex items-center p-3.5 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700 focus-within:ring-2 focus-within:ring-orange-400 focus-within:ring-offset-2 focus-within:ring-offset-slate-900 focus-within:border-orange-500 transition-all">
             <input type="radio" name="floor_opt" value="120" onchange="updateFloor(120, '3.+ Stock Altbau ohne Lift')" class="text-orange-500 focus:ring-orange-500">
             <span class="ml-2.5 text-xs text-slate-200">3.+ Stock Altbau ohne Lift (+€120)</span>
           </label>
@@ -121,22 +121,22 @@
       <div>
         <h3 class="text-base font-bold text-slate-100 mb-3">Zusatzleistungen (optional)</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
-          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700">
+          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700 focus-within:ring-2 focus-within:ring-orange-400 focus-within:ring-offset-2 focus-within:ring-offset-slate-900 focus-within:border-orange-500 transition-all">
             <input type="checkbox" id="extra_pack" value="80" onchange="toggleExtra('Verpackungsservice', 80)" class="rounded text-orange-500 focus:ring-orange-500">
             <span class="ml-2.5 text-xs text-slate-200">Einpackservice & Kartons (+€80)</span>
           </label>
 
-          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700">
+          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700 focus-within:ring-2 focus-within:ring-orange-400 focus-within:ring-offset-2 focus-within:ring-offset-slate-900 focus-within:border-orange-500 transition-all">
             <input type="checkbox" id="extra_montage" value="90" onchange="toggleExtra('Möbel De-/Montage', 90)" class="rounded text-orange-500 focus:ring-orange-500">
             <span class="ml-2.5 text-xs text-slate-200">Möbel De- & Remontage (+€90)</span>
           </label>
 
-          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700">
+          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700 focus-within:ring-2 focus-within:ring-orange-400 focus-within:ring-offset-2 focus-within:ring-offset-slate-900 focus-within:border-orange-500 transition-all">
             <input type="checkbox" id="extra_halteverbot" value="110" onchange="toggleExtra('Halteverbotszone Wien', 110)" class="rounded text-orange-500 focus:ring-orange-500">
             <span class="ml-2.5 text-xs text-slate-200">Halteverbotszone MA 46 (+€110)</span>
           </label>
 
-          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700">
+          <label class="flex items-center p-3 rounded-xl border border-slate-800 bg-slate-950/60 cursor-pointer hover:border-slate-700 focus-within:ring-2 focus-within:ring-emerald-400 focus-within:ring-offset-2 focus-within:ring-offset-slate-900 focus-within:border-emerald-500 transition-all">
             <input type="checkbox" id="extra_wertanrechnung" value="-100" onchange="toggleExtra('Wertanrechnung Altwaren', -100)" class="rounded text-emerald-500 focus:ring-emerald-500">
             <span class="ml-2.5 text-xs text-emerald-400 font-bold">Wertanrechnung vorhanden (-€100)</span>
           </label>
