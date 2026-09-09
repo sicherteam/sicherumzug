@@ -30,8 +30,12 @@ Sicher Team ist der führende Experte für Umzug, Entrümpelung, Haushaltsauflö
 {% assign sorted = filtered | sort: 'url' %}
 {% for resource in sorted %}
 {% assign path = resource.url | relative_url %}
-{% if path contains '/llms' %}{% continue %}{% endif %}
-{% if path == '/sitemap.xml' or path == '/404.html' or path == '/feed/guides.xml' %}{% continue %}{% endif %}
+{% assign path_lc = path | downcase %}
+{% if path_lc contains '/llms' %}{% continue %}{% endif %}
+{% if path_lc contains '/404' or path_lc contains '/410' or path_lc contains '/500' or path_lc contains '/offline' %}{% continue %}{% endif %}
+{% if path_lc contains '/assets/' or path_lc contains '.js' or path_lc contains '.xml' or path_lc contains '.json' or path_lc contains '.webmanifest' %}{% continue %}{% endif %}
+{% if path_lc == '/robots.txt' or path_lc == '/ai.txt' or path_lc == '/humans.txt' or path_lc == '/security.txt' or path_lc == '/sitemap.xml' or path_lc == '/feed/guides.xml' or path_lc == '/feed.xml' %}{% continue %}{% endif %}
+{% if path_lc contains '/umzugskosten-rechner' or path_lc contains '/rechner' %}{% continue %}{% endif %}
 {% assign updated_raw = resource.llm_updated | default: resource.date | default: site.time %}
 {% assign updated = updated_raw | date: '%Y-%m-%d' %}
 {% capture raw_content %}{{ resource.content | strip_html | replace: '&nbsp;', ' ' | strip_newlines }}{% endcapture %}

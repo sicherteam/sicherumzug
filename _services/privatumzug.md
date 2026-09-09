@@ -40,7 +40,7 @@ Als erfahrenes Umzugsunternehmen haben wir uns darauf spezialisiert, Ihren Priva
 
 Wir verstehen, dass die Anforderungen an einen privaten Umzug höchst individuell sind. Daher bieten wir Ihnen ein Baukastensystem an Leistungen, aus dem Sie wählen können:
 
-1.  **Transport:** Die Basis jedes Umzugs. Wir stellen LKW und Personal, um Ihre bereits gepackten Sachen sicher an den neuen Ort zu bringen. (Erfahren Sie mehr zum [[Möbeltransport](/leistungen/moebeltransport/)](/leistungen/moebeltransport/)).
+1.  **Transport:** Die Basis jedes Umzugs. Wir stellen LKW und Personal, um Ihre bereits gepackten Sachen sicher an den neuen Ort zu bringen. (Erfahren Sie mehr zum [Möbeltransport](/leistungen/moebeltransport/)).
 2.  **Möbelmontage:** Überlassen Sie uns den fachgerechten Abbau Ihrer Schränke und Betten und den perfekten Wiederaufbau im neuen Zuhause. (Siehe [Möbelmontage](/leistungen/moebelmontage/)).
 3.  **Verpackungsservice:** Schonen Sie Ihre Zeit und übergeben Sie uns das bruchsichere Einpacken Ihres gesamten Hausrats. (Mehr zum [Verpackungsservice](/leistungen/verpackungsservice/)).
 4.  **Entrümpelung:** Oft sammeln sich über die Jahre Dinge an, die nicht mit umziehen sollen. Wir entsorgen diese fach- und umweltgerecht. (Siehe [Entrümpelung](/leistungen/entruempelung/)).
@@ -50,7 +50,7 @@ Benötigen Sie Hilfe bei der Einrichtung einer [Halteverbotszone](/ratgeber/halt
 ### Besonderheiten bei Privatumzügen
 
 *   **Seniorenumzug:** Ein Wohnungswechsel im Alter erfordert besonderes Feingefühl. Wir bieten speziell auf die Bedürfnisse von älteren Menschen zugeschnittene Services an. (Details zum [Seniorenumzug](/leistungen/seniorenumzug/)).
-*   **Schweres und Wertvolles:** Für den sicheren Transport von schweren Gegenständen wie Klavieren haben wir speziell geschultes Personal. (Siehe [[Klaviertransport](/leistungen/klaviertransport/)](/leistungen/klaviertransport/)).
+*   **Schweres und Wertvolles:** Für den sicheren Transport von schweren Gegenständen wie Klavieren haben wir speziell geschultes Personal. (Siehe [Klaviertransport](/leistungen/klaviertransport/)).
 
 Egal ob Sie einen kleinen [Umzug innerhalb Wiens](/leistungen/umzug-wien/) planen oder eine größere Übersiedlung ins [Burgenland](/leistungen/umzug-burgenland/) oder nach [Niederösterreich](/leistungen/umzug-niederoesterreich/) ansteht – wir sind Ihr kompetenter Partner.
 

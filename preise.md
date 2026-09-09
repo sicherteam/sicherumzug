@@ -11,11 +11,16 @@ include_form: true
 form_anchor_id: "preise-form"
 permalink: /preise/
 ---
+
+<section class="my-8">
+  {% include calculator.html %}
+</section>
+
 Bei Sicher Team stehen Fairness und Transparenz an erster Stelle. Statt unklarer Stundensätze erhalten Sie nach einer kostenlosen Besichtigung ein **schriftliches Angebot mit garantiertem Fixpreis** – egal, ob es um einen österreichweiten Umzug oder eine ergänzende Räumung geht.
 
 ## So kalkulieren wir Ihren Fixpreis
 
-1. **Gratis Erstbesichtigung** - wir bewerten das Umzugsvolumen, die Zugänglichkeit und Besonderheiten (z.B. Packservice, Montage).
+1. **Gratis Erstbesichtigung** - wir bewerten das Umzugsvolumen, die Zugänglichkeit und Besonderheiten (z.B. Packservice, Montage). Nutzen Sie auch unseren interaktiven [Umzugskosten Rechner](/umzugskosten-rechner/), um erste Richtwerte für Ihre Übersiedlung zu berechnen.
 2. **Kalkulation des Umzugs** - Sie erhalten einen Festpreis für den Transport, die Helfer und die Versicherung.
 3. **Ergänzende Räumung & Wertanrechnung** - bleiben nach dem Umzug Möbel oder Hausrat zurück, kümmern wir uns um die Räumung. Verwertbare Gegenstände werden fair angekauft und direkt von den Gesamtkosten abgezogen.
 

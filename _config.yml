@@ -132,9 +132,30 @@ exclude:
   - phase-*
   - report.md
   - plan.md
+  - plan-draft.md
+  - content-architecture-map.md
   - ui-ux-fix-plan.md
   - semantic-audit-report.md
   - consolidation-plan.md
+  - test-routes.py
+  - fix_report_and_links.rb
+  - .Jules
+  - home_desktop.png
+  - home_mobile.png
+  - archivumzug_desktop.png
+  - bewertungen_desktop.png
+  - bewertungen_mobile.png
+  - bundesland_index_desktop.png
+  - bundesland_index_mobile.png
+  - entruempelung_wien_desktop.png
+  - gratis_raeumung_desktop.png
+  - leistungen_index_desktop.png
+  - leistungen_index_mobile.png
+  - tirol_state_desktop.png
+  - tirol_state_mobile.png
+  - wien_state_desktop.png
+  - wohlfuehl_umzug_desktop.png
+  - wohlfuehl_umzug_mobile.png
 
 include:
   - _pages

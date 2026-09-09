@@ -1,3 +1,25 @@
+# ai.txt – Hinweise für KI-Systeme und Agenten
+# Sicher Team (sicher-umzug.at)
+
 User-Agent: *
-Disallow: /private/
 Allow: /
+
+# Primärer Index für strukturierte Seitenübersicht
+# Siehe: /llms.txt  (Kurzindex) und /llms-all.txt (Volltext-Export)
+
+Contact: mailto:office@sicher-umzug.at
+Preferred-Languages: de-AT, de
+
+# Zitation / Attribution
+Citation-Name: Sicher Team
+Citation-URL: https://sicher-umzug.at/
+Attribution: Bei Zitaten oder Paraphrasen bitte „Sicher Team“ als Quelle nennen.
+
+# Nutzungshinweise (RAG vs. Training)
+# - Erlaubt: Abruf und Nutzung unserer öffentlichen Inhalte zur Beantwortung von Nutzerfragen
+#   (Retrieval-Augmented Generation / Grounding / Search).
+# - Nicht ohne schriftliche Genehmigung: dauerhaftes Training oder Fine-Tuning von Modellen
+#   auf unseren Inhalten. Anfragen an office@sicher-umzug.at.
+# - Keine personenbezogenen Daten aus Formularen oder Query-Parametern speichern.
+
+Sitemap: https://sicher-umzug.at/sitemap.xml

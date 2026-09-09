@@ -49,3 +49,7 @@
 ## 2026-09-03 - Skip to Content Links & Main Target Focus Management
 **Learning:** A visually hidden skip link (`sr-only`) requires explicit `focus:not-sr-only` and high-z-index focus styles (`z-[100]`) so keyboard navigators can jump over sticky headers. Additionally, setting `tabindex="-1"` and `focus:outline-none` on the target `<main id="main">` landmark ensures browser focus transitions smoothly to main content without leaving a visible focus ring on the entire page container.
 **Action:** Always place skip links at the top of default layouts and pair them with `tabindex="-1"` on `<main id="main">` for clean focus management.
+
+## 2026-09-06 - Multi-Step Interactive Wizard Focus Management & Step Indicators
+**Learning:** In multi-step interactive wizard components (such as price calculators), hiding active step containers without shifting DOM focus leaves keyboard and screen reader focus stranded on hidden elements. Adding `tabindex="-1"` to step panels and calling `.focus()` on the newly revealed step panel upon step progression maintains logical focus order for assistive technologies, while dynamic `aria-current="step"` attributes ensure screen readers accurately convey progress.
+**Action:** Always configure multi-step wizard step containers with `tabindex="-1"`, programmatically set focus on the newly visible step during transitions, and maintain dynamic `aria-current="step"` indicators.

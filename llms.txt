@@ -30,6 +30,11 @@ Sicher Team ist der führende Experte für Umzug, Entrümpelung, Haushaltsauflö
 {% assign general_pages = general_pages | where_exp: 'item', 'item.llm_exclude != true' %}
 {% assign general_pages = general_pages | sort: 'url' %}
 {% for page in general_pages %}
+{% assign path = page.url | relative_url | downcase %}
+{% if path contains '/404' or path contains '/410' or path contains '/500' or path contains '/offline' %}{% continue %}{% endif %}
+{% if path contains '/llms' or path contains '/assets/' %}{% continue %}{% endif %}
+{% if path contains '.xml' or path contains '.js' or path contains '.json' or path contains '.webmanifest' %}{% continue %}{% endif %}
+{% if path == '/robots.txt' or path == '/ai.txt' or path == '/humans.txt' or path == '/security.txt' or path == '/browserconfig.xml' %}{% continue %}{% endif %}
 - [{{ page.title | default: page.url }}]({{ page.url | relative_url }}): {{ page.description | default: page.excerpt | default: page.title | strip_html | strip | truncate: 140 }}
 {% endfor %}
 

@@ -1,54 +1,6 @@
----
-permalink: /robots.txt
-llm_exclude: true
-layout: null
----
-# General Rules
 User-agent: *
 Allow: /
 
-# Explicitly allow AI and Search Engine Crawlers
-User-agent: GPTBot
-Allow: /
+Content-Signal: search=yes,use=reference
 
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: Omgilibot
-Allow: /
-
-# Block known abusive/low-value scrapers
-User-agent: MJ12bot
-Disallow: /
-
-User-agent: PetalBot
-Disallow: /
-
-User-agent: dotbot
-Disallow: /
-
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: SemrushBot
-Disallow: /
-
-Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
+Sitemap: https://sicher-umzug.at/sitemap.xml

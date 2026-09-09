@@ -74,7 +74,8 @@ kicker: "Standorte"
       <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
         <div>
           <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ state.kicker | default: 'Bundesland' }}</p>
-          <h3 class="mt-2 text-xl font-bold text-primary">Umzug in {{ state.title }}</h3>
+          {% assign state_label = state.short_name | default: state.title | split: ' in ' | last %}
+          <h3 class="mt-2 text-xl font-bold text-primary">Umzug in {{ state_label }}</h3>
           <p class="mt-2 text-sm text-text-light">{{ state.description }}</p>
           <ul class="mt-4 space-y-1 text-sm text-primary max-h-48 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-gray-200">
             {% for location in locations %}

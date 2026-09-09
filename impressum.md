@@ -7,13 +7,13 @@ description: "Impressum, Datenschutzhinweise und rechtliche Informationen – Ih
 kicker: "Rechtliches"
 permalink: /impressum/
 ---
-**Vermittlungsfirma**
+**Sicher Team e.U.** (Vermittlungsfirma)
 {{ site.address.street }},
 {{ site.address.postal_code }} {{ site.address.city }}
 Telefon: [{{ site.phone }}](tel:{{ site.phone | replace: ' ', '' }})
 E-Mail: [{{ site.email }}](mailto:{{ site.email }})
 
-- Wir sind eine Vermittlungsfirma. Alle Aufträge werden an zertifizierte Unternehmen weitergegeben.
+- Rechtliche Form: Einzelunternehmen (e.U.). Wir sind eine Vermittlungsfirma. Alle Aufträge werden an zertifizierte Unternehmen weitergegeben.
 - Für mehr Informationen kontaktieren Sie uns per Email oder Telefon.
 - Tätigkeitsbeschreibung: Umzug, Räumung, Entrümpelung
 

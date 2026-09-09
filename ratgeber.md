@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
+last_modified_at: 2026-08-25T11:30:00+02:00
 layout: guide-index
 title: "Ratgeber & Ressourcen"
 seo_title: "Umzug & Entrümpelung Ratgeber für ganz Österreich | Leitfäden"
@@ -10,6 +10,19 @@ permalink: /ratgeber/
 ## Noch Fragen?
 
 Fehlt ein Thema rund um Umzug, Räumung, Verlassenschaft oder den Ablauf in Ihrem Bundesland? Schreiben Sie uns. Wir erweitern den Ratgeber laufend mit neuen Inhalten für ganz Österreich.
+
+### Neu erschienene Ratgeber & Rechtsthemen
+
+- [Sonderurlaub bei Umzug in Österreich: Anspruch & Recht](/ratgeber/sonderurlaub-umzug-oesterreich-arbeitsrecht/)
+- [Umzugskosten steuerlich absetzen in Österreich (Arbeitnehmerveranlagung)](/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/)
+- [Mietkaution & Ausmalpflicht in Österreich: MRG-Rechtslage](/ratgeber/mietkaution-ausmalpflicht-oesterreich-mrg/)
+- [Haftung bei Umzugsschäden in Österreich: Privathelfer vs. Profi](/ratgeber/haftung-umzugsschaeden-oesterreich-spedition/)
+- [Umzug ins betreute Wohnen & Seniorenheim in Österreich](/ratgeber/umzug-betreutes-wohnen-seniorenheim-oesterreich/)
+- [Umzug mit Kindern in Österreich: Schulwechsel & Fristen](/ratgeber/umzug-mit-kindern-oesterreich-schulwechsel/)
+- [Umzugsaufzug & Möbellift mieten in Wien: StVO & Kosten](/ratgeber/umzugsaufzug-moebellift-mieten-wien-stvo/)
+- [Kunst- & Antiquitätentransport Wien: Spezialverpackung](/ratgeber/kunst-antiquitaetentransport-wien-wertanrechnung/)
+- [Sperrmüll & Entsorgung in Niederösterreich & Burgenland](/ratgeber/sperrmuell-entsorgung-niederoesterreich-burgenland/)
+- [Betriebskostenabrechnung beim Auszug in Österreich](/ratgeber/betriebskostenabrechnung-auszug-oesterreich/)
 
 ### Bereich A: Recht, Nachlass und Finanzierung
 
