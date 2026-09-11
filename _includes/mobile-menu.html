@@ -9,7 +9,7 @@
       <span class="sr-only">{{ site.brand_name }}</span>
       <img src="{{ site.logo | default: '/logo.svg' | relative_url }}" alt="{{ site.brand_name }}" class="h-[45px] w-auto" width="808" height="270" />
     </a>
-    <button id="mobile-menu-close" class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white/10 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 transition-opacity" onclick="mobileMenuToggle()" aria-label="Menü schließen">
+    <button id="mobile-menu-close" class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white/10 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-opacity" onclick="mobileMenuToggle()" aria-label="Menü schließen">
       {% include svg/close.svg class="w-[18px] h-[18px] shrink-0 fill-current" %}
     </button>
   </div>
