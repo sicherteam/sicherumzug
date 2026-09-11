@@ -276,6 +276,13 @@
       let extraList = Object.keys(calcState.extras).join(', ');
       if (!extraList) extraList = 'Keine';
       msgField.value = `[Rechner-Anfrage]\nService: ${calcState.serviceName}\nGröße: ${calcState.sizeName}\nStockwerk: ${calcState.floorName}\nExtras: ${extraList}`;
+      msgField.dispatchEvent(new Event('input', { bubbles: true }));
+    }
+    let nameField = document.getElementById('form-name');
+    if (nameField) {
+      setTimeout(function() {
+        nameField.focus({ preventScroll: true });
+      }, 100);
     }
   }
 
