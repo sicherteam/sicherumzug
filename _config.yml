@@ -125,20 +125,9 @@ future: true
 exclude:
   - node_modules
   - vendor
-  - plans
+  - sicherseo
   - AGENTS.md
   - .bundle
-  - docs
-  - phase-*
-  - report.md
-  - plan.md
-  - plan-draft.md
-  - content-architecture-map.md
-  - ui-ux-fix-plan.md
-  - semantic-audit-report.md
-  - consolidation-plan.md
-  - test-routes.py
-  - fix_report_and_links.rb
   - .Jules
   - home_desktop.png
   - home_mobile.png
