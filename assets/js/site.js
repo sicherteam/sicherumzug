@@ -118,10 +118,17 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           feedbackEl.textContent = textToCopy + ' in die Zwischenablage kopiert.';
         }
         var origTitle = btn.getAttribute('title');
+        var origAria = btn.getAttribute('aria-label');
+        var origHtml = btn.innerHTML;
         btn.setAttribute('title', 'Kopiert!');
+        btn.setAttribute('aria-label', 'Kopiert!');
+        btn.innerHTML = `{% include svg/check_circle.svg class="w-3.5 h-3.5 shrink-0 fill-current text-amber-400" %}`;
         btn.classList.add('text-amber-400');
         setTimeout(function() {
           btn.setAttribute('title', origTitle);
+          if (origAria) btn.setAttribute('aria-label', origAria);
+          else btn.removeAttribute('aria-label');
+          btn.innerHTML = origHtml;
           btn.classList.remove('text-amber-400');
         }, 2000);
       }).catch(function() {});
