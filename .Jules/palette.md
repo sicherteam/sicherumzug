@@ -53,3 +53,7 @@
 ## 2026-09-06 - Multi-Step Interactive Wizard Focus Management & Step Indicators
 **Learning:** In multi-step interactive wizard components (such as price calculators), hiding active step containers without shifting DOM focus leaves keyboard and screen reader focus stranded on hidden elements. Adding `tabindex="-1"` to step panels and calling `.focus()` on the newly revealed step panel upon step progression maintains logical focus order for assistive technologies, while dynamic `aria-current="step"` attributes ensure screen readers accurately convey progress.
 **Action:** Always configure multi-step wizard step containers with `tabindex="-1"`, programmatically set focus on the newly visible step during transitions, and maintain dynamic `aria-current="step"` indicators.
+
+## 2026-09-13 - WCAG 2.5.3 (Label in Name) on Accessible Sticky CTAs
+**Learning:** When providing custom `aria-label` strings on visible text elements, WCAG 2.5.3 requires that the accessible name contains the exact text presented visually. This ensures speech recognition software can trigger elements when users speak their visible labels while providing expanded context for screen reader users.
+**Action:** Ensure any `aria-label` assigned to elements with visible text begins with or directly incorporates the exact visible text.
