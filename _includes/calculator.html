@@ -38,25 +38,34 @@
     <div id="calc-step-1" class="calc-step space-y-4 focus:outline-none" tabindex="-1">
       <h3 class="text-lg font-bold text-slate-100 text-center mb-4">Welche Dienstleistung benötigen Sie?</h3>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-        <button type="button" onclick="selectService('umzug')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
-          <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 mb-3 group-hover:scale-110 transition-transform">
-            {% include svg/local_shipping.svg class="w-6 h-6 fill-current" %}
+        <button type="button" onclick="selectService('umzug')" class="service-opt group relative p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
+          <div class="flex items-center justify-between mb-3">
+            <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 group-hover:scale-110 transition-transform">
+              {% include svg/local_shipping.svg class="w-6 h-6 fill-current" %}
+            </div>
+            <kbd class="text-[10px] font-mono px-2 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700 font-bold group-hover:border-orange-500/50 group-hover:text-orange-400 transition-colors" aria-hidden="true" title="Taste 1 drücken">Taste 1</kbd>
           </div>
           <h4 class="font-bold text-white text-base">Umzug & Übersiedlung</h4>
           <p class="text-xs text-slate-400 mt-1">Möbeltransport, Packservice & De-/Montage.</p>
         </button>
 
-        <button type="button" onclick="selectService('entruempelung')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
-          <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 mb-3 group-hover:scale-110 transition-transform">
-            {% include svg/cleaning_services.svg class="w-6 h-6 fill-current" %}
+        <button type="button" onclick="selectService('entruempelung')" class="service-opt group relative p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
+          <div class="flex items-center justify-between mb-3">
+            <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 group-hover:scale-110 transition-transform">
+              {% include svg/cleaning_services.svg class="w-6 h-6 fill-current" %}
+            </div>
+            <kbd class="text-[10px] font-mono px-2 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700 font-bold group-hover:border-orange-500/50 group-hover:text-orange-400 transition-colors" aria-hidden="true" title="Taste 2 drücken">Taste 2</kbd>
           </div>
           <h4 class="font-bold text-white text-base">Entrümpelung & Räumung</h4>
           <p class="text-xs text-slate-400 mt-1">Fachgerechte Entsorgung inkl. Wertanrechnung.</p>
         </button>
 
-        <button type="button" onclick="selectService('kombi')" class="service-opt group p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
-          <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 mb-3 group-hover:scale-110 transition-transform">
-            {% include svg/recycling.svg class="w-6 h-6 fill-current" %}
+        <button type="button" onclick="selectService('kombi')" class="service-opt group relative p-5 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 hover:bg-slate-800/50 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200 cursor-pointer">
+          <div class="flex items-center justify-between mb-3">
+            <div class="w-10 h-10 rounded-xl bg-orange-500/10 flex items-center justify-center text-orange-400 group-hover:scale-110 transition-transform">
+              {% include svg/recycling.svg class="w-6 h-6 fill-current" %}
+            </div>
+            <kbd class="text-[10px] font-mono px-2 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700 font-bold group-hover:border-orange-500/50 group-hover:text-orange-400 transition-colors" aria-hidden="true" title="Taste 3 drücken">Taste 3</kbd>
           </div>
           <h4 class="font-bold text-white text-base">Kombi: Umzug + Räumung</h4>
           <p class="text-xs text-slate-400 mt-1">Neues Heim einrichten, altes besenrein räumen.</p>
@@ -68,25 +77,29 @@
     <div id="calc-step-2" class="calc-step hidden space-y-4 focus:outline-none" tabindex="-1">
       <h3 class="text-lg font-bold text-slate-100 text-center mb-4">Wie groß ist das Objekt?</h3>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
-        <button type="button" onclick="selectSize('small', '1 Zimmer / bis 40 m²', 320)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('small', '1 Zimmer / bis 40 m²', 320)" class="size-opt group relative p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+          <kbd class="absolute top-2 right-2 text-[9px] font-mono px-1.5 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700 font-bold group-hover:border-orange-500/50 group-hover:text-orange-400 transition-colors" aria-hidden="true" title="Taste 1 drücken">1</kbd>
           <span class="block text-xl mb-1">🏢</span>
           <span class="block font-bold text-sm text-white">Garconniere</span>
           <span class="block text-[11px] text-slate-400">bis 40 m²</span>
         </button>
 
-        <button type="button" onclick="selectSize('medium', '2-3 Zimmer / 40-80 m²', 520)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('medium', '2-3 Zimmer / 40-80 m²', 520)" class="size-opt group relative p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+          <kbd class="absolute top-2 right-2 text-[9px] font-mono px-1.5 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700 font-bold group-hover:border-orange-500/50 group-hover:text-orange-400 transition-colors" aria-hidden="true" title="Taste 2 drücken">2</kbd>
           <span class="block text-xl mb-1">🏠</span>
           <span class="block font-bold text-sm text-white">2 - 3 Zimmer</span>
           <span class="block text-[11px] text-slate-400">40 - 80 m²</span>
         </button>
 
-        <button type="button" onclick="selectSize('large', '4+ Zimmer / ab 80 m²', 850)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('large', '4+ Zimmer / ab 80 m²', 850)" class="size-opt group relative p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+          <kbd class="absolute top-2 right-2 text-[9px] font-mono px-1.5 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700 font-bold group-hover:border-orange-500/50 group-hover:text-orange-400 transition-colors" aria-hidden="true" title="Taste 3 drücken">3</kbd>
           <span class="block text-xl mb-1">🏡</span>
           <span class="block font-bold text-sm text-white">4+ Zimmer / Haus</span>
           <span class="block text-[11px] text-slate-400">ab 80 m²</span>
         </button>
 
-        <button type="button" onclick="selectSize('special', 'Keller / Gewerbe', 280)" class="size-opt p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+        <button type="button" onclick="selectSize('special', 'Keller / Gewerbe', 280)" class="size-opt group relative p-4 rounded-2xl border border-slate-800 bg-slate-950/60 hover:border-orange-500/50 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all cursor-pointer">
+          <kbd class="absolute top-2 right-2 text-[9px] font-mono px-1.5 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700 font-bold group-hover:border-orange-500/50 group-hover:text-orange-400 transition-colors" aria-hidden="true" title="Taste 4 drücken">4</kbd>
           <span class="block text-xl mb-1">📦</span>
           <span class="block font-bold text-sm text-white">Keller / Büro</span>
           <span class="block text-[11px] text-slate-400">Teilbereich</span>
@@ -291,4 +304,28 @@
     document.querySelectorAll('#calc-step-3 input[type="checkbox"]').forEach(c => c.checked = false);
     goToStep(1);
   }
+
+  document.addEventListener('keydown', function handleCalcShortcuts(e) {
+    const calcContainer = document.getElementById('fixpreis-calculator');
+    const activeEl = document.activeElement;
+    if (!calcContainer || !activeEl || !calcContainer.contains(activeEl)) {
+      return;
+    }
+    if (activeEl.tagName === 'INPUT' || activeEl.tagName === 'TEXTAREA' || activeEl.tagName === 'SELECT') {
+      return;
+    }
+    const step1 = document.getElementById('calc-step-1');
+    const step2 = document.getElementById('calc-step-2');
+
+    if (step1 && !step1.classList.contains('hidden')) {
+      if (e.key === '1') selectService('umzug');
+      else if (e.key === '2') selectService('entruempelung');
+      else if (e.key === '3') selectService('kombi');
+    } else if (step2 && !step2.classList.contains('hidden')) {
+      if (e.key === '1') selectSize('small', '1 Zimmer / bis 40 m²', 320);
+      else if (e.key === '2') selectSize('medium', '2-3 Zimmer / 40-80 m²', 520);
+      else if (e.key === '3') selectSize('large', '4+ Zimmer / ab 80 m²', 850);
+      else if (e.key === '4') selectSize('special', 'Keller / Gewerbe', 280);
+    }
+  });
 </script>
