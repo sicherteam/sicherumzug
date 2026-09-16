@@ -13,6 +13,11 @@ Fehlt ein Thema rund um Umzug, Räumung, Verlassenschaft oder den Ablauf in Ihre
 
 ### Neu erschienene Ratgeber & Rechtsthemen
 
+- [Umzug Checkliste Österreich: Der perfekte Zeitplan von 3 Monaten bis Tag X](/ratgeber/umzug-checkliste-zeitplan-oesterreich/)
+- [Umzugskosten Wien: Was kostet ein Umzug? (Preise & Rechner)](/ratgeber/umzugskosten-wien-preise-berechnen/)
+- [Wohnungsübergabeprotokoll Österreich: Muster, Kaution & MRG-Regeln](/ratgeber/wohnungsuebergabeprotokoll-oesterreich-muster/)
+- [Strom & Gas ummelden bei Umzug in Österreich: Anleitung & Fristen](/ratgeber/strom-gas-ummelden-umzug-oesterreich/)
+- [Erste eigene Wohnung in Österreich: Kosten, Checkliste & Erstausstattung](/ratgeber/erste-eigene-wohnung-umzug-oesterreich/)
 - [Sonderurlaub bei Umzug in Österreich: Anspruch & Recht](/ratgeber/sonderurlaub-umzug-oesterreich-arbeitsrecht/)
 - [Umzugskosten steuerlich absetzen in Österreich (Arbeitnehmerveranlagung)](/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/)
 - [Mietkaution & Ausmalpflicht in Österreich: MRG-Rechtslage](/ratgeber/mietkaution-ausmalpflicht-oesterreich-mrg/)
