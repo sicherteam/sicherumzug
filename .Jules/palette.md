@@ -57,3 +57,7 @@
 ## 2026-09-13 - WCAG 2.5.3 (Label in Name) on Accessible Sticky CTAs
 **Learning:** When providing custom `aria-label` strings on visible text elements, WCAG 2.5.3 requires that the accessible name contains the exact text presented visually. This ensures speech recognition software can trigger elements when users speak their visible labels while providing expanded context for screen reader users.
 **Action:** Ensure any `aria-label` assigned to elements with visible text begins with or directly incorporates the exact visible text.
+
+## 2026-09-18 - Modal Overlay Focus Trapping for Accessible Navigation Drawers
+**Learning:** When opening full-page or full-screen navigation overlays on mobile devices, keying `Tab` or `Shift + Tab` can allow browser focus to escape into invisible elements behind the overlay container. Intercepting `keydown` events when the overlay is open and trapping focus between the first and last visible focusable elements complies with WCAG 2.1 SC 2.4.3 (Focus Order) and guarantees a seamless keyboard user experience.
+**Action:** Always attach a global `Tab` listener when full-screen drawers or modal overlays are active to trap keyboard focus between `visibleFocusables[0]` and `visibleFocusables[last]`.

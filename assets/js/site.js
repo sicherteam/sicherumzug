@@ -55,15 +55,42 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   mobileMenu = document.getElementById('mobile-menu');
   faqButtons = document.querySelectorAll('[data-faq-toggle]');
 
-  // Close mobile menu or desktop megamenus on Escape key press
-  document.addEventListener('keydown', function handleEscapeKey(e) {
+  // Keyboard navigation: Escape key to close & Tab focus trap in mobile menu
+  document.addEventListener('keydown', function handleGlobalKeyDown(e) {
+    var isMobileOpen = mobileMenu && !mobileMenu.classList.contains('hidden');
+
     if (e.key === 'Escape' || e.key === 'Esc' || e.keyCode === 27) {
-      if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
+      if (isMobileOpen) {
         mobileMenuToggle();
       } else {
         var activeEl = document.activeElement;
         if (activeEl && activeEl.closest('[data-mega-panel], .group')) {
           activeEl.blur();
+        }
+      }
+      return;
+    }
+
+    if (isMobileOpen && (e.key === 'Tab' || e.keyCode === 9)) {
+      var focusables = mobileMenu.querySelectorAll('a[href], button:not([disabled]), input:not([disabled]), [tabindex]:not([tabindex="-1"])');
+      var visibleFocusables = Array.prototype.filter.call(focusables, function(el) {
+        return el.offsetWidth > 0 || el.offsetHeight > 0 || el.getClientRects().length > 0;
+      });
+
+      if (visibleFocusables.length === 0) return;
+
+      var firstEl = visibleFocusables[0];
+      var lastEl = visibleFocusables[visibleFocusables.length - 1];
+
+      if (e.shiftKey) {
+        if (document.activeElement === firstEl || !mobileMenu.contains(document.activeElement)) {
+          e.preventDefault();
+          lastEl.focus();
+        }
+      } else {
+        if (document.activeElement === lastEl || !mobileMenu.contains(document.activeElement)) {
+          e.preventDefault();
+          firstEl.focus();
         }
       }
     }
