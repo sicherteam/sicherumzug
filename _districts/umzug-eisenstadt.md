@@ -27,8 +27,7 @@ process:
 - description: Wir stimmen den Einsatz von Kantenschutz, Abdeckungen und die Teamgröße
     individuell auf denkmalgeschützte Bereiche ab.
   title: Schutz historischer Bausubstanz
-- description: Wir katalogisieren und bewerten Musikinstrumente (insbesondere Klaviere,
-    in Anlehnung an die Haydn-Tradition), Kunst oder Antiquitäten und rechnen Ihnen
+- description: Wir katalogisieren und bewerten Kunst oder Antiquitäten und rechnen Ihnen
     den Marktwert fair an.
   title: Professionelle Übersiedlung & Wertanrechnung
 - description: Wir garantieren eine sortenreine Trennung und den Transport zu regionalen

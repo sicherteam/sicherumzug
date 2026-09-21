@@ -30,7 +30,7 @@ faqs:
   - question: "Organisieren Sie Halteverbotszonen in der Mödlinger Altstadt?"
     answer: "Ja, die Gassen in der historischen Altstadt von Mödling sind oft eng. Wir kümmern uns um die behördliche Beantragung und die fristgerechte Aufstellung der Halteverbotsschilder."
   - question: "Führen Sie auch Villenumzüge und Spezialtransporte durch?"
-    answer: "Absolut. Wir haben große Erfahrung mit Biedermeier-Villen in der Hinterbrühl oder in Maria Enzersdorf und transportieren auch schwere Kunstgegenstände oder Klaviere mit höchster Vorsicht."
+    answer: "Absolut. Wir haben große Erfahrung mit Biedermeier-Villen in der Hinterbrühl oder in Maria Enzersdorf und transportieren auch schwere Kunstgegenstände oder Tresore mit höchster Vorsicht."
   - question: "Bieten Sie neben dem Umzug auch Räumungen an?"
     answer: "Ja. Wenn Sie sich verkleinern (z.B. beim Seniorenumzug), entrümpeln wir nicht benötigtes Inventar fachgerecht und rechnen verwertbare Möbel direkt über unsere Wertanrechnung gegen."
 local_logistics_note: "Bei Einsätzen in Mödling sichern wir Anfahrt, Etagenlogistik und Schutzmaterialien bereits in der Vorplanung, besonders in engen Altstadtlagen und Hanggrundstücken."

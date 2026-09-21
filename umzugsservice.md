@@ -53,7 +53,7 @@ Ein Auszug unserer Kernleistungen im Rahmen des Umzugsservices:
 
 *   **Verpackungsservice:** Wenn Ihnen die Zeit fehlt, übernimmt unser geschultes Personal das bruchsichere Einpacken Ihres Hausrats. Informieren Sie sich hierzu genauer über unseren speziellen [Verpackungsservice](/leistungen/verpackungsservice/).
 *   **De- und Montage:** Egal ob einfache Regale oder komplexe Schrankwände – unsere Profis demontieren Ihre Möbel fachgerecht und bauen sie am Zielort wieder stabil auf. (Siehe auch [Möbelmontage](/leistungen/moebelmontage/)).
-*   **Schwerlast- und Spezialtransporte:** Auch für besonders empfindliche oder schwere Stücke wie Klaviere oder Tresore haben wir das richtige Equipment und das nötige Know-how. Entdecken Sie unseren [Klaviertransport](/leistungen/klaviertransport/).
+*   **Schwerlast- und Spezialtransporte:** Auch für besonders empfindliche oder schwere Stücke wie Tresore oder Maschinen haben wir das richtige Equipment und das nötige Know-how. Entdecken Sie unseren [Spezialtransport](/leistungen/spezialtransporte/).
 *   **Entsorgung und Räumung:** Sollten beim Umzug alte Möbel oder nicht mehr benötigter Hausrat anfallen, kümmern wir uns gerne um die fachgerechte [Entrümpelung](/leistungen/entruempelung/).
 
 ### Ihr Umzug in den besten Händen

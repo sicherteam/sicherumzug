@@ -50,7 +50,7 @@ Benötigen Sie Hilfe bei der Einrichtung einer [Halteverbotszone](/ratgeber/halt
 ### Besonderheiten bei Privatumzügen
 
 *   **Seniorenumzug:** Ein Wohnungswechsel im Alter erfordert besonderes Feingefühl. Wir bieten speziell auf die Bedürfnisse von älteren Menschen zugeschnittene Services an. (Details zum [Seniorenumzug](/leistungen/seniorenumzug/)).
-*   **Schweres und Wertvolles:** Für den sicheren Transport von schweren Gegenständen wie Klavieren haben wir speziell geschultes Personal. (Siehe [Klaviertransport](/leistungen/klaviertransport/)).
+*   **Schweres und Wertvolles:** Für den sicheren Transport von schweren Gegenständen wie Tresoren haben wir speziell geschultes Personal. (Siehe [Spezialtransporte](/leistungen/spezialtransporte/)).
 
 Egal ob Sie einen kleinen [Umzug innerhalb Wiens](/leistungen/umzug-wien/) planen oder eine größere Übersiedlung ins [Burgenland](/leistungen/umzug-burgenland/) oder nach [Niederösterreich](/leistungen/umzug-niederoesterreich/) ansteht – wir sind Ihr kompetenter Partner.
 

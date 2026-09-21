@@ -77,7 +77,7 @@ Mit unserer **Fixpreisgarantie** und der integrierten **Transportversicherung** 
 
 ## Umfassender Umzugsservice & Spezialtransporte
 
-Unsere Expertise deckt alle Facetten einer modernen **Übersiedlung** ab. Wir sind nicht nur für den klassischen Umzug da, sondern führen auch anspruchsvolle Spezialtransporte wie einen **Klaviertransport** oder einen schnellen **Express Umzug** zuverlässig durch. Mit modernen Hilfsmitteln wie Möbelliften und strapazierfähigem Verpackungsmaterial bringen wir selbst schwerste Lasten sicher ans Ziel.
+Unsere Expertise deckt alle Facetten einer modernen **Übersiedlung** ab. Wir sind nicht nur für den klassischen Umzug da, sondern führen auch anspruchsvolle Spezialtransporte wie einen **Tresortransport** oder einen schnellen **Express Umzug** zuverlässig durch. Mit modernen Hilfsmitteln wie Möbelliften und strapazierfähigem Verpackungsmaterial bringen wir selbst schwerste Lasten sicher ans Ziel.
 
 ## All-in-One: Umzug & Entrümpelung aus einer Hand
 

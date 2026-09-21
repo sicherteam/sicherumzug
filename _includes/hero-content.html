@@ -44,14 +44,14 @@
 
     <div class="mt-8 flex flex-col sm:flex-row items-center md:justify-center gap-6">
       {% if primary_label and primary_url %}
-        <a href="{{ primary_url | relative_url }}" class="flex w-full sm:w-auto min-h-[56px] items-center justify-center rounded-xl bg-orange-500 hover:bg-orange-600 text-slate-950 px-8 py-4 text-lg font-bold focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-colors duration-200">
+        <a href="{{ primary_url | relative_url }}" class="flex w-full sm:w-auto min-h-[56px] items-center justify-center rounded-xl bg-orange-500 hover:bg-orange-600 text-slate-950 px-8 py-4 text-lg font-bold shadow hover:shadow-md hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200">
           {{ primary_label }}
         </a>
       {% endif %}
       
       <div class="flex flex-row gap-3 w-full sm:w-auto">
         <!-- WhatsApp Butonu -->
-        <a href="{{ whatsapp_url }}" aria-label="WhatsApp Foto senden für Fixpreis-Angebot" class="flex flex-1 sm:flex-initial min-h-[56px] items-center justify-center gap-2 rounded-full bg-emerald-600 hover:bg-emerald-500 px-6 py-2 text-sm font-bold text-white shadow hover:shadow-md hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200">
+        <a href="{{ whatsapp_url }}" aria-label="WhatsApp Nachricht senden für Fixpreis-Angebot" class="flex flex-1 sm:flex-initial min-h-[56px] items-center justify-center gap-2 rounded-full bg-emerald-600 hover:bg-emerald-500 px-6 py-2 text-sm font-bold text-white shadow hover:shadow-md hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900 transition-all duration-200">
           {% include svg/chat.svg class="shrink-0 w-[18px] h-[18px] text-white fill-current" %}
           <span class="flex flex-col items-center justify-center text-center leading-[1.1]">
             {% if whatsapp_label == 'WhatsApp Foto senden' %}

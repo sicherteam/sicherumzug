@@ -14,8 +14,8 @@ faqs:
     answer: Ein einfacher Möbeltransport (z.B. Transport eines Sofas oder Schranks innerhalb einer Stadt) beginnt bei ca. 120 bis 250 Euro, abhängig von der Distanz und dem Tragaufwand.
   - question: Sind meine Möbel während des Transports versichert?
     answer: Ja. Wenn Sie ein konzessioniertes Transportunternehmen beauftragen, sind Ihre Möbel über eine gewerbliche Transportversicherung (All-Risk-Versicherung) gegen Beschädigung und Verlust abgesichert.
-  - question: Transportieren Sie auch besonders schwere Gegenstände wie Klaviere oder Tresore?
-    answer: Ja. Das Sicher Team verfügt über geschulte Spezialisten und das notwendige Equipment (Tragegurte, Möbellift, Schwerlastroller) für sichere Klaviertransporte und andere Schwerlasten.
+  - question: Transportieren Sie auch besonders schwere Gegenstände wie Tresore oder Maschinen?
+    answer: Ja. Das Sicher Team verfügt über geschulte Spezialisten und das notwendige Equipment (Tragegurte, Möbellift, Schwerlastroller) für sichere Tresortransporte und andere Schwerlasten.
 permalink: /ratgeber/moebeltransport-profi-leitfaden/
 ---
 
@@ -62,12 +62,12 @@ Am Zielort transportiert unser Team alle Möbelstücke direkt in die gewünschte
 
 ---
 
-## Spezialtransporte: Klavier, Tresor und Schwerlast
+## Spezialtransporte: Tresore und Schwerlast
 
 Einige Gegenstände sprengen den Rahmen eines normalen Möbeltransports. Hier ist Spezialwissen und technisches Gerät gefragt.
 
-### Klavier- und Flügeltransporte
-Ein Klavier wiegt je nach Modell zwischen 180 und 400 Kilogramm. Neben dem enormen Gewicht ist die empfindliche Mechanik und die lackierte Oberfläche ein Risikofaktor. Das Sicher Team setzt für Klaviertransporte ausschließlich speziell geschulte Mitarbeiter ein, die Tragegurte, Klavierschlitten (Spezialbretter) und hochbelastbare Transportroller nutzen. Zudem wird das Instrument vorab komplett in dickes Schutzvlies gehüllt.
+### Tresortransporte und Schwergut
+Ein Tresor oder Waffenschrank wiegt je nach Modell mehrere hundert Kilogramm. Das Sicher Team setzt für Schwerguttransporte ausschließlich speziell geschulte Mitarbeiter ein, die Tragegurte, Schwerlastschlitten und hochbelastbare Transportroller nutzen. Zudem werden die Transportwege sorgfältig geschützt.
 
 ### Einsatz von Möbelliften
 In engen Wiener Altbauten oder modernen Wohnanlagen in höheren Stockwerken ist der Transport durch das Treppenhaus oft unmöglich oder extrem zeitaufwendig. In solchen Fällen setzen wir einen mobilen **Außenaufzug (Möbellift)** ein. Die Möbel werden sicher auf der Plattform fixiert und direkt über das Fenster oder den Balkon nach unten transportiert. Das schont die Möbel, das Treppenhaus und beschleunigt den gesamten Ablauf erheblich.

@@ -87,8 +87,8 @@ Moderne Möbelsysteme wie große Schwebetürenschränke oder Einbauküchen sind 
 ### 3. Einrichtung von Halteverbotszonen
 Wie bereits erwähnt, ist ein freier Parkplatz direkt vor der Tür der Schlüssel zu einem schnellen Umzug. Wir kümmern uns um den gesamten bürokratischen Prozess: Wir beantragen die Halteverbotszone bei der zuständigen Behörde (z.B. Magistratsabteilung in Wien oder der jeweiligen Gemeinde), stellen die Schilder fristgerecht auf und bauen sie nach dem Umzug wieder ab. Das spart Ihnen Behördenwege und garantiert einen reibungslosen Ablauf am Umzugstag.
 
-### 4. Klaviertransport und Schwerlast
-Schwere Gegenstände wie Klaviere, Flügel, Tresore oder große Fitnessgeräte erfordern spezielles Know-how und Equipment (wie Tragegurte, Schwerlastroller und oft einen Möbellift). Unser Team ist für solche Spezialtransporte ausgebildet und bringt auch tonnenschwere Lasten sicher ans Ziel.
+### 4. Tresortransport und Schwerlast
+Schwere Gegenstände wie Tresore, Panzerschränke oder große Fitnessgeräte erfordern spezielles Know-how und Equipment (wie Tragegurte, Schwerlastroller und oft einen Möbellift). Unser Team ist für solche Spezialtransporte ausgebildet und bringt auch schwere Lasten sicher ans Ziel.
 
 ---
 
