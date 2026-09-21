@@ -2,8 +2,8 @@
 last_modified_at: 2026-08-05T14:01:00+02:00
 layout: service
 title: "Spezialtransporte Wien & Österreich | Sicherer Schwerguttransport"
-seo_title: "Spezialtransporte: Sicherer Transport von Klavier & Tresor"
-description: "Spezialtransporte für Klavier, Tresor, Kunst und Antiquitäten. Professioneller Schwerguttransport in Wien und ganz Österreich mit voller Versicherung."
+seo_title: "Spezialtransporte: Sicherer Transport von Tresoren & Schwergut"
+description: "Spezialtransporte für Tresore, Kunst, Antiquitäten und Schwergut. Professioneller Schwerguttransport in Wien und ganz Österreich mit voller Versicherung."
 kicker: "Transport"
 permalink: /leistungen/spezialtransporte/
 schema_type: Service
@@ -17,7 +17,6 @@ highlights:
   - "Höchste Sorgfalt beim Transport von Kunst und Antiquitäten"
   - "Umfassende Transportversicherung für wertvolle Stücke"
 checklist:
-  - "Klaviertransporte (Pianino und Flügel)"
   - "Tresortransporte und Wertschränke"
   - "Antiquitäten, Gemälde und Kunstgegenstände"
   - "Schwere Maschinen oder spezielles Equipment (auf Anfrage)"
@@ -45,7 +44,6 @@ Ein Spezialtransport erfordert mehr als nur Muskelkraft. Er verlangt nach Präzi
 
 Unser Team ist auf den Transport von Stücken spezialisiert, die besonderes Handling erfordern:
 
-*   **[Klaviertransport & Flügeltransport](/leistungen/klaviertransport/):** Instrumente sind extrem empfindlich gegenüber Stößen und Erschütterungen. Wir verwenden spezielle Klavierdecken, Gurte und Schlitten, um Ihr Instrument unbeschadet über Treppen und durch enge Flure zu manövrieren.
 *   **[Tresortransport](/leistungen/tresortransport/):** Schwere Wertschutzschränke, Waffenschränke oder feuersichere Aktenschränke erfordern eine exakte Gewichtsverteilung beim Tragen und spezielle Hebetechniken, um weder das Objekt noch die Bodenbeläge oder Treppen zu beschädigen.
 *   **Kunst und Antiquitäten:** Antike Möbel, wertvolle Gemälde, Skulpturen oder empfindliche Kronleuchter benötigen eine maßgeschneiderte Spezialverpackung und ein Höchstmaß an Behutsamkeit während des gesamten Transportwegs.
 

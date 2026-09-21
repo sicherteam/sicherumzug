@@ -31,7 +31,7 @@ In diesem umfassenden Guide erklären wir detailliert, wie eine Entrümpelung im
 
 ## Die logistischen Herausforderungen im Wiener Altbau
 
-Wer schon einmal ein Klavier oder einen massiven Biedermeier-Kasten in den 4. Stock eines Hauses in Neubau (7. Bezirk) oder der Josefstadt (8. Bezirk) getragen hat, kennt das Problem. Altbauten sind nicht für moderne Umzugs- oder Räumungslogistik gebaut.
+Wer schon einmal einen Tresor oder einen massiven Biedermeier-Kasten in den 4. Stock eines Hauses in Neubau (7. Bezirk) oder der Josefstadt (8. Bezirk) getragen hat, kennt das Problem. Altbauten sind nicht für moderne Umzugs- oder Räumungslogistik gebaut.
 
 ### 1. Das Stiegenhaus: Eng, gewendelt und historisch
 

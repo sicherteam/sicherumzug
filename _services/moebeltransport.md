@@ -25,7 +25,7 @@ checklist:
   - "Sichere Verpackung mit Luftpolsterfolie und Decken"
   - "Transport von Antiquitäten und wertvollen Erbstücken"
   - "Möbeltransport zwischen Wien und den Bundesländern"
-  - "Kombination mit unserem [Klaviertransport](/leistungen/klaviertransport/)"
+  - "Kombination mit unserem [Spezialtransport](/leistungen/spezialtransporte/)"
 process:
   - title: "Anfrage & Fixpreis"
     description: "Senden Sie uns einfach Fotos oder eine Liste der zu transportierenden Möbelstücke. Wir kalkulieren sofort einen verbindlichen Fixpreis für Ihren Möbeltransport."

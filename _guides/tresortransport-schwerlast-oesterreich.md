@@ -31,9 +31,9 @@ Bei Unternehmensumzügen ist der Transport von Datensicherungstresoren oder Geld
 *   **Boden- und Lastenverteilung:** Vor dem Transport evaluieren wir die Traglast von Böden und Aufzügen und legen bei Bedarf Lastverteilungsplatten aus.
 
 ### Privater Spezialtransport (B2C)
-Für den privaten Haushalt transportieren wir Klavier, Flügel, große Aquarien, Wärmepumpen oder antike Bauernschränke aus Massivholz.
+Für den privaten Haushalt transportieren wir Tresore, große Aquarien, Wärmepumpen oder antike Bauernschränke aus Massivholz.
 *   **Treppensteiger und Spezialkräne:** Um schwere Gegenstände über enge Stiegenhäuser (z.B. im Wiener Altbau) zu bewegen, setzen wir modernste elektrische Treppenpanzer und Krantechnik ein.
-*   **Klaviertransport:** Instrumente werden nicht nur aufgrund ihres Gewichts speziell behandelt, sondern auch temperatur- und stoßgeschützt verpackt, um die empfindliche Mechanik zu schonen.
+*   **Waffenschrank- & Tresortransport:** Wertschutzschränke werden mit Spezialtragegurten und Panzerrollen stoß- und kratzfest verpackt und sicher bewegt.
 
 ## Der Prozess eines erfolgreichen Tresortransports
 

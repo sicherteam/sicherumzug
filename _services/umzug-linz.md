@@ -78,7 +78,7 @@ Unsere Hauptleistungen in Linz umfassen:
 *   **Firmenumzug & Büroumsiedlung:** Wir sorgen für minimale Betriebsunterbrechungen, wenn Sie mit Ihrem Unternehmen innerhalb der Linzer Gewerbegebiete oder ins Zentrum ziehen.
 *   **Privatumzug:** Ob Altbau in Urfahr oder Neubauwohnung im Süden der Stadt – wir verpacken und transportieren Ihr Inventar sicher.
 *   **Fernumzüge (Wien – Linz – Salzburg):** Durch unsere regelmäßigen Fahrten entlang der Westachse ([A1-Korridor](/leistungen/umzug-salzburg/)) bieten wir schnelle und kosteneffiziente Relocations zwischen den Bundesländern.
-*   **Spezialtransporte:** Klaviertransporte oder der sichere Transport schwerer Maschinen und Tresore.
+*   **Spezialtransporte:** Sichere Transporte schwerer Maschinen und Tresore.
 *   **Montageservice:** Fachgerechte [Möbelmontage](/leistungen/moebelmontage/), vom Pax-Schrank bis zur komplexen Büroeinrichtung.
 
 ### Warum Linz logistisch besonders ist

@@ -43,7 +43,7 @@ Fehlt ein Thema rund um Umzug, Räumung, Verlassenschaft oder den Ablauf in Ihre
 - [MA 48 Mistplatz: Regeln, Abfallwege und Checkliste](/ratgeber/ma48-mistplatz-checkliste/)
 - [Möbel bewerten in Wien: Schrott oder verkaufbar?](/ratgeber/gebrauchte-moebel-verkaufen-wien/)
 - [Garagenräumung in Wien: Sondermüll & Reifen entsorgen](/ratgeber/garagenraeumung-wien-sondermuell/)
-- [Schwerlastentsorgung Wien: Tresore & Klaviere räumen](/ratgeber/schwerlastentsorgung-tresor-klavier-wien/)
+- [Schwerlastentsorgung Wien: Tresore & Maschinen räumen](/ratgeber/schwerlastentsorgung-tresor-klavier-wien/)
 
 ### Bereich C: Entscheidung und Kosten
 

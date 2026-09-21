@@ -45,7 +45,7 @@ Wie kann also jemand diese Leistung "gratis" anbieten? Die Antwort liegt in vers
 ## Die 4 häufigsten Kostenfallen in Wien
 
 ### 1. Das Lockangebot an der Tür
-Die Firma kommt zur Besichtigung, verspricht einen extrem niedrigen Preis und beginnt mit der Arbeit. Plötzlich, wenn die halbe Wohnung bereits im LKW ist, heißt es: *"Oh, das Klavier ist aber extra", "Für den Kühlschrank müssen wir 100 Euro Gefahrenzulage verlangen"* oder *"Die Deponie hat die Preise erhöht"*. Sie werden unter Druck gesetzt, bar nachzuzahlen, sonst wird der Müll einfach vor dem Haus abgeladen.
+Die Firma kommt zur Besichtigung, verspricht einen extrem niedrigen Preis und beginnt mit der Arbeit. Plötzlich, wenn die halbe Wohnung bereits im LKW ist, heißt es: *"Oh, der Tresor ist aber extra", "Für den Kühlschrank müssen wir 100 Euro Gefahrenzulage verlangen"* oder *"Die Deponie hat die Preise erhöht"*. Sie werden unter Druck gesetzt, bar nachzuzahlen, sonst wird der Müll einfach vor dem Haus abgeladen.
 
 ### 2. Der Stundensatz-Trick
 Ihnen wird ein scheinbar günstiger Stundensatz von z.B. 25 Euro pro Arbeiter angeboten. Am Räumungstag erscheinen jedoch fünf Arbeiter (statt der nötigen zwei), die extrem langsam arbeiten, stundenlange Pausen machen und den Transporter ungeschickt packen, sodass mehrfach gefahren werden muss. Aus geplanten 300 Euro werden plötzlich 1.500 Euro.
