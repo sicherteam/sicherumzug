@@ -76,7 +76,7 @@ Wir wissen, dass im Geschäftsumfeld Nachvollziehbarkeit und Dokumentation obers
 
 ## Umfassender Umzugsservice & Spezialtransporte
 
-Unsere Expertise deckt alle Facetten einer modernen **Übersiedlung** in Wien ab. Wir sind nicht nur für den klassischen Umzug da, sondern führen auch anspruchsvolle Spezialtransporte wie einen **Klaviertransport** oder einen schnellen **Express Umzug** zuverlässig durch. Mit modernen Hilfsmitteln und strapazierfähigem Verpackungsmaterial bringen wir selbst schwerste Lasten sicher ans Ziel.
+Unsere Expertise deckt alle Facetten einer modernen **Übersiedlung** in Wien ab. Wir sind nicht nur für den klassischen Umzug da, sondern führen auch anspruchsvolle Spezialtransporte wie einen **Tresortransport** oder einen schnellen **Express Umzug** zuverlässig durch. Mit modernen Hilfsmitteln und strapazierfähigem Verpackungsmaterial bringen wir selbst schwerste Lasten sicher ans Ziel.
 
 ## All-in-One: Umzug & Entrümpelung aus einer Hand
 

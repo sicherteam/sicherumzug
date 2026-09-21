@@ -3,7 +3,7 @@ last_modified_at: 2026-08-05T14:01:00+02:00
 layout: service
 title: "Tresortransport & Schwerlasttransport Österreich"
 seo_title: "Tresortransport Österreich: Sicher & professionell zum Fixpreis"
-description: "Spezialisierter Tresortransport und Schwertransport in ganz Österreich. Fachgerechte Logistik für Waffenschränke, Klaviere und Tresore inkl. Versicherung."
+description: "Spezialisierter Tresortransport und Schwertransport in ganz Österreich. Fachgerechte Logistik für Waffenschränke, Panzerschränke und Tresore inkl. Versicherung."
 kicker: "Schwertransport"
 permalink: /leistungen/tresortransport/
 schema_type: Service
@@ -19,7 +19,7 @@ highlights:
 checklist:
   - "Transport von Tresoren, Safes und Wertschutzschränken"
   - "Maschinentransporte und Industrieanlagen"
-  - "Klavier-, Flügel- und Schwerlasttransporte"
+  - "Gewerbliche und private Schwerlasttransporte"
   - "Kostenlose Vor-Ort-Besichtigung zur Machbarkeitsprüfung"
 faqs:
   - question: "Wie wird ein schwerer Tresor über Treppen transportiert?"
@@ -52,4 +52,4 @@ Detaillierte Informationen zur Vorbereitung, Gewichtsbestimmung und den bauliche
 
 > Sie müssen einen schweren Tresor oder eine Maschine transportieren lassen? [Fordern Sie hier ein kostenloses Fixpreis-Angebot an](/angebot/) oder besprechen Sie die Details direkt per [WhatsApp {{ site.phone }}]({{ site.whatsapp }}).
 
-Falls es sich bei Ihrer Schwerlast um ein Instrument handelt, bieten wir auch einen dedizierten, stark gepolsterten [Klaviertransport](/leistungen/klaviertransport/) an. Wenn der Tresor im Rahmen eines kompletten [Umzugsservices](/umzugsservice/) oder eines [Firmenumzugs](/leistungen/firmenumzug-wien/) mitübersiedeln soll, integrieren wir den Schwertransport nahtlos in die Gesamtlogistik.
+Wenn der Tresor im Rahmen eines kompletten [Umzugsservices](/umzugsservice/) oder eines [Firmenumzugs](/leistungen/firmenumzug-wien/) mitübersiedeln soll, integrieren wir den Schwertransport nahtlos in die Gesamtlogistik.

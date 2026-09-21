@@ -1,5 +1,11 @@
 /rechner/ /umzugskosten-rechner/ 301
 /rechner /umzugskosten-rechner/ 301
+/leistungen/klaviertransport/ /leistungen/spezialtransporte/ 301
+/leistungen/klaviertransport /leistungen/spezialtransporte/ 301
+/klaviertransport/ /leistungen/spezialtransporte/ 301
+/klaviertransport /leistungen/spezialtransporte/ 301
+/ratgeber/2026-01-25-klavier-transport-sicher-planen/ /leistungen/spezialtransporte/ 301
+/ratgeber/2026-01-25-klavier-transport-sicher-planen /leistungen/spezialtransporte/ 301
 # Canonical Hostname Redirection
 http://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!
 https://www.sicher-umzug.at/* https://sicher-umzug.at/:splat 301!

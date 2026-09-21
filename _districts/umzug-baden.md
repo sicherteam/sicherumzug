@@ -29,8 +29,8 @@ faqs:
     answer: "Die Kosten hängen vom Umzugsvolumen, der Zugänglichkeit (Lift vorhanden?), der Entfernung und den gebuchten Leistungen ab. Nach einer kostenlosen Besichtigung erhalten Sie in Baden ein Fixpreisangebot. Erfahren Sie mehr in unserem Ratgeber zu Umzugskosten."
   - question: "Organisieren Sie Halteverbotszonen in der Kurstadt Baden?"
     answer: "Ja, wir kümmern uns um die gesamte Koordination mit der Kurstadtverwaltung. Gerade im Zentrum und in der Kurzone sind die Zufahrten streng geregelt, daher übernehmen wir die Beantragung und Aufstellung der Schilder für Sie."
-  - question: "Haben Sie Erfahrung mit dem Transport von Antiquitäten und Klavieren?"
-    answer: "Ja, in den Gründerzeithäusern und Villen Badens transportieren wir häufig Antiquitäten, Kunst und Klaviere. Solche Spezialtransporte sind durch unser Fachpersonal und unsere All-Risk-Versicherung bestens abgedeckt."
+  - question: "Haben Sie Erfahrung mit dem Transport von Antiquitäten und Schwergut?"
+    answer: "Ja, in den Gründerzeithäusern und Villen Badens transportieren wir häufig Antiquitäten, Kunst und Tresore. Solche Spezialtransporte sind durch unser Fachpersonal und unsere All-Risk-Versicherung bestens abgedeckt."
   - question: "Können beim Umzug auch Möbel entsorgt werden?"
     answer: "Ja, wir bieten eine praktische Kombination aus Umzug und Entrümpelung an. Nicht mehr benötigte Möbel werden fachgerecht entsorgt. Für verwertbare Stücke bieten wir zudem eine Wertanrechnung an, die Ihre Umzugskosten reduziert."
 local_logistics_note: "Bei Einsätzen in Baden sichern wir Anfahrt, Etagenlogistik und Schutzmaterialien bereits in der Vorplanung, besonders für Villen und Objekte in der Kurzone."
@@ -67,7 +67,7 @@ Wir sind ein professionelles Umzugsunternehmen, das in ganz Österreich tätig i
 
 Unser Angebot in Baden umfasst:
 *   **Privatumzug:** Von der Etagenwohnung in der Innenstadt bis zur Familienübersiedlung in Bad Vöslau.
-*   **Villenumzug & Spezialtransporte:** Besonderer Schutz für Antiquitäten, Klaviere und wertvolles Inventar, typisch für das Rauhenstein-Viertel.
+*   **Villenumzug & Spezialtransporte:** Besonderer Schutz für Antiquitäten, Tresore und wertvolles Inventar, typisch für das Rauhenstein-Viertel.
 *   **Firmenumzug:** Professionelle Standortwechsel für Kurbetriebe, Praxen und Büros.
 *   **Einpackservice & Demontage:** Wir stellen das Material, packen fachgerecht ein und bauen Ihre [Möbel professionell auf und ab](/leistungen/moebelmontage/).
 *   **Umzug & Entrümpelung aus einer Hand:** Sparen Sie Zeit, indem wir nicht benötigtes Inventar im Zuge des Umzugs gleich räumen.

@@ -18,8 +18,8 @@ faqs:
     answer: "Unser Experte begutachtet die Antiquitäten vor Ort. Der vereinbarte Ankaufswert wird transparent von den Gesamtkosten der Wohnungs- oder Verlassenschaftsräumung abgezogen."
   - question: "Sind Kunstgegenstände während des Transports voll versichert?"
     answer: "Ja, für wertvolle Einzelstücke oder Sammlungen schließen wir eine gesonderte All-Risk-Kunsttransportversicherung ab, die Transportschäden zum vollen Schätzwert abdeckt."
-  - question: "Transportieren Sie auch schwere Musikinstrumente wie Flügel oder Klaviere?"
-    answer: "Ja, unser Team verfügt über geschultes Personal und Spezialequipment (Kran, Transportschlitten, Gurte) für den fachgerechten Klavier- und Flügeltransport in Wien."
+  - question: "Transportieren Sie auch besonders schwere Kunstgegenstände oder Tresore?"
+    answer: "Ja, unser Team verfügt über geschultes Personal und Spezialequipment (Kran, Transportschlitten, Gurte) für den fachgerechten Schwerguttransport in Wien."
 ---
 
 ## Schnell-Überblick: Kunst- & Antiquitätentransport

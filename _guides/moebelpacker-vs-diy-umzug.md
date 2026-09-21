@@ -33,7 +33,7 @@ Schauen wir uns die Gegenüberstellung für einen typischen Privathaushalt (z.B.
 ### Die professionelle Umzugsfirma
 *   **Vorteile:** Maximaler Komfort und massive Zeitersparnis. Schwere Lasten (Waschmaschine, Couch) werden mühelos transportiert. Fachgerechte Möbeldemontage und Remontage. Bereitstellung von professionellem Verpackungsmaterial. Behördliche Wege (wie Halteverbotszonen) werden abgenommen.
 *   **Nachteile:** Höhere Vorab-Kosten im Vergleich zum reinen Transporter-Mietpreis.
-*   **Ideal für:** Familien, Senioren, Berufstätige mit wenig Zeit, Besitzer von schweren Gegenständen (Klavier, Massivholzmöbel) oder bei Übersiedlungen über weite Distanzen (z.B. Wien nach Salzburg).
+*   **Ideal für:** Familien, Senioren, Berufstätige mit wenig Zeit, Besitzer von schweren Gegenständen (Tresore, Massivholzmöbel) oder bei Übersiedlungen über weite Distanzen (z.B. Wien nach Salzburg).
 
 ## Firmenumzüge (B2B): Warum DIY keine Option ist
 

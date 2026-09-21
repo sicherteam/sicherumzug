@@ -33,9 +33,9 @@ Gerne führen wir Firmenumzüge auch an Wochenenden oder in den Abendstunden dur
 
 ### Spezialtransporte: Schweres und Wertvolles sicher bewegt
 
-Neben Standardmöbeln gibt es bei fast jedem Umzug Stücke, die besondere Aufmerksamkeit erfordern. Ein Klaviertransport, das Bewegen eines schweren Tresors oder der Transport empfindlicher Kunstwerke erfordern nicht nur Muskelkraft, sondern auch technisches Know-how und Spezialausrüstung. Wir haben für all diese Herausforderungen die richtigen Fachkräfte und das passende Equipment.
+Neben Standardmöbeln gibt es bei fast jedem Umzug Stücke, die besondere Aufmerksamkeit erfordern. Das Bewegen eines schweren Tresors, großer Waffenschränke oder der Transport empfindlicher Kunstwerke erfordern nicht nur Muskelkraft, sondern auch technisches Know-how und Spezialausrüstung. Wir haben für all diese Herausforderungen die richtigen Fachkräfte und das passende Equipment.
 
-Für den Transport von Klavieren oder Stutzflügeln nutzen wir spezielle Tragegurte und gepolsterte Schlitten. Unsere Mitarbeiter sind im Umgang mit solchen empfindlichen Instrumenten speziell geschult und kennen die richtigen Techniken, um Beschädigungen an der Mechanik oder der Oberfläche zu vermeiden. Ähnlich gehen wir bei Tresoren oder schweren Maschinen vor. Wenn ein Transport über das Treppenhaus aufgrund von Gewicht oder Platzmangel unmöglich ist, organisieren wir Kräne oder Schwerlastlifte.
+Für den Transport von Tresoren oder schweren Maschinen nutzen wir spezielle Tragegurte, Panzerrollen und gepolsterte Schlitten. Unsere Mitarbeiter sind im Umgang mit solchen Gegenständen speziell geschult. Wenn ein Transport über das Treppenhaus aufgrund von Gewicht oder Platzmangel unmöglich ist, organisieren wir Kräne oder Schwerlastlifte.
 
 Auch für Kunstgegenstände wie Gemälde oder Skulpturen bieten wir maßgeschneiderte Lösungen an. Diese werden einzeln in spezielle Klimaboxen verpackt oder mit stoßdämpfenden Materialien gesichert, um Erschütterungen und Temperaturschwankungen während der Fahrt auszugleichen. Jeder Spezialtransport in Tirol wird von uns individuell geplant und mit größter Sorgfalt durchgeführt.
 
@@ -109,7 +109,7 @@ Je früher Sie sich bei uns melden, desto besser können wir Ihren Wunschtermin 
 Ja, selbstverständlich. Wir stellen Ihnen gerne professionelles und extrem stabiles Verpackungsmaterial zur Verfügung. Dazu gehören Umzugskartons in verschiedenen Größen (Bücherkartons, Standardkartons), spezielle Kleiderboxen, unbedrucktes Seidenpapier für Geschirr, Luftpolsterfolie und reißfestes Klebeband. Wir liefern Ihnen diese Materialien auf Wunsch auch gerne schon einige Wochen vorab bequem nach Hause.
 
 **Kümmern Sie sich auch um den Transport von sehr schweren oder wertvollen Dingen?**
-Ja, der fachgerechte Transport von schweren, sperrigen oder extrem wertvollen Gütern wie Klavieren, Stutzflügeln, massiven Tresoren, großen Maschinen oder Kunstwerken gehört zu unseren ausgewiesenen Spezialleistungen. Wir verfügen über das nötige Fachwissen, die Erfahrung und die notwendige technische Spezialausrüstung, um solche Transporte sicher und professionell durchzuführen.
+Ja, der fachgerechte Transport von schweren, sperrigen oder extrem wertvollen Gütern wie massiven Tresoren, großen Maschinen oder Kunstwerken gehört zu unseren ausgewiesenen Spezialleistungen. Wir verfügen über das nötige Fachwissen, die Erfahrung und die notwendige technische Spezialausrüstung, um solche Transporte sicher und professionell durchzuführen.
 
 **Muss ich bei einem Umzug zwingend selbst anwesend sein?**
 Es ist durchaus empfehlenswert, dass Sie oder eine von Ihnen bevollmächtigte Person beim Be- und Entladen anwesend sind. So können offene Fragen schnell geklärt werden und Sie können uns Anweisungen geben, wo genau welche Möbelstücke oder Kartons im neuen Zuhause platziert werden sollen. Wenn eine persönliche Anwesenheit absolut nicht möglich ist, können Sie uns auch gerne vorab einen exakten, detaillierten Stellplan übergeben und wir führen den Umzug komplett eigenständig durch.

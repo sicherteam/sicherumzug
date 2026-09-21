@@ -20,7 +20,7 @@ checklist:
   - "Verpackung von kompletten Haushalten inkl. Dachboden und Keller"
   - "Bereitstellung von Umzugskartons, Kleiderboxen und Schutzfolien"
   - "Auf- und Abbau von Möbelstücken durch geschultes Personal"
-  - "Sicherer Transport von empfindlichen Gegenständen (Klavier, Kunst)"
+  - "Sicherer Transport von empfindlichen Gegenständen (Kunst, Antiquitäten)"
 process:
   - title: "Kostenlose Besichtigung"
     description: "Wir besichtigen Ihr Haus (inkl. Nebenräume) um das genaue Umzugsvolumen zu ermitteln."
@@ -51,7 +51,7 @@ Bei einem Hausumzug geht es nicht nur um den Transport von "A nach B". Es erford
 
 *   **Volumen-Management:** Oft werden mehrere LKWs benötigt. Eine Vorab-Besichtigung ist unerlässlich, um das Ladevolumen korrekt zu berechnen.
 *   **De- und Montagearbeiten:** Große Einbauschränke, Boxspringbetten oder komplexe Regalsysteme müssen fachmännisch zerlegt und am Zielort wieder aufgebaut werden. Unser Team bringt das nötige Werkzeug und Know-how mit.
-*   **Schwergut:** Gibt es ein Klavier, einen Tresor oder schwere Gartengeräte? Solche Spezialtransporte planen wir von Beginn an mit ein.
+*   **Schwergut:** Gibt es einen Tresor, schwere Maschinen oder massive Gartenmöbel? Solche Spezialtransporte planen wir von Beginn an mit ein.
 *   **Zugangswege:** Ist das neue Haus gut erreichbar? Müssen Halteverbotszonen für den LKW eingerichtet werden? Wir kümmern uns um die behördlichen Genehmigungen.
 
 ### Unser Baukasten für Ihren Hausumzug

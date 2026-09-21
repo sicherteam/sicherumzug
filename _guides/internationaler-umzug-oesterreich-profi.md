@@ -69,7 +69,7 @@ Auf langen Transportwegen – insbesondere bei Seetransporten über mehrere Woch
 ### Das professionelle "Export-Packing":
 Für internationale Umzüge reicht das einfache Verpacken in Standardkartons nicht aus. Wir setzen auf spezielles **Export-Packing**:
 - **Luftgepolsterte Möbeldecken und Spezialvlies:** Schützen Echtholzmöbel vor Reibung, Erschütterungen und extremen Temperaturschwankungen im Schiffscontainer.
-- **Holzverschläge (Crater-Boxen):** Für hochempfindliche Kunstwerke, Marmorplatten, Klaviere oder Kristalllüster werden maßgeschneiderte Kisten aus Holz angefertigt.
+- **Holzverschläge (Crater-Boxen):** Für hochempfindliche Kunstwerke, Marmorplatten, Antiquitäten oder Kristalllüster werden maßgeschneiderte Kisten aus Holz angefertigt.
 - **Trockenmittel (Silica-Gel):** Verhindert Feuchtigkeitsschäden und Schimmelbildung durch Kondenswasserbildung während des Seetransports.
 
 ---

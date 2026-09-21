@@ -15,7 +15,7 @@ highlights:
   - "Haftpflicht- & All-Risk-Transportversicherung bis € 1.000.000"
   - "Erfahrenes und geschultes Umzugsteam"
 checklist:
-  - "Sicherer Transport von Möbeln, Klavieren und Schwergut"
+  - "Sicherer Transport von Möbeln, Tresoren und Schwergut"
   - "Privatumzug, Seniorenumzug und Familienübersiedlung"
   - "Firmenumzug, Büroübersiedlung und Lagerumzüge"
   - "Ein- und Auspackservice inklusive Umzugskartons"
@@ -60,7 +60,7 @@ permalink: /leistungen/umzug-oesterreich/
 
 Als führende **Umzugsfirma in Österreich** bietet Sicher Team Ihnen einen sorgenfreien Komplettservice für Ihren Wohnungswechsel. Von der sorgfältigen Planung über den sicheren **Möbeltransport** bis hin zur fachgerechten Montage am Zielort – unser geschultes und fest angestelltes Team betreut Ihren **Privatumzug** oder **Firmenumzug** absolut verlässlich und diskret.
 
-Ob es sich um einen **Privatumzug**, einen **Firmenumzug**, einen **Büroumzug**, einen sensiblen **Seniorenumzug** oder einen günstigen **Studentenumzug** handelt – der **Umzugsservice** von Sicher Team deckt jeden Wunsch ab. Mit über 15 Jahren Erfahrung kümmern wir uns um die gesamte **Übersiedlung** inklusive **Verpackungsservice**, sicheren **Möbeltransport**, fachgerechte **Möbelmontage**, **Klaviertransport**, Einrichtung einer behördlichen **Halteverbotszone** und auf Wunsch einen schnellen **Express Umzug**.
+Ob es sich um einen **Privatumzug**, einen **Firmenumzug**, einen **Büroumzug**, einen sensiblen **Seniorenumzug** oder einen günstigen **Studentenumzug** handelt – der **Umzugsservice** von Sicher Team deckt jeden Wunsch ab. Mit über 15 Jahren Erfahrung kümmern wir uns um die gesamte **Übersiedlung** inklusive **Verpackungsservice**, sicheren **Möbeltransport**, fachgerechte **Möbelmontage**, **Spezialtransporte**, Einrichtung einer behördlichen **Halteverbotszone** und auf Wunsch einen schnellen **Express Umzug**.
 
 Die Experten von Sicher Team kombinieren modernste Transportlogistik mit umfassenden Sicherheitsgarantien (Vollkasko- und Transportversicherung bis € 1.000.000) und einer 100% Fixpreisgarantie. So können Sie entspannt in Ihr neues Zuhause oder neue Betriebsräumlichkeiten in Wien, Niederösterreich, dem Burgenland oder ganz Österreich starten. Kontaktieren Sie Sicher Team noch heute für Ihr kostenloses Fixpreisangebot.
 
@@ -75,7 +75,7 @@ Ein besonderer Vorteil bei Sicher Team: Wir sind sowohl eine erstklassige Umzugs
 
 - **Privatumzug & Übersiedlung:** Sorgenfreie Wohnungsumzüge für Singles, Familien und Senioren.
 - **Firmenumzug & Büroübersiedlung:** Strukturierte Verlagerung von Arbeitsplätzen, Archiven und IT-Infrastruktur mit minimalen Ausfallzeiten.
-- **Sicherer Möbeltransport:** Transport von empfindlichen Möbeln, Kunstgegenständen oder Schwergut (z. B. Klaviere).
+- **Sicherer Möbeltransport:** Transport von empfindlichen Möbeln, Kunstgegenständen oder Schwergut (z. B. Tresore).
 - **Ein- & Auspackservice:** Auf Wunsch verpacken wir Ihr gesamtes Hab und Gut in stabile Umzugskartons.
 - **De- und Montage:** Fachgerechter Abbau Ihrer Möbel (inklusive Küchen) und professioneller Wiederaufbau am Zielort.
 
