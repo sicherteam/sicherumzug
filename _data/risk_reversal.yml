@@ -12,12 +12,19 @@
   active: true
   priority: 2
 
+- id: best_price
+  label: Bestpreis-Garantie (-5%)
+  detail: Zeigen Sie uns ein schriftliches Vergleichsangebot – wir unterbieten es garantiert um 5%!
+  icon: verified
+  active: true
+  priority: 3
+
 - id: fixed_price
   label: 100% Fixpreisgarantie
   detail: Schriftliches Festpreisangebot ohne versteckte Kosten.
   icon: verified
   active: true
-  priority: 3
+  priority: 4
 
 - id: licensed_staff
   label: All-Risk-Versicherung

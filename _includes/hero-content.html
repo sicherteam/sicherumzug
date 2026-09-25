@@ -7,7 +7,7 @@
   <div class="{{ content_classes }}">
     
     <!-- Micro-Badge (Social Proof Tag / Kicker) -->
-    {% assign display_kicker = include.kicker | default: '100% FIXPREISGARANTIE' %}
+    {% assign display_kicker = include.kicker | default: '100% FIXPREISGARANTIE & BESTPREIS-GARANTIE (-5%)' %}
     <div class="bg-slate-900/40 border border-slate-700/40 text-orange-400 text-xs font-bold px-4 py-1.5 rounded-full w-max flex items-center gap-2 mb-4 backdrop-blur-md md:mx-auto shadow-sm">
       <svg class="w-4 h-4 shrink-0 fill-current" viewBox="0 0 20 20"><path d="M10 2L2 6v5.5c0 4.14 3.41 7.91 8 9.5 4.59-1.59 8-5.36 8-9.5V6l-8-4zm0 2.37l6 3v4.13c0 3.16-2.4 6.08-6 7.37-3.6-1.29-6-4.21-6-7.37V7.37l6-3zM8.3 13.3l-2.6-2.6 1.41-1.41 1.19 1.19 4.29-4.29 1.41 1.41-5.7 5.7z"/></svg>
       <span class="uppercase tracking-wider">{{ display_kicker }}</span>
@@ -85,6 +85,10 @@
       <div class="flex items-center gap-2">
         <svg class="w-4 h-4 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
         All-Risk Versichert
+      </div>
+      <div class="flex items-center gap-2 font-bold text-orange-400">
+        <svg class="w-4 h-4 text-orange-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+        Bestpreis-Garantie (-5%)
       </div>
     </div>
 

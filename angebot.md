@@ -11,6 +11,9 @@ include_form: true
 form_anchor_id: "angebot-form"
 permalink: /angebot/
 ---
+
+{% include bestpreis-banner.html %}
+
 ## Fragen zur kostenlosen Entrümpelung?
 
 Sie haben gelesen, dass Entrümpelungen in Wien manchmal gratis sind? Wir prüfen bei jeder Besichtigung, welche Wertgegenstände wir anrechnen können und wie sich dadurch Ihr Fixpreis reduziert. Im [Ratgeber zur Gratis Entrümpelung](/ratgeber/gratis-entruempelung-wien/) erfahren Sie vorab, welche Voraussetzungen erfüllt sein müssen und wie wir unser Angebot transparent dokumentieren.

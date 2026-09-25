@@ -16,6 +16,8 @@ permalink: /preise/
   {% include calculator.html %}
 </section>
 
+{% include bestpreis-banner.html %}
+
 Bei Sicher Team stehen Fairness und Transparenz an erster Stelle. Statt unklarer Stundensätze erhalten Sie nach einer kostenlosen Besichtigung ein **schriftliches Angebot mit garantiertem Fixpreis** – egal, ob es um einen österreichweiten Umzug oder eine ergänzende Räumung geht.
 
 ## So kalkulieren wir Ihren Fixpreis
