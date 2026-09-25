@@ -193,6 +193,7 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           countIndicator = document.createElement('p');
           countIndicator.id = 'file-count-indicator';
           countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
+          countIndicator.setAttribute('aria-live', 'polite');
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
         countIndicator.textContent = selectedFiles.length === 1
