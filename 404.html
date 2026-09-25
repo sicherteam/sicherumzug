@@ -4,10 +4,21 @@ title: "404: Seite nicht gefunden"
 permalink: /404.html
 ---
 
-<div class="container mx-auto px-4 py-16 text-center">
-  <h1 class="text-4xl font-bold mb-4">404</h1>
-  <p class="text-lg mb-8">Die von Ihnen gesuchte Seite konnte nicht gefunden werden.</p>
-  <a href="{{ "/" | relative_url }}" class="bg-primary-button text-white font-bold py-2 px-4 rounded">
-    Zurück zur Startseite
-  </a>
+<div class="container mx-auto px-4 py-16 md:py-24 text-center max-w-2xl">
+  <div class="inline-flex items-center justify-center w-20 h-20 rounded-3xl bg-orange-500/10 text-orange-500 mb-6 font-extrabold text-3xl border border-orange-500/20 shadow-sm">
+    404
+  </div>
+  <h1 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight mb-4">Seite nicht gefunden</h1>
+  <p class="text-base md:text-lg text-slate-600 mb-8 leading-relaxed">
+    Die von Ihnen gesuchte Seite existiert leider nicht oder wurde verschoben. Kein Problem – wir bringen Sie schnell wieder auf den richtigen Weg!
+  </p>
+  <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
+    <a href="{{ '/' | relative_url }}" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-slate-950 font-bold px-6 py-3.5 shadow-lg shadow-orange-500/20 active:scale-95 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 transition-all">
+      {% include svg/home.svg class="w-5 h-5 shrink-0 fill-current" %}
+      <span>Zurück zur Startseite</span>
+    </a>
+    <a href="{{ '/leistungen/' | relative_url }}" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-full border border-slate-300 bg-white hover:bg-slate-50 text-slate-800 font-bold px-6 py-3.5 shadow-sm active:scale-95 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 transition-all">
+      <span>Unsere Leistungen</span>
+    </a>
+  </div>
 </div>
