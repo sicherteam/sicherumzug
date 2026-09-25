@@ -45,5 +45,9 @@ schema_type: Homepage
   </div>
 </section>
 
+<div class="container mx-auto px-4">
+  {% include bestpreis-banner.html %}
+</div>
+
 ## Umfassende Logistik & Abwicklung für Privat & Gewerbe
 Unsere Planung reicht vom Aufbau von Halteverbotszonen in stark frequentierten Bezirken bis hin zum Einsatz von Schrägaufzügen für Dachgeschosswohnungen. Auch am neuen Standort kümmern wir uns darum, dass jeder Karton ins richtige Zimmer getragen und jedes Möbelstück fachgerecht platziert wird. So wird Ihr Umzug zum Erfolg.
