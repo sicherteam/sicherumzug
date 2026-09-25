@@ -4,7 +4,20 @@ title: "Offline"
 permalink: /offline.html
 sitemap: false
 ---
-<div class="text-center py-20">
-    <h1 class="text-4xl font-bold mb-4">Sie sind offline</h1>
-    <p class="text-gray-600 mb-8">Es sieht so aus, als hätten Sie keine aktive Internetverbindung. Bitte überprüfen Sie Ihre Netzwerkeinstellungen und laden Sie die Seite neu.</p>
+<div class="container mx-auto px-4 py-16 md:py-24 text-center max-w-2xl">
+  <div class="inline-flex items-center justify-center w-20 h-20 rounded-3xl bg-amber-500/10 text-amber-500 mb-6 font-extrabold text-3xl border border-amber-500/20 shadow-sm">
+    📡
+  </div>
+  <h1 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight mb-4">Sie sind offline</h1>
+  <p class="text-base md:text-lg text-slate-600 mb-8 leading-relaxed">
+    Es sieht so aus, als hätten Sie keine aktive Internetverbindung. Bitte überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.
+  </p>
+  <div class="flex flex-col sm:flex-row items-center justify-center gap-3">
+    <button type="button" onclick="window.location.reload()" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-slate-950 font-bold px-6 py-3.5 shadow-lg shadow-orange-500/20 active:scale-95 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 transition-all cursor-pointer">
+      <span>Seite neu laden</span>
+    </button>
+    <a href="{{ '/' | relative_url }}" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-full border border-slate-300 bg-white hover:bg-slate-50 text-slate-800 font-bold px-6 py-3.5 shadow-sm active:scale-95 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-400 focus-visible:ring-offset-2 transition-all">
+      <span>Zur Startseite</span>
+    </a>
+  </div>
 </div>

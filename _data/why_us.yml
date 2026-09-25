@@ -4,9 +4,12 @@
 - title: Professionelle De- & Montage
   description: Unser erfahrenes Team kümmert sich um den millimetergenauen Abbau und den stabilen Aufbau Ihrer Einrichtung am neuen Wohnort.
   icon: build_circle
+- title: Bestpreis-Garantie (-5%)
+  description: Haben Sie bereits ein schriftliches Angebot einer konzessionierten Umzugsfirma in Österreich? Wir machen Ihnen ein Gegenangebot, das garantiert 5% günstiger ist!
+  icon: price_check
 - title: 100% Fixpreis ohne Überraschungen
   description: Sie erhalten vorab ein transparentes, schriftliches Festpreisangebot. Wir berechnen weder Anfahrtskosten noch versteckte Wochenendzuschläge.
-  icon: price_check
+  icon: verified
 - title: Hochwertiges Verpackungsmaterial
   description: Für einen optimalen Schutz stellen wir Ihnen stabile Umzugskartons, Kleiderboxen und spezielles Seidenpapier für Zerbrechliches zur Verfügung.
   icon: inventory_2

@@ -61,3 +61,7 @@
 ## 2026-09-18 - Modal Overlay Focus Trapping for Accessible Navigation Drawers
 **Learning:** When opening full-page or full-screen navigation overlays on mobile devices, keying `Tab` or `Shift + Tab` can allow browser focus to escape into invisible elements behind the overlay container. Intercepting `keydown` events when the overlay is open and trapping focus between the first and last visible focusable elements complies with WCAG 2.1 SC 2.4.3 (Focus Order) and guarantees a seamless keyboard user experience.
 **Action:** Always attach a global `Tab` listener when full-screen drawers or modal overlays are active to trap keyboard focus between `visibleFocusables[0]` and `visibleFocusables[last]`.
+
+## 2026-09-25 - ARIA Live Regions for Dynamic Price Outputs and File Counters
+**Learning:** Dynamically updated textual output elements (such as price calculation estimates or photo upload selection counts) are invisible to screen reader users when updated via DOM manipulation unless configured as ARIA live regions. Adding `aria-live="polite"` (and `aria-atomic="true"`) ensures screen readers smoothly announce updated estimates and file selection counts as soon as users interact with options or select files.
+**Action:** Always configure dynamic result containers and selection indicators with `aria-live="polite"` so screen reader users receive automatic auditory feedback on state updates.
