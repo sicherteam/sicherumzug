@@ -145,10 +145,20 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           feedbackEl.textContent = textToCopy + ' in die Zwischenablage kopiert.';
         }
         var origTitle = btn.getAttribute('title');
+        var origAriaLabel = btn.getAttribute('aria-label');
+        var origSvg = btn.innerHTML;
         btn.setAttribute('title', 'Kopiert!');
+        btn.setAttribute('aria-label', 'Kopiert!');
+        btn.innerHTML = '<svg class="w-3.5 h-3.5 shrink-0 fill-current" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>';
         btn.classList.add('text-amber-400');
         setTimeout(function() {
           btn.setAttribute('title', origTitle);
+          if (origAriaLabel) {
+            btn.setAttribute('aria-label', origAriaLabel);
+          } else {
+            btn.removeAttribute('aria-label');
+          }
+          btn.innerHTML = origSvg;
           btn.classList.remove('text-amber-400');
         }, 2000);
       }).catch(function() {});
