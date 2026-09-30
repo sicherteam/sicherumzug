@@ -12,15 +12,43 @@ takeaways:
   - "Gewerbliche Speditionen haften gesetzlich für Schäden am Umzugsgut gemäß UGB / Frachtrecht vom Zeitpunkt der Übernahme bis zur Ablieferung."
   - "Sichtbare Schäden müssen bei der Wohnungsübergabe sofort protokoliert, verdeckte Mängel innerhalb gesetzlicher Fristen (meist 7 Tage) schriftlich gemeldet werden."
 faqs:
+  - question: "Welche gesetzliche Haftung gilt für gewerbliche Speditionen nach dem Unternehmensgesetzbuch (UGB)?"
+    answer: "Gewerbliche Umzugsunternehmen unterliegen in Österreich der Frachtführerhaftung gemäß §§ 425 ff UGB. Die Spedition haftet für Verlust oder Beschädigung des Gutes ab Übernahme bis zur Ablieferung sowie für Überschreitung der Lieferfrist. Seriöse Speditionen wie Sicher Team sichern diese Risiken mit einer Betriebshaftpflicht- und Transportversicherung bis 1 Mio. EUR ab."
   - question: "Haftet die private Privathaftpflichtversicherung von Freunden, wenn diese beim Umzug etwas beschädigen?"
-    answer: "Oft nein. Viele Privathaftpflichtversicherungen schließen Schäden aus sogenannten Gefälligkeitshandlungen (unentgeltliche Nachbarschafts- oder Freundschaftshilfe) aus, sofern nicht ausdrücklich der Baustein Gefälligkeitsschäden mitversichert ist."
-  - question: "Wie ist mein Hab und Gut bei einer professionellen Umzugsfirma versichert?"
-    answer: "Seriöse Speditionen verfügen über eine Frachtführer-Haftpflichtversicherung sowie eine Betriebshaftpflichtversicherung. Ergänzend kann für besonders wertvolle Güter eine All-Risk-Transportversicherung abgeschlossen werden."
-  - question: "Wer haftet, wenn beim Tragen das Stiegenhaus oder der Aufzug beschädigt wird?"
-    answer: "Beauftragen Sie eine Profi-Spedition, deckt deren Betriebshaftpflichtversicherung Kratzer an Wänden, Geländern oder Schäden im Fahrstuhl ab. Bei privaten Helfern haftet grundsätzlich der Umziehende gegenüber der Hausverwaltung."
-  - question: "Was muss ich tun, wenn ich nach dem Umzug einen beschädigten Gegenstand im Karton finde?"
-    answer: "Verdeckte Schäden (im Karton) müssen der Umzugsfirma unverzüglich, spätestens jedoch innerhalb von 7 Tagen nach dem Umzugstag, schriftlich mit Fotos gemeldet werden."
+    answer: "Nach ständiger OGH-Rechtsprechung gilt Freundschaftshilfe als unentgeltliche Gefälligkeitshandlung (§ 1295 ABGB). Standard-Privathaftpflichtversicherungen schließen Gefälligkeitsschäden aus, sofern kein spezieller Zusatzbaustein abgeschlossen wurde."
+  - question: "Wer haftet, wenn beim Möbeltragen das Stiegenhaus oder der Aufzug beschädigt wird?"
+    answer: "Bei einer professionellen Möbelspedition deckt deren Betriebshaftpflichtversicherung Kratzer an Wänden, Geländern oder Dellen im Aufzug ab. Bei privaten Helfern haftet der Umziehende selbst gegenüber der Hausverwaltung."
+  - question: "Wie lange ist die Reklamationsfrist für verdeckte Umzugsschäden nach dem UGB?"
+    answer: "Offensichtliche Schäden müssen sofort bei der Ablieferung im Übernahmeprotokoll vermerkt werden. Verdeckte Schäden (z. B. im Karton) müssen der Spedition gemäß UGB unverzüglich, spätestens jedoch innerhalb von 7 Tagen schriftlich mit Fotos gemeldet werden."
 ---
+
+<div class="my-8 rounded-2xl border border-emerald-200/80 bg-emerald-50/60 p-6 shadow-sm">
+  <div class="flex items-center gap-3 mb-3">
+    <svg class="w-6 h-6 text-emerald-600 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+    <h2 class="text-xl font-bold text-slate-900 m-0">Zusammenfassung &amp; Wichtigste Fakten</h2>
+  </div>
+  <p class="text-base text-slate-700 leading-relaxed font-medium mb-4">
+    Das <strong>Sicher Team</strong> bietet Ihnen maximale Rechtssicherheit bei Übersiedlungen und Transporten in ganz Österreich. Als konzessionierte Möbelspedition verfügen wir über umfassende <strong>Betriebshaftpflicht- und Transportversicherungen</strong>, die Ihr Hab und Gut gesetzlich nach §§ 425 ff UGB vollständig absichern.
+  </p>
+  <ul class="space-y-2 text-sm text-slate-800 m-0 pl-0 list-none">
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Gesetzliche Frachtführerhaftung (UGB):</strong> Lückenlose Haftung ab Übernahme bis zur Ablieferung im Gegensatz zum Haftungsausschluss bei privaten Umzugshelfern (§ 1295 ABGB).</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>All-Risk Transportversicherung:</strong> Versicherungsschutz für Möbel, Antiquitäten und Baugut bis 1.000.000 EUR Deckungssumme.</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Stiegenhaus- &amp; Gebäudeschutz:</strong> Abdeckung eventueller Wandschäden oder Aufzugskratzer gegenüber Hausverwaltungen.</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Klare Reklamationsfristen:</strong> Sofortige Protokollierung bei Sichtmängeln sowie 7 Tage Frist für verdeckte Schäden laut UGB.</span>
+    </li>
+  </ul>
+</div>
 
 ## Schnell-Überblick: Haftung bei Transportschäden
 
@@ -32,7 +60,7 @@ faqs:
 | **Beweispflicht** | Geschädigter muss Verschulden beweisen | Spedition haftet für Sorgfaltspflicht |
 | **Ansprechpartner** | Privatperson | [Sicher Team Kundenservice](/leistungen/umzug-wien/) |
 
-**Wer haftet, wenn beim Umzug in Österreich Möbel oder Wände beschädigt werden?** Während private Bekannte bei einer unentgeltlichen Gefälligkeitshilfe gesetzlich stark privilegiert sind und bei leichter Fahrlässigkeit meist gar nicht haften, tragen gewerbliche Möbelspeditionen in Österreich eine gesetzliche Frachtführerhaftung nach dem Unternehmensgesetzbuch (UGB). Professionelle Anbieter sichern das Inventar zudem über umfassende Transportversicherungen ab.
+**Wer haftet, wenn beim Umzug in Österreich Möbel oder Wände beschädigt werden?** Während private Bekannte bei einer unentgeltlichen Gefälligkeitshilfe gesetzlich stark privilegiert sind und bei leichter Fahrlässigkeit meist gar nicht haften (OGH Rechtsprechung), tragen gewerbliche Möbelspeditionen in Österreich eine gesetzliche Frachtführerhaftung nach dem Unternehmensgesetzbuch (UGB). Professionelle Anbieter sichern das Inventar zudem über umfassende Transportversicherungen ab.
 
 ---
 

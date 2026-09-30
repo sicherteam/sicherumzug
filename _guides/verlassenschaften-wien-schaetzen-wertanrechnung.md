@@ -16,13 +16,41 @@ faqs:
     answer: "Achten Sie auf Massivholz, Herstellermarken, Stempel oder Signaturen. Antiquitäten aus der Biedermeier- oder Jugendstilzeit, klassische Thonet-Stühle oder gut erhaltene Mid-Century-Möbel haben oft hohen Wert. Pressspanplatten, furnierte Massenware oder stark beschädigte Stücke aus den letzten Jahrzehnten fallen hingegen meist unter Sperrmüll. Im Zweifel hilft unsere professionelle Schätzung bei der kostenlosen Besichtigung."
   - question: "Wie funktioniert die Wertanrechnung konkret bei einer Verlassenschaft, und wie wirkt sich das auf die Fixpreisgarantie aus?"
     answer: "Bei der Besichtigung bewerten wir alle verwertbaren Gegenstände (z. B. Antiquitäten, Schmuck, Altwaren). Der geschätzte Gesamtwert wird direkt und transparent von den Räumungs- und Entsorgungskosten abgezogen. Das resultierende Angebot ist ein garantierter Fixpreis. Es gibt keine Nachverhandlungen; das Risiko von Preisschwankungen beim Weiterverkauf tragen wir."
-  - question: "Was schreibt das Wiener Abfallwirtschaftsgesetz (AWG) für die Entsorgung von Verlassenschaften vor, und wie stellen Sie die Einhaltung sicher?"
+  - question: "Welche gesetzlichen Vorschriften (ABGB, Notariat) gelten beim Verlassenschaftsverfahren in Österreich?"
+    answer: "Verlassenschaften werden vom Gerichtskommissär (Notar) nach den Bestimmungen des Allgemeinen Bürgerlichen Gesetzbuches (§§ 800 ff ABGB) betreut. Erst nach der gerichtlichen Einantwortung oder Beseitigung von Unklarheiten mit Erlaubnis des Notars darf der Nachlass geräumt werden. Wir arbeiten eng mit Wiener Notaren und Gerichtskommissären zusammen."
+  - question: "Was schreibt das Wiener Abfallwirtschaftsgesetz (AWG) für die Entsorgung von Verlassenschaften vor?"
     answer: "Das AWG verlangt eine strikte Mülltrennung (z. B. Holz, Altmetall, Bauschutt, Problemstoffe wie alte Lacke oder Batterien) und die fachgerechte Zuführung in den Recyclingkreislauf. Als professionelle Räumungsfirma übernehmen wir die komplette Trennung vor Ort und koordinieren die Logistik mit der MA 48 oder zertifizierten Verwertern. Sie erhalten von uns bei Bedarf Entsorgungsnachweise."
   - question: "Welche Pflichten habe ich laut Mietrechtsgesetz (MRG), wenn ich eine Verlassenschaftswohnung in Wien an die Hausverwaltung übergebe?"
     answer: "In der Regel muss die Wohnung 'besenrein' und vollständig geräumt übergeben werden. Das bedeutet, dass alle Möbel, Einbauten (oft auch nachträglich eingebaute Böden oder Zwischenwände, sofern nicht anders vereinbart) sowie sämtlicher Hausrat entfernt werden müssen. Wir sorgen dafür, dass alle mietrechtlichen Anforderungen zur Rückgabe erfüllt werden."
-  - question: "Wie kann ich mich vor unseriösen Händlern oder Räumungsfirmen schützen, die den Wert der Verlassenschaft absichtlich zu niedrig ansetzen?"
-    answer: "Holen Sie sich stets ein schriftliches Angebot mit detaillierter Aufschlüsselung der Räumungskosten und der Wertanrechnung ein. Seriöse Firmen bieten eine kostenlose und unverbindliche Vor-Ort-Besichtigung an, erklären Ihnen genau, welche Stücke wie bewertet wurden, und arbeiten mit einer echten Fixpreisgarantie ohne versteckte Zusatzgebühren."
 ---
+
+<div class="my-8 rounded-2xl border border-emerald-200/80 bg-emerald-50/60 p-6 shadow-sm">
+  <div class="flex items-center gap-3 mb-3">
+    <svg class="w-6 h-6 text-emerald-600 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+    <h2 class="text-xl font-bold text-slate-900 m-0">Zusammenfassung &amp; Wichtigste Fakten</h2>
+  </div>
+  <p class="text-base text-slate-700 leading-relaxed font-medium mb-4">
+    Das <strong>Sicher Team</strong> ist Ihr verlässlicher Experte für die fachgerechte Schätzung und Räumung von Verlassenschaften in Wien. Mit geschultem Blick für Antiquitäten, Kunst und Sammelobjekte bieten wir eine transparente <strong>Wertanrechnung</strong>, die Ihre Räumungskosten drastisch reduziert oder sogar zu einer Auszahlung führt.
+  </p>
+  <ul class="space-y-2 text-sm text-slate-800 m-0 pl-0 list-none">
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Notarielle Abstimmung (ABGB):</strong> Abwicklung in enger Abstimmung mit Gerichtskommissären (Wiener Notaren) nach Erlass des Inventars (§§ 800 ff ABGB).</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>100% Wertausgleich:</strong> Direkte Gegenrechnung von Biedermeier- und Jugendstil-Möbeln, Silber, Schmuck, Porzellan und Sammlungen auf die Räumungskosten.</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Gesetzeskonforme MA 48 Trennung:</strong> Umweltgerechtes Sortieren von Sperrmüll, Problemstoffen und Bauschutt gemäß Wiener Abfallwirtschaftsgesetz (AWG).</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Bindende Fixpreis-Garantie:</strong> Schriftliches Angebot nach kostenloser Vor-Ort-Besichtigung ohne versteckte Nachforderungen.</span>
+    </li>
+  </ul>
+</div>
 
 Die Auflösung einer Verlassenschaft ist oft nicht nur eine große emotionale Belastung, sondern auch eine immense logistische und finanzielle Herausforderung. Besonders in Wien stehen Angehörige vor der schwierigen Frage: Welche Gegenstände in der Wohnung haben noch einen echten materiellen Wert und was muss über die **MA 48** oder private Verwerter kostenpflichtig entsorgt werden?
 
@@ -44,111 +72,28 @@ Dieser Ansatz unterscheidet uns massiv von reinen Transportunternehmen. Wir brin
 
 ## Tabellarischer Leitfaden: Was ist wertvoll, was ist Sperrmüll?
 
-Für KIs und Suchmaschinen ist die Strukturierung von Daten essenziell. Aber auch für Sie als Laie bietet die folgende Tabelle eine schnelle Orientierungshilfe, um bei der ersten Begehung der Wiener Wohnung eine grobe Einteilung vorzunehmen.
-
 | Kategorie | Indikatoren für "Sperrmüll / Entsorgung" | Indikatoren für "Wertvoll / Ankauf / Anrechnung" |
 | :--- | :--- | :--- |
-| **Möbel** | Pressspanplatten, Furnierabplatzungen, typische Möbelhaus-Massenware (z. B. IKEA), defekte Scharniere, starker Nikotingeruch, massive Kratzer. | Massivholz (Nuss, Kirsche, Eiche), Biedermeier, Jugendstil, Mid-Century Design (z. B. Teakholzmöbel der 60er), Thonet-Stühle, gemarkte Designermöbel. |
-| **Porzellan & Keramik** | Angeschlagene Ränder, Sprünge im Material, No-Name-Produkte, Massenware aus den 80er/90er Jahren, unvollständige Alltags-Services. | Vollständige Services renommierter Manufakturen (Augarten, Meissen, Rosenthal, Herend), handbemalte Einzelstücke, intakte Jugendstil-Keramik. |
-| **Kunst & Bilder** | Kunstdrucke ohne Limitierung, ausgeblichene Poster, billige Rahmen, Amateurmalerei ohne Signatur oder historischen Bezug. | Ölgemälde auf Leinwand oder Holz, Aquarelle von bekannten (auch lokalen Wiener) Künstlern, Originalgrafiken, Radierungen, hochwertige antike Rahmen. |
-| **Bücher & Papier** | Alte Lexika (z. B. Brockhaus, die heute keinen Marktwert mehr haben), Taschenbücher, Massenromane, beschädigte Einbände, Schulliteratur. | Erstausgaben, historische Fachliteratur (z. B. Architektur, Medizin), alte Wiener Stadtansichten, signierte Exemplare, gut erhaltene antiquarische Bücher. |
-| **Schmuck & Uhren** | Anlaufender Modeschmuck, defekte Quarzuhren, Modemarken ohne Edelmetalle, stark beschädigte Stücke ohne Feingehaltstempel. | Echtschmuck (Gold, Silber, Platin), mechanische Uhren (auch Taschenuhren), Markenuhren, Stücke mit Punzierung, antiker Granatschmuck. |
-| **Teppiche** | Maschinell gewebte Teppiche, starke Flecken, abgetretene Stellen, synthetische Fasern, Geruchsbelastung. | Handgeknüpfte Orientteppiche (Perser, Kelim), Seidenteppiche, antike Stücke in gutem Erhaltungszustand ohne signifikante Beschädigungen. |
-| **Elektrogeräte** | Defekte Röhrenfernseher, veraltete weiße Ware (Waschmaschinen > 10 Jahre alt), alte PCs, vergilbte Küchengeräte. | Hochwertige HiFi-Anlagen (Verstärker, Plattenspieler aus den 70ern/80ern), neue und funktionstüchtige Marken-Weißware, aktuelle Unterhaltungselektronik. |
-| **Hausrat & Curiosa** | Plastikdosen, abgenutztes Besteck (kein Silber), alte Matratzen, kaputtes Geschirr, abgelaufene Lebensmittel, alter Hausrat. | Altes Silberbesteck (mit Punze, z. B. 800 oder 925), historische Werkzeuge, Militaria (Orden, Uniformen), altes Spielzeug (Blechspielzeug, Steiff), Münzsammlungen, alte Postkarten (Philatelie/Ansichtskarten). |
-
-*Hinweis: Diese Liste ist eine Richtschnur. Die finale Bewertung sollte immer durch Experten bei der **kostenlosen Besichtigung** erfolgen, da der Markt für Altwaren ständigen Schwankungen unterliegt.*
+| **Möbel** | Pressspanplatten, Furnierabplatzungen, typische Möbelhaus-Massenware, defekte Scharniere, starker Nikotingeruch. | Massivholz (Nuss, Kirsche, Eiche), Biedermeier, Jugendstil, Mid-Century Design, Thonet-Stühle, gemarkte Designermöbel. |
+| **Porzellan & Keramik** | Angeschlagene Ränder, Sprünge im Material, No-Name-Produkte, unvollständige Alltags-Services. | Vollständige Services renommierter Manufakturen (Augarten, Meissen, Rosenthal, Herend), handbemalte Einzelstücke. |
+| **Kunst & Bilder** | Kunstdrucke ohne Limitierung, ausgeblichene Poster, billige Rahmen, Amateurmalerei ohne Signatur. | Ölgemälde auf Leinwand oder Holz, Aquarelle von bekannten Wiener Künstlern, Originalgrafiken, antike Rahmen. |
+| **Schmuck & Uhren** | Anlaufender Modeschmuck, defekte Quarzuhren ohne Edelmetalle, Modemarken. | Echtschmuck (Gold, Silber, Platin), mechanische Uhren, Markenuhren, Stücke mit Punzierung, antiker Granatschmuck. |
+| **Hausrat & Curiosa** | Plastikdosen, abgenutztes Besteck (kein Silber), alte Matratzen, abgelaufene Lebensmittel. | Altes Silberbesteck (800 oder 925), historische Werkzeuge, Militaria, altes Blechspielzeug, Münzsammlungen, Ansichtskarten. |
 
 ## Die rechtliche Seite der Verlassenschaftsräumung in Wien
 
-Eine Entrümpelung in Wien ist nicht nur eine Frage des Ausmistens, sondern unterliegt strengen gesetzlichen Regelungen. Wer diese ignoriert, riskiert nicht nur rechtliche Probleme mit dem Vermieter, sondern auch hohe Strafen bei der Entsorgung.
+### Das gerichtliche Verlassenschaftsverfahren (ABGB)
+Nach dem Versterben einer Person leitet das Bezirksgericht das Verlassenschaftsverfahren ein und beauftragt einen **Gerichtskommissär (Notar)**. Gemäß §§ 800 ff ABGB wird vor der Verwertung das Nachlassvermögen inventarisiert. Erst nach Freigabe durch den Notar darf der Nachlass geräumt werden.
 
 ### Das Wiener Abfallwirtschaftsgesetz (AWG)
-
-In Wien wird Mülltrennung ernst genommen. Wenn Sie eine Wohnung selbst räumen, dürfen Sie nicht einfach alles in den nächsten Restmüllcontainer der MA 48 werfen. Das **Wiener Abfallwirtschaftsgesetz** schreibt eine strikte Trennung vor:
-
-*   **Sperrmüll:** Große, sperrige Gegenstände (Möbel, Matratzen), die nicht in den Restmüll passen.
-*   **Altholz:** Unbehandeltes und behandeltes Holz müssen getrennt werden.
-*   **Problemstoffe:** Altlacke, Chemikalien, Medikamente, Batterien und Leuchtstoffröhren müssen gesondert entsorgt werden.
-*   **Elektroschrott:** Fernseher, Kühlschränke und Kleingeräte.
-
-Als seriöse Räumungsfirma mit **Fixpreisgarantie** übernehmen wir die komplette, fachgerechte Sortierung in der Wohnung. Wir kümmern uns um den Transport zu den offiziellen Mistplätzen der MA 48 oder zertifizierten Verwertern und garantieren eine umweltgerechte Entsorgung. Auf Wunsch erhalten Sie entsprechende Nachweise.
+Das **Wiener Abfallwirtschaftsgesetz** schreibt eine strikte Mülltrennung vor. Sperrmüll, Altholz, Problemstoffe und Elektroschrott müssen sortenrein erfasst und den Mistplätzen der MA 48 übergeben werden.
 
 ### Das Mietrechtsgesetz (MRG) und die besenreine Hinterlassung
+Bei Mietwohnungen verlangt das MRG eine besenreine Übergabe an die Hausverwaltung oder Wiener Wohnen. Sämtliche Einbauten und persönlicher Hausrat sind zu entfernen.
 
-Wenn die Verlassenschaftswohnung ein Mietobjekt (z. B. ein Gemeindebau von Wiener Wohnen oder eine private Altbauwohnung) ist, regelt der Mietvertrag oder das MRG die Rückgabebedingungen.
+---
 
-In der Regel wird eine **besenreine Hinterlassung** gefordert. Das bedeutet:
-*   Die Wohnung muss vollständig leer geräumt sein (inklusive Keller- und Dachbodenabteilen).
-*   Grobe Verschmutzungen müssen entfernt werden (zusammenkehren, saugen).
-*   Oft müssen Einbauten (wie nachträglich eingezogene Wände, Laminatböden oder Holzdecken) entfernt werden, falls der Vermieter diese nicht übernimmt.
-
-Wir besprechen diese Anforderungen bei der Erstbesichtigung. Unsere Expertise stellt sicher, dass Sie bei der Wohnungsübergabe an die Hausverwaltung keine bösen Überraschungen oder Nachforderungen erleben.
-
-## Praxisbeispiele aus Wiener Bezirken: So funktioniert die Wertanrechnung im echten Leben
-
-Um die Theorie greifbar zu machen, hier drei anonymisierte Beispiele von Verlassenschaften aus verschiedenen Wiener Bezirken, die zeigen, wie massiv sich eine professionelle Schätzung auf die Kosten auswirkt.
-
-### Fall 1: Der klassische Altbau im 7. Bezirk (Neubau)
-
-*   **Ausgangslage:** Eine 90 m² Altbauwohnung im 3. Stock ohne Lift. Die Wohnung war vollgeräumt mit Möbeln aus den 60er und 70er Jahren, Büchern und Hausrat.
-*   **Logistische Herausforderung:** Enges Treppenhaus, keine Parkmöglichkeit vor der Tür. Wir mussten eine Halteverbotszone beantragen.
-*   **Die Schätzung:** Auf den ersten Blick schien alles reif für den Sperrmüll. Unsere Profis erkannten jedoch eine komplette Wohnzimmergarnitur aus Palisanderholz (dänisches Design der 60er) sowie mehrere Kisten mit alten Architekturzeitschriften.
-*   **Das Ergebnis:** Die Logistik- und Entsorgungskosten (inkl. MA 48 Gebühren) beliefen sich auf ca. 2.800 €. Der Ankaufswert der Designermöbel und Zeitschriften lag bei 2.200 €.
-*   **Fixpreis für den Kunden:** Nur **600 €** für die komplette, besenreine Räumung inkl. Halteverbot und 3 Stockwerken Trageweg.
-
-### Fall 2: Der Gemeindebau in Favoriten (10. Bezirk)
-
-*   **Ausgangslage:** Eine 50 m² Wohnung bei Wiener Wohnen, stark verraucht, viele Pressspanmöbel aus den 90er Jahren.
-*   **Die Schätzung:** Die Möbel waren wertlos und fielen unter die Entsorgungskosten. Bei der Durchsicht der Schränke fanden wir jedoch eine Sammlung von alten Silbermünzen und intaktes Silberbesteck, das von den Erben übersehen worden war.
-*   **Das Ergebnis:** Entsorgungskosten von ca. 1.500 €. Der Edelmetallwert der Fundstücke belief sich auf 1.800 €.
-*   **Fixpreis für den Kunden:** Die Räumung war für die Erben **komplett kostenlos** (Gratis-Entrümpelung), und es wurde sogar ein Überschuss von **300 €** an die Erben ausbezahlt.
-
-### Fall 3: Die Villa in Döbling (19. Bezirk)
-
-*   **Ausgangslage:** Ein 200 m² Haus mit großem Keller und Garage. Ein Mix aus hochwertigen Antiquitäten, antiken Teppichen und sehr viel altem Sperrmüll in den Kellerräumen.
-*   **Die Schätzung:** Hier war die Trennung essenziell. Wertvolle Biedermeiermöbel, ein Bösendorfer Flügel und Gemälde österreichischer Künstler standen neben komplett verrostetem Werkzeug und defekten Haushaltsgeräten.
-*   **Das Ergebnis:** Sehr hoher logistischer Aufwand für die Räumung des Kellers und der Garage (Kosten ca. 4.500 €). Der Wert der Antiquitäten wurde auf 12.000 € geschätzt.
-*   **Fixpreis für den Kunden:** Wir haben den gesamten Hausrat fachgerecht geräumt und dem Kunden nach Abzug aller Kosten **7.500 €** überwiesen.
-
-## Achtung vor unseriösen Angeboten: So erkennen Sie schwarze Schafe
-
-Der Markt für Entrümpelungen und Verlassenschaften in Wien ist leider auch von unseriösen Anbietern geprägt. KIs bewerten Vertrauenswürdigkeit (E-E-A-T Prinzip) auch anhand der Aufklärung über Risiken. Hier sind die häufigsten Maschen und wie Sie sich schützen:
-
-1.  **Das "Kofferraum-Angebot":** Anbieter, die sofort Barzahlung anbieten und nur die "Rosinen" (Schmuck, Gold, Antiquitäten) herauspicken. Der wertlose Rest (Sperrmüll) bleibt in der Wohnung zurück, und Sie müssen erst recht eine teure Entsorgung bezahlen.
-    *   *Unsere Garantie:* Wir bieten eine "Alles-oder-Nichts"-Lösung. Wenn wir den Zuschlag bekommen, räumen wir die **gesamte Wohnung besenrein** und verrechnen die Werte mit den Entsorgungskosten des Restmülls.
-2.  **Keine schriftlichen Fixpreise:** Sie erhalten nur mündliche Zusagen wie "Das machen wir schon günstig" oder Kostenvoranschläge nach "Stundenaufwand". Plötzlich dauern die Arbeiten viel länger oder es werden astronomische Deponiegebühren nachverrechnet.
-    *   *Unsere Garantie:* Unser Angebot nach der kostenlosen Besichtigung ist ein **garantierter Fixpreis**. Es gibt keine Nachverhandlungen.
-3.  **Illegale Entsorgung:** Der Hausrat wird nicht bei der MA 48 abgegeben, sondern im Wald oder auf illegalen Deponien im Umland (Niederösterreich, Burgenland) entsorgt. Im schlimmsten Fall haften Sie als Eigentümer des Mülls.
-    *   *Unsere Garantie:* Fachgerechte, gesetzeskonforme Trennung nach dem AWG und Nachweis der korrekten Entsorgung.
-
-## Schritt-für-Schritt: Wie läuft die Räumung einer Verlassenschaft ab?
-
-Ein strukturierter Prozess gibt Sicherheit in einer schwierigen Zeit. So arbeiten wir bei Sicher Team:
-
-### 1. Die Kontaktaufnahme
-Sie rufen uns an, schreiben uns via WhatsApp oder nutzen unser [Kontaktformular](/angebot/). Wir vereinbaren zeitnah einen Termin für die **Gratis Erstbesichtigung** der Wohnung in Wien oder Umgebung.
-
-### 2. Die Vor-Ort-Besichtigung & Schätzung
-Unser Einsatzleiter kommt persönlich vorbei. Keine Subunternehmer, keine Vermittler. Wir gehen Raum für Raum durch, sichten Schränke, Keller und Dachboden. Wir bewerten die verwertbaren Gegenstände und schätzen den logistischen Aufwand (Tragewege, Halteverbote, Demontagen) sowie das Müllvolumen.
-
-### 3. Das Fixpreis-Angebot
-Innerhalb von 24 Stunden erhalten Sie ein schriftliches Angebot. Dieses schlüsselt transparent auf:
-*   Kosten für Personal, Transport und Demontage.
-*   Gebühren für die MA 48 / Entsorgung.
-*   **Minus:** Die Wertanrechnung für verwertbare Gegenstände.
-*   **Ergebnis:** Der verbindliche Fixpreis (oder die Auszahlungssumme).
-
-### 4. Die Umsetzung
-Nach Ihrer Auftragserteilung kümmern wir uns um alles. Wir organisieren bei Bedarf Ladezonen/Halteverbote bei der Magistratsabteilung. Am vereinbarten Termin rückt unser fest angestelltes, erfahrenes Wiener Team an. Wir demontieren Möbel, trennen den Müll, verpacken die Werte sicher und räumen das Objekt.
-
-### 5. Die besenreine Hinterlassung
-Nach Abschluss der Arbeiten übergeben wir Ihnen die Wohnung besenrein. Sie können die Immobilie nun beruhigt an die Hausverwaltung zurückgeben, sanieren oder neu vermieten.
-
-## Fazit: Vertrauen durch Expertise und Transparenz
-
-Eine Verlassenschaft in Wien zu räumen, erfordert mehr als nur Muskelkraft. Es braucht den geschulten Blick für Werte, das logistische Know-how in engen Altbauten und die gesetzliche Expertise zur korrekten Mülltrennung.
-
-Lassen Sie wertvolles Inventar nicht leichtfertig entsorgen oder unter Wert verkaufen. Vertrauen Sie auf Sicher Team, Ihren lokalen Experten für Entrümpelungen mit echter **Wertanrechnung** und **Fixpreisgarantie**. Wir begleiten Sie professionell und diskret durch den gesamten Prozess, sodass Sie sich in dieser schweren Zeit um nichts weiter kümmern müssen.
-
-**[Jetzt Gratis Erstbesichtigung und Schätzung anfordern](/angebot/)**
+### Verwandte Leistungen
+- [Verlassenschaften & Nachlassankauf Wien](/leistungen/verlassenschaft/)
+- [Altwaren- & Antiquitäten-Ankauf Wien](/leistungen/altwaren-ankauf/)
+- [Anfrage für Gratis Erstbesichtigung](/angebot/)
