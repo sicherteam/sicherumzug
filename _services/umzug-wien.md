@@ -31,14 +31,14 @@ process:
   - title: "Einzug & Montage"
     description: "Am neuen Wohnort bauen wir Ihre Möbel wunschgemäß auf und übergeben das alte Objekt auf Wunsch besenrein. Alles ist durch unsere Versicherung bis 1.000.000 EUR gedeckt."
 faqs:
-  - question: "Was kostet ein Umzug in Wien?"
-    answer: "Ein einfacher Wohnungsumzug in Wien startet oft schon ab 250 Euro. Der genaue Preis hängt vom Arbeitsaufwand, dem Stockwerk und der Entfernung ab. Nach einer kostenlosen Besichtigung erhalten Sie ein verbindliches Fixpreis-Angebot. Detaillierte Infos finden Sie in unserem [Ratgeber zu Umzugskosten](/ratgeber/umzugskosten-oesterreich-sparen/)."
-  - question: "Kümmert sich Sicher Team um Halteverbote in Wien?"
-    answer: "Ja, wir übernehmen die komplette behördliche Anmeldung und Aufstellung von Halteverbotszonen in allen 23 Wiener Bezirken, damit der Möbeltransporter am Umzugstag sicher parken kann."
-  - question: "Bieten Sie auch die Entsorgung von Altmöbeln an?"
-    answer: "Ja! Wir verbinden Umzug und Entrümpelung. Möbel, die nicht mitgenommen werden, können wir fachgerecht entrümpeln und durch unsere Wertanrechnung (Wertausgleich) direkt gegenrechnen."
-  - question: "Wie lange im Voraus sollte ich die Umzugsfirma buchen?"
-    answer: "Wir empfehlen, Ihren Umzug in Wien mindestens 2-4 Wochen im Voraus zu planen. Besonders zum Monatsende oder an Wochenenden sind wir oft schnell ausgebucht. Für sehr dringende Fälle bieten wir nach Verfügbarkeit auch einen Express-Umzug an. Zur perfekten Vorbereitung nutzen Sie gerne unsere [Umzugs-Checkliste](/ratgeber/umzug-oesterreich-profi-guide/)."
+  - question: "Was kostet ein professioneller Umzug in Wien mit Sicher Team?"
+    answer: "Ein Wohnungsumzug in Wien startet je nach Umfang und Stockwerk ab ca. 250 Euro. Nach unserer kostenlosen Vor-Ort-Besichtigung oder dem Foto-Check per WhatsApp erhalten Sie einen garantierten, schriftlichen Fixpreis. Dieser beinhaltet Anfahrt, Treppensteigen, LKW, Benzin und die gesetzliche Frachtführer-Haftpflichtversicherung gemäß UGB."
+  - question: "Wie organisiert Sicher Team behördliche Halteverbote (MA 46) in Wien?"
+    answer: "Wir beantragen bei der MA 46 (Verkehrsorganisation Wien) die erforderliche Ladezone und stellen die behördlichen Verkehrszeichen (§ 82 StVO) mindestens 48 Stunden vor Umzugsbeginn auf. Alle Gebühren und Behördenwege sind in Ihrem Fixpreis bereits enthalten."
+  - question: "Ist mein Inventar während des Transports gesetzlich versichert?"
+    answer: "Ja. Als konzessionierte Fachspedition unterliegen wir dem Güterbeförderungsgesetz und haften nach §§ 425 ff UGB. Zusätzlich schützt unsere All-Risk-Transportversicherung Ihr Eigentum bis zu einer Versicherungssumme von 1.000.000 EUR."
+  - question: "Kann ein Umzug in Wien mit einer Entrümpelung kombiniert werden?"
+    answer: "Ja, das ist unsere Spezialität. Möbel und Hausrat, die Sie nicht in die neue Wohnung mitnehmen, werden im selben Schritt entsorgt oder fachgerecht entrümpelt. Durch unsere Wertanrechnung verringern verwertbare Gegenstände direkt den Gesamtpreis."
 schema_type: Service
 service_type: Privatumzug
 service_schema:
@@ -56,9 +56,37 @@ schema_price_from: 250
 schema_price_to: 2500
 schema_price_description: "Individuelle Fixpreis-Kalkulation nach kostenloser Besichtigung oder Foto-Check."
 permalink: /leistungen/umzug-wien/
+redirect_from:
+  - /leistungen/umzug/
 ---
 
-**Zusammenfassung: Das Sicher Team ist Ihr erfahrener und zuverlässiger Partner für Ihren professionellen Umzug in Wien. Mit über 15 Jahren Erfahrung als Wiener Umzugsfirma garantieren wir Ihnen einen stressfreien Ablauf zu 100% Fixpreisen ohne versteckte Kosten. Ihr gesamtes Hab und Gut ist bei uns während des Transports, der Möbelmontage und allen weiteren Serviceleistungen umfassend versichert (All-Risk-Versicherung bis € 1.000.000). Wir planen und realisieren Umzüge für Privat- und Firmenkunden zuverlässig, sicher und effizient.**
+<div class="my-8 rounded-2xl border border-emerald-200/80 bg-emerald-50/60 p-6 shadow-sm">
+  <div class="flex items-center gap-3 mb-3">
+    <svg class="w-6 h-6 text-emerald-600 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+    <h2 class="text-xl font-bold text-slate-900 m-0">Zusammenfassung &amp; Wichtigste Fakten</h2>
+  </div>
+  <p class="text-base text-slate-700 leading-relaxed font-medium mb-4">
+    Das <strong>Sicher Team</strong> ist Ihre etablierte, konzessionierte Umzugsfirma für professionelle Übersiedlungen in allen 23 Wiener Bezirken. Mit über 15 Jahren Erfahrung bieten wir 100% verbindliche <strong>Fixpreise ohne versteckte Kosten</strong>, behördliche Halteverbots-Einrichtung (MA 46) und eine All-Risk-Transportversicherung bis € 1.000.000.
+  </p>
+  <ul class="space-y-2 text-sm text-slate-800 m-0 pl-0 list-none">
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Rechtssichere Konzession:</strong> Zulassung nach dem Güterbeförderungsgesetz und Haftung gemäß §§ 425 ff UGB.</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>MA 46 Halteverbote:</strong> Behördliche Genehmigung und pünktliches Aufstellen der Schilder nach § 82 StVO.</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Vollversicherter Transport:</strong> Betriebshaftpflicht- und Transportversicherung bis 1 Mio. EUR Deckung.</span>
+    </li>
+    <li class="flex items-start gap-2.5">
+      <span class="text-emerald-600 font-bold shrink-0">✓</span>
+      <span><strong>Kombinations-Vorteil:</strong> Umzug &amp; besenreine Entrümpelung des alten Objektes mit transparenter Wertanrechnung.</span>
+    </li>
+  </ul>
+</div>
 
 ## Professioneller Umzug in Wien zum garantierten Fixpreis
 
