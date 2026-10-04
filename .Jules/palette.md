@@ -65,3 +65,7 @@
 ## 2026-09-25 - ARIA Live Regions for Dynamic Price Outputs and File Counters
 **Learning:** Dynamically updated textual output elements (such as price calculation estimates or photo upload selection counts) are invisible to screen reader users when updated via DOM manipulation unless configured as ARIA live regions. Adding `aria-live="polite"` (and `aria-atomic="true"`) ensures screen readers smoothly announce updated estimates and file selection counts as soon as users interact with options or select files.
 **Action:** Always configure dynamic result containers and selection indicators with `aria-live="polite"` so screen reader users receive automatic auditory feedback on state updates.
+
+## 2026-10-02 - Synchronized Visual Active Styles for ARIA Selected Wizard Options
+**Learning:** In multi-step interactive option grids, updating `aria-selected` without modifying visual CSS classes leaves users without a clear visual cue when navigating backwards and forwards between steps. Dynamically synchronizing `aria-selected` with active visual styling (e.g., `border-orange-500 bg-slate-800/80 ring-2 ring-orange-500/50`) ensures seamless visual feedback across both mouse/touch clicks and keyboard shortcuts.
+**Action:** Always pair `aria-selected="true"` updates with active border, background, and ring-width class toggling across selection handlers, reset routines, and component initialization.
