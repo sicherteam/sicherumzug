@@ -145,10 +145,13 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           feedbackEl.textContent = textToCopy + ' in die Zwischenablage kopiert.';
         }
         var origTitle = btn.getAttribute('title');
+        var origAria = btn.getAttribute('aria-label');
         btn.setAttribute('title', 'Kopiert!');
+        if (origAria) btn.setAttribute('aria-label', 'Kopiert!');
         btn.classList.add('text-amber-400');
         setTimeout(function() {
           btn.setAttribute('title', origTitle);
+          if (origAria) btn.setAttribute('aria-label', origAria);
           btn.classList.remove('text-amber-400');
         }, 2000);
       }).catch(function() {});
