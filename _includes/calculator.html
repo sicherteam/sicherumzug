@@ -234,17 +234,27 @@
     }
   }
 
+  function updateOptionStyles(selector, attrName, selectedVal) {
+    document.querySelectorAll(selector).forEach(function(btn) {
+      var isSelected = btn.getAttribute(attrName) === selectedVal;
+      btn.setAttribute('aria-selected', isSelected ? 'true' : 'false');
+      if (isSelected) {
+        btn.classList.add('border-orange-500', 'bg-slate-800/80', 'ring-2', 'ring-orange-500/50');
+        btn.classList.remove('border-slate-800', 'bg-slate-950/60');
+      } else {
+        btn.classList.remove('border-orange-500', 'bg-slate-800/80', 'ring-2', 'ring-orange-500/50');
+        btn.classList.add('border-slate-800', 'bg-slate-950/60');
+      }
+    });
+  }
+
   function selectService(serviceType) {
     calcState.service = serviceType;
     if (serviceType === 'umzug') calcState.serviceName = 'Umzug & Übersiedlung';
     if (serviceType === 'entruempelung') calcState.serviceName = 'Entrümpelung & Räumung';
     if (serviceType === 'kombi') calcState.serviceName = 'Kombi: Umzug + Räumung';
 
-    document.querySelectorAll('.service-opt').forEach(function(btn) {
-      var isSelected = btn.getAttribute('data-service') === serviceType;
-      btn.setAttribute('aria-selected', isSelected ? 'true' : 'false');
-    });
-
+    updateOptionStyles('.service-opt', 'data-service', serviceType);
     goToStep(2);
   }
 
@@ -253,11 +263,7 @@
     calcState.sizeName = name;
     calcState.basePrice = basePrice;
 
-    document.querySelectorAll('.size-opt').forEach(function(btn) {
-      var isSelected = btn.getAttribute('data-size') === key;
-      btn.setAttribute('aria-selected', isSelected ? 'true' : 'false');
-    });
-
+    updateOptionStyles('.size-opt', 'data-size', key);
     goToStep(3);
   }
 
@@ -314,8 +320,14 @@
   function resetCalc() {
     calcState.extras = {};
     document.querySelectorAll('#calc-step-3 input[type="checkbox"]').forEach(c => c.checked = false);
+    selectService('umzug');
+    selectSize('medium', '2-3 Zimmer / 40-80 m²', 520);
     goToStep(1);
   }
+
+  // Initialize option selection highlights on load
+  updateOptionStyles('.service-opt', 'data-service', calcState.service);
+  updateOptionStyles('.size-opt', 'data-size', calcState.sizeKey);
 
   document.addEventListener('keydown', function handleCalcShortcuts(e) {
     const calcContainer = document.getElementById('fixpreis-calculator');
