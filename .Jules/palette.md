@@ -69,3 +69,7 @@
 ## 2026-10-02 - Synchronized Visual Active Styles for ARIA Selected Wizard Options
 **Learning:** In multi-step interactive option grids, updating `aria-selected` without modifying visual CSS classes leaves users without a clear visual cue when navigating backwards and forwards between steps. Dynamically synchronizing `aria-selected` with active visual styling (e.g., `border-orange-500 bg-slate-800/80 ring-2 ring-orange-500/50`) ensures seamless visual feedback across both mouse/touch clicks and keyboard shortcuts.
 **Action:** Always pair `aria-selected="true"` updates with active border, background, and ring-width class toggling across selection handlers, reset routines, and component initialization.
+
+## 2026-10-05 - Drag-and-Drop Visual State & File Transfer Synchronization
+**Learning:** Attaching native dragover, dragleave, and drop event listeners to file inputs or upload zones with immediate visual feedback classes (e.g. `border-dashed`, `bg-primary/5`) gives users immediate confidence during drag-and-drop file operations. Intercepting `drop` events and synchronizing files with the `DataTransfer` API updates both the underlying form input and accessible live file counters seamlessly.
+**Action:** Always handle `dragenter`, `dragover`, `dragleave`, `dragend`, and `drop` events on file input drop zones to toggle visual hover cues, and route dropped files through a central `DataTransfer` state manager.

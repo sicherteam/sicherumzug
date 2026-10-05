@@ -245,6 +245,29 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         updateInputAndRender();
       }
     });
+
+    ['dragenter', 'dragover'].forEach(function(eventName) {
+      photosInput.addEventListener(eventName, function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        photosInput.classList.add('border-primary-light', 'bg-primary/5', 'border-dashed');
+      });
+    });
+    ['dragleave', 'dragend', 'drop'].forEach(function(eventName) {
+      photosInput.addEventListener(eventName, function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        photosInput.classList.remove('border-primary-light', 'bg-primary/5', 'border-dashed');
+      });
+    });
+    photosInput.addEventListener('drop', function(e) {
+      if (e.dataTransfer && e.dataTransfer.files) {
+        Array.prototype.forEach.call(e.dataTransfer.files, function(file) {
+          if (file.type.startsWith('image/')) selectedFiles.push(file);
+        });
+        updateInputAndRender();
+      }
+    });
   }
 
   // Live validation for form fields
