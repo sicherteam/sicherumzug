@@ -193,16 +193,28 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var countIndicator = document.getElementById('file-count-indicator');
       if (selectedFiles.length > 0) {
         if (!countIndicator) {
-          countIndicator = document.createElement('p');
+          countIndicator = document.createElement('div');
           countIndicator.id = 'file-count-indicator';
-          countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
+          countIndicator.className = 'mt-2 flex items-center justify-between text-xs font-bold text-primary transition-all duration-200';
           countIndicator.setAttribute('aria-live', 'polite');
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
-        countIndicator.textContent = selectedFiles.length === 1
+        var countText = selectedFiles.length === 1
           ? '1 Foto ausgewählt'
           : selectedFiles.length + ' Fotos ausgewählt';
-        countIndicator.style.display = 'block';
+
+        countIndicator.innerHTML = '<span>' + countText + '</span>' +
+          '<button type="button" id="clear-all-photos-btn" class="text-xs font-semibold text-red-600 hover:text-red-700 underline focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 rounded px-1 transition-colors" aria-label="Alle ausgewählten Fotos entfernen">Alle entfernen</button>';
+
+        var clearBtn = countIndicator.querySelector('#clear-all-photos-btn');
+        if (clearBtn) {
+          clearBtn.addEventListener('click', function() {
+            selectedFiles = [];
+            updateInputAndRender();
+            if (photosInput) photosInput.focus();
+          });
+        }
+        countIndicator.style.display = 'flex';
       } else {
         if (countIndicator) {
           countIndicator.style.display = 'none';
