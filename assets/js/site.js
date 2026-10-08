@@ -193,16 +193,31 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var countIndicator = document.getElementById('file-count-indicator');
       if (selectedFiles.length > 0) {
         if (!countIndicator) {
-          countIndicator = document.createElement('p');
+          countIndicator = document.createElement('div');
           countIndicator.id = 'file-count-indicator';
-          countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
+          countIndicator.className = 'mt-2 flex items-center justify-between text-xs font-bold text-primary transition-all duration-200';
           countIndicator.setAttribute('aria-live', 'polite');
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
-        countIndicator.textContent = selectedFiles.length === 1
+        var countText = selectedFiles.length === 1
           ? '1 Foto ausgewählt'
           : selectedFiles.length + ' Fotos ausgewählt';
-        countIndicator.style.display = 'block';
+
+        if (selectedFiles.length > 1) {
+          countIndicator.innerHTML = '<span>' + countText + '</span>' +
+            '<button type="button" id="clear-all-photos-btn" class="text-red-600 hover:text-red-700 font-bold underline focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 focus-visible:ring-offset-1 rounded px-1 transition-colors cursor-pointer" aria-label="Alle ausgewählten Fotos entfernen">Alle entfernen</button>';
+          var clearBtn = countIndicator.querySelector('#clear-all-photos-btn');
+          if (clearBtn) {
+            clearBtn.addEventListener('click', function() {
+              selectedFiles = [];
+              updateInputAndRender();
+              if (photosInput) photosInput.focus();
+            });
+          }
+        } else {
+          countIndicator.innerHTML = '<span>' + countText + '</span>';
+        }
+        countIndicator.style.display = 'flex';
       } else {
         if (countIndicator) {
           countIndicator.style.display = 'none';
