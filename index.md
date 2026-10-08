@@ -21,7 +21,7 @@ brand_intro:
     - "**100% Fixpreisgarantie:** Schriftliches Festpreisangebot ohne Anfahrtskosten oder Wochenendzuschläge – volle Kostentransparenz von Anfang an."
 process_intro: "In 3 einfachen Schritten zu Ihrem neuen Zuhause – unkompliziert, sicher und transparent in ganz Österreich."
 services_intro: "Wir sind Ihr starker Partner für jeden Umzug. Entdecken Sie unsere maßgeschneiderten Lösungen für Ihren Wohnortwechsel."
-additional_services_intro: "Zusatzleistungen: Nach dem Auszug übernehmen wir auf Wunsch auch die besenreine Räumung, Entrümpelung und fachgerechte Entsorgung von Altmöbeln."
+additional_services_intro: "Zusatzleistungen: Nach dem Auszug übernehmen wir auf Wunsch auch die besenreine Räumung, Entrümpelung und fachgerechte Entsorgung von Altmöbeln – bei reinen Räumungsprojekten auch in Kooperation mit unserem Schwesterbetrieb [Rümpel Räumung](https://ruempelraeumung.at/)."
 why_intro: "Mehr als nur ein Möbeltransport: Wir bieten maximale Sicherheit, faire Wertanrechnung und ein bestens geschultes Team, das jedes Objekt besenrein übergibt."
 use_global_faqs: false
 faqs:

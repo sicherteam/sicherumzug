@@ -140,7 +140,7 @@ Wenn Slots frei sind, starten wir in Wien am selben Tag. Ein kurzer Foto-Check p
 
 Wenn der Fokus auf einer kompletten Wohnungsauflösung liegt, finden Sie den passenden Ablauf, Fixpreis-Details und Übergabe-Checklisten auf unserer Seite für die [sichere Wohnungsauflösung](/leistungen/wohnungsaufloesung/). Zusätzlich können Sie sich an unserer [Schritt-für-Schritt Vorbereitung der Räumung](/ratgeber/checkliste-wohnungsraeumung-7-schritte/) orientieren.
 
-Eine allgemeine Übersicht ohne Standortbezug finden Sie auf der überregionalen Seite zur [professionellen Entrümpelung](/leistungen/entruempelung/).
+Eine allgemeine Übersicht ohne Standortbezug finden Sie auf der überregionalen Seite zur [professionellen Entrümpelung](/leistungen/entruempelung/). Falls Sie ein reines Entrümpelungsprojekt ohne anschließenden Umzug planen, steht Ihnen auch unser spezialisierter Schwesterbetrieb [Rümpel Räumung – Entrümpelung in Wien](https://ruempelraeumung.at/) mit maßgeschneiderten Räumungsangeboten zur Seite.
 
 ## Nachhaltige Entsorgung & Spenden
 
