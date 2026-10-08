@@ -117,7 +117,7 @@ Wir führen Räumungen nur nach schriftlicher Beauftragung und klarer Terminfrei
 - Büro oder Lager bis ca. 200 m²: 1–2 Tage, Demontagen nach Aufwand
 - Größere Gewerbeflächen: Projektplan mit Abschnittsweise Räumung und Containerwechsel
 
-Fixpreise stellen wir nach Besichtigung aus, inklusive Demontagen, Entsorgung und genehmigten Halteverbotszonen. Wertanrechnung ist möglich, steht aber nicht im Mittelpunkt – wenn Wertanrechnung im Vordergrund steht, führen wir auf die [Räumung inklusive Wertausgleich](/leistungen/entruempelung-wien/) weiter. Für spezialisierte Entrümpelungsprojekte mit klarem Fokus auf Wertausgleich arbeitet unser Team eng mit unserem Schwesterbetrieb [Rümpel Räumung](https://ruempelraeumung.at/) zusammen. Für klassische Wohnungsauflösungen finden Sie alle Details auf [unserer Service-Seite für Wohnungsauflösungen](/leistungen/wohnungsaufloesung/).
+Fixpreise stellen wir nach Besichtigung aus, inklusive Demontagen, Entsorgung und genehmigten Halteverbotszonen. Wertanrechnung ist möglich, steht aber nicht im Mittelpunkt – wenn Wertanrechnung im Vordergrund steht, führen wir auf die [Räumung inklusive Wertausgleich](/leistungen/entruempelung-wien/) weiter. Für spezialisierte Entrümpelungsprojekte mit klarem Fokus auf Wertausgleich arbeitet unser Team eng mit unserem Schwesterbetrieb [Rümpel Räumung](https://www.ruempelraeumung.at/) zusammen. Für klassische Wohnungsauflösungen finden Sie alle Details auf [unserer Service-Seite für Wohnungsauflösungen](/leistungen/wohnungsaufloesung/).
 
 Eine allgemeine Übersicht ohne Standortbezug finden Sie auf der Seite [Leistungen](/leistungen/).
 
