@@ -237,6 +237,12 @@ h6 {
   text-wrap: balance;
 }
 
+footer h3 {
+  color: #FBBF24 !important;
+  font-weight: 900 !important;
+  opacity: 1 !important;
+}
+
 h1 {
   letter-spacing: -0.035em;
 }
