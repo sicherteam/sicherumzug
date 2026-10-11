@@ -193,16 +193,34 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var countIndicator = document.getElementById('file-count-indicator');
       if (selectedFiles.length > 0) {
         if (!countIndicator) {
-          countIndicator = document.createElement('p');
+          countIndicator = document.createElement('div');
           countIndicator.id = 'file-count-indicator';
-          countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
+          countIndicator.className = 'mt-2 flex items-center justify-between text-xs font-bold text-primary transition-all duration-200';
           countIndicator.setAttribute('aria-live', 'polite');
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
-        countIndicator.textContent = selectedFiles.length === 1
+        countIndicator.style.display = 'flex';
+        countIndicator.innerHTML = '';
+
+        var countText = document.createElement('span');
+        countText.textContent = selectedFiles.length === 1
           ? '1 Foto ausgewählt'
           : selectedFiles.length + ' Fotos ausgewählt';
-        countIndicator.style.display = 'block';
+
+        var clearBtn = document.createElement('button');
+        clearBtn.type = 'button';
+        clearBtn.className = 'text-xs text-red-600 hover:text-red-700 underline font-semibold focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 focus-visible:ring-offset-1 rounded px-1 transition-colors cursor-pointer';
+        clearBtn.setAttribute('aria-label', 'Alle ausgewählten Fotos entfernen');
+        clearBtn.textContent = 'Alle entfernen';
+        clearBtn.addEventListener('click', function() {
+          selectedFiles = [];
+          updateInputAndRender();
+          var photosInp = document.getElementById('form-photos');
+          if (photosInp) photosInp.focus();
+        });
+
+        countIndicator.appendChild(countText);
+        countIndicator.appendChild(clearBtn);
       } else {
         if (countIndicator) {
           countIndicator.style.display = 'none';
