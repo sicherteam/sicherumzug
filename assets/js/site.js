@@ -193,16 +193,42 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var countIndicator = document.getElementById('file-count-indicator');
       if (selectedFiles.length > 0) {
         if (!countIndicator) {
-          countIndicator = document.createElement('p');
+          countIndicator = document.createElement('div');
           countIndicator.id = 'file-count-indicator';
-          countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
+          countIndicator.className = 'mt-2 flex items-center justify-between text-xs font-bold text-primary transition-all duration-200';
           countIndicator.setAttribute('aria-live', 'polite');
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
-        countIndicator.textContent = selectedFiles.length === 1
+
+        var textSpan = countIndicator.querySelector('span');
+        if (!textSpan) {
+          textSpan = document.createElement('span');
+          countIndicator.appendChild(textSpan);
+        }
+        textSpan.textContent = selectedFiles.length === 1
           ? '1 Foto ausgewählt'
           : selectedFiles.length + ' Fotos ausgewählt';
-        countIndicator.style.display = 'block';
+
+        var clearAllBtn = countIndicator.querySelector('button');
+        if (selectedFiles.length > 0) {
+          if (!clearAllBtn) {
+            clearAllBtn = document.createElement('button');
+            clearAllBtn.type = 'button';
+            clearAllBtn.className = 'text-red-600 hover:text-red-700 hover:bg-red-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 focus-visible:ring-offset-1 rounded px-1.5 py-0.5 transition-colors cursor-pointer text-xs font-semibold';
+            clearAllBtn.setAttribute('aria-label', 'Alle ausgewählten Fotos entfernen');
+            clearAllBtn.textContent = 'Alle entfernen';
+            clearAllBtn.addEventListener('click', function() {
+              selectedFiles = [];
+              updateInputAndRender();
+              if (photosInput) photosInput.focus();
+            });
+            countIndicator.appendChild(clearAllBtn);
+          }
+        } else if (clearAllBtn) {
+          clearAllBtn.remove();
+        }
+
+        countIndicator.style.display = 'flex';
       } else {
         if (countIndicator) {
           countIndicator.style.display = 'none';
