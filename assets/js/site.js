@@ -193,16 +193,32 @@ document.addEventListener('DOMContentLoaded', function domReady() {
       var countIndicator = document.getElementById('file-count-indicator');
       if (selectedFiles.length > 0) {
         if (!countIndicator) {
-          countIndicator = document.createElement('p');
+          countIndicator = document.createElement('div');
           countIndicator.id = 'file-count-indicator';
-          countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
+          countIndicator.className = 'mt-2 flex items-center justify-between text-xs font-bold text-primary transition-all duration-200';
           countIndicator.setAttribute('aria-live', 'polite');
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
-        countIndicator.textContent = selectedFiles.length === 1
+        countIndicator.innerHTML = '';
+
+        var countText = document.createElement('span');
+        countText.textContent = selectedFiles.length === 1
           ? '1 Foto ausgewählt'
           : selectedFiles.length + ' Fotos ausgewählt';
-        countIndicator.style.display = 'block';
+        countIndicator.appendChild(countText);
+
+        var removeAllBtn = document.createElement('button');
+        removeAllBtn.type = 'button';
+        removeAllBtn.className = 'text-xs text-red-600 hover:text-red-700 underline focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 rounded px-1 transition-colors cursor-pointer font-normal';
+        removeAllBtn.setAttribute('aria-label', 'Alle ausgewählten Fotos entfernen');
+        removeAllBtn.textContent = 'Alle entfernen';
+        removeAllBtn.addEventListener('click', function() {
+          selectedFiles = [];
+          updateInputAndRender();
+          if (photosInput) photosInput.focus();
+        });
+        countIndicator.appendChild(removeAllBtn);
+        countIndicator.style.display = 'flex';
       } else {
         if (countIndicator) {
           countIndicator.style.display = 'none';
