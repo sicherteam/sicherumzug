@@ -309,11 +309,15 @@
       msgField.value = `[Rechner-Anfrage]\nService: ${calcState.serviceName}\nGröße: ${calcState.sizeName}\nStockwerk: ${calcState.floorName}\nExtras: ${extraList}`;
       msgField.dispatchEvent(new Event('input', { bubbles: true }));
     }
+    let formEl = document.getElementById('contactForm');
+    if (formEl) {
+      formEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
     let nameField = document.getElementById('form-name');
     if (nameField) {
       setTimeout(function() {
         nameField.focus({ preventScroll: true });
-      }, 100);
+      }, 300);
     }
   }
 
