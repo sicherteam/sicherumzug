@@ -1,0 +1,15 @@
+{%- assign enquiry_service = page.enquiry_service | default: 'umzug' -%}
+{%- if page.enquiry_service == nil and page.collection == 'services' or page.enquiry_service == nil and page.collection == 'guides' -%}
+  {%- if page.url contains 'raeumung' or page.url contains 'aufloesung' or page.url contains 'auflesung' -%}{%- assign enquiry_service = 'raeumung' -%}
+  {%- elsif page.url contains 'entruempel' or page.url contains 'entrumpel' or page.url contains 'verlassenschaft' or page.url contains 'ankauf' -%}{%- assign enquiry_service = 'entruempelung' -%}{%- endif -%}
+{%- endif -%}
+{%- assign enquiry_label = 'Umzug anfragen' -%}
+{%- assign enquiry_hint = 'Start, Ziel und Wunschtermin nennen. Wir besprechen die nächsten Schritte.' -%}
+{%- if enquiry_service == 'entruempelung' -%}
+  {%- assign enquiry_label = 'Entrümpelung anfragen' -%}
+  {%- assign enquiry_hint = 'Was soll weg, was soll bleiben? Wir besprechen Umfang, Zugang und Termin.' -%}
+{%- elsif enquiry_service == 'raeumung' -%}
+  {%- assign enquiry_label = 'Räumung anfragen' -%}
+  {%- assign enquiry_hint = 'Objekt, Zugang und Übergabetermin nennen. Wir besprechen die Räumung mit Ihnen.' -%}
+{%- endif -%}
+{%- capture enquiry_url -%}/angebot/?service={{ enquiry_service }}&from={{ page.url | url_encode }}#angebot-form{%- endcapture -%}

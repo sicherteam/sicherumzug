@@ -7,10 +7,39 @@
   Content-Security-Policy: default-src 'self'; img-src 'self' data: https://* http://*; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*; style-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https://*; frame-src 'self' https://*;
 
 /assets/*
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=3600, must-revalidate
 
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
 
 /sw.js
   Cache-Control: no-cache
+
+/offline.html
+  X-Robots-Tag: noindex, follow
+/500.html
+  X-Robots-Tag: noindex, follow
+/404.html
+  X-Robots-Tag: noindex, follow
+/410.html
+  X-Robots-Tag: noindex, follow
+/bewertungen/
+  X-Robots-Tag: noindex, follow
+/ratgeber/delogierung-zwangsraeumung-wien-vermieter/
+  X-Robots-Tag: noindex, follow
+/ratgeber/uebersiedlung-pflegeheim-wohnungsaufloesung-wien/
+  X-Robots-Tag: noindex, follow
+/ratgeber/entruempelung-brand-wasserschaden-wien/
+  X-Robots-Tag: noindex, follow
+/ratgeber/messie-wohnung-aufloesen/
+  X-Robots-Tag: noindex, follow
+/ratgeber/betriebskostenabrechnung-auszug-oesterreich/
+  X-Robots-Tag: noindex, follow
+/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/
+  X-Robots-Tag: noindex, follow
+/ratgeber/mietkaution-ausmalpflicht-oesterreich-mrg/
+  X-Robots-Tag: noindex, follow
+/ratgeber/eigenbedarfskuendigung-rechte-mieter/
+  X-Robots-Tag: noindex, follow
+/ratgeber/entruempelung-mietnomaden-wien/
+  X-Robots-Tag: noindex, follow

@@ -1,0 +1,9 @@
+{% assign breadcrumb_parent_name = nil %}{% assign breadcrumb_parent_path = nil %}{% assign breadcrumb_region = nil %}
+{% case page.collection %}
+{% when 'services' %}{% assign breadcrumb_parent_name = 'Leistungen' %}{% assign breadcrumb_parent_path = '/leistungen/' %}
+{% when 'guides' %}{% assign breadcrumb_parent_name = 'Ratgeber' %}{% assign breadcrumb_parent_path = '/ratgeber/' %}
+{% when 'states' %}{% assign breadcrumb_parent_name = 'Einsatzgebiete' %}{% assign breadcrumb_parent_path = '/bezirke/' %}
+{% when 'districts' %}{% assign breadcrumb_parent_name = 'Einsatzgebiete' %}{% assign breadcrumb_parent_path = '/bezirke/' %}{% assign breadcrumb_region = site.states | where: 'slug', page.state | first %}
+{% endcase %}
+
+{% if page.layout == 'tool' %}{% assign breadcrumb_parent_name = 'Umzug planen' %}{% assign breadcrumb_parent_path = '/umzug-planen/' %}{% endif %}

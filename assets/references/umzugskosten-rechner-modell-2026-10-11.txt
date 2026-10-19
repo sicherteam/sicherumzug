@@ -1,0 +1,12 @@
+Sicher Team: dokumentierter Rechenweg des ursprünglichen Umzugskosten-Rechners
+Quelle: https://sicher-umzug.at/umzugskosten-rechner/
+Abrufdatum: 11.10.2026
+
+Veröffentlichte Basiswerte: 1 Zimmer bis 40 m² 320 EUR; 2–3 Zimmer 40–80 m² 520 EUR; 4+ Zimmer/Haus ab 80 m² 850 EUR; Keller/Gewerbe 280 EUR.
+Veröffentlichte Zugangsstufen: Erdgeschoss/Lift 0 EUR; 1.–2. Stock ohne Lift 60 EUR; ab 3. Stock ohne Lift 120 EUR.
+Veröffentlichte Extras: Einpackservice/Kartons 80 EUR; De-/Remontage 90 EUR; Wiener Halteverbotszone 110 EUR; Wertanrechnung -100 EUR.
+Rechenweg: Basis + eine Zugangsstufe + gewählte Extras. Untergrenze max(150, gerundet Summe*0.9); Obergrenze gerundet Summe*1.1.
+Die ursprüngliche Serviceauswahl änderte nur den Namen, nicht die Berechnungsformel. Entfernung und Zugang am Ziel wurden nicht gesondert berücksichtigt. Umsatzsteuer wurde nicht separat ausgewiesen.
+
+Die neue Planungshilfe nutzt die Wohnungsgrößen und positiven Extras nur als veröffentlichte Referenz für gewöhnliche Umzüge innerhalb Wiens. Bei zwei Zugangseingaben wird die höhere Stufe einmal angesetzt und dies ausdrücklich erläutert. Für andere Strecken, Räumungen, Teilumzüge und besondere Stücke wird keine automatische Preiszahl ausgegeben. Wertanrechnung wird nicht automatisch abgezogen.
+Diese Dokumentation bestätigt keine aktuellen Tarife oder verbindlichen Angebote.

@@ -1,0 +1,54 @@
+<form id="handover-form" class="tool-form" data-handover-generator autocomplete="off">
+  <p class="tool-note">Alle Angaben sind optional. Das Protokoll wird nur in diesem Browser erstellt und weder automatisch gespeichert noch an Sicher Team gesendet. Sie können auch eine leere Vorlage erstellen.</p>
+  <fieldset>
+    <legend>1. Wohnung und Termin</legend>
+    <div class="tool-grid">
+      <div class="tool-field"><label for="handover-kind">Art der Übergabe</label><select id="handover-kind" name="kind"><option value="Auszug">Auszug / Rückgabe</option><option value="Einzug">Einzug / Übernahme</option><option value="Andere Übergabe">Andere Übergabe</option></select></div>
+      <div class="tool-field"><label for="handover-date">Übergabedatum</label><input id="handover-date" type="date" name="date" min="1900-01-01" max="2200-12-31"></div>
+      <div class="tool-field"><label for="handover-address">Wohnungsadresse</label><input id="handover-address" name="address" maxlength="200" placeholder="Straße, Hausnummer, PLZ und Ort"></div>
+      <div class="tool-field"><label for="handover-top">Stiege / Stock / Top</label><input id="handover-top" name="top" maxlength="100" placeholder="z. B. Stiege 1, 2. Stock, Top 8"></div>
+      <div class="tool-field"><label for="handover-time">Uhrzeit</label><input id="handover-time" type="time" name="time"></div>
+    </div>
+  </fieldset>
+  <details class="tool-form-details">
+    <summary>2. Beteiligte Personen eintragen (optional)</summary>
+    <div class="tool-grid">
+      <div class="tool-field"><label for="handover-tenant">Mieterseite</label><input id="handover-tenant" name="tenant" maxlength="200" placeholder="Name oder Namen"></div>
+      <div class="tool-field"><label for="handover-landlord">Vermieterseite / Hausverwaltung</label><input id="handover-landlord" name="landlord" maxlength="200" placeholder="Name und Funktion"></div>
+      <div class="tool-field"><label for="handover-other">Weitere anwesende Personen</label><input id="handover-other" name="other" maxlength="200" placeholder="z. B. Vertretung oder Begleitung"></div>
+    </div>
+  </details>
+  <fieldset>
+    <legend>3. Räume und Zustand</legend>
+    <p class="tool-help">Fügen Sie die tatsächlich vorhandenen Räume hinzu. Notieren Sie Beobachtungen, Einrichtung und passende Foto-Dateinamen. Eine leere Zeile bedeutet nicht „mängelfrei“.</p>
+    <div id="handover-rooms" class="tool-form"></div>
+    <button type="button" id="handover-add-room" class="tool-secondary">Weiteren Raum hinzufügen</button>
+  </fieldset>
+  <details class="tool-form-details">
+    <summary>4. Zählerstände und Schlüssel (optional)</summary>
+    <fieldset><legend>Zähler</legend><p class="tool-help">Zählerart, Nummer, abgelesenen Stand mit Einheit und Datum festhalten. Messwerte werden als Ihre Eingabe übernommen, nicht geprüft oder an einen Anbieter gemeldet.</p><div id="handover-meters" class="tool-form"></div><button type="button" id="handover-add-meter" class="tool-secondary">Zähler hinzufügen</button></fieldset>
+    <fieldset><legend>Schlüssel</legend><p class="tool-help">Schlüsselart und tatsächlich übergebene Anzahl eintragen. Auch Postkasten, Keller und Chips berücksichtigen.</p><div id="handover-keys" class="tool-form"></div><button type="button" id="handover-add-key" class="tool-secondary">Schlüsselart hinzufügen</button></fieldset>
+  </details>
+  <details class="tool-form-details">
+    <summary>5. Beobachtungen, offene Punkte und Anlagen (optional)</summary>
+    <div class="tool-field"><label for="handover-observations">Weitere Beobachtungen</label><textarea id="handover-observations" name="observations" rows="3" maxlength="1500" placeholder="z. B. Ausstattung, vorhandene Gegenstände, nicht zugängliche Bereiche"></textarea></div>
+    <div class="tool-field"><label for="handover-open">Offene Punkte</label><textarea id="handover-open" name="openPoints" rows="3" maxlength="1500" placeholder="Was ist offen? Wer soll was bis wann klären? Abweichende Auffassungen ausdrücklich festhalten."></textarea></div>
+    <div class="tool-field"><label for="handover-attachments">Anlagen / Fotos</label><textarea id="handover-attachments" name="attachments" rows="2" maxlength="1000" placeholder="Nur Verweise, z. B. Küche_Foto_01.jpg; keine Fotos werden hochgeladen."></textarea></div>
+  </details>
+  <div class="tool-action-row">
+    <button type="submit" class="button button-primary">Mein Protokoll erstellen <span aria-hidden="true">→</span></button>
+    <button type="button" id="handover-blank" class="tool-secondary">Leere Vorlage erstellen</button>
+  </div>
+</form>
+<section id="handover-result" class="tool-result tool-printable" aria-labelledby="handover-result-title" hidden>
+  <h2 id="handover-result-title">Wohnungsübergabeprotokoll</h2>
+  <p class="tool-help">Entwurf zur gemeinsamen Dokumentation. Prüfen und ergänzen Sie den Inhalt vor einer Unterschrift. Leere Felder sind offene Angaben. Das Dokument enthält keinen automatischen Verzicht auf Ansprüche und keine Bewertung, wer für einen Zustand verantwortlich ist.</p>
+  <div id="handover-document"></div>
+  <div class="tool-action-row tool-no-print">
+    <button type="button" id="handover-print" class="tool-secondary">Protokoll drucken / PDF</button>
+    <a id="handover-enquiry" class="button button-primary" href="/angebot/?service=umzug&amp;tool=uebergabe#angebot-form">Umzug vor der Übergabe anfragen <span aria-hidden="true">→</span></a>
+    <button type="button" id="handover-reset" class="tool-text-button">Alle Protokollangaben löschen</button>
+  </div>
+  <p class="tool-note tool-no-print">Die Umzugsanfrage übernimmt nur die Art der Übergabe und die Zahl der Räume. Namen, Wohnungsadresse, Zählerstände, Schlüssel und Beobachtungen bleiben im Protokoll.</p>
+</section>
+<p id="handover-status" class="tool-status" role="status"></p>

@@ -1,82 +1,54 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: Umzug 1220 Wien
-footer_title: "Umzug & Übersiedlung 1220 (Donaustadt)"
-seo_title: Umzug 1220 Wien - Übersiedlung Donaustadt
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-kicker: Bezirk 1220
+last_modified_at: '2026-10-17'
+title: Umzug in 1220 Wien (Donaustadt)
+footer_title: Umzug & Übersiedlung 1220 (Donaustadt)
+seo_title: Umzug 1220 Wien (Donaustadt) | Sicher Team
+description: 'Umzug in 1220 Wien: schon vor Schlüsselübergabe bekannte Daten sammeln.
+  Zielzugang, Lift und Termin mit offenen Punkten nachvollziehbar abstimmen.'
+kicker: Umzug & Übersiedlung
 state: wien
 region_type: Bezirk
-hero_image: /topbg.webp
-highlights:
-- Große Fahrzeugflotte für Einfamilienhäuser, Wohnungen und Gewerbeobjekte
-- Effiziente Logistik durch enge Kooperation mit den MA 48 Ressourcencentern
-- Fairer Wertanrechnung für moderne Einrichtungen, Gartengeräte und Werkzeuge
-- Spezialisiert auf die Übersiedlung von Kleingärten und Wochenendhäusern
-checklist:
-- Einfamilienhäuser & Reihenhäuser in Aspern, Essling und Breitenlee
-- Neubauwohnungen in der Seestadt Aspern und in Kaisermühlen
-- Keller, Gartenhäuser, Schuppen und Pools
-- Wohnungen in den Hochhäusern der Donau City und rund um das Donauzentrum
-process:
-- title: Gratis Erstbesichtigung vor Ort
-  description: Wir planen die optimale Anfahrt, egal ob nach Hirschstetten, Süßenbrunn
-    oder in die entlegenen Teile der Lobau.
-- title: Transparentes Fixpreis-Angebot
-  description: Auf Wunsch sind alle Leistungen wie Container, Big Bags und Halteverbotszonen
-    in unserem Fixpreis enthalten.
-- title: Professionelle Übersiedlung & Recycling
-  description: Wir garantieren eine direkte Anlieferung zu den MA 48 Ressourcen-Centern
-    und stellen Ihnen einen entsprechenden Nachweis aus.
-- title: Perfekter Abschluss
-  description: Wir übergeben das Objekt besenrein, auf Wunsch inklusive einer leichten
-    Rasenpflege und einem detaillierten Protokoll für Immobilienmakler.
-faqs:
-- question: Welche Logistik ist bei einem Umzug in dieser Region typisch?
-  answer: Typisch in 1220 Wien sind enge Zeitfenster, begrenzte Haltezonen und objektspezifische
-    Hausregeln. Darum starten wir mit einer kurzen Vorprüfung zu Zugang, Trageweg
-    und Etagenlogik. So bleibt der Ablauf am Einsatztag stabil und vermeidet unnötige
-    Wartezeiten.
-- question: Wie gehen Sie mit Liftregeln und Stiegenhaus-Schutz um?
-  answer: Wir klären Liftzeiten, Schutzvorgaben und Laufwege vor dem Termin und planen
-    die Reihenfolge danach. Bei sensiblen Gebäuden kommen Schutzmaterial und klare
-    Tragezonen zum Einsatz. Das reduziert Reibung mit Hausverwaltung und Nachbarn.
-- question: Ist eine Wertanrechnung in diesem Bezirk möglich?
-  answer: Ja, verwertbare Gegenstände können nach Sichtung angerechnet werden. Wichtig
-    ist eine realistische Bewertung nach Zustand und Nachfrage. Die Positionen werden
-    transparent in die Kalkulation aufgenommen, damit der Endpreis nachvollziehbar
-    bleibt.
-- question: Welche Angaben brauchen Sie für ein Fixpreis-Angebot in 1220 Wien?
-  answer: Am wichtigsten sind aktuelle Fotos, Adresse, Kontaktdaten und der gewünschte
-    Termin. Angaben zu Etage, Lift, Innenhof oder Keller verbessern die Erstkalkulation.
-    Damit erhalten Sie schneller eine belastbare Rückmeldung zum Ablauf.
 schema_type: Service
 service_type: Umzug
-permalink: /leistungen/umzug-1220-wien/
-redirect_from:
-- /leistungen/haushaltsaufloesung/
-- /entruempelung-1220-wien/
-- /raeumung-1220-wien/
-local_logistics_note: In 1220 Wien stimmen wir Ladefenster, Liftzeiten und Zugangspunkte
-  vorab mit der Hausverwaltung ab.
-micro_case: 'Aktuelle Praxis in 1220 Wien: kurze Vorprüfung per Nachricht, Besichtigung
-  vor Ort und termintreue Übersiedlung mit Protokoll.'
-proof_date: 2026-02-09
+permalink: "/leistungen/umzug-1220-wien/"
+redirect_from: []
+enquiry_service: umzug
+sources:
+- title: 'Stadt Wien: kurzfristige Halteverbotszone'
+  url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
+faqs:
+- question: Kann ich vor der Schlüsselübergabe ein Angebot anfragen?
+  answer: Ja. Nennen Sie bekannte Daten und markieren Sie fehlende Zugangsangaben.
+    Für die bestätigte Ausführung müssen notwendige Voraussetzungen und spätere Änderungen
+    ausdrücklich abgestimmt werden.
+- question: Reicht die Hausregel eines Nachbargebäudes?
+  answer: Nein. Fragen Sie nach den Bedingungen für Ihren tatsächlichen Eingang und
+    das konkrete Gebäude. Eine ähnliche Lage oder derselbe Wohngebietsname bestätigt
+    keine identische Anlieferung.
 ---
-## Donaustadt zwischen Seestadt, Kaisermühlen und Lobau
-In 1220 Wien betreuen wir regelmässig Einsätze in Seestadt Aspern, Essling, Breitenlee, Mühlwasser und Lobau. In 1220 reicht die Spanne von Neubauflogik bis zu schwer zugänglichen Freizeitflächen. Wir bearbeiten Wohnobjekte, Nebengebäude und saisonal genutzte Lagen. Der Ablauf koppelt Hauszugang, Umweltauflagen und Entsorgungswege aneinander.
+## Ihren Umzug in der Donaustadt vorbereiten
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Für Ihren Umzug in 1220 Wien übernimmt Sicher Team die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Nennen Sie uns Start, Ziel und Möbelumfang. Auch vor der Schlüsselübergabe können Sie anfragen; noch ungeprüfte Angaben zum neuen Zugang bleiben zunächst offen.
 
-### Welche Logistik ist in 1220 Wien typisch?
-Typisch sind in 1220 Wien unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Möbeltransport mit abgestimmter Logistik](/leistungen/entruempelung-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Den richtigen Eingang und Ladeweg festlegen
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Hausumzug mit Nebenflächen und Garten](/leistungen/hausraeumung/) und stützen die lokale Planung mit [Leitfaden zu Express und Containerlogistik](/ratgeber/express-entruempelung-container-logistik/). Den regionalen Rahmen finden Sie unter [Bundesland Wien](/bundesland/wien/).
+Ob Ihre Adresse in Seestadt, Kaisermühlen oder einem anderen Teil der Donaustadt liegt: Entscheidend ist der Weg an Ihrem konkreten Gebäude. Nennen Sie Hausnummer, Stiege und Eingang. Markieren Sie auf einem Foto oder Lageplan, wo entladen werden kann und wie die Möbel von dort bis zur Wohnung gelangen.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für 1220 Wien eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+Fragen Sie bei der Hausverwaltung nach Torzugang, erlaubter Anlieferung und Nutzung gemeinschaftlicher Flächen. Die Regel eines Nachbargebäudes bestätigt keine Zufahrt für Ihre Adresse. Wenn ein Ladeplatz auf öffentlicher Straße benötigt wird, hilft der Überblick zu [Halteverbotszonen in Österreich](/ratgeber/halteverbotszone-umzug-oesterreich/) bei den nächsten Schritten.
 
-Gerade in 1220 Wien zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+## Vor und nach der Schlüsselübergabe
+
+| Vor der Übergabe angeben | Anschließend prüfen |
+| --- | --- |
+| Adresse, Stiege und Ansprechpartner | Tatsächlich nutzbarer Eingang und Toröffnung |
+| Vorhandene Liftangaben | Türöffnung, Kabinenmaße und Weg vom Lift zur Wohnung |
+| Möbel- und Kartonliste | Größte Stücke im Verhältnis zu Türen und Podesten |
+| Wunschdatum | Schlüssel, Anlieferzeit und bestätigter Termin |
+
+Messen Sie bei der ersten Begehung den vollständigen Weg für große Möbel. Ein passender Lift hilft nur, wenn auch der Zugang zur Kabine und der Weg zur Wohnung passen. Senden Sie uns nach der Übergabe fehlende Maße oder geänderte Bedingungen, bevor die Ausführung verbindlich abgestimmt wird.
+
+## Verpackung und Aufbau passend vereinbaren
+
+Halten Sie fest, wer Kartons packt, Möbel zerlegt und am Ziel wieder aufbaut. Kennzeichnen Sie Stücke, die in einen anderen Raum oder an eine zusätzliche Adresse gebracht werden sollen. So lassen sich Transport und gewünschte Zusatzarbeiten gemeinsam planen.
+
+Über [Angebot anfragen](/angebot/?service=umzug) übermitteln Sie bekannte Daten und offene Fragen. Eine frühe Anfrage reserviert noch keinen Termin; diesen bestätigen wir zusammen mit dem vereinbarten Umfang. Weitere Vorbereitung finden Sie unter [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/).

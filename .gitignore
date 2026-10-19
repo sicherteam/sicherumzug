@@ -8,3 +8,10 @@ _site/
 *.pyc
 __pycache__/
 jekyll_build.log
+
+.DS_Store
+
+_tests/.site/
+_tests/artifacts/
+_tests/test-results/
+_tests/playwright-report/

@@ -1,0 +1,4 @@
+{%- assign icon_names = 'box,calculator,calendar,truck,quotes,scales,parking,mail,tag,clearance,download,adjust,home,document,compare,camera,phone,down,check,plus,menu,arrow,whatsapp' | split: ',' -%}
+{%- assign icon_name = include.name | default: 'arrow' -%}
+{%- unless icon_names contains icon_name -%}{%- assign icon_name = 'arrow' -%}{%- endunless -%}
+<svg class="ui-icon{% if icon_name == 'whatsapp' %} ui-icon-whatsapp{% endif %}" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><use href="{{ '/assets/icons/ui-icons.36777980cda5.svg' | relative_url }}#{{ icon_name }}"></use></svg>

@@ -1,0 +1,24 @@
+<section class="section service-directory-areas" id="staedte"><div class="wrap">
+<p class="eyebrow">Start und Ziel verbinden</p>
+<h2>Umzug in Ihrer Stadt.</h2>
+<p class="service-directory-lead">Wählen Sie den Ort Ihrer Übersiedlung. Unsere Kerngebiete sind Wien, Niederösterreich, Burgenland, Oberösterreich, Steiermark, Salzburg und Kärnten. Das Büro von Sicher Team befindet sich in Wien. Strecke, gewünschte Leistungen und Termin stimmen wir persönlich mit Ihnen ab.</p>
+<p class="service-directory-help">Für Städte ohne eigene Stadtseite führt der Link zur Planung im jeweiligen Bundesland. Auch andere Gemeinden können Sie mit beiden Adressen anfragen.</p>
+<nav class="service-region-navigation" aria-labelledby="service-region-label">
+<p id="service-region-label">Direkt zu Ihrer Region</p>
+<div class="service-region-links">{% for group in site.data.service_directory.city_groups %}{% assign region_id = group.url | remove: '/bundesland/' | remove: '/leistungen/umzug-' | remove: '/' %}<a href="#staedte-{{ region_id }}" data-region-jump>{{ group.title | replace: ' · auf Anfrage', '' }}{% if group.title contains 'auf Anfrage' %} <span>auf Anfrage</span>{% endif %}</a>{% endfor %}</div>
+</nav>
+<div class="catalog-filter"><label for="city-search">Stadt oder Wiener Bezirk finden</label><input id="city-search" type="search" data-city-search placeholder="Zum Beispiel Graz, Wels oder Meidling" aria-controls="service-city-directory"></div>
+<div class="service-city-directory" id="service-city-directory">
+{% for group in site.data.service_directory.city_groups %}
+{% assign region_id = group.url | remove: '/bundesland/' | remove: '/leistungen/umzug-' | remove: '/' %}
+<section class="service-city-group" id="staedte-{{ region_id }}" tabindex="-1" data-city-group>
+<h3><a href="{{ group.url | relative_url }}">{{ group.title }}</a></h3>
+<ul>{% for city in group.cities %}<li data-city-item><a href="{{ city.url | relative_url }}"><span class="service-city-label">Umzug {{ city.name }}{% if city.url contains "/bundesland/" %}<small>Regionalübersicht {{ group.title | replace: " · auf Anfrage", "" }}</small>{% endif %}</span> {% include ui-icon.html %}</a></li>{% endfor %}</ul>
+{% if group.title == 'Wien' %}<a class="service-city-more" href="{{ '/bundesland/wien/' | relative_url }}">Alle 23 Wiener Bezirke ansehen</a>{% endif %}
+</section>
+{% endfor %}
+</div>
+<p class="empty-results" data-city-empty role="status" hidden>Dieser Ort ist nicht in der Übersicht. <a href="{{ '/angebot/' | relative_url }}">Nennen Sie uns Start und Ziel</a>, damit wir Ihre Strecke prüfen können.</p>
+<div class="service-directory-other"><h3>Tirol und Vorarlberg auf Anfrage.</h3><p>Bei diesen längeren Strecken prüfen wir Durchführung und Verfügbarkeit individuell anhand Ihrer Start- und Zieladresse. Die Anfrage reserviert noch keinen Termin.</p></div>
+<a class="text-link" href="{{ '/bezirke/' | relative_url }}">Alle Einsatzgebiete und Bundesländer {% include ui-icon.html %}</a>
+</div></section>

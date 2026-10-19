@@ -1,53 +1,86 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
 layout: home
-title: "Professioneller Umzug & Übersiedlung in Österreich | Sicher Team"
-seo_title: "Umzugsfirma Österreich | Möbeltransport & Montage"
-description: "Sicher Team ist Ihr Partner für Umzug & Übersiedlung in Österreich. 100% Fixpreis, Transportversicherung & geschultes Fachpersonal."
-hero:
-  title: "Professioneller Umzug & Übersiedlung in Österreich"
-  subtitle: "Sicher Team ist Ihr verlässlicher Experte für Privatumzüge, Firmenumzüge und Spezialtransporte österreichweit – mit All-Risk-Transportversicherung und 100% Fixpreisgarantie."
-  primary_cta:
-    label: "Jetzt kostenloses Angebot anfordern"
-    url: /angebot/#angebot-form
-brand_intro:
-  kicker: "Umzugs-Experten"
-  heading: "Sicher Team – Ihr Spezialist für stressfreie Übersiedlungen in Österreich"
-  text: "Sicher Team ist Ihr staatlich konzessioniertes und voll versichertes Umzugsunternehmen in Österreich. Wir bieten Ihnen den perfekten Komplettservice für Privatumzüge und Firmenumzüge in Wien und ganz Österreich. Unser bestens geschultes Fachpersonal übernimmt das sichere Verpacken Ihrer Möbel, die fachgerechte Demontage und Montage sowie den geschützten Transport. Vertrauen Sie auf unsere 15 Jahre Erfahrung, die All-Risk-Transportversicherung bis 1.000.000 EUR und transparente Fixpreise ohne versteckte Kosten. Fordern Sie jetzt Ihre kostenlose Besichtigung an."
-  bullets:
-    - "**Sicherer Möbeltransport:** Modernes Equipment und geschultes Personal sorgen für den unversehrten Transport Ihrer Einrichtung, inklusive Spezialverpackungen."
-    - "**Fachgerechte De- & Montage:** Wir übernehmen den Abbau und millimetergenauen Aufbau Ihrer Schränke, Betten und Küchen am neuen Wohnort."
-    - "**Firmen- & Privatumzüge:** Egal ob Einzelbüro, Konzern oder Familienhaus – wir planen und realisieren Ihren Umzug in ganz Österreich pünktlich."
-    - "**100% Fixpreisgarantie:** Schriftliches Festpreisangebot ohne Anfahrtskosten oder Wochenendzuschläge – volle Kostentransparenz von Anfang an."
-process_intro: "In 3 einfachen Schritten zu Ihrem neuen Zuhause – unkompliziert, sicher und transparent in ganz Österreich."
-services_intro: "Wir sind Ihr starker Partner für jeden Umzug. Entdecken Sie unsere maßgeschneiderten Lösungen für Ihren Wohnortwechsel."
-additional_services_intro: "Für ergänzende Räumungs- und Entrümpelungsleistungen in Wien können unsere Kunden auch auf unser weiteres Angebot von [Rümpel Räumung](https://www.ruempelraeumung.at/) zurückgreifen."
-why_intro: "Mehr als nur ein Möbeltransport: Wir bieten maximale Sicherheit, faire Wertanrechnung und ein bestens geschultes Team, das jedes Objekt besenrein übergibt."
-use_global_faqs: false
+title: Umzugsfirma Österreich | Fixpreis & Transport | Sicher Team
+description: "Umzug in Österreich mit Sicher Team: Transport, Verpackung und Montage. Kostenloses Fixpreisangebot. Betriebshaftpflicht bei Allianz bis 1 Mio. €."
+last_modified_at: 2026-10-17
+og_image: "/assets/images/moving/packing-warm.webp"
+og_image_alt: '3D-Illustration: geschützte Möbel und gepackte Kartons für einen Umzug'
+moving_scenes:
+- label: Verpacken
+  image: "/assets/images/moving/packing-warm.webp"
+  mobile_image: "/assets/images/moving/packing-warm-800.webp"
+  alt: '3D-Illustration: sorgfältig geschützte Möbel und gepackte Umzugskartons in
+    einer Wiener Wohnung.'
+- label: Transportieren
+  image: "/assets/images/moving/transport-warm.webp"
+  mobile_image: "/assets/images/moving/transport-warm-800.webp"
+  alt: '3D-Illustration: geschützte Möbel und Kartons im Laderaum eines Umzugsfahrzeugs.'
+- label: Ankommen
+  image: "/assets/images/moving/arrival-new-home.webp"
+  mobile_image: "/assets/images/moving/arrival-new-home-800.webp"
+  alt: '3D-Illustration: Die vertrauten Möbel ausgepackt und neu angeordnet in einer
+    anderen Wohnung mit breitem Fenster und hellem Dielenboden.'
+moving_services:
+- title: Privatumzug
+  description: Von der Wohnung ins neue Zuhause. Mit der Unterstützung, die Sie brauchen.
+  url: "/leistungen/privatumzug/"
+- title: Firmenumzug
+  description: Büro, Praxis oder Betrieb. Gemeinsam planen wir den Wechsel an Ihren
+    neuen Standort.
+  url: "/leistungen/firmenumzug-wien/"
+- title: Möbeltransport
+  description: Einzelne Möbel oder mehrere Stücke. Vom Abholort bis zum gewünschten
+    Platz.
+  url: "/leistungen/moebeltransport/"
+moving_process:
+- title: Vorhaben besprechen
+  description: 'Start, Ziel, Umfang und Wunschtermin: Wir klären gemeinsam, was Sie
+    benötigen.'
+- title: Besichtigung & Angebot
+  description: Zugang, Tragewege und Leistungen werden abgestimmt. Sie erhalten ein
+    schriftliches Fixpreisangebot.
+- title: Umziehen & ankommen
+  description: Unser Team transportiert Ihre Einrichtung und erledigt
+    die beauftragten Montagearbeiten.
 faqs:
-  - question: "Wie läuft ein Umzug mit Sicher Team ab?"
-    answer: "Ein Umzug mit Sicher Team ist einfach und stressfrei. Zuerst fordern Sie eine kostenlose Besichtigung an – entweder direkt vor Ort oder per schnellem WhatsApp-Foto-Check. Anschließend erhalten Sie ein verbindliches, schriftliches Festpreisangebot, das alle Leistungen wie Verpackung, De- und Montage, Transport und die All-Risk-Transportversicherung abdeckt. Am vereinbarten Wunschtermin führt unser geschultes Fachpersonal die Übersiedlung pünktlich und sicher durch."
-  - question: "Gilt der Fixpreis in ganz Österreich?"
-    answer: "Ja, Sicher Team ist Ihr verlässlicher Partner in ganz Österreich. Unsere schriftliche Fixpreisgarantie gilt bundesweit – egal ob in Wien, Graz, Linz, Salzburg, Innsbruck, Klagenfurt, Bregenz, St. Pölten oder Eisenstadt. Es gibt bei uns keine versteckten Kosten, keine Kilometerpauschalen und keine nachträglichen Aufschläge. Der vereinbarte Festpreis steht."
-  - question: "Sind meine Möbel beim Transport versichert?"
-    answer: "Ja! Als professionelles und staatlich konzessioniertes Umzugsunternehmen ist die Sicherheit Ihres Eigentums unser höchstes Gebot. Sicher Team bietet eine umfassende All-Risk-Transportversicherung sowie eine Haftpflichtversicherung mit einer Deckungssumme von bis zu € 1.000.000 für alle Übersiedlungen, Privatumzüge und Firmenumzüge in ganz Österreich."
-  - question: "Bietet Sicher Team auch Räumungen, Entrümpelungen und Wertanrechnung an?"
-    answer: "Als Zusatzleistung zu unserem Umzugsservice bieten wir auch Räumungen und Entrümpelungen an. Wir führen Haushaltsauflösungen, Wohnungsräumungen und gewerbliche Räumungen besenrein durch. Verwertbare Gegenstände, antike Möbel und funktionstüchtige Elektrogeräte werden dabei von unseren Sachverständigen bewertet und über die Wertanrechnung direkt von den Kosten abgezogen."
-  - question: "Bieten Sie auch Verpackungsmaterial an?"
-    answer: "Selbstverständlich. Für einen sicheren Transport stellen wir Ihnen auf Wunsch hochwertiges Verpackungsmaterial wie Umzugskartons, Luftpolsterfolie, Seidenpapier und spezielle Kleiderboxen zur Verfügung."
-permalink: /
-schema_type: Homepage
+- question: Kann ich einen Umzug nach Linz, Graz oder Salzburg anfragen?
+  answer: Ja. Nennen Sie Start, Ziel, Umfang und Wunschtermin. Wien, Niederösterreich,
+    Burgenland, Oberösterreich, Steiermark, Salzburg und Kärnten sind unsere Kerngebiete;
+    weitere österreichische Strecken prüfen wir persönlich auf Durchführung und Verfügbarkeit.
+    Unser Büro befindet sich in Wien.
+- question: Was kostet ein Umzug?
+  answer: Der Preis hängt vom Umfang, der Strecke, den Etagen und Tragewegen sowie
+    den gewünschten Leistungen ab. Verpackung und Möbelmontage werden nach Bedarf
+    berücksichtigt. Nach der kostenlosen Besichtigung erhalten Sie ein verbindliches
+    schriftliches Fixpreisangebot für den vereinbarten Umfang, ohne Anfahrtskosten
+    oder Wochenendzuschläge. Liegt ein vergleichbares schriftliches Angebot vor,
+    greift unsere 5 % Bestpreis-Garantie bei gleichen Bedingungen.
+- question: Welche Versicherung hat Sicher Team?
+  answer: Sicher Team hat eine Betriebshaftpflichtversicherung bei Allianz mit einer Versicherungssumme bis 1.000.000 €. Die für Ihren konkreten Auftrag geltenden Bedingungen besprechen wir vor der Beauftragung mit Ihnen.
+- question: Wie früh sollte ich anfragen?
+  answer: Fragen Sie an, sobald Start, Ziel und ein ungefährer Termin feststehen.
+    Wir stimmen Ihren Umzugstermin und die benötigte Unterstützung direkt mit Ihnen ab.
+    Bei kurzfristigen Umzügen nennen Sie uns den gewünschten Tag; wir sagen Ihnen persönlich, ob ein Team verfügbar ist.
+- question: Übernehmen Sie Verpackung und Möbelmontage?
+  answer: Ja. Verpackungsservice, Demontage und Montage können Sie nach Bedarf vereinbaren.
+    Wir besprechen vorab, welche Arbeiten Sie selbst vorbereiten und welche unser Team
+    übernimmt. Die Leistungen werden im Angebot festgehalten.
+- question: Kann ich ohne Fotos anfragen?
+  answer: Ja. Fotos sind optional. Start- und Zielort, eine Beschreibung der Einrichtung
+    und Ihr Wunschtermin genügen für das erste Gespräch. Etagen, Lift und Tragewege
+    klären wir gemeinsam.
+- question: Was passiert mit Möbeln, die nicht mitkommen?
+  answer: Entrümpelung oder Räumung können Sie zusätzlich zum Umzug oder als eigenständige
+    Leistung anfragen. Wir besprechen, was transportiert, behalten oder entfernt werden
+    soll. Verwertbare Gegenstände können nach Prüfung als Wertanrechnung von den
+    Räumungskosten abgezogen werden. Umfang und Anrechnung halten wir schriftlich fest.
+redirect_from:
+- "/hallo-welt/"
+- "/website-structure-analysis/"
+- "/start/"
+- "/hallo-welt/feed/"
+- "/gallery-addon/"
 ---
+Sicher Team plant Privatumzüge und Firmenumzüge in Wien, Niederösterreich, Burgenland, Oberösterreich, Steiermark, Salzburg und Kärnten. Weitere Strecken und Einsatzgebiete werden persönlich abgestimmt. Verpackung, Möbeltransport, Demontage und Montage können nach Bedarf vereinbart werden. Entrümpelung und Räumung sind ergänzende, auch separat buchbare Leistungen. Der Ablauf: Start, Ziel und Wunschtermin nennen, kostenlose Besichtigung vereinbaren, schriftliches Angebot erhalten und den Umzug durchführen lassen. Kontakt: +43 660 6060775, office@sicher-umzug.at. Büro: Wildgartenallee 1, 1120 Wien.
 
-<section class="py-12 bg-slate-950">
-  <div class="container mx-auto px-4">
-    {% include calculator.html %}
-  </div>
-</section>
-
-<div class="container mx-auto px-4">
-  {% include bestpreis-banner.html %}
-</div>
-
-## Umfassende Logistik & Abwicklung für Privat & Gewerbe
-Unsere Planung reicht vom Aufbau von Halteverbotszonen in stark frequentierten Bezirken bis hin zum Einsatz von Schrägaufzügen für Dachgeschosswohnungen. Auch am neuen Standort kümmern wir uns darum, dass jeder Karton ins richtige Zimmer getragen und jedes Möbelstück fachgerecht platziert wird. So wird Ihr Umzug zum Erfolg.
+Sicher Team ist ein staatlich konzessioniertes Umzugsunternehmen mit 15 Jahren Erfahrung. Für Sicher Team besteht eine Betriebshaftpflichtversicherung bei Allianz mit einer Versicherungssumme bis 1.000.000 €. 5,0 von 5 Sternen aus über 450 Bewertungen. Nach kostenloser Besichtigung erhalten Sie ein schriftliches Fixpreisangebot für den vereinbarten Umfang, ohne Anfahrtskosten oder Wochenendzuschläge. Verwertbare Gegenstände prüfen wir bei Räumungen für eine Wertanrechnung.

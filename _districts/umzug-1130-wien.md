@@ -1,88 +1,66 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: Umzug 1130 Wien
-footer_title: "Umzug & Übersiedlung 1130 (Hietzing)"
-seo_title: Umzug 1130 Wien - Übersiedlung Hietzing
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-kicker: Bezirk 1130
+last_modified_at: '2026-10-11'
+title: Umzug in 1130 Wien (Hietzing)
+footer_title: Umzug & Übersiedlung 1130 (Hietzing)
+seo_title: Umzug 1130 Wien (Hietzing) | Sicher Team
+description: 'Umzug in 1130 Wien: Hausbestand auf die neue Wohnfläche abstimmen. Keller,
+  Außenstücke, Packhilfe und Montage getrennt planen und anfragen.'
+kicker: Umzug & Übersiedlung
 state: wien
 region_type: Bezirk
-hero_image: /topbg.webp
-highlights:
-- Maximaler Schutz für hochwertige Böden, Stiegenhäuser & Gartenanlagen
-- Erstellung von Wertgutachten für Kunst, Antiquitäten und Designermöbel
-- Eine feste Ansprechpartnerin für die Koordination mit Familien und Erben
-- Absolute Diskretion durch neutrale Fahrzeuge und geschultes Personal
-checklist:
-- Villen und Einfamilienhäuser in Ober St. Veit, Lainz und Speising
-- Wohnungen in den eleganten Zinshäusern nahe Schloss Schönbrunn
-- Nebengebäude wie Gartenhäuser, Garagen und Ateliers
-- Komplette Verlassenschaften inklusive Antiquitäten und Sammlungen
-process:
-- title: Familiengespräch & Planung
-  description: Wir führen einen gemeinsamen Rundgang durch, erstellen eine Prioritätenliste
-    und übernehmen die sichere Verwahrung empfindlicher Gegenstände.
-- title: Wertanrechnung & Auktionen
-  description: Wir arbeiten eng mit renommierten Auktionshäusern zusammen, um für
-    hochwertige Stücke den besten Preis zu erzielen.
-- title: Sorgfältige Übersiedlung & Spenden
-  description: Gut erhaltene Möbel oder Kleidung spenden wir auf Wunsch an karitative
-    Einrichtungen in Wien.
-- title: Perfekter Abschluss
-  description: Wir bieten eine professionelle Endreinigung, eine leichte Gartenpflege
-    und eine Fotodokumentation für Makler und Erben.
-faqs:
-- question: Welche Logistik ist bei einem Umzug in dieser Region typisch?
-  answer: Typisch in 1130 Wien sind enge Zeitfenster, begrenzte Haltezonen und objektspezifische
-    Hausregeln. Darum starten wir mit einer kurzen Vorprüfung zu Zugang, Trageweg
-    und Etagenlogik. So bleibt der Ablauf am Einsatztag stabil und vermeidet unnötige
-    Wartezeiten.
-- question: Wie gehen Sie mit Liftregeln und Stiegenhaus-Schutz um?
-  answer: Wir klären Liftzeiten, Schutzvorgaben und Laufwege vor dem Termin und planen
-    die Reihenfolge danach. Bei sensiblen Gebäuden kommen Schutzmaterial und klare
-    Tragezonen zum Einsatz. Das reduziert Reibung mit Hausverwaltung und Nachbarn.
-- question: Ist eine Wertanrechnung in diesem Bezirk möglich?
-  answer: Ja, verwertbare Gegenstände können nach Sichtung angerechnet werden. Wichtig
-    ist eine realistische Bewertung nach Zustand und Nachfrage. Die Positionen werden
-    transparent in die Kalkulation aufgenommen, damit der Endpreis nachvollziehbar
-    bleibt.
-- question: Welche Angaben brauchen Sie für ein Fixpreis-Angebot in 1130 Wien?
-  answer: Am wichtigsten sind aktuelle Fotos, Adresse, Kontaktdaten und der gewünschte
-    Termin. Angaben zu Etage, Lift, Innenhof oder Keller verbessern die Erstkalkulation.
-    Damit erhalten Sie schneller eine belastbare Rückmeldung zum Ablauf.
 schema_type: Service
 service_type: Umzug
-permalink: /leistungen/umzug-1130-wien/
-redirect_from:
-- /leistungen/haushaltsaufloesung-1130-wien/
-- /entruempelung-1130-wien/
-- /raeumung-1130-wien/
-local_logistics_note: In 1130 Wien kalkulieren wir Halteverbote, Transportstrecken
-  und Entsorgungswege transparent im Fixpreis.
-micro_case: 'Standardfall in 1130 Wien: strukturierte Inventarsichtung, Fixpreisfreigabe
-  und Abschluss mit sauberer Übergabe an Eigentümer oder Verwaltung.'
-proof_date: 2026-02-09
+permalink: "/leistungen/umzug-1130-wien/"
+redirect_from: []
+enquiry_service: umzug
+sources:
+- title: 'Stadt Wien: kurzfristige Halteverbotszone'
+  url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
+faqs:
+- question: Muss beim Hausumzug der gesamte Bestand mitkommen?
+  answer: Nein. Wählen Sie aus, welche Stücke zum Ziel gehen. Keller, Außenbestand
+    und zurückbleibende Gegenstände sollten getrennt aufgeführt werden, damit der
+    Auftrag den tatsächlichen Umfang beschreibt.
+- question: Kann ich Unterstützung bei einer Verkleinerung anfragen?
+  answer: Ja. Nennen Sie die konkret benötigten Aufgaben, etwa Packhilfe oder Möbelmontage.
+    Umfang, Ausführung und gegebenenfalls weitere Unterstützung werden ausdrücklich
+    vereinbart.
 ---
-## Wertsensible Übersiedlungen in Hietzing
-In 1130 Wien betreuen wir regelmässig Einsätze in Ober St. Veit, Roter Berg, Schönbrunn und Hietzinger Wohnlagen. In 1130 stehen ruhige Ablauforganisation und Schutz von Einfahrten im Vordergrund. Viele Projekte betreffen Villen, grosszügige Wohnungen und Inventar mit Restwert. Wir strukturieren Bewertung, Trennung und Abtransport in abgestimmten Etappen.
+## Haus- und Wohnungsumzug in 1130 Wien
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Für eine Übersiedlung in Hietzing können Sie Sicher Team den gewünschten Transport und ergänzende Arbeiten anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn ein Hausbestand in eine kleinere Wohnung zieht, hilft zuerst die Auswahl. Hausräume, Keller und Außenbestand werden dabei einzeln aufgenommen; Montage und Packhilfe werden nach Bedarf abgestimmt.
 
-### Welche Logistik ist in 1130 Wien typisch?
-Typisch sind in 1130 Wien unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Möbeltransport mit abgestimmter Logistik](/leistungen/entruempelung-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Hausbestand in Hietzing auf die neue Wohnfläche abstimmen
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Antiquitäten-Wertanrechnung im Ablauf](/leistungen/antiquitaeten-ankauf/) und stützen die lokale Planung mit [Leitfaden zur Wertanrechnung](/ratgeber/wertanrechnung-guide/). Den regionalen Rahmen finden Sie unter [Bundesland Wien](/bundesland/wien/).
+Vor einer Übersiedlung aus einem Haus in 1130 Wien hilft eine Auswahl nach Zielort. Gehen Sie Wohnräume, Keller und Außenbereiche getrennt durch. Entscheiden Sie für jedes größere Stück, ob es in der neuen Wohnung benötigt wird und dort Platz findet. Eine kleinere Zielwohnung macht nicht automatisch den gesamten bisherigen Bestand sinnvoll transportierbar.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für 1130 Wien eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+Notieren Sie Maße von Möbeln, die nur in bestimmte Räume passen. Dabei sind nicht allein die Stellflächen entscheidend: Eingang, Lift, Türen und enge Kurven am Ziel müssen ebenfalls berücksichtigt werden. Bestehende Hauswege und Außenstufen gehören separat zur Anfrage.
 
-Gerade in 1130 Wien zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+### Weitergabe und Umzug als getrennte Aufgaben
 
-Ein strukturierter Abschlusscheck am Terminende sorgt dafür, dass der Endzustand nachvollziehbar bleibt. Das reduziert Rückfragen und macht die Übergabe für alle Seiten klar.
+Bestand, der abgegeben oder geräumt werden soll, braucht ein anderes Ziel als der neue Wohnort. Vereinbaren Sie dafür Verantwortlichkeit und Umfang gesondert. Eine Umzugsanfrage enthält nicht automatisch eine vollständige Hausräumung.
 
+Der [Hausumzug](/leistungen/hausumzug/) ist der Ausgangspunkt für diese Bestandsplanung. Wenn Unterstützung bei einer Verkleinerung gewünscht ist, können Sie die Anforderungen auf der [Seniorenumzugsseite](/leistungen/seniorenumzug/) prüfen. Die Anfrage sollte konkrete benötigte Hilfe beschreiben; sie bestätigt keine persönliche Betreuung oder bestimmte Ausführung.
 
-### Umzug Logistik für diesen Bezirk
-In Hietzing (1130 Wien) mit seinen vielen Villen und Einfamilienhäusern stehen oft Hausumzüge mit großem Volumen an. Wir bieten maßgeschneiderte Logistik für lange Zufahrtswege, umfassende Verpackung für hochwertige Einrichtungsgegenstände und Transporte von Kunst oder Instrumenten.
+## Die neue Wohnfläche als Ausgangspunkt nehmen
+
+Beginnen Sie mit den großen Möbeln und deren vorgesehenen Räumen am Ziel. Erst danach lässt sich sinnvoll entscheiden, welche ergänzenden Gegenstände mitkommen. Eine Stellfläche allein genügt nicht: Prüfen Sie auch die nötigen Wege durch Eingang, Lift oder Stiege. Wenn dieser Zugang noch nicht bekannt ist, sollte die Unsicherheit in der Anfrage sichtbar sein.
+
+| Bisheriger Bereich | Auswahl vor dem Verpacken | Angabe für das Angebot |
+| --- | --- | --- |
+| Wohnräume | Möbel nach vorgesehenem Zielraum auswählen | Maße und gewünschter Wiederaufbau |
+| Keller | Benötigten Bestand von zurückbleibenden Dingen trennen | Zusätzlicher Zugang und Stückliste |
+| Außenbereich | Transportierbare Stücke einzeln benennen | Material, Größe und besondere Anforderungen |
+| Aussortierter Bestand | Empfänger oder gewünschte Räumung festlegen | Gesonderte Aufgabe statt unklarer Restmenge |
+
+### Verkleinerung ohne Entscheidungsdruck am Umzugstag
+
+Legen Sie vor der Abholung fest, wer über mitgenommene und aussortierte Gegenstände entscheiden darf. Wenn Angehörige unterstützen, sollte ihre Auswahl mit der betroffenen Person abgestimmt sein. Ein ausführendes Unternehmen sollte keine persönlichen Entscheidungen über Erinnerungsstücke treffen müssen. Kennzeichnen Sie weiterzugebenden Bestand eindeutig und bestätigen Sie tatsächliche Empfänger, statt eine Abnahme nur zu hoffen.
+
+Wenn mehr Unterstützung gewünscht ist, benennen Sie die Aufgaben einzeln. Packhilfe, Tragen und Möbelaufbau sind klarer als eine allgemeine Bitte um „alles erledigen“. Persönliche Betreuung und technische Anschlussarbeiten müssen gesondert geklärt werden. Fehlende Zielmaße oder noch offene Schlüsseltermine gehören ebenfalls in die Planung.
+
+### Angebote nach ausgewähltem Bestand vergleichen
+
+Ein Angebot für das ganze Haus unterscheidet sich von einem Angebot für bereits ausgewählte Möbel. Verwenden Sie dieselbe endgültige Liste, wenn Sie verschiedene Angebote vergleichen. Prüfen Sie, ob Nebenräume und Zugänge berücksichtigt sind und welche Pack- oder Montagearbeiten bei Ihnen bleiben. Lassen Sie den tatsächlichen Ausführenden und bestätigten Termin nennen.
+
+Über [Angebot anfragen](/angebot/) können Sie den ausgewählten Bestand und gewünschte Hilfe beschreiben. Noch offene Räumung oder Weitergabe sollte dabei als eigene Aufgabe erkennbar bleiben.

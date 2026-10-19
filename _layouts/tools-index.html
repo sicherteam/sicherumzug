@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section class="tool-hub"><div class="wrap">
+<nav class="breadcrumbs" aria-label="Brotkrümelnavigation"><a href="{{ '/' | relative_url }}">Startseite</a><span aria-hidden="true">/</span><span aria-current="page">Umzug planen</span></nav>
+<div class="tool-hub-intro"><h1>Ihr Umzug. Gut vorbereitet.</h1><p>Kosten einschätzen, Kartons planen und Aufgaben ordnen. Kostenlose Planungshilfen für Ihre Übersiedlung in Österreich.</p><a class="text-link tool-hub-jump" href="#tool-directory-title">Alle 11 Planungshilfen ansehen {% include ui-icon.html name="down" %}</a></div>
+<div class="tool-cards tool-featured" aria-label="Drei Planungshilfen für den Anfang">{% for item in site.data.moving_tools limit:3 %}{% include tool-card.html item=item %}{% endfor %}</div>
+<p class="tool-hub-reassurance">Ohne Anmeldung <span aria-hidden="true">·</span> PDF herunterladen <span aria-hidden="true">·</span> In Ihrem Tempo</p>
+<section class="tool-directory" aria-labelledby="tool-directory-title"><h2 id="tool-directory-title">Was möchten Sie vorbereiten?</h2><p>Wählen Sie die passende Hilfe für Ihren nächsten Schritt.</p><div class="tool-directory-columns">
+{% assign categories = 'costs|packing|documents' | split: '|' %}{% assign labels = 'Kosten & Angebote|Packen & Transport|Checklisten & Dokumente' | split: '|' %}
+{% for category in categories %}<section class="tool-directory-group"><h3>{{ labels[forloop.index0] }}</h3><ul>{% for item in site.data.moving_tools %}{% if item.category == category %}<li><a href="{{ item.url | relative_url }}">{% include ui-icon.html name=item.icon %}<span><strong>{{ item.label }}</strong><span>{{ item.benefit }}</span></span>{% include ui-icon.html %}</a></li>{% endif %}{% endfor %}</ul></section>{% endfor %}
+</div></section>
+<div class="tool-clearance-row">{% include ui-icon.html name='clearance' %}<div><h2>Für Dinge, die nicht mitziehen.</h2><p>Räumungsumfang und mögliche Wertfragen für die persönliche Abstimmung vorbereiten.</p></div><a class="text-link" href="{{ '/raeumungs-check/' | relative_url }}">Räumungs-Check {% include ui-icon.html %}</a></div>
+</div></section>
+<section class="section tool-explanation"><div class="wrap document-grid"><article class="document-body"><h2>So wird aus Ihrer Planung ein guter Umzug.</h2><p>Die Tools helfen Ihnen, den Umfang Ihrer Übersiedlung zu beschreiben und praktische Unterlagen mitzunehmen. Sie können zuerst selbst planen und später entscheiden, welche Unterstützung Sie brauchen.</p>{% include editorial-content.html %}</article>{% include document-aside.html %}</div></section>{% include clear-faq.html %}

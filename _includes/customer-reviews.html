@@ -1,0 +1,3 @@
+<div class="customer-review-grid">
+{% for review in site.data.customer_reviews %}<figure class="customer-review"><div class="customer-review-stars"><span aria-hidden="true">★★★★★</span><span class="sr-only">5 von 5 Sternen</span></div><blockquote><p>„{{ review.text | escape }}“</p></blockquote><figcaption><strong>{{ review.name | escape }}</strong><span>{{ review.role | escape }}</span></figcaption></figure>{% endfor %}
+</div>

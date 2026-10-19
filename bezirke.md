@@ -1,128 +1,65 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-layout: default
-title: "Umzug & Übersiedlung in Wien & Österreich"
-seo_title: "Umzug Standorte Wien & Österreich | Sicher Team"
-description: "Alle Standortseiten von Sicher Team für Umzug & Übersiedlung – Schwerpunkt Wien, dazu Hubs in allen Bundesländern."
-permalink: /bezirke/
-kicker: "Standorte"
+layout: page
+title: Umziehen in Österreich. Start und Ziel verbinden.
+seo_title: Einsatzgebiete Österreich | Wien, NÖ & Bundesländer
+description: Umzüge in sieben Kerngebieten Österreichs sowie weitere Strecken nach
+  Abstimmung. Städte, alle Bundesländer und regionale Planungshinweise im Überblick.
+permalink: "/bezirke/"
+last_modified_at: '2026-10-11'
+redirect_from: []
 ---
-{% include breadcrumbs.html %}
-<section class="bg-white py-16">
-  <div class="container mx-auto px-4">
-    <div class="max-w-3xl">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">{{ page.kicker }}</p>
-      <h1 class="mt-3 text-4xl font-black text-primary">Wien bleibt Kerngebiet – Österreichweit planbar</h1>
-      <p class="mt-4 text-lg text-text-light">
-        Über 80&nbsp;% unserer Einsätze finden in Wien statt – deshalb bleiben dort Teams, Lager und Halteverbotsmaterialien stationiert. Für Kund:innen mit
-        Objekten in Niederösterreich, Burgenland, Steiermark, Kärnten, Oberösterreich oder Salzburg fahren dieselben Profis hinaus, damit Sie keine neuen
-        Dienstleister suchen müssen. Wählen Sie Ihr Bundesland, entdecken Sie die jeweiligen Bezirksseiten und fordern Sie ein maßgeschneidertes Angebot an.
-      </p>
-      <p class="mt-3 text-base text-text-light">
-        Wenn Sie direkt eine <a href="{{ '/leistungen/umzug-wien/' | relative_url }}" class="font-semibold text-primary hover:underline">Umzug Wien zum Fixpreis</a> buchen möchten, führt unsere Leistungsseite sofort zu Preisen, Ablauf und Kontakt.
-      </p>
-      <div class="mt-6 flex flex-col gap-3 sm:flex-row">
-        <a href="{{ '/angebot/' | relative_url }}" class="inline-flex items-center justify-center rounded-full bg-primary px-6 py-3 text-base font-semibold text-white hover:bg-primary-light">
-          Kostenloses Angebot anfordern
-        </a>
-        <a href="tel:{{ site.phone | replace: ' ', '' }}" class="inline-flex items-center justify-center rounded-full border border-primary px-6 py-3 text-base font-semibold text-primary hover:bg-primary/5">
-          {% include svg/call.svg class="mr-2 w-[18px] h-[18px] shrink-0 fill-current" %}
-          {{ site.phone }}
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="bg-background-light py-16">
-  <div class="container mx-auto px-4">
-    <div class="flex flex-col gap-3 text-center">
-      <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Bundesland wählen</p>
-      <h2 class="text-3xl font-extrabold text-primary">Standort auswählen & Details öffnen</h2>
-      <p class="text-base text-text-light">Zuerst Wien, dann Niederösterreich, Burgenland, Steiermark, Kärnten, Oberösterreich und Salzburg – innerhalb jedes Bundeslands finden Sie unsere Bezirks- und Regionsseiten.</p>
-    </div>
-    <div class="mt-10 rounded-3xl bg-white p-6 shadow-lg">
-      <p class="text-sm font-semibold uppercase tracking-[0.3em] text-primary-accent">Meistgesuchte Bezirke</p>
-      <p class="mt-2 text-base text-text-light">Diese Seiten decken Suchanfragen wie „Umzug 1180 Wien“ oder „Übersiedlung 1210“ ab – direkt verlinkt, damit Sie ohne Umwege zum passenden Angebot kommen.</p>
-      <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {% assign hot_districts = "
-          umzug-1170-wien:Umzug 1170 Wien,
-          umzug-1180-wien:Umzug 1180 Wien,
-          umzug-1190-wien:Döbling & Grinzing,
-          umzug-1210-wien:Floridsdorf & Donauraum,
-          umzug-1220-wien:Donaustadt & Seestadt,
-          umzug-klosterneuburg:Klosterneuburg & Ölberg
-        " | split: "," %}
-        {% for entry in hot_districts %}
-        {% assign parts = entry | split: ":" %}
-        {% assign slug = parts[0] | strip %}
-        {% assign label = parts[1] | default: slug %}
-        <a href="{{ '/leistungen/' | append: slug | append: '/' | relative_url }}" class="flex items-center justify-between rounded-2xl border border-gray-200 bg-background-light px-4 py-3 text-left text-primary transition-opacity hover:border-primary hover:bg-white">
-          <span class="text-base font-semibold">{{ label | strip }}</span>
-          {% include svg/north_east.svg class="w-[18px] h-[18px] shrink-0 text-primary fill-current" %}
-        </a>
-        {% endfor %}
-      </div>
-    </div>
-    {% assign states = site.states | default: site.collections.states.docs %}
-    {% if states == nil %}
-    {% assign states = '' | split: '' %}
-    {% endif %}
-    {% assign states = states | sort: 'order' %}
-    <div class="mt-10 grid gap-6 lg:grid-cols-3">
-      {% for state in states %}
-      {% assign locations = site.districts | where: 'state', state.slug | sort: 'title' %}
-      <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
-        <div>
-          <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary">{{ state.kicker | default: 'Bundesland' }}</p>
-          {% assign state_label = state.short_name | default: state.title | split: ' in ' | last %}
-          <h3 class="mt-2 text-xl font-bold text-primary">Umzug in {{ state_label }}</h3>
-          <p class="mt-2 text-sm text-text-light">{{ state.description }}</p>
-          <ul class="mt-4 space-y-1 text-sm text-primary max-h-48 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-gray-200">
-            {% for location in locations %}
-            <li>
-              <a href="{{ location.url | relative_url }}" class="inline-flex items-center gap-1 hover:underline">
-                <span>{{ location.footer_title | default: location.title }}</span>
-                {% include svg/north_east.svg class="w-4 h-4 shrink-0 fill-current" %}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <a href="{{ state.url | relative_url }}" class="mt-6 inline-flex items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white">
-          Bundesland-Seite öffnen
-        </a>
-      </article>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-<section class="bg-white py-16">
-  <div class="container mx-auto px-4">
-    <div class="grid gap-8 lg:grid-cols-2">
-      <div class="space-y-4">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Serviceversprechen</p>
-        <h2 class="text-3xl font-extrabold text-primary">Fixpreis + Wertanrechnung für jeden Bezirk</h2>
-        <p class="text-base text-text-light">
-          Egal ob Dachgeschoss am Spittelberg, Atelier in der Neubaugasse oder Villa in Grinzing – wir kombinieren lokale Logistik mit transparenten Preisen,
-          kümmern uns um Halteverbotszonen und rechnen verwertbare Gegenstände an.
-        </p>
-        <ul class="space-y-2 text-sm text-text-light">
-          <li>✔️ Gratis Erstbesichtigung & schriftliches Angebot vor Ort</li>
-          <li>✔️ Behördenwege & Halteverbotszonen inklusive</li>
-          <li>✔️ Wertanrechnung für Antiquitäten, Technik oder Sammlungen</li>
-          <li>✔️ besenreine Hinterlassung mit Protokoll für Hausverwaltungen</li>
-        </ul>
-      </div>
-      <div class="rounded-3xl bg-background-light p-8 shadow-xl">
-        <p class="text-l font-semibold uppercase tracking-[0.3em] text-primary-accent">Schnelle Anfrage</p>
-        <h3 class="mt-3 text-2xl font-extrabold text-primary">Noch nicht sicher, welcher Bezirk passt?</h3>
-        <p class="mt-2 text-sm text-text-light">
-          Beschreiben Sie kurz Ihr Objekt – wir ordnen es zu und melden uns mit einem Terminvorschlag.
-        </p>
-        <div class="mt-6">
-          {% include quote-form.html %}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+## Wo beginnt Ihre Übersiedlung?
+
+Sicher Team hat sein Büro in Wien. Unsere Kerngebiete sind Wien, Niederösterreich, Burgenland, Oberösterreich, Steiermark, Salzburg und Kärnten. Für andere Bundesländer und längere Strecken prüfen wir Durchführung und Verfügbarkeit persönlich. Die folgenden Seiten beschreiben Einsatzgebiete und Planungshinweise, keine zusätzlichen Niederlassungen.
+
+Nennen Sie bei einer Anfrage beide Adressen, Möbelumfang, Etagen und Wunschtermin. Der [Umzug zwischen Bundesländern](/leistungen/umzug-oesterreich/) erklärt die überregionale Planung. Eine [Umzugscheckliste für Österreich](/ratgeber/umzugscheckliste-oesterreich/) hilft bei Vorbereitung und Übergabe.
+
+## Städte und Umzugsstrecken
+
+Für Wien finden Sie Hinweise zum [Umzug in Wien](/leistungen/umzug-wien/). Die Seiten zu [Linz](/leistungen/umzug-linz/), [Graz](/leistungen/umzug-graz/) und [Salzburg](/bundesland/salzburg/) helfen bei einer Übersiedlung mit Start oder Ziel in diesen Städten. Ob ein konkreter Auftrag übernommen werden kann, besprechen wir anhand der Strecke und des Termins. Eine Stadtseite bezeichnet keine örtliche Niederlassung.
+
+<nav class="city-route-links" aria-label="Städte und Umzugsstrecken">{% for item in site.data.site_navigation.areas %}{% if forloop.first %}<a href="{{ item.url | relative_url }}">Umzug {{ item.label }} {% include ui-icon.html %}</a>{% endif %}{% endfor %}{% for item in site.data.site_navigation.cities %}<a href="{{ item.url | relative_url }}">Umzug nach oder aus {{ item.label }} {% include ui-icon.html %}</a>{% endfor %}</nav>
+
+## Unsere Kerngebiete
+
+<nav class="region-links" aria-label="Kerngebiete">
+{% assign states = site.states | sort: 'order' %}{% for state in states %}{% if state.order <= 7 %}<a href="{{ state.url | relative_url }}"><strong>{{ state.short_title }}</strong><span>{{ state.description }}</span>{% include ui-icon.html %}</a>{% endif %}{% endfor %}
+</nav>
+
+## Weitere Strecken persönlich abstimmen
+
+<nav class="region-links" aria-label="Weitere Bundesländer">
+{% for state in states %}{% if state.order > 7 %}<a href="{{ state.url | relative_url }}"><strong>{{ state.short_title }}</strong><span>{{ state.description }}</span>{% include ui-icon.html %}</a>{% endif %}{% endfor %}
+</nav>
+
+## Entrümpelung und Räumung separat anfragen
+
+Für eine [Entrümpelung](/leistungen/entruempelung-wien/) oder [Räumung](/leistungen/raeumung/) benötigen wir den Standort und eine Beschreibung dessen, was entfernt werden soll. Die konkrete Durchführung außerhalb der Kerngebiete wird ebenfalls persönlich abgestimmt.
+
+[Umzug mit Start und Ziel anfragen](/angebot/?service=umzug&from=%2Fbezirke%2F#angebot-form)
+
+## Die passende regionale Seite auswählen
+
+Wählen Sie zunächst das Bundesland der Abholung und anschließend die Region am Ziel. Für einen Umzug innerhalb derselben Stadt benötigen Sie trotzdem Angaben für beide Gebäude. Die örtliche Seite beschreibt typische Planungsfragen; die eigentliche Leistung finden Sie unter Privatumzug, Firmenumzug oder Möbeltransport. Wenn Ihr Ort nicht einzeln aufgeführt ist, nennen Sie ihn mit Postleitzahl direkt in der Anfrage. Eine fehlende Ortsseite ist keine Aussage über einen möglichen Auftrag.
+
+Eine Stadt- oder Bezirksseite bedeutet nicht, dass dort ein Büro besteht oder ein Termin automatisch verfügbar ist. Unser Standort ist Wien. Ob Ihre konkrete Strecke übernommen werden kann, klären wir persönlich mit den vollständigen Adressen und dem vorgesehenen Umfang. Das gilt auch dann, wenn beide Orte innerhalb eines Kerngebiets liegen.
+
+## Welche Strecke möchten Sie anfragen?
+
+| Art der Strecke | Was Sie vorbereiten |
+| --- | --- |
+| Innerhalb einer Stadt | Zwei Zugänge, mögliche Ladeplätze und Gebäudekontakte |
+| Zwischen Stadt und Umland | Stadtzugang und Hauszufahrt getrennt erfassen |
+| Zwischen Bundesländern | Abholzeit, Fahrt, Zugang am Ziel und Übergabefrist abstimmen |
+| Mit zusätzlichem Stopp | Eigene Adresse, Gegenstände und Kontakt je Abholung oder Lieferung |
+| Mit offenem Zieltermin | Bestätigte Fristen von gewünschten Zeitfenstern unterscheiden |
+
+Ein zusätzlicher Stopp ist auch dann anzugeben, wenn er auf dem vermuteten Fahrtweg liegt. Die Möbel dort können einen anderen Zugang oder einen eigenen Kontakt benötigen. Eine mögliche Zwischenlagerung muss ausdrücklich besprochen werden und gehört nicht automatisch zu einer überregionalen Übersiedlung.
+
+## Beide Gebäude vor dem Preisvergleich beschreiben
+
+Erstellen Sie eine gemeinsame Bestandsliste mit Möbeln, Kartons und gewünschten Arbeiten. Ergänzen Sie große Stücke mit Maßen und markieren Sie Abbau, Aufbau und Einpackhilfe. Erfassen Sie am Start und am Ziel Etagen, Liftmaße, Türen und die Entfernung zum möglichen Ladeplatz. Bei einem Haus zählen auch Tore, Stufen und Nebengebäude.
+
+**Gedachtes Beispiel:** Eine Wohnung in Wien wird in ein Haus in Niederösterreich übersiedelt. Am Start ist ein schmaler Lift vorhanden, am Ziel führen mehrere Stufen zum Eingang. Eine Anfrage nur mit Wohnfläche und Entfernung zeigt diese Unterschiede nicht. Mit Möbelmaßen und beiden Tragewegen kann die konkrete Planung persönlich geprüft werden. Das Beispiel beschreibt keinen ausgeführten Kundenauftrag.
+
+Nutzen Sie für den nächsten Schritt die [Möbelliste](/umzugsvolumen-rechner/) und die [Vorbereitung der Kostenanfrage](/kostenanfrage-vorbereiten/). Prüfen Sie vor der Beauftragung, ob Adressen, Transportgut und gewünschte Zusatzarbeiten im schriftlichen Umfang übereinstimmen. Änderungen an Zielort oder Möbelmenge teilen Sie vor der Durchführung mit.

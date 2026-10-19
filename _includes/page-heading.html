@@ -1,0 +1,5 @@
+{% include breadcrumb-context.html %}
+<header class="page-heading"><div class="wrap">
+<nav class="breadcrumbs" aria-label="Brotkrümelnavigation"><a href="{{ '/' | relative_url }}">Startseite</a><span aria-hidden="true">/</span>{% if breadcrumb_parent_path %}<a href="{{ breadcrumb_parent_path | relative_url }}">{{ breadcrumb_parent_name }}</a><span aria-hidden="true">/</span>{% endif %}{% if breadcrumb_region %}<a href="{{ breadcrumb_region.url | relative_url }}">{{ breadcrumb_region.short_title | default: breadcrumb_region.title }}</a><span aria-hidden="true">/</span>{% endif %}<span aria-current="page">{{ page.title | escape }}</span></nav>
+<h1>{{ page.title }}</h1>{% assign page_intro = page.intro | default: page.description %}{% if page_intro %}<p>{{ page_intro }}</p>{% endif %}
+</div></header>

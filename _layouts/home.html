@@ -1,387 +1,53 @@
 ---
 layout: default
 ---
-{% include home-hero-vars.liquid %}
-<!-- Hero Section: Dikeyde tam ortalanmış ve esnek yükseklik -->
-<section class="relative min-h-[calc(100vh-80px)] flex flex-col justify-center text-white overflow-hidden" data-hero-banner>
-  {% include hero-content.html
-    cta_variant=page.cta_variant
-    risk_items=site.data.risk_reversal
-    container_classes="container relative z-20 mx-auto px-4 md:px-6 py-10 md:py-16 text-white"
-    content_classes="max-w-4xl mx-auto text-left md:text-center space-y-4 md:space-y-5"
-  %}
-
-  <picture class="absolute inset-0 z-0">
-    <source
-      media="(max-width: 767px)"
-      srcset="{{ hero_mobile_srcset | strip }}"
-      sizes="100vw"
-      type="image/webp">
-    <source
-      media="(min-width: 768px)"
-      srcset="{{ hero_desktop_srcset | strip }}"
-      sizes="{{ hero_image_sizes }}"
-      type="image/webp">
-    <img src="{{ hero_desktop | relative_url }}"
-         srcset="{{ hero_desktop_srcset | strip }}"
-         sizes="{{ hero_image_sizes }}"
-         alt="Professioneller Umzug und Räumung in Österreich"
-         class="w-full h-full object-cover object-center scale-105 transform transition duration-[10000ms]"
-         fetchpriority="high"
-         loading="eager"
-         width="{{ hero_width }}"
-         height="{{ hero_height }}">
-  </picture>
-
-  <!-- High contrast background scrim (Alt tarafa yumuşak koyu gradyan geçişi) -->
-  <div class="absolute inset-0 z-10 bg-gradient-to-b from-slate-950/75 via-slate-950/80 to-slate-950/90 backdrop-blur-[1px]"></div>
-</section>
-
-<!-- Trust Bar (Beyaz Güven Bandı - Hero'ya sıfır ve uyumlu) -->
-<section class="bg-white border-b border-gray-100 defer-section relative z-20 shadow-sm">
-  <div class="container mx-auto px-4 py-5 md:py-6">
-    <div class="flex flex-wrap items-center justify-center gap-x-8 gap-y-4 text-center">
-      {% assign risk_items = site.data.risk_reversal | where: 'active', true | sort: 'priority' %}
-      {% if risk_items.size > 0 %}
-      {% for risk in risk_items %}
-      <div class="inline-flex items-center gap-2 text-xs md:text-sm font-bold uppercase tracking-wider text-primary">
-        {% include svg/verified.svg class="shrink-0 w-[18px] h-[18px] text-primary-accent fill-current" %}
-        <span class="trust-badge" title="{{ risk.detail }}">{{ risk.label }}</span>
-      </div>
-      {% endfor %}
-      {% else %}
-      {% for badge in site.data.trust_bar %}
-      <div class="inline-flex items-center gap-2 text-xs md:text-sm font-bold uppercase tracking-wider text-primary">
-        {% include svg/verified.svg class="shrink-0 w-[18px] h-[18px] text-primary-accent fill-current" %}
-        <span class="trust-badge">{{ badge.label }}</span>
-      </div>
-      {% endfor %}
-      {% endif %}
+<section class="moving-hero" aria-label="Ihr Umzug mit Sicher Team">
+  <div class="hero-grid">
+    <div class="hero-copy">
+      <p class="hero-kicker">Umzug &amp; Übersiedlung in Österreich</p>
+      <h1>Gut ankommen. <br>Wir kümmern <br>uns darum.</h1>
+      <p>Als Umzugsfirma planen und übernehmen wir Ihren Privat- oder Firmenumzug. Möbeltransport, Verpackung und Montage stimmen wir mit Ihnen ab.</p>
+      <div class="hero-actions"><a class="button" href="{{ '/angebot/?service=umzug&from=%2F#angebot-form' | relative_url }}">Umzug anfragen {% include ui-icon.html %}</a><a class="button button-outline" href="tel:{{ site.phone | remove: ' ' }}">{% include ui-icon.html name='phone' %}Jetzt anrufen</a></div>
+      {% include price-guarantee.html variant='hero' %}
+      <div class="hero-coverage"><strong>Unsere Kerngebiete</strong><nav aria-label="Unsere Kerngebiete">{% for item in site.data.site_navigation.areas %}{% unless forloop.first %}<span aria-hidden="true">·</span>{% endunless %}<a href="{{ item.url | relative_url }}">{{ item.navigation_label | default: item.label }}</a>{% endfor %}</nav><p>Weitere Umzugsstrecken innerhalb Österreichs auf Anfrage. <a href="{{ '/bezirke/' | relative_url }}">Alle Einsatzgebiete {% include ui-icon.html %}</a></p></div>
+    </div>
+    <div class="moving-visual" data-moving-visual>
+      <figure class="moving-scene">
+        <div class="moving-frames">
+          {% for scene in page.moving_scenes %}<img class="moving-frame{% if forloop.first %} is-active{% endif %}" data-moving-frame src="{{ scene.image | relative_url }}" srcset="{{ scene.mobile_image | relative_url }} 800w, {{ scene.image | relative_url }} 1536w" sizes="(max-width: 760px) 100vw, 57vw" width="1536" height="1024" alt="{{ scene.alt | escape }}" {% unless forloop.first %}hidden loading="lazy"{% else %}fetchpriority="high"{% endunless %} decoding="async">{% endfor %}
+        </div>
+        <figcaption>3D-Illustration</figcaption>
+      </figure>
+      <div class="moving-controls" role="group" aria-label="Umzug in drei Phasen">{% for scene in page.moving_scenes %}<button type="button" disabled data-moving-step="{{ forloop.index0 }}" aria-pressed="{% if forloop.first %}true{% else %}false{% endif %}"><span>0{{ forloop.index }}</span>{{ scene.label }}</button>{% endfor %}</div>
+      <span class="sr-only" data-moving-status role="status" aria-live="polite"></span>
     </div>
   </div>
 </section>
+<section class="home-trust" aria-label="Ihre Sicherheit beim Umzug"><div class="wrap home-trust-grid">
+<a href="{{ '/preise/#fixpreis' | relative_url }}"><strong>Fixpreis-Garantie</strong><span>Schriftlich. Ohne versteckte Kosten.</span></a>
+<a href="#transportschutz"><strong>Bis 1 Mio. €</strong><span>Betriebshaftpflicht · Allianz</span></a>
+<div><strong>15 Jahre Erfahrung</strong><span>Staatlich konzessioniertes Unternehmen</span></div>
+<a href="#erfahrungen"><strong>5,0 / 5 Sterne</strong><span>Aus über 450 Bewertungen</span></a>
+</div></section>
+<section class="section moving-services" id="leistungen"><div class="wrap"><div class="services-intro"><div><h2>Umzug, Transport<br>und Montage.</h2><p>Für Ihren privaten Haushalt oder Betrieb übernehmen wir Transport, Verpackung und Montage. Sie entscheiden, welche Unterstützung Sie brauchen und was Sie selbst vorbereiten.</p></div><a class="text-link" href="{{ '/leistungen/' | relative_url }}">Alle Leistungen ansehen {% include ui-icon.html %}</a></div><div class="service-rows">{% for item in page.moving_services %}<a class="service-row" href="{{ item.url | relative_url }}"><span class="row-number">0{{ forloop.index }}</span><div><h3>{{ item.title }}</h3><p>{{ item.description }}</p></div>{% include ui-icon.html %}</a>{% endfor %}</div><nav class="additional-services" aria-label="Weitere Umzugsleistungen"><a href="{{ '/leistungen/moebelmontage/' | relative_url }}">Möbelmontage {% include ui-icon.html %}</a><a href="{{ '/leistungen/verpackungsservice/' | relative_url }}">Verpackungsservice {% include ui-icon.html %}</a></nav></div></section>
+<section class="section price-guarantee-section"><div class="wrap">{% include price-guarantee.html heading_id='home-price-guarantee-title' %}</div></section>
+<section class="section process-section" id="ablauf"><div class="wrap"><h2>Drei Schritte. Ein guter Start.</h2><div class="process-grid">{% for step in page.moving_process %}<div><span class="row-number">0{{ forloop.index }}</span><h3>{{ step.title }}</h3><p>{{ step.description }}</p></div>{% endfor %}</div><a class="text-link" href="{{ '/ablauf/' | relative_url }}">Ablauf &amp; Kosten ansehen {% include ui-icon.html %}</a></div></section>
+<section class="section home-planning" id="umzug-planen"><div class="wrap"><div class="section-heading"><div><p class="eyebrow">Selbst vorbereiten</p><h2>Hilfen für Ihre Umzugsplanung.</h2></div><a class="text-link" href="{{ '/umzug-planen/' | relative_url }}">Alle Planungshilfen {% include ui-icon.html %}</a></div><div class="home-planning-grid">
+{% for tool in site.data.moving_tools limit:3 %}<a class="home-planning-card" href="{{ tool.url | relative_url }}">{% include ui-icon.html name=tool.icon %}<h3>{{ tool.label }}</h3><p>{{ tool.benefit }}</p><span>{{ tool.action }} {% include ui-icon.html %}</span></a>{% endfor %}
+</div></div></section>
+<section class="section secondary-clearance"><div class="wrap clearance-split">
+  <figure class="comparison-figure"><div class="comparison" data-comparison>
+    <img src="{{ '/assets/images/clearance/room-full.webp' | relative_url }}" srcset="{{ '/assets/images/clearance/room-full-800.webp' | relative_url }} 800w, {{ '/assets/images/clearance/room-full.webp' | relative_url }} 1414w" sizes="(max-width: 760px) 100vw, 48vw" width="1414" height="1112" alt="3D-Illustration eines Kellers: vor und nach einer Räumung." loading="lazy" decoding="async">
+    <img class="comparison-after" src="{{ '/assets/images/clearance/room-empty.webp' | relative_url }}" srcset="{{ '/assets/images/clearance/room-empty-800.webp' | relative_url }} 800w, {{ '/assets/images/clearance/room-empty.webp' | relative_url }} 1414w" sizes="(max-width: 760px) 100vw, 48vw" width="1414" height="1112" alt="" aria-hidden="true" loading="lazy" decoding="async">
+    <span class="comparison-divider" aria-hidden="true"><span>{% include ui-icon.html name='compare' %}</span></span>
+    <input type="range" min="0" max="100" value="50" aria-label="Vorher-Nachher-Vergleich der Kellerräumung" aria-valuetext="50 Prozent nach der Räumung sichtbar" data-comparison-range hidden>
+    <span class="comparison-before-label">Vorher</span><span class="comparison-after-label">Nachher</span>
+  </div><figcaption>3D-Illustration</figcaption></figure>
+  <div class="clearance-copy"><h2>Entrümpelung &amp; Räumung.</h2><p class="clearance-lead">Nicht alles muss mit.</p><p>Was nicht ins neue Zuhause kommt, klären wir ebenfalls mit Ihnen. Entrümpelung und Räumung können Sie auch unabhängig vom Umzug anfragen. Verwertbare Möbel und Wertgegenstände prüfen wir für eine Wertanrechnung. Den vereinbarten Wert ziehen wir von den Räumungskosten ab.</p><a class="text-link" href="{{ "/leistungen/gratis-entruempelung/" | relative_url }}">Wertanrechnung prüfen {% include ui-icon.html %}</a><div class="clearance-links"><a class="text-link" href="{{ '/leistungen/entruempelung-wien/' | relative_url }}">Entrümpelung ansehen {% include ui-icon.html %}</a><a class="text-link" href="{{ '/leistungen/raeumung/' | relative_url }}">Räumung ansehen {% include ui-icon.html %}</a></div></div>
+</div></section>
+<section class="section coverage-section"><div class="wrap split-section"><div><h2>Ihr Start. Ihr Ziel.<br><span class="accent">Ihr Umzug.</span></h2><p>Ob von Wien nach Graz, nach Linz oder mit Start oder Ziel in Salzburg: Nennen Sie uns beide Adressen. Weitere österreichische Strecken prüfen wir persönlich auf Durchführung und Verfügbarkeit.</p><a class="text-link" href="{{ '/leistungen/umzug-oesterreich/' | relative_url }}">Umzug innerhalb Österreichs {% include ui-icon.html %}</a></div><div><nav class="area-links" aria-label="Städte und Kerngebiete"><a href="{{ '/leistungen/umzug-wien/' | relative_url }}">Umzug Wien {% include ui-icon.html %}</a>{% for item in site.data.site_navigation.cities %}<a href="{{ item.url | relative_url }}">Umzug nach oder aus {{ item.label }} {% include ui-icon.html %}</a>{% endfor %}<a href="{{ '/bezirke/' | relative_url }}">Alle Städte &amp; Bundesländer {% include ui-icon.html %}</a></nav></div></div></section>
+<section class="section home-insurance" id="transportschutz"><div class="wrap split-section"><div><p class="eyebrow">Betriebshaftpflicht</p><h2>Bei Allianz<br>versichert.</h2></div><div><p>Für Sicher Team besteht eine Betriebshaftpflichtversicherung bei Allianz mit einer Versicherungssumme bis 1.000.000 €. Die für Ihren konkreten Auftrag geltenden Bedingungen klären wir vor der Beauftragung mit Ihnen.</p><a class="text-link" href="{{ '/angebot/?service=umzug' | relative_url }}">Versicherung zum Auftrag besprechen {% include ui-icon.html %}</a></div></div></section>
+<section class="section home-reviews" id="erfahrungen"><div class="wrap"><div class="section-heading"><div><p class="eyebrow">5,0 von 5 Sternen · über 450 Bewertungen</p><h2>Erfahrungen mit Sicher Team.</h2></div><a class="text-link" href="{{ '/bewertungen/' | relative_url }}">Kundenstimmen ansehen {% include ui-icon.html %}</a></div>{% include customer-reviews.html %}</div></section>
+{% include clear-faq.html heading='Gut vorbereitet<br><span class="accent">umziehen.</span>' omit_link=true %}
+<section class="section guide-teaser"><div class="wrap guide-band"><div><h2>Vor dem Umzug<br>gut informiert.</h2><a class="text-link" href="{{ '/ratgeber/' | relative_url }}">Alle Ratgeber {% include ui-icon.html %}</a></div><div class="guide-band-links"><a href="{{ '/umzug-planen/' | relative_url }}">{% include ui-icon.html name='box' %}<span>Rechner &amp; persönliche Umzugsplanung</span>{% include ui-icon.html %}</a><a href="{{ '/ratgeber/umzugscheckliste-oesterreich/' | relative_url }}">{% include ui-icon.html name='document' %}<span>Umzugscheckliste Österreich</span>{% include ui-icon.html %}</a><a href="{{ '/ratgeber/umzugsfirma-vergleichen/' | relative_url }}">{% include ui-icon.html name='check' %}<span>Umzugsfirma vergleichen: Preise &amp; Bewertungen</span>{% include ui-icon.html %}</a></div></div></section>
 
-{% assign brand_intro = page.brand_intro %}
-{% if brand_intro %}
-<section class="bg-white py-16 defer-section" id="marke-sicher-team">
-  <div class="container mx-auto px-4 md:px-6">
-    <div class="max-w-4xl mx-auto bg-background-light rounded-3xl p-8 md:p-12 shadow-sm border border-gray-100">
-      <div>
-        {% if brand_intro.kicker %}
-        <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">{{ brand_intro.kicker }}</p>
-        {% endif %}
-        <h2 class="mt-3 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">{{ brand_intro.heading | default: 'Sicher Team' }}</h2>
-        {% if brand_intro.text %}
-        <p class="mt-4 text-lg text-text-light leading-relaxed">{{ brand_intro.text }}</p>
-        {% endif %}
-        {% if brand_intro.bullets %}
-        <ul class="mt-8 grid gap-4 sm:grid-cols-2 text-base text-text-light">
-          {% for bullet in brand_intro.bullets %}
-          <li class="flex items-start gap-3">
-            {% include svg/verified.svg class="w-[18px] h-[18px] text-primary-accent shrink-0 mt-0.5 fill-current" %}
-            <span class="font-medium text-text-light">{{ bullet | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</span>
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-
-        <div class="mt-10 pt-8 border-t border-gray-200">
-          <p class="text-xs font-bold uppercase tracking-widest text-primary-accent mb-4">Ihre Vorteile</p>
-          <ul class="grid gap-6 sm:grid-cols-2">
-            {% for usp in site.data.why_us %}
-            <li class="flex items-start gap-3">
-              {% include svg/task_alt.svg class="w-[18px] h-[18px] text-primary-accent shrink-0 mt-0.5 fill-current" %}
-              <div>
-                <strong class="block text-primary font-bold">{{ usp.title }}</strong>
-                <span class="text-sm text-text-light">{{ usp.description }}</span>
-              </div>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-
-        {% if brand_intro.ctas %}
-        <div class="mt-8 flex flex-wrap gap-4">
-          {% for cta in brand_intro.ctas %}
-          <a href="{{ cta.url | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
-            {{ cta.label }}
-            {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-          </a>
-          {% endfor %}
-        </div>
-        {% endif %}
-      </div>
-    </div>
-  </div>
-</section>
-{% endif %}
-
-<section class="bg-background-light py-20 defer-section border-t border-b border-gray-100">
-  <div class="container mx-auto px-4 md:px-6 text-center">
-    <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Ablauf</p>
-    <h2 class="text-3xl md:text-4xl font-extrabold text-primary mt-2 tracking-tight">So einfach funktioniert's</h2>
-    <p class="mt-3 text-lg text-text-light max-w-2xl mx-auto">{{ page.process_intro }}</p>
-
-    <div class="mt-12 max-w-4xl mx-auto text-left relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-gray-300 before:to-transparent">
-      <ol class="relative z-10 space-y-12">
-        {% for step in site.data.steps %}
-        <li class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
-          <div class="flex items-center justify-center w-10 h-10 rounded-full border-4 border-white bg-primary text-white shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
-            <span class="text-sm font-bold">{{ step.order }}</span>
-          </div>
-          <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] rounded-2xl bg-white p-6 shadow-sm border border-gray-100 hover:shadow-md transition-opacity">
-            <div class="flex items-center gap-3 mb-2">
-              {% capture icon_path %}svg/{{ step.icon }}.svg{% endcapture %}{% include {{ icon_path }} class="w-[18px] h-[18px] shrink-0 text-primary-accent fill-current" %}
-              <h3 class="text-lg font-bold text-primary">{{ step.title }}</h3>
-            </div>
-            <p class="text-sm text-text-light leading-relaxed">{{ step.description }}</p>
-          </div>
-        </li>
-        {% endfor %}
-      </ol>
-    </div>
-  </div>
-</section>
-
-<section class="bg-white py-20 defer-section" id="leistungen">
-  <div class="container mx-auto px-4 md:px-6">
-    <div class="text-center max-w-3xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Leistungen</p>
-      <h2 class="mt-2 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">Unsere Leistungen für Umzug, Räumung & Entrümpelung</h2>
-      <p class="mt-3 text-lg text-text-light leading-relaxed">{{ page.services_intro }}</p>
-      <div class="mt-8 flex flex-wrap justify-center gap-4">
-        <a href="{{ '/leistungen/umzug-oesterreich/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
-          Umzug & Übersiedlung zum Fixpreis
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-        <a href="{{ '/leistungen/raeumung/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
-          Räumung & Wohnungsauflösung Wien
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-        <a href="{{ '/leistungen/entruempelung/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary hover:bg-primary-light px-6 py-3 text-sm font-bold text-white shadow hover:shadow-md transition-opacity duration-200">
-          Entrümpelung & Wertanrechnung
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-      </div>
-    </div>
-    <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
-      {% assign moving_services = "" | split: "," %}
-      {% for item in site.data.service_cards %}
-        {% if item.title contains 'Umzug & Übersiedlung' or item.title contains 'Räumung & Hausauflösung' or item.title contains 'Entrümpelung & Wertanrechnung' %}
-          {% assign moving_services = moving_services | push: item %}
-        {% endif %}
-      {% endfor %}
-      {% for card in moving_services %}
-      <a href="{{ card.url | relative_url }}" class="group flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-background-light p-8 text-left shadow-sm hover:shadow-xl hover:border-primary/20 hover:-translate-y-1.5 transition-opacity duration-300">
-        <div>
-          <div class="inline-flex rounded-2xl bg-white p-4 shadow-sm text-primary group-hover:bg-primary group-hover:text-white transition-opacity duration-300">
-            {% capture icon_path %}svg/{{ card.icon }}.svg{% endcapture %}{% include {{ icon_path }} class="w-[18px] h-[18px] shrink-0 text-primary fill-current group-hover:text-white" %}
-          </div>
-          <h3 class="mt-6 text-xl font-bold text-primary leading-tight group-hover:text-primary-light transition-opacity duration-200">{{ card.title }}</h3>
-          <p class="mt-3 text-sm text-text-light leading-relaxed">{{ card.description }}</p>
-        </div>
-        <div class="mt-8 flex items-center gap-1.5 text-sm font-bold text-primary group-hover:text-primary-accent transition-opacity duration-200">
-          <span>Mehr erfahren</span>
-          {% include svg/arrow_right_alt.svg class="shrink-0 w-4 h-4 transition-transform group-hover:translate-x-1 duration-200 fill-current" %}
-        </div>
-      </a>
-      {% endfor %}
-    </div>
-
-    <div class="mt-20 pt-16 border-t border-gray-100">
-      <div class="text-center max-w-3xl mx-auto mb-10">
-        <h3 class="text-2xl md:text-3xl font-extrabold text-primary tracking-tight">Weitere Services / Zusatzleistungen</h3>
-        <p class="mt-3 text-base text-text-light leading-relaxed">{{ page.additional_services_intro | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</p>
-      </div>
-
-      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto">
-        {% assign clearing_services = "" | split: "," %}
-        {% for item in site.data.service_cards %}
-          {% unless item.title contains 'Umzug & Übersiedlung' or item.title contains 'Räumung & Hausauflösung' or item.title contains 'Entrümpelung & Wertanrechnung' %}
-            {% if item.title contains 'Räumung' or item.title contains 'Entrümpelung' or item.title contains 'Auflösung' or item.title contains 'Verlassenschaften' or item.title contains 'Keller' or item.title contains 'Garagen' %}
-              {% assign clearing_services = clearing_services | push: item %}
-            {% endif %}
-          {% endunless %}
-        {% endfor %}
-        {% for card in clearing_services %}
-        <a href="{{ card.url | relative_url }}" class="group flex flex-col justify-between rounded-2xl border border-gray-100 bg-white p-6 text-left shadow-sm hover:shadow-md transition-opacity duration-300">
-          <div class="flex items-center gap-3">
-            {% capture icon_path %}svg/{{ card.icon }}.svg{% endcapture %}{% include {{ icon_path }} class="shrink-0 w-[18px] h-[18px] text-primary-accent fill-current" %}
-            <h4 class="text-base font-bold text-primary leading-tight group-hover:text-primary-light transition-opacity duration-200">{{ card.title }}</h4>
-          </div>
-        </a>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</section>
-
-<hr class="border-gray-100"/>
-
-<section class="bg-background-light py-20 defer-section">
-  <div class="container mx-auto px-4 md:px-6">
-    <div class="text-center max-w-2xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Ratgeber</p>
-      <h2 class="mt-2 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">Top Ratgeber für Ihre Planung</h2>
-      <p class="mt-3 text-lg text-text-light">Wir haben die wichtigsten Fragen aus ganz Österreich bereits beantwortet.</p>
-    </div>
-    <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto">
-      <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-white p-8 text-left shadow-sm hover:shadow-lg transition-opacity duration-200">
-        <div>
-          <h3 class="text-lg font-bold text-primary leading-snug">Gratis Entrümpelung in Österreich</h3>
-          <p class="mt-3 text-sm text-text-light leading-relaxed">So nutzen Sie Wertausgleich, Ankauf und Recyclingpartner, um Kosten zu reduzieren oder auf Null zu senken.</p>
-        </div>
-        <a href="{{ '/ratgeber/gratis-entruempelung-wien/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-primary hover:bg-primary-light px-4 py-2.5 text-sm font-bold text-white transition-opacity duration-200">
-          <span>Mehr lesen</span>
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-      </article>
-      <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-white p-8 text-left shadow-sm hover:shadow-lg transition-opacity duration-200">
-        <div>
-          <h3 class="text-lg font-bold text-primary leading-snug">Express-Räumung organisieren</h3>
-          <p class="mt-3 text-sm text-text-light leading-relaxed">Welche Schritte nötig sind, damit wir bei Notfällen binnen 24 Stunden starten können.</p>
-        </div>
-        <a href="{{ '/ratgeber/entruepelung-mit-sofort-hilfe/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-orange-500 hover:bg-orange-600 px-4 py-2.5 text-sm font-bold text-slate-950 transition-opacity duration-200">
-          <span>Mehr lesen</span>
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-      </article>
-      <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-white p-8 text-left shadow-sm hover:shadow-lg transition-opacity duration-200">
-        <div>
-          <h3 class="text-lg font-bold text-primary leading-snug">Wohnungsentrümpelung Österreich</h3>
-          <p class="mt-3 text-sm text-text-light leading-relaxed">Ablauf, Kosten, Mülltrennung vs. Profi und Wertausgleich – kompakt für die ganze Wohnung.</p>
-        </div>
-        <a href="{{ '/ratgeber/wohnungsentruempelung-wien-guide/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-orange-500 hover:bg-orange-600 px-4 py-2.5 text-sm font-bold text-slate-950 transition-opacity duration-200">
-          <span>Mehr lesen</span>
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-      </article>
-      <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-white p-8 text-left shadow-sm hover:shadow-lg transition-opacity duration-200">
-        <div>
-          <h3 class="text-lg font-bold text-primary leading-snug">Wertausgleich richtig nutzen</h3>
-          <p class="mt-3 text-sm text-text-light leading-relaxed">Wie Sie Möbel und Wertstücke fair anrechnen lassen und damit die Entrümpelungskosten senken.</p>
-        </div>
-        <a href="{{ '/ratgeber/wertanrechnung-raeumung-wien/' | relative_url }}" class="mt-6 inline-flex items-center justify-center gap-1.5 rounded-full bg-orange-500 hover:bg-orange-600 px-4 py-2.5 text-sm font-bold text-slate-950 transition-opacity duration-200">
-          <span>Mehr lesen</span>
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-      </article>
-    </div>
-    <div class="mt-10 text-center">
-      <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-orange-500 hover:bg-orange-600 px-6 py-3 text-sm font-bold text-slate-950 hover:shadow-md transition-opacity duration-200">
-        Alle Ratgeber ansehen
-        {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-      </a>
-    </div>
-  </div>
-</section>
-
-<section class="bg-white py-20 defer-section" id="ratgeber-articles">
-  <div class="container mx-auto px-4 md:px-6">
-    <div class="text-center max-w-2xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Fachartikel</p>
-      <h2 class="mt-2 text-3xl md:text-4xl font-extrabold text-primary tracking-tight">Lokales Wissen rund um Entrümpelungen & Umzüge</h2>
-      <p class="mt-3 text-lg text-text-light">Tipps zu Behördenwegen, Kosten und Spezialfällen - damit Sie jeden Umzug und jede Räumung souverän planen.</p>
-    </div>
-    <div class="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
-      {% assign guides = site.guides | sort: 'date' | reverse %}
-      {% for guide in guides limit:3 %}
-      <article class="flex h-full flex-col justify-between rounded-3xl border border-gray-100 bg-background-light p-8 shadow-sm hover:shadow-lg transition-opacity duration-200 text-left">
-        <div>
-          <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">{{ guide.category | default: 'Leitfaden' }}</p>
-          <h3 class="text-lg font-bold text-primary mt-3 leading-snug">{{ guide.title }}</h3>
-          <p class="mt-2.5 text-sm text-text-light leading-relaxed">{{ guide.excerpt | strip_html | truncate: 140 }}</p>
-        </div>
-        <a href="{{ guide.url | relative_url }}" class="mt-6 inline-flex items-center gap-1 text-sm font-bold text-primary hover:text-primary-accent transition-opacity duration-150">
-          <span>Zum Artikel</span>
-          {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-        </a>
-      </article>
-      {% endfor %}
-    </div>
-    <div class="mt-10 text-center">
-      <a href="{{ '/ratgeber/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-primary-light hover:bg-primary-accent px-6 py-3 text-sm font-bold text-white hover:shadow-md transition-opacity duration-200">
-        Alle Ratgeber ansehen
-        {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-      </a>
-    </div>
-  </div>
-</section>
-
-<section class="bg-background-light py-20 defer-section border-t border-b border-gray-100">
-  <div class="container mx-auto px-4 md:px-6">
-    <div class="text-center max-w-2xl mx-auto">
-      <p class="text-xs font-bold uppercase tracking-widest text-primary-accent">Kundenmeinungen</p>
-      <h2 class="text-3xl md:text-4xl font-extrabold text-primary mt-2 tracking-tight">Das sagen unsere Kund:innen</h2>
-      <p class="mt-3 text-lg text-text-light">Zufriedene Kunden sind unsere beste Referenz.</p>
-    </div>
-    <div class="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
-      {% for testimonial in site.data.testimonials limit:3 %}
-      <div class="rounded-3xl bg-white p-8 shadow-sm border border-gray-100 hover:shadow-md transition-opacity duration-200 text-left flex flex-col justify-between">
-        <div>
-          <div class="flex items-center gap-1 text-amber-400" role="img" aria-label="5,0 von 5 Sternen">
-            {% for i in (1..5) %}
-            <span class="text-lg leading-none" aria-hidden="true">★</span>
-            {% endfor %}
-          </div>
-          <p class="mt-6 text-sm text-text-light italic leading-relaxed">“{{ testimonial.quote }}”</p>
-        </div>
-        <div class="mt-6 pt-6 border-t border-gray-100 flex items-center gap-4">
-          <div class="h-10 w-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-bold text-sm shrink-0">
-            {{ testimonial.name | slice: 0, 1 }}
-          </div>
-          <div>
-            <p class="text-base font-bold text-primary leading-tight">{{ testimonial.name }}</p>
-            <p class="text-xs text-gray-600 mt-0.5">{{ testimonial.role }}</p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    <div class="mt-10 text-center">
-      <a href="{{ '/bewertungen/' | relative_url }}" class="inline-flex items-center gap-2 rounded-full bg-orange-500 hover:bg-orange-600 px-6 py-3 text-sm font-bold text-slate-950 hover:shadow-md transition-opacity duration-200">
-        Alle Bewertungen ansehen
-        {% include svg/north_east.svg class="shrink-0 w-4 h-4 fill-current" %}
-      </a>
-    </div>
-  </div>
-</section>
-
-{% assign faq_items = page.faqs %}
-{% if faq_items == nil and page.use_global_faqs %}
-  {% assign faq_items = site.data.faqs %}
-{% endif %}
-{% if faq_items %}
-<section class="bg-white py-16 defer-section" id="faq">
-  <div class="container mx-auto px-4">
-    <div class="grid gap-12 lg:grid-cols-2">
-      <div>
-        <p class="text-sm font-semibold uppercase tracking-widest text-gray-800">FAQ & Direktantworten</p>
-        <h2 class="mt-2 text-3xl font-extrabold text-primary">Häufig gestellte Fragen zu Umzug, Räumung & Entrümpelung in Österreich</h2>
-        <p class="mt-3 text-base text-text-light">Direkte und faktenbasierte Antworten zu Kosten, Ablauf, Wertanrechnung und Transportversicherung.</p>
-        <div class="mt-8 space-y-4">
-          {% for faq in faq_items %}
-          <div class="rounded-2xl border border-gray-200 bg-background-light p-4 shadow-sm hover:shadow-md transition-opacity">
-            <button class="flex w-full items-center justify-between text-left text-base font-semibold text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 rounded-lg" data-faq-toggle="faq-{{ forloop.index }}" aria-expanded="false" aria-controls="faq-{{ forloop.index }}" id="faq-btn-{{ forloop.index }}">
-              <h3 class="text-base font-semibold text-primary pr-4">{{ faq.question }}</h3>
-              {% include svg/expand_more.svg class="w-[18px] h-[18px] transition-transform duration-200 shrink-0 fill-current" %}
-            </button>
-            <div id="faq-{{ forloop.index }}" role="region" aria-labelledby="faq-btn-{{ forloop.index }}" class="hidden">
-              <p class="mt-3 text-sm text-text-light">{{ faq.answer }}</p>
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-      <div class="rounded-3xl bg-background-light p-8 shadow-xl hover:shadow-2xl transition-opacity" id="angebot">
-        <p class="text-sm font-semibold uppercase tracking-widest text-gray-800">Gratis Angebot</p>
-        <h3 class="mt-3 text-2xl font-extrabold text-primary">Kostenlose Besichtigung & Fixpreis erhalten</h3>
-        <p class="mt-2 text-sm text-text-light">Nur die wichtigsten Felder + Foto-Upload für eine schnelle Ersteinschätzung.</p>
-        <div class="mt-6">
-          {% include quote-form.html %}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{% endif %}

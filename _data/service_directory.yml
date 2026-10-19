@@ -1,0 +1,101 @@
+cards:
+  privatumzug:
+    title: Privatumzug & Wohnungsübersiedlung
+    description: Wohnungsumzug aus einer Garçonnière oder Familienwohnung. Möbeltransport, Verpackung und Montage nach Bedarf für Ihre private Übersiedlung vereinbaren.
+  firmenumzug-wien:
+    title: Büroumzug & Firmenübersiedlung
+    description: Büro, Praxis oder Betrieb übersiedeln. Arbeitsplätze, Akten und Betriebsausstattung erfassen und den Firmenumzug mit Ihren Betriebszeiten abstimmen.
+  umzug-wien:
+    title: Umzug Wien & Wiener Bezirke
+    description: Umzugsservice für private Haushalte und Unternehmen in Wien. Etagen, Lift, Ladeplatz und Tragewege an beiden Adressen gemeinsam planen.
+  umzug-oesterreich:
+    title: Umzug zwischen Österreichs Bundesländern
+    description: Übersiedlungsservice mit Start und Ziel in Österreich. Strecke, Übergabetermine, Zwischenstopps und Ankunft vor der Beauftragung abstimmen.
+  moebeltransport:
+    title: Möbeltransport & Kleintransport
+    description: Sofa, Schrank oder einzelne Möbel transportieren lassen. Wenn Sie Möbelpacker buchen möchten, nennen Sie Maße, Gewicht und Zugänge für Abholung und Lieferung.
+  moebelmontage:
+    title: Möbel abbauen & wieder montieren
+    description: Demontage und Möbelmontage für die Übersiedlung vereinbaren. Aufbauanleitungen, zerlegbare Möbel und gewünschte Arbeiten am neuen Standort vorab besprechen.
+  verpackungsservice:
+    title: Einpackservice & Umzugsverpackung
+    description: Hausrat, Geschirr und empfindliche Möbel für den Transport vorbereiten. Räume, Kartons, Polstermaterial und Ihre eigenen Vorbereitungen festlegen.
+  wohlfuehl-umzug:
+    title: Komplettumzug & Full-Service-Umzug
+    description: Einpacken, Tragen, Transport und Möbelaufbau zusammen anfragen. Welche Aufgaben unser Umzugsservice übernimmt, halten wir im schriftlichen Angebot fest.
+  hausumzug:
+    title: Hausumzug mit Keller, Garage & Garten
+    description: Den gesamten Haushalt erfassen, auch Nebenräume und Außenmöbel. Möbelmenge, mehrere Stockwerke und benötigte Fahrten für den Hausumzug gemeinsam planen.
+  auslandsumzug:
+    title: Internationaler Umzug & Auslandsübersiedlung
+    description: Einen Umzug ins Ausland oder nach Österreich vorbereiten. Start, Ziel, Transportumfang und Zeitfenster für die angefragte Strecke persönlich klären.
+  seniorenumzug:
+    title: Seniorenumzug mit abgestimmter Unterstützung
+    description: Die Übersiedlung in eine kleinere Wohnung oder einen neuen Lebensabschnitt planen. Angehörige, Auswahl der Möbel und gewünschte Einpackhilfe einbeziehen.
+  studentenumzug:
+    title: Studentenumzug & kleine Übersiedlung
+    description: Zimmer, WG oder kleine Wohnung übersiedeln. Wenige Möbel, Kartons und Eigenleistungen für einen passenden Transportumfang besprechen.
+city_groups:
+  - title: Wien
+    url: /leistungen/umzug-wien/
+    cities:
+      - {name: Wien, plz: '1010–1230', url: /leistungen/umzug-wien/}
+      - {name: Meidling, plz: '1120', url: /leistungen/umzug-1120-wien/}
+      - {name: Donaustadt, plz: '1220', url: /leistungen/umzug-1220-wien/}
+      - {name: Liesing, plz: '1230', url: /leistungen/umzug-1230-wien/}
+  - title: Niederösterreich
+    url: /bundesland/niederoesterreich/
+    cities:
+      - {name: St. Pölten, plz: '3100', url: /leistungen/umzug-st-poelten/}
+      - {name: Wiener Neustadt, plz: '2700', url: /bundesland/niederoesterreich/}
+      - {name: Krems an der Donau, plz: '3500', url: /bundesland/niederoesterreich/}
+      - {name: Amstetten, plz: '3300', url: /bundesland/niederoesterreich/}
+      - {name: Baden, plz: '2500', url: /leistungen/umzug-baden/}
+      - {name: Mödling, plz: '2340', url: /leistungen/umzug-moedling/}
+      - {name: Klosterneuburg, plz: '3400', url: /leistungen/umzug-klosterneuburg/}
+      - {name: Korneuburg, plz: '2100', url: /leistungen/umzug-korneuburg/}
+      - {name: Schwechat, plz: '2320', url: /leistungen/umzug-schwechat/}
+      - {name: Tulln, plz: '3430', url: /leistungen/umzug-tulln/}
+  - title: Burgenland
+    url: /bundesland/burgenland/
+    cities:
+      - {name: Eisenstadt, plz: '7000', url: /leistungen/umzug-eisenstadt/}
+      - {name: Mattersburg, plz: '7210', url: /leistungen/umzug-mattersburg/}
+      - {name: Neusiedl am See, plz: '7100', url: /leistungen/umzug-neusiedl-am-see/}
+      - {name: Oberpullendorf, plz: '7350', url: /leistungen/umzug-oberpullendorf/}
+      - {name: Rust, plz: '7071', url: /leistungen/umzug-rust/}
+  - title: Oberösterreich
+    url: /bundesland/oberoesterreich/
+    cities:
+      - {name: Linz, plz: '4020', url: /leistungen/umzug-linz/}
+      - {name: Wels, plz: '4600', url: /bundesland/oberoesterreich/}
+      - {name: Steyr, plz: '4400', url: /bundesland/oberoesterreich/}
+  - title: Steiermark
+    url: /bundesland/steiermark/
+    cities:
+      - {name: Graz, plz: '8010', url: /leistungen/umzug-graz/}
+      - {name: Leoben, plz: '8700', url: /bundesland/steiermark/}
+      - {name: Kapfenberg, plz: '8605', url: /bundesland/steiermark/}
+      - {name: Bruck an der Mur, plz: '8600', url: /bundesland/steiermark/}
+  - title: Salzburg
+    url: /bundesland/salzburg/
+    cities:
+      - {name: Salzburg (Stadt), plz: '5020', url: /bundesland/salzburg/#stadt-salzburg}
+      - {name: Hallein, plz: '5400', url: /bundesland/salzburg/}
+      - {name: Zell am See, plz: '5700', url: /bundesland/salzburg/}
+  - title: Kärnten
+    url: /bundesland/kaernten/
+    cities:
+      - {name: Klagenfurt am Wörthersee, plz: '9020', url: /bundesland/kaernten/}
+      - {name: Villach, plz: '9500', url: /bundesland/kaernten/}
+      - {name: Wolfsberg, plz: '9400', url: /bundesland/kaernten/}
+  - title: Tirol · auf Anfrage
+    url: /bundesland/tirol/
+    cities:
+      - {name: Innsbruck, plz: '6020', url: /bundesland/tirol/}
+  - title: Vorarlberg · auf Anfrage
+    url: /bundesland/vorarlberg/
+    cities:
+      - {name: Bregenz, plz: '6900', url: /bundesland/vorarlberg/}
+      - {name: Dornbirn, plz: '6850', url: /bundesland/vorarlberg/}
+      - {name: Feldkirch, plz: '6800', url: /bundesland/vorarlberg/}

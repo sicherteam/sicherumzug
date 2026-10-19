@@ -1,0 +1,2 @@
+{% assign reference = site.data.partner_references[page.partner_reference] %}
+{% if reference %}<aside class="partner-reference" aria-label="Partnerfirma für ergänzende Räumungsleistungen"><p class="eyebrow">Partnerfirma</p><h2>{{ reference.heading }}</h2><p>{{ reference.description }}</p><a href="{{ reference.url }}">{{ reference.label }} {% include ui-icon.html %}</a></aside>{% endif %}

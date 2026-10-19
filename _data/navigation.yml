@@ -32,7 +32,7 @@ services:
       - title: Wohlfühl-Umzug (Full-Service)
         url: /leistungen/wohlfuehl-umzug/
       - title: Premium Logistik & Montage
-        url: /leistungen/premium-logistik/
+        url: /leistungen/wohlfuehl-umzug/
       - title: Seniorenumzug
         url: /leistungen/seniorenumzug/
       - title: Express Notdienst
@@ -44,7 +44,7 @@ services:
       - title: Gratis Entrümpelung
         url: /leistungen/gratis-entruempelung/
       - title: Gratis Räumung
-        url: /leistungen/gratis-raeumung/
+        url: /leistungen/gratis-entruempelung/
       - title: Antiquitäten Wertanrechnung
         url: /leistungen/antiquitaeten-ankauf/
       - title: Möbel Wertanrechnung

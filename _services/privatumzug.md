@@ -1,57 +1,45 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
 layout: service
-title: "Privatumzug Wien & Österreich | Professionelle Übersiedlung"
-seo_title: "Privatumzug planen: Stressfrei & zum Fixpreis umziehen"
-description: "Ihr zuverlässiger Partner für den Privatumzug in Wien und ganz Österreich. Fachgerechte Möbelmontage, Transport und Verpackungsservice aus einer Hand."
-kicker: "Privatumzug"
-permalink: /leistungen/privatumzug/
+title: 'Privatumzug: gut ins neue Zuhause.'
+seo_title: Privatumzug & Wohnungsumzug Wien | Sicher Team
+description: 'Wohnung, Haus oder einzelne Möbel: Wir stimmen Transport, Verpackung
+  und Montage auf Ihren Privatumzug ab. Kostenlose Besichtigung und schriftliches
+  Angebot.'
+permalink: "/leistungen/privatumzug/"
+last_modified_at: '2026-10-17'
 schema_type: Service
 service_type: Privatumzug
-schema_price_from: 300
-schema_price_to: 4500
-schema_price_description: "Individuelles Festpreisangebot für Privatumzüge basierend auf Wohnungsgröße und Strecke."
-highlights:
-  - "Kostenlose Vor-Ort-Besichtigung für Privatkunden"
-  - "Festpreisgarantie ohne versteckte Gebühren"
-  - "Rundum-Service inkl. Montage und Verpackung"
-  - "Kurzfristige Terminvergabe möglich"
-checklist:
-  - "Sichere Demontage und Montage von Möbeln"
-  - "Bereitstellung von Umzugskartons und Schutzmaterial"
-  - "Einrichten von Halteverbotszonen vor der Haustür"
-  - "Besenreine Übergabe der alten Wohnung auf Wunsch"
+redirect_from:
+- "/service/privatumzug/"
+editorial_image: moving-cartons
+og_image: "/assets/images/editorial/umzug-kartons-erste-nacht.webp"
+og_image_alt: Gepackte Umzugskartons mit Farbmarkierungen und eine getrennte Tasche
+  für die erste Nacht.
 faqs:
-  - question: "Wie lange im Voraus sollte ich meinen Privatumzug planen?"
-    answer: "Wir empfehlen, sich etwa 4 bis 6 Wochen vor dem gewünschten Umzugstermin bei uns zu melden, um eine optimale Planung und Terminierung zu gewährleisten. Kurzfristige Einsätze sind je nach Kapazität aber auch möglich."
-  - question: "Kann ich beim Privatumzug selbst mit anpacken?"
-    answer: "Ja, Sie können gerne Vorarbeiten leisten (wie z.B. das Packen der Kartons) oder am Umzugstag selbst mithelfen, um Kosten zu sparen. Wir passen unser Angebot flexibel an Ihre Wünsche an."
-  - question: "Wie wird der Preis für den Privatumzug berechnet?"
-    answer: "Der Preis richtet sich nach dem Transportvolumen, der Entfernung zwischen Auszugs- und Einzugsort, den örtlichen Gegebenheiten (Stockwerk, Aufzug) sowie den gebuchten Zusatzleistungen (z.B. Einpackservice, Montage)."
+- question: Kann ich selbst packen und nur den Transport anfragen?
+  answer: Ja, eine Anfrage kann auf vorbereitete Kartons und Möbel bezogen werden.
+    Nennen Sie dennoch notwendige Demontagen und beide Gebäudewege. Der tatsächliche
+    Umfang wird ausdrücklich vereinbart.
 ---
+Wir bringen Ihre Möbel und Kartons ins neue Zuhause. Ob Sie selbst packen oder Unterstützung beim Verpacken und Möbelaufbau möchten: Wir übernehmen die Arbeiten, die zu Ihrem Umzug passen. Nach der kostenlosen Besichtigung erhalten Sie ein schriftliches Fixpreisangebot.
 
-## Entspannter Privatumzug mit den Profis
+<!-- editorial-image -->
 
-Ein **Privatumzug** markiert oft den Beginn eines neuen Lebensabschnitts. Doch bevor Sie Ihr neues Zuhause in vollen Zügen genießen können, steht die Übersiedlung an. Das Verpacken des Hausrats, der sichere Transport von liebgewonnenen Möbelstücken und die Organisation am Umzugstag kosten Zeit und Nerven. Überlassen Sie diesen Aufwand einfach uns.
+Sicher Team übernimmt Ihren Umzug. Wir erstellen Ihr schriftliches Angebot und bleiben Ihr Ansprechpartner für Planung, Durchführung und Rückfragen.
 
-Als erfahrenes Umzugsunternehmen haben wir uns darauf spezialisiert, Ihren Privatumzug in Wien und ganz Österreich so angenehm und effizient wie möglich zu gestalten. Wir nehmen Ihnen die schwere Arbeit ab, damit Sie sich auf das Wesentliche konzentrieren können: die Vorfreude auf Ihr neues Heim.
+## Welche Unterstützung benötigen Sie?
 
-### Leistungen, die Ihren Privatumzug erleichtern
+| Ihr Ausgangspunkt | Für das Angebot festhalten |
+| --- | --- |
+| Kartons sind gepackt | Möbel, Kartonzahl, Tragearbeit und beide Gebäudewege |
+| Sie möchten teilweise Packhilfe | Betroffene Räume, Gegenstände und Material |
+| Möbel müssen zerlegt werden | Stücke, vorhandene Anleitungen und gewünschter Aufbau am Ziel |
+| Nicht alles kommt mit | Transportliste und separate Freigabe für Entfernung |
 
-Wir verstehen, dass die Anforderungen an einen privaten Umzug höchst individuell sind. Daher bieten wir Ihnen ein Baukastensystem an Leistungen, aus dem Sie wählen können:
+## Eine vollständige Anfrage vorbereiten
 
-1.  **Transport:** Die Basis jedes Umzugs. Wir stellen LKW und Personal, um Ihre bereits gepackten Sachen sicher an den neuen Ort zu bringen. (Erfahren Sie mehr zum [Möbeltransport](/leistungen/moebeltransport/)).
-2.  **Möbelmontage:** Überlassen Sie uns den fachgerechten Abbau Ihrer Schränke und Betten und den perfekten Wiederaufbau im neuen Zuhause. (Siehe [Möbelmontage](/leistungen/moebelmontage/)).
-3.  **Verpackungsservice:** Schonen Sie Ihre Zeit und übergeben Sie uns das bruchsichere Einpacken Ihres gesamten Hausrats. (Mehr zum [Verpackungsservice](/leistungen/verpackungsservice/)).
-4.  **Entrümpelung:** Oft sammeln sich über die Jahre Dinge an, die nicht mit umziehen sollen. Wir entsorgen diese fach- und umweltgerecht. (Siehe [Entrümpelung](/leistungen/entruempelung/)).
+Gehen Sie alle Räume einschließlich Nebenbereichen durch. Nennen Sie große, empfindliche oder schwere Stücke gesondert. Ergänzen Sie Start und Ziel, Etagen, Lift und den Weg zum möglichen Ladeplatz. Zusätzliche Abholungen brauchen eigene Kontakte und Zeitfenster. Fotos können helfen, sind optional.
 
-Benötigen Sie Hilfe bei der Einrichtung einer [Halteverbotszone](/ratgeber/halteverbotszone-umzug-oesterreich/)? Auch das erledigen wir gerne für Sie, um am Umzugstag einen reibungslosen Ablauf zu garantieren.
+Wir halten Transport, Packhilfe, Montage und Ihre Eigenleistungen im Angebot fest. Der Fixpreis gilt für diesen Umfang. Wünschen Sie später zusätzliche Arbeiten, besprechen wir Leistung und Preis vorab mit Ihnen. Den Transportschutz und besondere Wertgegenstände klären wir ebenfalls vor dem Umzug.
 
-### Besonderheiten bei Privatumzügen
-
-*   **Seniorenumzug:** Ein Wohnungswechsel im Alter erfordert besonderes Feingefühl. Wir bieten speziell auf die Bedürfnisse von älteren Menschen zugeschnittene Services an. (Details zum [Seniorenumzug](/leistungen/seniorenumzug/)).
-*   **Schweres und Wertvolles:** Für den sicheren Transport von schweren Gegenständen wie Tresoren haben wir speziell geschultes Personal. (Siehe [Spezialtransporte](/leistungen/spezialtransporte/)).
-
-Egal ob Sie einen kleinen [Umzug innerhalb Wiens](/leistungen/umzug-wien/) planen oder eine größere Übersiedlung ins [Burgenland](/leistungen/umzug-burgenland/) oder nach [Niederösterreich](/leistungen/umzug-niederoesterreich/) ansteht – wir sind Ihr kompetenter Partner.
-
-Vereinbaren Sie noch heute einen Termin für eine kostenlose Besichtigung. Wir erstellen Ihnen ein transparentes Angebot mit Fixpreisgarantie für Ihren Privatumzug!
+Sie können selbst packen oder das Einpacken unserem Team überlassen. Wir stimmen die Unterstützung auf Ihre Einrichtung und Ihren Zeitplan ab. [Preise](/preise/) erklärt den Angebotsvergleich, [Ablauf](/ablauf/) die nächsten Schritte. Reinigung, Anschlüsse und Räumung gehören nur bei ausdrücklicher Vereinbarung dazu.

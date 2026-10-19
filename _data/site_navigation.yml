@@ -1,0 +1,36 @@
+moving:
+  - label: Privatumzug
+    url: /leistungen/privatumzug/
+  - label: Firmenumzug
+    url: /leistungen/firmenumzug-wien/
+  - label: Möbeltransport
+    url: /leistungen/moebeltransport/
+  - label: Full-Service-Umzug
+    url: /leistungen/wohlfuehl-umzug/
+  - label: Umzug Österreich
+    url: /leistungen/umzug-oesterreich/
+  - label: Internationaler Umzug
+    url: /leistungen/auslandsumzug/
+areas:
+  - label: Wien
+    url: /leistungen/umzug-wien/
+  - label: Niederösterreich
+    url: /bundesland/niederoesterreich/
+  - label: Burgenland
+    url: /bundesland/burgenland/
+  - label: Oberösterreich
+    url: /bundesland/oberoesterreich/
+  - label: Steiermark
+    url: /bundesland/steiermark/
+  - label: Salzburg
+    navigation_label: Salzburg (Bundesland)
+    url: /bundesland/salzburg/
+  - label: Kärnten
+    url: /bundesland/kaernten/
+cities:
+  - label: Linz
+    url: /leistungen/umzug-linz/
+  - label: Graz
+    url: /leistungen/umzug-graz/
+  - label: Salzburg (Stadt)
+    url: /bundesland/salzburg/#stadt-salzburg

@@ -1,0 +1,35 @@
+<style id="contact-controls-styles">
+.document-contact-links{display:grid;gap:12px;margin-top:20px}
+.document-aside .document-contact-links>a{margin:0;min-height:44px;max-width:100%;width:fit-content}
+.document-contact-links>a>span{min-width:0}
+.clearance-site .header-contact{display:flex;align-items:center;justify-content:center;gap:12px;flex-shrink:0}
+.clearance-site .header-quick-contact{display:flex;align-items:center;gap:8px}
+.clearance-site .header-phone{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:48px;padding:12px 16px;flex-shrink:0;border:1px solid var(--red);border-radius:6px;background:var(--red);color:#fff;font-size:17px;font-weight:700;line-height:1.3;white-space:nowrap;transition:background-color .2s,border-color .2s}
+.clearance-site .header-phone .ui-icon{width:20px;height:20px;flex-shrink:0}
+.clearance-site .header-phone:hover{background:var(--red-hover);border-color:var(--red-hover)}
+.clearance-site .header-whatsapp{display:flex;align-items:center;justify-content:center;width:48px;height:48px;flex-shrink:0;border:1px solid #c5ddd5;border-radius:6px;background:#eaf5f0;color:#00745e;transition:background-color .2s,color .2s,border-color .2s}
+.clearance-site .header-whatsapp .ui-icon{width:21px;height:21px;flex-shrink:0}
+.clearance-site .header-whatsapp:hover{background:#00745e;color:#fff;border-color:#00745e}
+.clearance-site .header-contact .header-quote{margin:0;padding:10px 12px;font-size:13px;min-height:48px;line-height:1.35;background:var(--surface);color:var(--ink)!important;border:1px solid var(--line);border-radius:6px}
+.clearance-site .header-contact .header-quote:hover{background:var(--wash);border-color:var(--ink)}
+.clearance-site .header-phone,.clearance-site .header-contact .header-quote,.clearance-site .header-whatsapp,.clearance-site .site-header .mobile-nav>summary{height:48px;min-height:48px;padding-block:0;box-sizing:border-box}
+.clearance-site .site-header .mobile-nav>summary{width:48px;border-radius:6px}
+@media(min-width:761px) and (max-width:1599px){
+.clearance-site .site-header-inner{gap:20px;padding-inline:3%}
+.clearance-site .site-header .brand{font-size:32px;gap:10px}
+.clearance-site .site-header .brand .ui-icon{width:38px;height:38px}
+.clearance-site .desktop-nav{font-size:13px;gap:16px}
+.clearance-site .header-phone{font-size:16px;padding-inline:14px}
+}
+@media(max-width:1359px){.clearance-site .header-contact{margin-left:auto}}
+@media(max-width:760px){
+.clearance-site .header-contact{display:none}
+.clearance-site .mobile-contact{grid-template-columns:1fr 1fr;gap:8px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));}
+.clearance-site .mobile-contact a{min-width:0;min-height:46px;padding:5px 6px;gap:6px;font-size:13px;line-height:1.3;white-space:nowrap}
+.clearance-site .mobile-contact .ui-icon{width:18px;height:18px;flex-shrink:0}
+.clearance-site .mobile-contact .contact-whatsapp{background:#008069;color:#fff;border-color:#008069}
+.clearance-site .mobile-contact .contact-phone{background:var(--ink);color:#fff;border-color:var(--ink)}
+}
+@media(max-width:360px){.clearance-site .mobile-contact{padding-inline:10px;gap:6px}.clearance-site .mobile-contact a{font-size:12px;gap:4px;padding-inline:4px}.clearance-site .mobile-contact .ui-icon{width:16px;height:16px}}
+@media print{.header-contact,.mobile-contact{display:none!important}}
+</style>

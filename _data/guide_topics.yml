@@ -1,0 +1,21 @@
+- id: planen
+  title: Umzug planen & organisieren
+  description: Checklisten, Familien, Betreuung und Termine
+- id: kosten
+  title: Kosten, Angebote & Bedingungen
+  description: Aufwand einschätzen und den Auftrag verständlich vereinbaren
+- id: packen
+  title: Verpackung, Möbel & Spezialtransporte
+  description: Kartons, Montage und besondere Gegenstände vorbereiten
+- id: uebergabe
+  title: Ladeplatz, Behördenwege & Übergabe
+  description: Adressänderungen, Strom und Gas sowie Rückgabe planen
+- id: ausland
+  title: Umzug über Grenzen
+  description: Strecke, Unterlagen und Ankunft im Ausland
+- id: raeumen
+  title: Entrümpelung & Räumung vorbereiten
+  description: Räume, Freigaben, Zugang und Abschluss
+- id: auswahl
+  title: Aussortieren, Wertanrechnung & Abgabe
+  description: Behalten, verkaufen, weitergeben oder entfernen

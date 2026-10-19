@@ -1,58 +1,76 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
 layout: page
-title: "Transparente Preise für Umzug & Räumung"
-seo_title: "Umzug & Entrümpelung Preise Österreich | Kosten & Wertanrechnung"
-description: "Transparente Preise für Umzug und Übersiedlung mit Fixpreisgarantie. Erfahren Sie mehr über unsere ergänzende Räumung inklusive Wertanrechnung."
-description_link_label: "Kostenloses Angebot anfordern"
-description_link_href: "#preise-form"
-kicker: "Preise"
-include_form: true
-form_anchor_id: "preise-form"
-permalink: /preise/
+body_class: page-prices
+compact_intro: true
+intro: Kostenlos besichtigen lassen. Vereinbarte Leistungen und Gesamtpreis schriftlich erhalten.
+title: Was kostet Ihr Umzug?
+seo_title: Umzug Preise & Kosten | Kostenloses Angebot | Sicher Team
+description: Was kostet Ihr Umzug? Umfang, Strecke und Leistungen bestimmen den Preis. Kostenloses schriftliches Angebot und 5 % Bestpreis-Garantie bei gleichen Bedingungen.
+permalink: "/preise/"
+last_modified_at: '2026-10-17'
+redirect_from:
+- "/entruempelungspreise/"
+- "/faq/"
+- "/preisliste/"
 ---
+<div class="price-overview"><p class="price-overview-lead">Wir kalkulieren Ihren Umzug nach Umfang, Strecke und gewünschter Hilfe. Sie erhalten unser Angebot kostenlos und unverbindlich.</p><a class="button" href="/angebot/?service=umzug&from=%2Fpreise%2F#angebot-form">Kostenloses Angebot anfragen {% include ui-icon.html %}</a><ul><li><strong>Umfang:</strong> Möbel, Kartons und zusätzliche Stopps.</li><li><strong>Zugang:</strong> Etagen, Lift und Tragewege an beiden Orten.</li><li><strong>Leistungen:</strong> Transport, Verpackung und Montage.</li></ul></div>
 
-<section class="my-8">
-  {% include calculator.html %}
-</section>
+{% include price-guarantee.html heading_id='preisgarantie' hide_details=true %}
 
-{% include bestpreis-banner.html %}
+<details class="price-details" id="garantie-bedingungen"><summary>Welche Bedingungen gelten für die Bestpreis-Garantie?</summary><div markdown="1">
 
-Bei Sicher Team stehen Fairness und Transparenz an erster Stelle. Statt unklarer Stundensätze erhalten Sie nach einer kostenlosen Besichtigung ein **schriftliches Angebot mit garantiertem Fixpreis** – egal, ob es um einen österreichweiten Umzug oder eine ergänzende Räumung geht.
+Wir unterbieten jedes schriftliche Angebot einer anderen Umzugsfirma für **denselben Umzug unter denselben Bedingungen um 5 %**. Verglichen wird der Gesamtpreis inklusive Steuern und sämtlicher Zusatzkosten. Dafür stimmen folgende Punkte überein:
 
-## So kalkulieren wir Ihren Fixpreis
+- Dieselben Möbel, Kartons und Mengen.
+- Dieselben Abhol- und Zieladressen sowie zusätzliche Stopps.
+- Dieselben Etagen, Liftbedingungen, Tragewege und Zufahrten.
+- Dieselben vereinbarten Arbeiten. Enthält das Vergleichsangebot Verpackung, Demontage oder Montage, sind diese auch bei uns enthalten.
+- Derselbe Umzugstermin und dieselben Zahlungs- und Abrechnungsbedingungen.
 
-1. **Gratis Erstbesichtigung** - wir bewerten das Umzugsvolumen, die Zugänglichkeit und Besonderheiten (z.B. Packservice, Montage). Nutzen Sie auch unseren interaktiven [Umzugskosten Rechner](/umzugskosten-rechner/), um erste Richtwerte für Ihre Übersiedlung zu berechnen.
-2. **Kalkulation des Umzugs** - Sie erhalten einen Festpreis für den Transport, die Helfer und die Versicherung.
-3. **Ergänzende Räumung & Wertanrechnung** - bleiben nach dem Umzug Möbel oder Hausrat zurück, kümmern wir uns um die Räumung. Verwertbare Gegenstände werden fair angekauft und direkt von den Gesamtkosten abgezogen.
+Senden Sie uns das Vergleichsangebot über das [Anfrageformular](/angebot/?service=umzug&guarantee=1#angebot-form), per [E-Mail](mailto:{{ site.email }}?subject=Bestpreis-Garantie) oder WhatsApp. Das Beispiel 1.000 € → 950 € zeigt die Ersparnis bei gleichen Bedingungen, keinen allgemeinen Umzugstarif.
 
-## Beispiele für Umzug mit ergänzender Räumung
+</div></details>
 
-- Umzugskosten inkl. Transport: 1.500 € - Räumung von Altmöbeln: 500 € - Wertanrechnung für Antiquitäten: 300 € → **Sie zahlen insgesamt 1.700 €**
-- Umzugskosten: 900 € - Räumungskosten: 800 € - Wertanrechnung: 800 € → **Sie zahlen nur den reinen Umzug (900 €), die Räumung ist durch den Wertausgleich kostenlos.**
+<div id="fixpreis" markdown="1">
 
-> Durch die clevere Kombination aus professionellem Umzug und einer Räumung mit Wertanrechnung aus einer Hand sparen Sie nicht nur Geld, sondern vor allem wertvolle Zeit.
+## Ihr schriftlicher Fixpreis
 
-## Gratis Entrümpelung dank Wertanrechnung?
+Nach der kostenlosen Besichtigung erhalten Sie ein verbindliches Fixpreisangebot. Der vereinbarte Gesamtbetrag umfasst die aufgeführten Arbeiten und den abgestimmten Transport. Es gibt keine versteckten Kosten.
 
-Eine echte **Gratis Entrümpelung** ist möglich, wenn der Wert Ihrer Gegenstände die Räumungskosten übersteigt. In der Praxis gelingt das vor allem mit Designermöbeln, Antiquitäten, Maschinen oder Sammlerstücken. Fehlt es daran, lässt sich der Endpreis dennoch spürbar reduzieren - beispielsweise durch eine Mischung aus Wertanrechnung, MA 48 Sperrmüll-Abholung und Spenden.
+</div>
 
-In unserem neuen Ratgeber erklären wir Schritt für Schritt, **wann eine Entrümpelung kostenlos wird und woran Sie unseriöse Angebote erkennen**: [Gratis Entrümpelung in Wien: Wann sie wirklich möglich ist](/ratgeber/gratis-entruempelung-wien/).
-Wer klären muss, welche Meldungen bei Stadt oder Gemeinde fällig sind, findet die passenden Formulare im Leitfaden [Wohnungsräumung kostenlos melden](/ratgeber/wohnungsraeumung-kostenlos-melden/).
+## Was ist in Ihrem Umzugsangebot enthalten?
 
-## MA 48 oder Vollservice? So vergleichen Sie richtig
+Wir halten die vereinbarten Leistungen und den Gesamtbetrag fest. So können Sie unser Angebot mit denselben Angaben vergleichen.
 
-- **MA 48 Mistplatz**: Ideal für einzelne Sperrmüllstücke – Termine buchen, Fahrzeug organisieren. Die Schritt-für-Schritt-Anleitung liefert der Guide [MA 48 Mistplatz Checkliste](/ratgeber/ma48-mistplatz-checkliste/).
-- **Wertanrechnung & Ankauf**: Sobald Ankaufspotenzial besteht, wird unser Fixpreis direkt reduziert. Nutzen Sie [WhatsApp]({{ site.whatsapp }}) für eine Inventarliste – wir antworten mit einer ersten Einschätzung, bevor ein Team startet. Im Formular sind Fotos optional und können auch später gesendet werden.
+| Bereich | Was wir für Sie abstimmen |
+| --- | --- |
+| Transport | Möbel, Kartons, Start, Ziel und vereinbarte Fahrten |
+| Tragearbeit | Etagen, Lift, Zugang und Wege an beiden Adressen |
+| Verpackung | Eigenleistung, Einpackhilfe und benötigtes Material |
+| Möbelmontage | Welche Möbel abgebaut und wieder aufgebaut werden |
+| Organisation | Termin, feste Zugangszeiten und eine mögliche Ladezone |
 
-## Express- und Regionalzuschläge im Blick
+Zusätzliche Arbeiten oder Änderungen am Umfang besprechen wir vor der Durchführung mit Ihnen. Unser schriftliches Fixpreisangebot gilt für den vereinbarten Umfang. Anfahrtskosten und Wochenendzuschläge berechnen wir nicht. Zusätzliche Arbeiten beauftragen Sie ausdrücklich; sie werden vorab besprochen.
 
-Kurzfristige Termine (z. B. Übergabe am nächsten Tag, Wasserschaden, Zwangsräumung) kalkulieren wir mit einem geringen Express-Zuschlag. Details zum Ablauf finden Sie im Leitfaden [Entrümpelung Soforthilfe Wien - Express Räumung Tipps](/ratgeber/entruepelung-mit-sofort-hilfe/); dort erfahren Sie, wann wir noch am selben Tag starten können und welche Infos wir vorab benötigen.
+## Brauchen Sie zuerst eine Preisorientierung?
 
-Unsere Einsätze in Wien, Niederösterreich und dem Burgenland haben unterschiedliche Rahmenbedingungen. In den Landesprofilen sehen Sie Anfahrt, Entsorgungsstellen und Genehmigungen:
+Der [Umzugskosten-Rechner](/umzugskosten-rechner/) zeigt für einfache Wiener Referenzfälle eine unverbindliche Orientierung aus unserem bisherigen Rechenmodell. Für andere Strecken und besondere Anforderungen bereiten Sie damit Ihre persönliche Kostenanfrage vor. Eine aktuelle Preisliste oder ein verbindliches Angebot ersetzt das Modell nicht.
 
-- [Wien: Lokale Besonderheiten & Entsorgung](/bundesland/wien/)
-- [Niederösterreich: Regionen, Sammelstellen & Halteverbote](/bundesland/niederoesterreich/)
-- [Burgenland: See-Region, Mittel- und Südburgenland im Überblick](/bundesland/burgenland/)
+<details class="price-details"><summary>Frühere Preisbeispiele und ihre Grenzen</summary><div markdown="1">
 
-[Fordern Sie jetzt Ihre Gratis Erstbesichtigung an](/angebot/) und erhalten Sie Ihren persönlichen Fixpreis.
+Unsere frühere Übersicht vom **25.08.2026** nannte für Wiener Umzüge mit Lkw und Möbelpackern 350–600 € für eine Garçonnière und 550–900 € für zwei Zimmer. Das sind historische Orientierungswerte, keine bestätigten aktuellen Tarife. Individuelle Zugänge, Zusatzarbeiten und Umsatzsteuer waren nicht separat ausgewiesen.
+
+Den [damaligen Auszug](/assets/references/preisorientierung-wien-2026-08-25.txt) und die Einordnung finden Sie im [Wiener Kostenleitfaden](/ratgeber/umzugskosten-wien-preise-berechnen/). Für Ihren Auftrag zählt unser aktuelles schriftliches Angebot.
+
+</div></details>
+
+## So bereiten Sie Ihre Anfrage vor
+
+Nennen Sie Start, Ziel und Wunschtermin. Eine Liste der Möbel und Kartons sowie Angaben zu Etagen und Lift helfen bei der ersten Einschätzung. Fotos sind optional. Sie können selbst packen oder vorbereiten; solche Eigenleistungen berücksichtigen wir im vereinbarten Umfang.
+
+Soll zusätzlich geräumt werden, markieren Sie getrennt, was mitkommt und was entfernt werden darf. Eine mögliche Wertanrechnung prüfen wir anhand der Gegenstände und weisen sie getrennt aus.
+
+[Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) · [Ablauf ansehen](/ablauf/) · [Angebote vergleichen](/umzugsangebote-vergleichen/)
+
+<a class="button" href="/angebot/?service=umzug&from=%2Fpreise%2F#angebot-form">Ihr Umzugsangebot anfragen {% include ui-icon.html %}</a>

@@ -1,89 +1,32 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-checklist:
-- Wohnungen, Altbauobjekte und Genossenschaftswohnungen
-- Kellerabteile, Dachböden und Nebenräume
-- Demontage von Küchen und Einbauten
-- Sperrmüll, Elektro und Sonderfraktionen
-description: "Schnelle Wohnungsauflösung und Wohnungsräumung in Wien. Übergabefertig für Vermieter und Hausverwaltungen inkl. Demontage und besenreiner Reinigung."
-faqs:
-- answer: Der Preis hängt von Größe, Zugänglichkeit und Menge ab. Nach der Besichtigung
-    erhalten Sie einen Fixpreis, der Wertgegenstände berücksichtigt.
-  question: Was kostet eine Wohnungsauflösung in Wien?
-- answer: Wenn Slots frei sind, starten wir am selben Tag. Ein Foto-Check genügt für
-    die erste Einschätzung.
-  question: Können Sie eine Wohnung noch am selben Tag räumen?
-- answer: Ja, Nebenräume sind im Angebot inkludiert und werden vollständig geräumt.
-  question: Räumen Sie auch Kellerabteile und Dachböden?
-- answer: Ja, wir arbeiten diskret und stimmen uns mit Angehörigen, Notaren oder Hausverwaltungen
-    ab.
-  question: Übernehmen Sie Wohnungsauflösungen im Todesfall?
-
+last_modified_at: '2026-10-11'
+description: 'Wohnung in Wien räumen lassen: Gegenstände und Nebenräume erfassen,
+  Auswahl und Freigaben klären. Schriftlichen Umfang und gewünschten Übergabezustand
+  abstimmen.'
 hero_kicker: Wien
-highlights:
-- Fixpreis nach Besichtigung mit transparenter Wertanrechnung
-- besenreine Hinterlassung inkl. Foto-Protokoll
-- Noch heute möglich, wenn Slots frei sind
-- Alle 23 Wiener Bezirke und Umgebung
 intent_primary: transactional
 intent_secondary: local
 kicker: Privat
-permalink: /leistungen/wohnungsaufloesung/
-process:
-- description: Ersteinschätzung per Telefon oder WhatsApp, inkl. Zeitfenster und Zugängen.
-  title: Kontakt & Foto-Check
-- description: Wir prüfen Aufwand, Wertgegenstände und Logistik. Sie erhalten ein
-    schriftliches Angebot.
-  title: Besichtigung & Fixpreis
-- description: Sortierte Räumung mit Materialtrennung, Schutz der Bausubstanz und
-    sauberer Abwicklung.
-  title: Wohnungsräumung
-- description: Besenrein mit Fotodokumentation und Schlüsselprotokoll nach Wunsch.
-  title: Übergabe
+permalink: "/leistungen/wohnungsaufloesung/"
 schema_type: Service
-seo_title: "Wohnungsauflösung Wien & Wohnungsräumung zum Fixpreis"
-service_type: Wohnungsauflösung Wien
-title: "Wohnungsauflösung & Wohnungsräumung Wien"
+seo_title: Wohnungsauflösung Wien | Wohnungsräumung & Übergabe
+service_type: Wohnungsauflösung & Wohnungsräumung
+title: Wohnungsauflösung & Wohnungsräumung
+enquiry_service: raeumung
+redirect_from:
+- "/leistungen/wohnungsaufloesung-angebot/"
+- "/dienstleistungen/wohnungsaufloesung/"
+- "/leistungen/wohnungsraeumung/"
+faqs:
+- question: Kann eine Küche in einer vollständig geräumten Wohnung bleiben?
+  answer: Ja, wenn dies als Ausnahme abgestimmt ist. Die vereinbarte Auswahl und der
+    geforderte Übergabezustand entscheiden. Einbauten werden deshalb vor dem Auftrag
+    ausdrücklich geklärt.
 ---
+Für eine Wohnungsräumung wird festgelegt, welche Räume und Bestände entfernt werden und welcher Zustand bei der Übergabe benötigt wird. Keller, Dachboden und weitere Nebenflächen gehören nur dazu, wenn sie ausdrücklich erfasst sind.
 
-## Wohnungsräumung & Wohnung Entrümpelung Wien mit Fixpreis
+Sichern Sie persönliche Dinge und markieren Sie Ausnahmen. Klären Sie, welche Küche oder Einbauten bleiben. Offene Entscheidungen werden nicht als Entfernung freigegeben. Nennen Sie Etage, Lift, Ladeweg und gewünschte Demontagen.
 
-Eine Wohnungsräumung oder komplette Wohnungsauflösung muss schnell, sauber und nachvollziehbar ablaufen. Bei einer professionellen Wohnung Entrümpelung in Wien übernehmen wir die komplette Wohnungsräumung inklusive Besichtigung, Fixpreis und besenreiner Übergabe. Wertgegenstände rechnen wir transparent an, damit Sie eine klare Kalkulation haben.
+Leer, besenrein und renoviert sind unterschiedliche Erwartungen. Der konkret verlangte Zustand wird mit den Beteiligten abgestimmt; eine Räumung enthält keine automatische Ausmalung, Anschlussänderung oder besondere Reinigung.
 
-## Wohnungsräumung noch heute
-
-Wenn Slots frei sind, starten wir in Wien am selben Tag. Ein kurzer Foto-Check per WhatsApp reicht für die Ersteinschätzung. Den Fixpreis bestätigen wir nach der Besichtigung vor Ort.
-
-> [Kostenloses Angebot anfordern](/angebot/) oder per [WhatsApp {{ site.phone }}]({{ site.whatsapp }}) anfragen.
-
-## Wohnungsräumung mit klarer Übergabe
-
-Unsere Teams arbeiten strukturiert und schonend, damit Böden, Stiegenhaus und Lift geschützt bleiben. Auf Wunsch erstellen wir ein Übergabeprotokoll und dokumentieren die besenreine Wohnung für Vermieter oder Hausverwaltung.
-
-## Wohnungsauflösung vs. Haushaltsauflösung – Was ist der Unterschied?
-
-Oft werden diese Begriffe synonym verwendet. Um Ihnen die Entscheidung zu erleichtern, haben wir die wichtigsten Unterschiede zusammengefasst:
-
-| Merkmal | Wohnungsauflösung | Haushaltsauflösung |
-| :--- | :--- | :--- |
-| **Fokus** | Räumung und Übergabe an den Vermieter | Komplette Auflösung des Hausstands inkl. Kleidung & Hausrat |
-| **Umfang** | Möbel, Sperrmüll, oft inkl. Demontage | Alles, bis zum letzten Löffel |
-| **Dauer** | Meist 1–2 Tage | Oft mehrere Tage, inkl. Spenden-Logistik |
-| **Zielgruppe** | Vermieter, Erben (bei reiner Räumung), Hausverwaltungen | Angehörige (Verlassenschaft), Umzug ins Pflegeheim |
-| **Passender Service** | Diese Seite | [Zur Haushaltsauflösung](/leistungen/haushaltsaufloesung/) |
-
-## Wohnungsauflösung im Todesfall
-
-Bei sensiblen Fällen arbeiten wir besonders diskret. Wir trennen Erinnerungsstücke, koordinieren Termine und liefern eine nachvollziehbare Dokumentation. Mehr Hinweise finden Sie im Ratgeber [Wohnungsauflösung nach Todesfall](/ratgeber/haushaltsaufloesung-todesfall/).
-
-## Wien, Bezirke und Umgebung
-
-Wir sind in allen 23 Bezirken unterwegs und übernehmen auch Objekte in der Umgebung. Eine Übersicht finden Sie auf der Seite [Bezirke](/bezirke/).
-
-Eine allgemeine Übersicht ohne Standortbezug finden Sie auf der Seite [Leistungen](/leistungen/).
-
-## Verwandte Dienstleistungen
-
-- **[Haushaltsauflösung](/leistungen/haushaltsaufloesung/):** Für komplette Haushalte und größere Objekte.
-- **[Professionelle Liegenschaftsräumung](/leistungen/raeumung/):** Wenn ganze Liegenschaften leer werden müssen.
-- **[Entrümpelung in Wien](/leistungen/entruempelung-wien/):** Wenn Wertanrechnung und Sortierung im Fokus stehen.
+Bei der Abnahme prüfen Sie Räume, entfernte Positionen, erhaltene Ausnahmen und offene Punkte anhand derselben Liste. Für die Verteilung eines gesamten Haushalts hilft [Haushaltsauflösung](/leistungen/haushaltsaufloesung/), für einzelne Stücke [Entrümpelung](/leistungen/entruempelung-wien/).

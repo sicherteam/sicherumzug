@@ -1,0 +1,4 @@
+{% assign faq_items = page.faqs %}{% if faq_items == nil and page.use_global_faqs %}{% assign faq_items = site.data.faqs %}{% endif %}
+{% if faq_items.size > 0 %}
+<section class="section faq-section"><div class="wrap split-section"><div><h2>{{ include.heading | default: 'Gut zu wissen.' }}</h2><p>Die wichtigsten Antworten vor Ihrer Anfrage.</p>{% unless include.omit_link %}{% include enquiry-context.html %}<a class="text-link" href="{{ enquiry_url | relative_url }}">{{ include.link_text | default: 'Ihre Frage persönlich klären' }} {% include ui-icon.html %}</a>{% endunless %}</div><div class="faq-list">{% for faq in faq_items %}<details><summary>{{ faq.question }}{% include ui-icon.html name='plus' %}</summary><div>{{ faq.answer | markdownify }}</div></details>{% endfor %}</div></div></section>
+{% endif %}

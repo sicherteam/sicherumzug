@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Sicher Team, Startseite"><img class="brand-logo" src="{{ '/assets/images/sicher-team-logo.svg' | relative_url }}" alt="Sicher Team" width="448" height="82" fetchpriority="high" decoding="async"></a>
+    <nav class="desktop-nav" aria-label="Hauptnavigation">
+      <details class="nav-group"><summary>Umzug &amp; Transport <svg class="nav-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary><div class="nav-panel">{% include navigation-group.html kind='moving' %}</div></details>
+      <a href="{{ '/leistungen/#entruempelung-raeumung' | relative_url }}">Entrümpelung &amp; Räumung</a>
+      <details class="nav-group nav-group-areas"><summary>Einsatzgebiete <svg class="nav-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary><div class="nav-panel">{% include navigation-group.html kind='areas' compact=true %}</div></details>
+      <details class="nav-group nav-group-plan"><summary>Umzug planen <svg class="nav-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary><div class="nav-panel">{% include navigation-group.html kind='planning' compact=true %}</div></details>
+      <a href="{{ '/ratgeber/' | relative_url }}">Ratgeber</a>
+    </nav>
+    <div class="header-contact"><div class="header-quick-contact" role="group" aria-label="Weitere Kontaktmöglichkeiten"><a class="button button-small header-quote" href="{{ enquiry_url | relative_url }}">Angebot anfragen</a><a class="header-whatsapp" href="{{ site.whatsapp }}" aria-label="Per WhatsApp schreiben" title="Per WhatsApp schreiben">{% include ui-icon.html name='whatsapp' %}</a></div><a class="header-phone" href="tel:{{ site.phone | remove: ' ' }}" aria-label="Jetzt anrufen: {{ site.phone }}">{% include ui-icon.html name='phone' %}<span>{{ site.phone }}</span></a></div>
+    <details class="mobile-nav">
+      <summary aria-label="Navigation öffnen">{% include ui-icon.html name='menu' %}</summary>
+      <nav aria-label="Mobile Hauptnavigation">
+        <details class="nav-group"><summary>Umzug &amp; Transport <svg class="nav-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary><div class="nav-panel">{% include navigation-group.html kind='moving' %}</div></details>
+        <details class="nav-group nav-group-areas"><summary>Einsatzgebiete <svg class="nav-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary><div class="nav-panel">{% include navigation-group.html kind='areas' compact=true %}</div></details>
+        <a href="{{ '/leistungen/#entruempelung-raeumung' | relative_url }}">Entrümpelung &amp; Räumung</a><details class="nav-group nav-group-plan"><summary>Umzug planen <svg class="nav-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary><div class="nav-panel">{% include navigation-group.html kind='planning' compact=true %}</div></details><a href="{{ '/ratgeber/' | relative_url }}">Ratgeber</a><a href="{{ '/kontakt/' | relative_url }}">Kontakt</a><a class="mobile-menu-quote" href="{{ enquiry_url | relative_url }}">Angebot anfragen {% include ui-icon.html %}</a>
+      </nav>
+    </details>
+  </div>
+</header>

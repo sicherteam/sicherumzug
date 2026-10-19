@@ -1,73 +1,34 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
+last_modified_at: '2026-10-11'
 layout: guide
-title: "Küche abbauen und umziehen: Tipps & Profi-Service"
-date: 2026-08-11 09:00:00 +0200
+title: 'Küchenumzug: Maße, Anschlüsse und Facharbeiten klären'
+date: 2026-08-11 09:00:00.000000000 +02:00
 categories: umzug kueche montage
-description: "Der Küchenumzug ist die Königsdisziplin der Übersiedlung. Erfahren Sie, wie Sie Küchenschränke, Arbeitsplatten und Geräte sicher demontieren und transportieren."
-seo_title: "Küche abbauen und umziehen: Tipps & Profi-Service"
+description: 'Küche beim Umzug vorbereiten: neue Raummaße, Möbelteile, Geräte und
+  benötigte Facharbeiten gesondert abstimmen.'
+seo_title: 'Küchenumzug: Maße, Anschlüsse und Facharbeiten klären | Sicher Team'
+enquiry_service: umzug
+guide_group: Umzug vorbereiten
+redirect_from:
+- "/ratgeber/2026-05-24-kueche-abbauen-und-umziehen/"
+- "/ratgeber/2026-08-11-kueche-abbauen-umziehen/"
+guide_topic: packen
 ---
+Vor einem Küchenumzug wird zuerst geprüft, welche Teile am Ziel weiterverwendet werden können. Gleiche Wandlänge bedeutet nicht automatisch gleiche Aufteilung oder passende Anschlüsse. Ausbau, Transport und Anschluss werden als verschiedene Arbeiten geplant.
 
+## Beide Räume auf einer Skizze vergleichen
 
+Erfassen Sie Wandlängen, Türen, Fenster und vorhandene Anschlusspunkte. Listen Sie Schränke, Geräte und Arbeitsplatte einzeln auf. Notieren Sie größte Maße und den Weg durch Türen, Treppen und Lift. Eine lange Arbeitsplatte kann andere Engstellen haben als zerlegte Schrankteile.
 
-Die Küche ist nicht nur das Herzstück jeder Wohnung, sondern auch der komplexeste und schwerste Teil eines jeden Wohnungswechsels. Ein Küchenumzug bedeutet weitaus mehr als das bloße Schleppen von Möbeln: Er erfordert handwerkliches Geschick bei der Demontage von Oberschränken, technisches Wissen für Wasser- und Stromanschlüsse sowie Millimeterarbeit beim Transport von empfindlichen Arbeitsplatten. In diesem Ratgeber zeigen wir Ihnen, wie der Küchenumzug in Wien oder ganz Österreich erfolgreich gelingt.
+| Entscheidung | Zuständigkeit festhalten |
+| --- | --- |
+| Welche Teile passen am Ziel? | Fachliche Planung und tatsächliche Raummaße |
+| Wer bereitet Anschlüsse vor? | Geeignete zuständige Fachperson |
+| Was wird getragen und transportiert? | Ausdrücklich bestätigter Umfang |
+| Wer baut auf und schließt an? | Montage und technische Arbeiten getrennt |
 
-## Die Königsdisziplin: Warum die Küche Profisache ist
+## Teile und Zubehör zuordnen
 
-Wenn Sie eine komplette Einbauküche in Ihre neue Wohnung übersiedeln wollen, ist der kritischste Faktor die Vermeidung von Wasser- und Elektroschäden sowie das Verhindern von Kratzern an den empfindlichen Hochglanzfronten. Ein unfachmännischer Anschluss von Herd oder Spüle kann in der neuen Wohnung lebensgefährlich sein oder zu verheerenden Wasserschäden führen.
+Kennzeichnen Sie Einheiten nach Schrank und Position. Schrauben, Scharniere und lose Teile bleiben eindeutig zugeordnet. Halten Sie Montageunterlagen bereit. Unklare Konstruktionen werden nicht allein aus Zeitdruck improvisiert zerlegt.
 
-Daher empfehlen wir, bei Küchen auf Experten zu setzen. Unser Service-Versprechen basiert dabei auf der **Trifecta des Vertrauens**:
-1. **Fixpreis:** Demontage, Transport und Remontage der Küche zum transparenten Komplettpreis.
-2. **Absolute Professionalität:** Erfahrene Möbelmonteure übernehmen die handwerklich anspruchsvollen Aufgaben.
-3. **Wertanrechnung:** Sollten Sie beschließen, die alte Küche doch in der alten Wohnung zu lassen und räumen zu lassen, verrechnen wir verwertbare Elektrogeräte fair.
-
-## B2C Küchenlogistik: Vom Kühlschrank bis zur Arbeitsplatte
-
-Der Küchenumzug in privaten Haushalten erfordert eine detaillierte Reihenfolge.
-
-### 1. Vorbereitung und Planung
-Messen Sie die neue Küche millimetergenau aus. Passt die bisherige U-Form in den neuen Raum, oder muss die Arbeitsplatte neu zugeschnitten werden? Räumen Sie alle Schränke komplett leer. Tauen Sie Kühl- und Gefrierschränke mindestens 24 Stunden vor dem Umzug ab und sichern Sie die Glastüren.
-
-### 2. Die sichere Demontage (Abbau)
-Die Demontage sollte systematisch erfolgen:
-*   **Wasser und Strom:** Zuerst muss der Hauptwasserhahn zugedreht und die Sicherung für den E-Herd (Starkstrom) herausgenommen werden. Der Starkstromanschluss sollte ausschließlich von ausgebildeten Fachkräften abgenommen werden!
-*   **Elektrogeräte:** Geschirrspüler (Restwasser ablassen!), Backofen und Ceranfeld vorsichtig ausbauen.
-*   **Oberschränke:** Hängeschränke abnehmen und alle Türen/Schubladen für den Transport mit Malerkrepp (hinterlässt keine Rückstände) fixieren.
-*   **Arbeitsplatte:** Diese ist oft verleimt oder verschraubt und muss extrem behutsam abgelöst werden, da sie leicht bricht.
-
-### 3. Fachgerechter Transport und Remontage
-Für den Transport müssen Küchenfronten durch dicke Luftpolsterfolie oder Umzugsdecken vor dem Verkratzen geschützt werden. In der neuen Wohnung übernehmen unsere Monteure den positionsgenauen Aufbau, das Ausrichten der Unterschränke (ins Wasser stellen) und das Justieren der Scharniere, damit alle Spaltmaße wieder stimmen.
-
-*Hinweis:* Gasanschlüsse und Starkstrominstallationen überlassen wir (oder Sie) immer einem konzessionierten Wiener Installateur bzw. Elektriker, um die gesetzliche Sicherheit zu gewährleisten.
-
-## Firmenküchen und Teeküchen (B2B)
-
-Auch bei Büroumsiedlungen spielen Teeküchen eine wichtige Rolle. Hier steht die Geschwindigkeit im Vordergrund, damit die Mitarbeiter am neuen Standort in Niederösterreich schnell wieder ihren Kaffee genießen können. Wir demontieren gewerbliche Kaffeemaschinen, Kühlschränke und Schrankwände zügig und transportieren sie sicher an den neuen Firmenstandort. Bei Bedarf übernehmen wir im Rahmen einer Firmenauflösung auch die komplette Räumung und umweltgerechte Entsorgung von alten Teeküchen inklusive Elektrogeräten.
-
-## Sicherheit durch Transportversicherung
-
-Ein Ceranfeld ist schnell gesprungen, ein Kratzer auf der Edelstahlfront ist ärgerlich. Beim Hantieren mit schweren Oberschränken oder großen amerikanischen Kühlschränken über enge Stiegenhäuser ist das Risiko allgegenwärtig. Deshalb ist bei jedem durch uns durchgeführten Küchenumzug eine vollumfängliche **Transportversicherung** inkludiert. Diese deckt Schäden an Ihren Schränken und Elektrogeräten ab, sodass Sie kein finanzielles Risiko tragen.
-
-## Häufig gestellte Fragen (FAQ) zum Küchenumzug
-
-**Darf ich den Elektroherd (Starkstrom) selbst abklemmen?**
-Nein. Das An- und Abklemmen von Elektroherden (Starkstrom bzw. Dreiphasenwechselstrom) ist in Österreich gesetzlich konzessionierten Elektrofachkräften vorbehalten. Laien riskieren lebensgefährliche Stromschläge oder Kabelbrände, wodurch auch der Versicherungsschutz der Haushaltsversicherung erlischt.
-
-**Wie lange muss ein Kühlschrank nach dem Umzug ruhen, bevor er eingeschaltet wird?**
-Wurde der Kühlschrank liegend transportiert, muss er in der neuen Wohnung mindestens 12 bis 24 Stunden aufrecht stehen, bevor er wieder an den Strom angeschlossen wird. Das Schmiermittel des Kompressors muss sich erst wieder setzen. Wurde er aufrecht transportiert, genügen meist 2 bis 4 Stunden Ruhezeit.
-
-**Können Sie auch eine neue Arbeitsplatte zuschneiden und montieren?**
-Oftmals passt die alte Arbeitsplatte aufgrund geänderter Raummaße nicht mehr in die neue Küche. Unsere erfahrenen Möbelmonteure können nach Absprache auch kleinere Anpassungen an Holz-Arbeitsplatten (Zuschneiden, Ausfräsen für Spülbecken) vornehmen. Für Stein- oder Glasarbeitsplatten verweisen wir auf spezialisierte Steinmetze.
-
-## Der perfekte Aufbau für kulinarische Freuden
-
-Ein Küchenumzug ist stressig, schwer und fehleranfällig. Lassen Sie die Profis ans Werk, damit Sie am ersten Abend im neuen Zuhause bereits entspannt kochen können.
-
-**Benötigen Sie Hilfe beim Abbau und Transport Ihrer Einbauküche?**
-Kontaktieren Sie unsere Montage-Profis für eine umfassende Beratung. [Jetzt kostenloses Angebot anfordern](/angebot/)!
-
-
-### Verwandte Links
-- [Entrümpelung Wien](/leistungen/entruempelung-wien/)
-- [Haushaltsauflösung](/leistungen/haushaltsaufloesung/)
-- [Kellerräumung](/leistungen/kellerraeumung/)
+Dinge, die nicht mitkommen, gehören in eine getrennte Liste. Prüfen Sie nach Ankunft die Vollständigkeit der transportierten Einheiten. Ein abgeschlossener Möbeltransport bestätigt noch keine technische Wiederinbetriebnahme. Die dafür zuständige Fachperson prüft und erledigt ihren vereinbarten Teil separat.

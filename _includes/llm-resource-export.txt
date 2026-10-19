@@ -1,0 +1,50 @@
+# Sicher Team: Leistungen und Vorbereitung
+
+Sicher Team plant Privatumzüge und Firmenumzüge. Das Büro befindet sich in Wien. Wien, Niederösterreich, Burgenland, Oberösterreich, Steiermark, Salzburg und Kärnten sind die Kerngebiete; weitere Strecken werden persönlich auf Durchführung und Verfügbarkeit geprüft. Verpackung, Demontage, Montage und Möbeltransport werden nach Bedarf abgestimmt. Entrümpelung und Räumung sind ergänzende und separat anfragbare Leistungen.
+
+Kontakt: {{ site.phone }} · {{ site.email }}
+Büro: {{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}
+Anfrage: {{ '/angebot/' | absolute_url }}. Fotos sind optional. Eine Anfrage ist keine Buchung.
+3D-Szenen sind Illustrationen und keine Bilder abgeschlossener Kundenaufträge.
+Verantwortlich für die Inhalte: Redaktion Sicher Team. Arbeitsweise, Quellen und Rückfragen: {{ '/ueber-uns/#redaktion' | absolute_url }}
+
+{% capture paragraph_break %}
+
+{% endcapture %}
+{% capture phone_placeholder %}{% raw %}{{ site.phone }}{% endraw %}{% endcapture %}
+{% capture phone_link_placeholder %}{% raw %}{{ site.phone | remove: ' ' }}{% endraw %}{% endcapture %}
+{% capture email_placeholder %}{% raw %}{{ site.email }}{% endraw %}{% endcapture %}
+{% capture street_placeholder %}{% raw %}{{ site.address.street }}{% endraw %}{% endcapture %}
+{% capture postcode_placeholder %}{% raw %}{{ site.address.postal_code }}{% endraw %}{% endcapture %}
+{% capture city_placeholder %}{% raw %}{{ site.address.city }}{% endraw %}{% endcapture %}
+{% assign phone_link_value = site.phone | remove: ' ' %}
+{% assign resources = site.pages | concat: site.documents | sort: 'url' %}
+{% for resource in resources %}
+{% if resource.llm_exclude == true or resource.sitemap == false or resource.redirect_to or resource.robots contains 'noindex' %}{% continue %}{% endif %}
+{% assign path = resource.url | downcase %}
+{% if path contains '.' or path contains '/assets/' or path contains '/llms' or path contains '/plans/' %}{% continue %}{% endif %}
+{% unless resource.layout %}{% continue %}{% endunless %}
+## {{ resource.title | default: resource.url }}
+URL: {{ resource.url | absolute_url }}
+Herausgeber: Sicher Team · Redaktion: {{ '/ueber-uns/#redaktion' | absolute_url }}
+{% if resource.last_modified_at %}Aktualisiert: {{ resource.last_modified_at | date: '%Y-%m-%d' }}{% elsif resource.date %}Veröffentlicht: {{ resource.date | date: '%Y-%m-%d' }}{% endif %}
+
+{{ resource.description | strip_html }}
+
+{{ resource.llm_summary | default: resource.content | replace: phone_link_placeholder, phone_link_value | replace: phone_placeholder, site.phone | replace: email_placeholder, site.email | replace: street_placeholder, site.address.street | replace: postcode_placeholder, site.address.postal_code | replace: city_placeholder, site.address.city | markdownify | replace: '</p>', paragraph_break | replace: '</li>', paragraph_break | replace: '</h2>', paragraph_break | replace: '</h3>', paragraph_break | strip_html | replace: '&amp;', '&' | replace: '&nbsp;', ' ' | strip }}
+{% for faq in resource.faqs %}
+### {{ faq.question | strip_html }}
+{{ faq.answer | markdownify | strip_html | strip }}
+{% endfor %}
+{% assign resource_partner = site.data.partner_references[resource.partner_reference] %}
+{% if resource_partner %}
+Partnerfirma: Rümpel Räumung
+{{ resource_partner.description }}
+{{ resource_partner.label }}: {{ resource_partner.url }}
+{% endif %}
+{% if resource.sources.size > 0 %}
+Quellen:
+{% for source in resource.sources %}- {{ source.title }}: {{ source.url }}
+{% endfor %}{% endif %}
+---
+{% endfor %}

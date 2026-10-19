@@ -1,82 +1,66 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: Umzug 1180 Wien
-footer_title: "Umzug & Übersiedlung 1180 (Währing)"
-seo_title: Umzug 1180 Wien - Übersiedlung Währing
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-kicker: Bezirk 1180
+last_modified_at: '2026-10-11'
+title: Umzug in 1180 Wien (Währing)
+footer_title: Umzug & Übersiedlung 1180 (Währing)
+seo_title: Umzug 1180 Wien (Währing) | Sicher Team
+description: 'Umzug in 1180 Wien: Verkleinerung, vertraute Möbel und benötigte Hilfe
+  konkret planen. Packaufgaben, Übergabekontakte und Aufbau abstimmen.'
+kicker: Umzug & Übersiedlung
 state: wien
 region_type: Bezirk
-hero_image: /topbg.webp
-highlights:
-- Höchste Sorgfalt für Villen & Altbauten im Cottageviertel
-- Spezialisten für Bibliotheken, Musikinstrumente & Kunstsammlungen
-- Fixpreis-Angebote für Studentenwohnungen und Dachgeschoßausbauten
-- Absolute Diskretion bei der Übersiedlung von Botschaftsresidenzen und Kanzleien
-checklist:
-- Cottages, Botschaftsresidenzen und Familienhäuser in Gersthof und Pötzleinsdorf
-- Studentenwohnungen und WGs entlang der Währinger Straße und Gentzgasse
-- Schul- und Institutsgebäude nahe dem Türkenschanzpark und der BOKU
-- Empfindliche Bausubstanz in den historischen Zinshäusern
-process:
-- title: Detaillierter Substanz-Check
-  description: Wir schützen wertvolle Parkettböden, Stuckdecken und historische Türen
-    mit professionellem Abdeckmaterial wie Filz und Folie.
-- title: Fairer Wertanrechnung
-  description: Antiquitäten, Flügel, Designermöbel oder ganze Sammlungen werden von
-    unseren Experten geschätzt und auf die Kosten angerechnet.
-- title: Sorgfältige Übersiedlung & Verpackung
-  description: Wir verwenden Klimaboxen, spezielle Kunstkisten und Seidenpapier für
-    den sicheren Transport Ihrer wertvollsten und sensibelsten Objekte.
-- title: Perfekter Feinschliff
-  description: Wir garantieren eine schlüsselfertige Übergabe, führen eine Duftneutralisation
-    durch und bieten auf Wunsch eine professionelle Feinreinigung an.
-faqs:
-- question: Welche Logistik ist bei einem Umzug in dieser Region typisch?
-  answer: Typisch in 1180 Wien sind enge Zeitfenster, begrenzte Haltezonen und objektspezifische
-    Hausregeln. Darum starten wir mit einer kurzen Vorprüfung zu Zugang, Trageweg
-    und Etagenlogik. So bleibt der Ablauf am Einsatztag stabil und vermeidet unnötige
-    Wartezeiten.
-- question: Wie gehen Sie mit Liftregeln und Stiegenhaus-Schutz um?
-  answer: Wir klären Liftzeiten, Schutzvorgaben und Laufwege vor dem Termin und planen
-    die Reihenfolge danach. Bei sensiblen Gebäuden kommen Schutzmaterial und klare
-    Tragezonen zum Einsatz. Das reduziert Reibung mit Hausverwaltung und Nachbarn.
-- question: Ist eine Wertanrechnung in diesem Bezirk möglich?
-  answer: Ja, verwertbare Gegenstände können nach Sichtung angerechnet werden. Wichtig
-    ist eine realistische Bewertung nach Zustand und Nachfrage. Die Positionen werden
-    transparent in die Kalkulation aufgenommen, damit der Endpreis nachvollziehbar
-    bleibt.
-- question: Welche Angaben brauchen Sie für ein Fixpreis-Angebot in 1180 Wien?
-  answer: Am wichtigsten sind aktuelle Fotos, Adresse, Kontaktdaten und der gewünschte
-    Termin. Angaben zu Etage, Lift, Innenhof oder Keller verbessern die Erstkalkulation.
-    Damit erhalten Sie schneller eine belastbare Rückmeldung zum Ablauf.
 schema_type: Service
 service_type: Umzug
-permalink: /leistungen/umzug-1180-wien/
-redirect_from:
-- /leistungen/haushaltsaufloesung-1180-wien/
-- /entruempelung-1180-wien/
-- /raeumung-1180-wien/
-local_logistics_note: In 1180 Wien kalkulieren wir Halteverbote, Transportstrecken
-  und Entsorgungswege transparent im Fixpreis.
-micro_case: 'Standardfall in 1180 Wien: strukturierte Inventarsichtung, Fixpreisfreigabe
-  und Abschluss mit sauberer Übergabe an Eigentümer oder Verwaltung.'
-proof_date: 2026-02-09
+permalink: "/leistungen/umzug-1180-wien/"
+redirect_from: []
+enquiry_service: umzug
+sources:
+- title: 'Stadt Wien: kurzfristige Halteverbotszone'
+  url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
+faqs:
+- question: Kann eine Angehörige die Umzugsplanung begleiten?
+  answer: Ja, sofern die betroffene Person dies wünscht und die Zuständigkeit klar
+    ist. Benennen Sie, wer Auswahl und Änderungen freigibt und wer an beiden Orten
+    die Übergabe begleitet.
+- question: Bedeutet Seniorenumzug automatisch persönliche Betreuung?
+  answer: Nein. Beschreiben Sie die konkret benötigten Aufgaben. Transport, Verpackung
+    und Möbelmontage sind von weitergehender Betreuung oder Pflege zu unterscheiden
+    und müssen ausdrücklich vereinbart werden.
 ---
-## Sorgfältige Abläufe im Cottage und in Gersthof
-In 1180 Wien betreuen wir regelmässig Einsätze in Cottageviertel, Gersthof, Währinger Wohnstrassen und grün geprägte Nebenlagen. In 1180 sind enge Zufahrten und sensible Bausubstanz ein häufiges Thema. Wir betreuen grosszügige Wohnungen mit Parkett, Bibliotheken und wertigen Einzelstücken. Der Ablauf setzt auf kleine Transporteinheiten und abgestimmte Schutzpfade.
+## Umzug in 1180 Wien bei Verkleinerung oder Unterstützung
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Für eine Übersiedlung in Währing können Sie Sicher Team den gewünschten Transport und zusätzliche Hilfe anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Bei einer Verkleinerung werden mitgenommene Möbel, gewünschte Packhilfe und Aufbauaufgaben konkret beschrieben. Die betroffene Person und die von ihr beauftragten Ansprechpartner bestimmen die Auswahl.
 
-### Welche Logistik ist in 1180 Wien typisch?
-Typisch sind in 1180 Wien unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Möbeltransport mit abgestimmter Logistik](/leistungen/entruempelung-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Eine Verkleinerung in Währing mit klaren Entscheidungen vorbereiten
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Antiquitäten-Wertanrechnung im Ablauf](/leistungen/antiquitaeten-ankauf/) und stützen die lokale Planung mit [Guide zur Möbelbewertung in Wien](/ratgeber/gebrauchte-moebel-verkaufen-wien/). Den regionalen Rahmen finden Sie unter [Bundesland Wien](/bundesland/wien/).
+Wenn der neue Haushalt kleiner wird, beginnt die Planung vor dem Verpacken. Für einen Umzug in 1180 Wien sollten Sie festlegen, welche vertrauten Möbel mitkommen und wo sie am Ziel stehen können. Entscheiden Sie zuerst über große Stücke; kleine Gegenstände und Kartons lassen sich anschließend diesen Räumen zuordnen.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für 1180 Wien eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+Wenn Angehörige mithelfen, braucht es eine Person, die die Auswahl und Änderungen abstimmt. Halten Sie fest, wer am bisherigen Ort öffnen kann und wer am neuen Wohnort die Übergabe begleitet. Persönliche Unterlagen und unmittelbar benötigte Dinge sollten Sie selbst erreichbar halten.
 
-Gerade in 1180 Wien zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+### Benötigte Unterstützung konkret beschreiben
+
+Nennen Sie einzelne Aufgaben, bei denen Hilfe gewünscht ist: Kartons packen, Möbel zerlegen, transportieren oder wieder aufbauen. Das Wort „Seniorenumzug“ allein bestätigt weder persönliche Betreuung noch einen bestimmten Unterstützungsumfang. Eine Prüfung und Vereinbarung der benötigten Arbeiten bleibt erforderlich.
+
+Auf der [Seniorenumzugsseite](/leistungen/seniorenumzug/) können Sie die Anfrage einordnen. Für eine übliche Haushaltsübersiedlung steht [Umzug Wien](/leistungen/umzug-wien/) zur Verfügung. Aussortierte Möbel und gewünschte Räumungsarbeiten sollten als eigener Auftragsteil aufgeführt werden.
+
+## Vertraute Einrichtung mit dem neuen Raumplan verbinden
+
+Prüfen Sie zuerst, welche großen Möbel in der neuen Wohnung genutzt werden sollen. Die Entscheidung über Erinnerungsstücke und persönliche Dinge kann anschließend in Ruhe erfolgen. Ein neuer Raumplan hilft dabei, ohne die Auswahl an unser Team abzugeben. Wenn mehrere Angehörige unterstützen, sollte klar sein, welche Person die abgestimmten Entscheidungen weitergibt.
+
+| Planungspunkt | Entscheidung beim Auftraggeber | Anfrage für die Durchführung |
+| --- | --- | --- |
+| Große Möbel | Auswahl und vorgesehener Zielraum | Maße, Transport und gewünschter Aufbau |
+| Persönliche Dinge | Mitnahme und eigenständig benötigter Bestand | Gewünschte Packhilfe klar begrenzen |
+| Unterstützung | Erreichbare, bevollmächtigte Ansprechpartner | Übergabekontakt an beiden Orten |
+| Zurückbleibendes | Weitergabe oder Räumung festlegen | Gesonderte Aufgabe und bestätigter Umfang |
+
+### Unterstützung als konkrete Aufgabe formulieren
+
+Nennen Sie, welche Arbeiten übernommen werden sollen und welche Sie oder Angehörige erledigen. Kartons packen, Tragen und Möbelmontage sind prüfbare Aufgaben. Eine allgemeine Bitte um Betreuung kann darüber hinausgehen und sollte gesondert geklärt werden. Persönliche Begleitung oder Pflege wird nicht durch eine gewöhnliche Umzugsleistung zugesagt.
+
+Halten Sie unmittelbar benötigte Unterlagen, Medikamente und persönliche Dinge selbst erreichbar oder stimmen Sie dies mit der zuständigen Vertrauensperson ab. Bei Unsicherheiten über die benötigte Hilfe darf die Anfrage diese Fragen offen benennen. Eine Zusage sollte anschließend den tatsächlich vereinbarten Umfang wiedergeben, statt Unterstützung pauschal vorauszusetzen.
+
+### Termine und Preise anhand derselben Auswahl vergleichen
+
+Verwenden Sie beim Angebotsvergleich die ausgewählte Stückliste und denselben Stand der Packvorbereitung. Wird ein Teil selbst vorbereitet, sollte das in allen verglichenen Angeboten klar sein. Prüfen Sie, ob Abbau, Wiederaufbau, Nebenräume und gewünschte Packhilfe enthalten sind. Wer ausführt und wer am Ziel die Übergabe begleitet, sollte vor dem Termin feststehen.
+
+Über [Angebot anfragen](/angebot/) können Sie den Bestand und die benötigten Aufgaben beschreiben. Spätere Änderungen der Auswahl oder des Unterstützungsbedarfs gehören vor der Durchführung in die Abstimmung.

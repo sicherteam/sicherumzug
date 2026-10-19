@@ -1,33 +1,35 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
+last_modified_at: '2026-10-11'
 layout: service
-title: Full-Service Wohlfühl-Umzug
-description: 'Erleben Sie die neue Art der Übersiedlung in Österreich: Zurücklehnen,
-  entspannen und einziehen. Wir kümmern uns um jedes Detail Ihres Wohnungswechsels.'
+title: Komplettumzug mit mehr Unterstützung
+description: 'Umzug mit mehr Unterstützung in Wien: Einpackhilfe, Transport und Möbelmontage
+  nach Bedarf vereinbaren. Eigenleistungen und Übergabe gemeinsam planen.'
 kicker: Premium Service
 permalink: "/leistungen/wohlfuehl-umzug/"
-highlights:
-- 'Kein Fingerkrumm-Garantie: Wir packen alles!'
-- Inklusive Endreinigung und Behördenwege
-- Kuratierte Handwerks- und Montageservices
-checklist:
-- Persönlicher Umzugs-Concierge für die gesamte Planung
-- Kompletter Ein- und Auspackservice mit System
-- Demontage, Transport und schlüsselfertiger Aufbau
-- Räumung, Wertanrechnung und besenreine Übergabe der alten Wohnung
-faqs:
-- question: Muss ich am Umzugstag wirklich gar nichts tun?
-  answer: Korrekt. Sie übergeben uns morgens den Schlüssel und können entspannt einen
-    Kaffee trinken gehen. Abends betreten Sie Ihr neues Zuhause, in dem bereits alles
-    ausgepackt und aufgebaut ist.
-- question: Was ist der Unterschied zu einem normalen Umzug?
-  answer: Bei einem Standardumzug verpacken Sie meist selbst und wir transportieren.
-    Bei unserem Wohlfühl-Konzept übernehmen wir die gesamte Logistik, das Packen,
-    Handwerksarbeiten, Halteverbotszonen und die Reinigung – alles aus einer Hand.
 intent_primary: Umzug
 intent_secondary: Seniorenumzug
+enquiry_service: umzug
+seo_title: Full-Service-Umzug Wien | Einpacken, Transport & Montage
+service_type: Umzug mit mehr Unterstützung
+faqs:
+- question: Welche Aufgaben muss ich trotz umfassender Unterstützung selbst klären?
+  answer: Persönliche Auswahl, Dokumente, berechtigte Kontaktpersonen und bestätigter
+    Zugang bleiben nötig. Eigenleistungen und gewünschte Unterstützung werden im Angebot
+    getrennt beschrieben.
 ---
+Ein Komplettumzug bedeutet hier zusätzliche Unterstützung nach Vereinbarung, kein vorgegebenes Alles-inklusive-Paket. Nennen Sie die gewünschten Aufgaben pro Raum: Einpacken, Möbelabbau, Transport, Aufbau und gegebenenfalls weitere ausdrücklich angefragte Arbeiten.
 
-Vergessen Sie Kisten schleppen, Rückenschmerzen und organisatorisches Chaos. Der moderne Umzug ist kein Stressfaktor mehr, sondern der entspannte Start in einen neuen Lebensabschnitt.
+Erfassen Sie zugleich Ihre Eigenleistungen. Persönliche Dokumente, Wertsachen und Dinge für den ersten Tag bleiben separat. Am Ziel helfen bestätigter Zugang, verfügbare Stellplätze und ein Raumplan.
 
-Mit unserem **Full-Service Wohlfühl-Umzug** für Wien und ganz Österreich definieren wir das Thema Übersiedlung völlig neu. Wir verstehen uns nicht nur als Möbelpacker, sondern als Ihre persönlichen Logistik-Concierges. Von der Beschaffung des ersten Seidenpapiers bis zur präzisen Montage des letzten Bilderrahmens an der Wand – wir orchestrieren den gesamten Prozess. Genießen Sie die Vorfreude auf Ihr neues Heim, während wir im Hintergrund lautlos, diskret und voll versichert die Magie des perfekten Wohnungswechsels vollbringen.
+Das schriftliche Angebot sollte für jede Aufgabe erkennen lassen, wer sie übernimmt, welche Vorbereitung nötig ist und was nicht enthalten ist. Auspacken, Reinigung, Anschlussarbeiten und Räumung werden nicht stillschweigend vorausgesetzt.
+
+Wenn Sie nur einzelne Arbeitsschritte benötigen, vergleichen Sie [Verpackung](/leistungen/verpackungsservice/), [Transport](/leistungen/moebeltransport/) und [Montage](/leistungen/moebelmontage/).
+
+## Aufgaben je Raum
+
+| Phase | Benennen |
+| --- | --- |
+| Packen | Gegenstände, Material und Eigenleistung |
+| Möbel vorbereiten | Abbau und bekannte Besonderheiten |
+| Transport | Adressen, Zugänge und Stopps |
+| Ankommen | Zielraum, Aufbau und weitere angefragte Aufgaben |

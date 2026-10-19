@@ -1,80 +1,37 @@
 ---
 layout: guide
-title: "Kunst- & Antiquitätentransport Wien: Spezialverpackung"
-seo_title: "Kunst- & Antiquitätentransport Wien: Wertanrechnung"
-description: "Sicherer Kunst- & Antiquitätentransport in Wien: Spezialverpackung, Klimatransport, Gutachten & direkte Wertanrechnung bei Wohnungsräumungen."
-date: 2026-08-25 10:45:00 +0200
-last_modified_at: 2026-08-25T10:45:00+0200
-category: "Ratgeber"
-permalink: /ratgeber/kunst-antiquitaetentransport-wien-wertanrechnung/
-takeaways:
-  - "Gemälde, Skulpturen und Biedermeier-Möbel erfordern säurefreie Spezialverpackungen und erschütterungssichere Fixierung."
-  - "Bei Verlassenschaften und Räumungen bietet die direkte Wertanrechnung eine finanzielle Entlastung durch faire Gegenrechnung der Schätzwerte."
-  - "Umfassende All-Risk-Transportversicherungen schützen wertvolle Kunstgegenstände bis zum vollen Wiederbeschaffungswert."
-faqs:
-  - question: "Wie werden wertvolle Ölgemälde und Rahmen für den Transport geschützt?"
-    answer: "Ölgemälde werden zuerst in säurefreies Seidenpapier, danach in Stoß- und Feuchtigkeitsschutzhüllen (Tyvek/Luftpolsterfolie) gehüllt und in maßgefertigten Holzkisten oder Spezialkartons fixiert."
-  - question: "Wie funktioniert die Wertanrechnung bei Antiquitäten während einer Verlassenschaftsräumung?"
-    answer: "Unser Experte begutachtet die Antiquitäten vor Ort. Der vereinbarte Ankaufswert wird transparent von den Gesamtkosten der Wohnungs- oder Verlassenschaftsräumung abgezogen."
-  - question: "Sind Kunstgegenstände während des Transports voll versichert?"
-    answer: "Ja, für wertvolle Einzelstücke oder Sammlungen schließen wir eine gesonderte All-Risk-Kunsttransportversicherung ab, die Transportschäden zum vollen Schätzwert abdeckt."
-  - question: "Transportieren Sie auch besonders schwere Kunstgegenstände oder Tresore?"
-    answer: "Ja, unser Team verfügt über geschultes Personal und Spezialequipment (Kran, Transportschlitten, Gurte) für den fachgerechten Schwerguttransport in Wien."
+title: 'Kunst und Antiquitäten transportieren: Angaben vorbereiten'
+seo_title: 'Kunst und Antiquitäten transportieren: Angaben vorbereiten'
+description: 'Empfindliche und wertvolle Stücke für einen Transport beschreiben: Maße,
+  Oberfläche, Zustand und Verpackungsbedarf vorab klären.'
+date: 2026-08-25 10:45:00.000000000 +02:00
+last_modified_at: '2026-10-11'
+category: Ratgeber
+permalink: "/ratgeber/kunst-antiquitaetentransport-wien-wertanrechnung/"
+enquiry_service: umzug
+guide_group: Umzug vorbereiten
+editorial_image: art-preparation
+og_image: "/assets/images/editorial/kunsttransport-rahmen-kantenschutz.webp"
+og_image_alt: Gerahmtes Bild mit abnehmbaren Eckenschützern auf einer Schutzdecke.
+guide_topic: packen
+sources:
+- title: www.dorotheum.com – Informationen zum Thema
+  url: https://www.dorotheum.com/de/c/verkaufen-268/
+- title: www.wko.at – Informationen zum Thema
+  url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
 ---
+Beim Transport von Kunst oder Antiquitäten werden zuerst Objekt, Zustand und Weg erfasst. Die Entscheidung über Verkauf oder eine mögliche Anrechnung ist davon getrennt. Eine Wertvermutung beschreibt noch keine passende Verpackung.
 
-## Schnell-Überblick: Kunst- & Antiquitätentransport
+<!-- editorial-image -->
 
-| Element | Sicherheitsstandards & Service |
-| :--- | :--- |
-| **Verpackungsmaterial** | Säurefreies Seidenpapier, Tyvek-Klimafolie, Maßkisten |
-| **Fahrzeugausstattung** | Luftgefederte Transporter mit Verzurrsystemen |
-| **Schätzung & Verwertung**| Kostenlose Vor-Ort-Expertise & Wertanrechnung |
-| **Versicherungsschutz** | All-Risk-Wertsachenversicherung nach Schätzwert |
-| **Spezial-Dienstleister**| [Sicher Team Wertanrechnung & Spezialtransporte](/ratgeber/wertanrechnung-raeumung-wien/) |
+## Ein Objektblatt pro besonderem Stück
 
-**Wie werden Kunstgegenstände und Antiquitäten in Wien sicher transportiert?** Der Transport von wertvollen Ölgemälden, Skulpturen, Porzellan und antiken Möbeln erfordert spezialisiertes Verpackungsmaterial, klimatisierte Transportbedingungen sowie geschultes Personal. Werden im Rahmen einer Wohnungsauflösung oder Verlassenschaft wertvolle Objekte identifiziert, bietet [Sicher Team die direkte Wertanrechnung](/leistungen/verlassenschaft/) an: Der Wert der Antiquitäten wird sofort mit den Räumungskosten verrechnet.
+Notieren Sie Maße, bekanntes Material, lose Bestandteile und empfindliche Flächen. Halten Sie vorhandene Herkunftsangaben und Belege bereit; unbekannte Zuschreibungen bleiben offen. Dokumentieren Sie Gesamtansicht und erkennbare Schäden mit derselben Objektkennung. Verändern oder reinigen Sie das Stück nicht nur für die Anfrage.
 
----
+Messen Sie den vorgesehenen Zugangsweg einschließlich Wendungen und Zielplatz. Teilen Sie eine mögliche Zwischenlagerung mit. Schutzmaterial und Handhabung müssen zum konkreten Objekt passen; ein allgemeines Packverfahren reicht für jede Beschichtung oder Kunsttechnik nicht aus.
 
-## Die Kunst der Spezialverpackung
+## Bewertung ist ein eigener Weg
 
-Normale Umzugskartons reichen für historische Unikate nicht aus. Um Schäden an empfindlichen Oberflächen, Vergoldungen oder Leinwänden zu vermeiden, setzen wir auf mehrschichtige Verpackungssysteme:
+Das [Dorotheum](https://www.dorotheum.com/de/c/verkaufen-268/) beschreibt eine Bewertungs- und Verkaufsanfrage mit Fotos und möglicher Besichtigung. Dies ist keine automatische Bestätigung eines Anrechnungswerts im Räumungsauftrag. Für eine solche Anrechnung werden freigegebene Stücke und bestätigte Bedingungen separat aufgeführt.
 
-### 1. Säurefreies Seidenpapier & Tyvek®
-Gemälde und fragile Oberflächen dürfen nicht direkt mit Plastikfolie in Berührung kommen, da Weichmacher den Firnis oder Lack schädigen können. Eine primäre Schicht aus säurefreiem Seidenpapier schützt die Bildoberfläche.
-
-### 2. Ecken- und Kantenschutz
-Rahmen von Spiegeln und Gemälden erhalten passgenaue Schaumstoff- oder Kartonecken, um Stöße beim Ein- und Ausladen abzufangen.
-
-### 3. Maßgefertigte Holzverschläge (Crates)
-Für besonders wertvolle Exponate oder fragile Skulpturen fertigen wir individuell gepolsterte Transportkisten aus Holz an.
-
----
-
-## Wertanrechnung bei Verlassenschaften & Wohnungsauflösungen
-
-Besonders bei der Auflösung alter Wiener Altbauwohnungen oder nach Todesfällen in der Familie stehen Angehörige vor einer Fülle von Antiquitäten, Biedermeier-Schränken, Silberbesteck oder Gemälden.
-
-### So funktioniert der Wertanrechnungs-Prozess:
-
-1. **Begutachtung vor Ort:** Ein erfahrener Experte besichtigt den Haushalt und prüft die Verwertbarkeit der Objekte.
-2. **Transparente Wertermittlung:** Auf Basis aktueller Markt- und Auktionspreise wird ein fairer Ankaufspreis ermittelt.
-3. **Sofortige Gegenrechnung:** Der Wert der Gegenstände wird direkt im schriftlichen Fixpreis-Angebot gutgeschrieben. Übersteigt der Gegenwert die Räumungskosten, zahlen wir den Differenzbetrag direkt an Sie aus.
-
----
-
-## Sicherheit durch luftgefederte Transporter & All-Risk-Schutz
-
-Der Transport im Lkw erfolgt in speziell ausgerüsteten Fahrzeugen:
-
-* **Luftfederung:** Verhindert Erschütterungen bei der Fahrt über Kopfsteinpflaster in der Wiener Innenstadt.
-* **Gurt- und Sperrstangensysteme:** Jedes Kunstwerk wird individuell an den gepolsterten Innenwänden des Laderaums gesichert.
-* **Lückenlose Dokumentation:** Detaillierte Übergabeprotokolle dokumentieren den makellosen Zustand vor und nach dem Transport.
-
----
-
-## Fazit: Kunsttransport in professionellen Händen
-
-Gönnen Sie Ihren wertvollen Antiquitäten und Kunstschätzen die Aufmerksamkeit und Sicherheit, die sie verdienen. Mit der Kombination aus meisterhafter Verpackung und fairer Wertanrechnung sparen Sie bei einer Räumung bares Geld.
-
-Haben Sie Gemälde, Antikmöbel oder eine Verlassenschaft in Wien oder NÖ zu transportieren bzw. zu verwerten? [Fordern Sie jetzt Ihre kostenlose Expertise und Fixpreis-Angebot an](/angebot/)!
+Vor der Beauftragung klären Sie tatsächlichen Transporteur, Verpackungsverantwortung und Versicherungsbedingungen für Ihre Objekte. Die [WKO-Checkliste](https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden) bietet dazu Vertragsfragen. Sie belegt keine Kunsttransportqualifikation eines Betriebs. Restaurierung und fachliche Begutachtung werden unabhängig vom Möbeltransport organisiert.

@@ -1,55 +1,52 @@
-title: "Professioneller Umzug & Übersiedlung in Österreich | Sicher Team"
-brand_name: "Sicher Team"
-brand_ascii: "Sicher Team"
-description: "Sicher Team ist Ihr voll versicherter Partner für Umzug & Übersiedlung in ganz Österreich. 100% Fixpreis, All-Risk-Transportversicherung & geschultes Fachpersonal."
+---
+title: Umzug, Entrümpelung & Räumung | Sicher Team
+brand_name: Sicher Team
+brand_ascii: Sicher Team
+description: Sicher Team plant Privatumzüge und Firmenumzüge. Verpackung, Möbeltransport
+  und Montage nach Vereinbarung. Entrümpelung und Räumung ergänzen unser Angebot.
 lang: de-AT
-url: "https://sicher-umzug.at"
-canonical_base_url: "https://sicher-umzug.at"
-baseurl: ""
-
+url: https://sicher-umzug.at
+canonical_base_url: https://sicher-umzug.at
+baseurl: ''
 email: office@sicher-umzug.at
 phone: "+43 660 6060775"
-whatsapp: "https://wa.me/436606060775"
-
+whatsapp: https://wa.me/436606060775
 address:
-  street: "Wildgartenallee 1"
-  postal_code: "1120"
-  city: "Wien"
-  country: "AT"
-
+  street: Wildgartenallee 1
+  postal_code: '1120'
+  city: Wien
+  country: AT
 open_hours:
-  - days:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-    opens: "06:00"
-    closes: "23:00"
-
-logo: /logo.svg
-og_image: /assets/images/hero/desktop.avif
-og_image_alt: "Sicher Team im Einsatz"
-
+- days:
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+  - Saturday
+  - Sunday
+  opens: '06:00'
+  closes: '23:00'
+logo: "/assets/images/sicher-team-logo.svg"
+og_image: "/assets/images/moving/packing-warm.webp"
+og_image_alt: 3D-Illustration einer Wohnung mit geschützten Möbeln für den Umzug
 images:
-  hero_mobile: /assets/images/hero/mobile.avif
-  hero_desktop: /assets/images/hero/desktop.avif
+  hero_mobile: "/assets/images/hero/mobile.avif"
+  hero_desktop: "/assets/images/hero/desktop.avif"
   hero_mobile_srcset:
-    - url: /assets/images/hero/mobile-400w.avif
-      descriptor: "400w"
-    - url: /assets/images/hero/mobile-800w.avif
-      descriptor: "800w"
-    - url: /assets/images/hero/mobile.avif
-      descriptor: "1100w"
+  - url: "/assets/images/hero/mobile-400w.avif"
+    descriptor: 400w
+  - url: "/assets/images/hero/mobile-800w.avif"
+    descriptor: 800w
+  - url: "/assets/images/hero/mobile.avif"
+    descriptor: 1100w
   hero_desktop_srcset:
-    - url: /assets/images/hero/desktop-1200w.avif
-      descriptor: "1200w"
-    - url: /assets/images/hero/desktop-1440w.avif
-      descriptor: "1440w"
-    - url: /assets/images/hero/desktop.avif
-      descriptor: "1632w"
+  - url: "/assets/images/hero/desktop-1200w.avif"
+    descriptor: 1200w
+  - url: "/assets/images/hero/desktop-1440w.avif"
+    descriptor: 1440w
+  - url: "/assets/images/hero/desktop.avif"
+    descriptor: 1632w
   hero_dimensions:
     desktop:
       width: 1632
@@ -57,121 +54,129 @@ images:
     mobile:
       width: 1100
       height: 431
-  whatsapp: /WhatsApp.svg
-
+  whatsapp: "/WhatsApp.svg"
 collections:
   services:
     output: true
-    permalink: /leistungen/:name/
+    permalink: "/leistungen/:name/"
   districts:
     output: true
-    permalink: /leistungen/:name/
+    permalink: "/leistungen/:name/"
   guides:
     output: true
-    permalink: /ratgeber/:name/
+    permalink: "/ratgeber/:name/"
   states:
     output: true
-    permalink: /bundesland/:name/
-
-permalink: /:collection/:title/
-
+    permalink: "/bundesland/:name/"
+permalink: "/:collection/:title/"
 defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: service
-  - scope:
-      path: ""
-      type: "districts"
-    values:
-      layout: service
-  - scope:
-      path: ""
-      type: "guides"
-    values:
-      layout: guide
-      last_reviewed: 2026-02-09
-      intent_primary: informational
-      intent_secondary: local
-  - scope:
-      path: ""
-      type: "states"
-    values:
-      layout: state
-  - scope:
-      path: ""
-      type: "districts"
-    values:
-      local_logistics_note: "Wir planen Halteverbotszonen, Zufahrten und Tragewege je nach Objektlage transparent im Fixpreis."
-      micro_case: "Typische Projekte in diesem Gebiet starten mit Foto-Check, Besichtigung und schriftlichem Fixpreis."
-      proof_date: 2026-02-09
-
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: services
+  values:
+    layout: service
+- scope:
+    path: ''
+    type: districts
+  values:
+    layout: service
+- scope:
+    path: ''
+    type: guides
+  values:
+    layout: guide
+    intent_primary: informational
+    intent_secondary: local
+- scope:
+    path: ''
+    type: states
+  values:
+    layout: state
 plugins:
-  - jekyll-sitemap
-  - jekyll-include-cache
-
+- jekyll-sitemap
+- jekyll-include-cache
+- jekyll-redirect-from
 markdown: kramdown
-theme: null
+theme:
 sass:
   style: compressed
 future: true
-
 exclude:
-  - node_modules
-  - vendor
-  - sicherseo
-  - AGENTS.md
-  - .bundle
-  - .Jules
-  - home_desktop.png
-  - home_mobile.png
-  - archivumzug_desktop.png
-  - bewertungen_desktop.png
-  - bewertungen_mobile.png
-  - bundesland_index_desktop.png
-  - bundesland_index_mobile.png
-  - entruempelung_wien_desktop.png
-  - gratis_raeumung_desktop.png
-  - leistungen_index_desktop.png
-  - leistungen_index_mobile.png
-  - tirol_state_desktop.png
-  - tirol_state_mobile.png
-  - wien_state_desktop.png
-  - wohlfuehl_umzug_desktop.png
-  - wohlfuehl_umzug_mobile.png
-
+- _tests
+- .github
+- playwright-report
+- test-results
+- _config.preview.yml
+- node_modules
+- vendor
+- plans
+- AGENTS.md
+- README.md
+- package.json
+- package-lock.json
+- tailwind.config.js
+- postcss.config.js
+- Gemfile
+- Gemfile.lock
+- pnpm-lock.yaml
+- ".bundle"
+- docs
+- phase-*
+- report.md
+- plan.md
+- plan-draft.md
+- content-architecture-map.md
+- ui-ux-fix-plan.md
+- semantic-audit-report.md
+- consolidation-plan.md
+- test-routes.py
+- fix_report_and_links.rb
+- ".Jules"
+- home_desktop.png
+- home_mobile.png
+- archivumzug_desktop.png
+- bewertungen_desktop.png
+- bewertungen_mobile.png
+- bundesland_index_desktop.png
+- bundesland_index_mobile.png
+- entruempelung_wien_desktop.png
+- gratis_raeumung_desktop.png
+- leistungen_index_desktop.png
+- leistungen_index_mobile.png
+- tirol_state_desktop.png
+- tirol_state_mobile.png
+- wien_state_desktop.png
+- wohlfuehl_umzug_desktop.png
+- wohlfuehl_umzug_mobile.png
 include:
-  - _pages
-  - _redirects
-
-linkedin: ""
-instagram: ""
-
+- _headers
+- _pages
+- _redirects
+linkedin: ''
+instagram: ''
 local_business:
-  type: HomeAndConstructionBusiness
+  type: MovingCompany
   price_range: "€€"
   geo:
     latitude: 48.1633
     longitude: 16.3114
   service_area:
-    - Wien
-    - Niederösterreich
-    - Burgenland
-    - Steiermark
-    - Kärnten
-    - Oberösterreich
-    - Salzburg
-    - Tirol
-    - Vorarlberg
-
+  - Wien
+  - Niederösterreich
+  - Burgenland
+  - Steiermark
+  - Kärnten
+  - Oberösterreich
+  - Salzburg
+  - Tirol
+  - Vorarlberg
 social:
-  name: "Sicher Team"
+  name: Sicher Team
   links:
-    - https://www.facebook.com/profile.php?id=61582785665791
-    - https://www.instagram.com/sicherteam
+  - https://www.facebook.com/profile.php?id=61582785665791
+  - https://www.instagram.com/sicherteam

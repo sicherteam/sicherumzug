@@ -1,0 +1,94 @@
+- label: Umzugskosten-Rechner
+  url: /umzugskosten-rechner/
+  number: '01'
+  id: kosten
+  icon: calculator
+  category: costs
+  benefit: Kosten einordnen und eine nachvollziehbare Anfrage vorbereiten.
+  action: Kosten planen
+- label: Umzugskarton-Rechner
+  url: /umzugskarton-rechner/
+  number: '02'
+  id: kartons
+  icon: box
+  category: packing
+  benefit: Kartons und Verpackungsmaterial für Ihren Haushalt abschätzen.
+  action: Kartonbedarf schätzen
+- label: Persönlicher Umzugsplaner
+  url: /umzugsplaner/
+  number: '03'
+  id: planer
+  icon: calendar
+  category: documents
+  benefit: Aufgaben nach Ihrem Umzugstermin ordnen und abhaken.
+  action: Meinen Plan erstellen
+- label: Umzugsvolumen-Rechner
+  url: /umzugsvolumen-rechner/
+  number: '04'
+  id: volumen
+  icon: truck
+  category: packing
+  benefit: Möbel erfassen, Platzbedarf schätzen und die Liste weitergeben.
+  action: Möbel erfassen
+- label: Umzugsangebote vergleichen
+  url: /umzugsangebote-vergleichen/
+  number: '05'
+  id: vergleich
+  icon: quotes
+  category: costs
+  benefit: Gesamtpreise und enthaltene Leistungen Ihrer Angebote gegenüberstellen.
+  action: Angebote vergleichen
+- label: Selber umziehen oder Umzugsfirma?
+  url: /umzug-budget-vergleichen/
+  number: '06'
+  id: budget
+  icon: scales
+  category: costs
+  group: planning
+  benefit: Eigene Kosten, Firmenangebot und Aufwand mit tatsächlichen Beträgen vergleichen.
+  action: Budget vergleichen
+- label: Wohnungsübergabeprotokoll
+  url: /ratgeber/wohnungsuebergabeprotokoll-oesterreich-muster/
+  number: '07'
+  id: uebergabe
+  icon: document
+  category: documents
+  group: documents
+  benefit: Räume, Zähler und Schlüssel dokumentieren. Leere Vorlage oder eigenen Entwurf drucken.
+  action: Protokoll erstellen
+- label: Ladeplatz & Halteverbotszone
+  url: /ratgeber/halteverbotszone-umzug-oesterreich/
+  number: '08'
+  id: halteplatz
+  icon: parking
+  category: documents
+  group: documents
+  benefit: Standort wählen, örtliche Hinweise prüfen und Ihre Vorbereitungsliste erstellen.
+  action: Ladeplatz vorbereiten
+- label: Adressänderung-Checkliste
+  url: /adressaenderung-checkliste/
+  number: '09'
+  id: adressen
+  icon: mail
+  category: documents
+  group: documents
+  benefit: Passende Stellen auswählen, Aufgaben abhaken und Ihre Mitteilung vorbereiten.
+  action: Adressänderung planen
+- label: Umzugskarton-Etiketten
+  url: /umzugskarton-etiketten/
+  number: '10'
+  id: etiketten
+  icon: tag
+  category: packing
+  group: documents
+  benefit: Kartonnummern, Inhalte und Zielräume auf A4 drucken. Passende Raumschilder ergänzen.
+  action: Etiketten gestalten
+- label: Räumungs-Check
+  url: /raeumungs-check/
+  number: '11'
+  id: raeumungscheck
+  icon: clearance
+  category: clearance
+  group: clearance
+  benefit: Räumungsumfang erfassen und eine mögliche Wertanrechnung persönlich vorbereiten.
+  action: Räumung vorbereiten

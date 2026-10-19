@@ -1,0 +1,36 @@
+<div id="offers-tool">
+  <form id="offers-form" class="tool-form" novalidate>
+    <div class="tool-field">
+      <label for="offers-scope">Beziehen sich beide Angebote auf denselben Umzug und Leistungsumfang?</label>
+      <select id="offers-scope" name="scope"><option value="unknown">Noch nicht geprüft</option><option value="same">Ja, dieselbe Strecke, Menge und Leistungen</option><option value="different">Nein, der Umfang unterscheidet sich</option></select>
+    </div>
+    <div class="tool-grid">
+      {% assign offer_keys = 'a,b' | split: ',' %}
+      {% for offer in offer_keys %}
+      <fieldset><legend>Angebot {{ offer | upcase }}</legend><div class="tool-form">
+        <div class="tool-field"><label for="offer-{{ offer }}-amount">Angegebener Gesamtbetrag inkl. USt (€)</label><input id="offer-{{ offer }}-amount" name="{{ offer }}_amount" type="number" min="0" max="100000" step="0.01" inputmode="decimal" required aria-describedby="offer-{{ offer }}-amount-help"><small id="offer-{{ offer }}-amount-help">Bei Stundenabrechnung den kalkulierten Gesamtbetrag eingeben, nicht den Stundenpreis. Falls kein Gesamtbetrag vorliegt, zuerst nachfragen.</small></div>
+        <div class="tool-field"><label for="offer-{{ offer }}-type">Preisvereinbarung</label><select id="offer-{{ offer }}-type" name="{{ offer }}_type"><option value="unknown">Unklar</option><option value="fixed">Schriftlich vereinbarter Fixpreis</option><option value="hourly">Geschätzter Betrag bei Stundenabrechnung</option></select></div>
+        <div class="tool-field"><label for="offer-{{ offer }}-extras">Bekannte zusätzliche Kosten inkl. USt (€)</label><input id="offer-{{ offer }}-extras" name="{{ offer }}_extras" type="number" min="0" max="100000" step="0.01" inputmode="decimal" aria-describedby="offer-{{ offer }}-extras-help"><small id="offer-{{ offer }}-extras-help">Nur bereits bezifferte Kosten, die im Gesamtbetrag noch fehlen. Leer bedeutet „nicht eingetragen“, nicht „keine Zusatzkosten“.</small></div>
+        <details><summary>Leistungen &amp; Bedingungen prüfen <small>(optional)</small></summary><div class="tool-form">
+        {% assign feature_keys = 'transport,packing,assembly,material,parking' | split: ',' %}
+        {% assign feature_labels = 'Transport und Tragearbeiten,Ein- und Auspacken,Demontage und Montage,Verpackungsmaterial,Ladeplatz und Halteverbotsorganisation' | split: ',' %}
+        {% for feature in feature_keys %}
+        <div class="tool-field"><label for="offer-{{ offer }}-{{ feature }}">{{ feature_labels[forloop.index0] }}</label><select id="offer-{{ offer }}-{{ feature }}" name="{{ offer }}_{{ feature }}"><option value="unknown">Unklar / nicht angegeben</option><option value="included">Im Betrag enthalten</option><option value="excluded">Nicht im Betrag enthalten</option></select></div>
+        {% endfor %}
+        <div class="tool-field"><label for="offer-{{ offer }}-insurance">Haftung, Versicherung und Schadenmeldung</label><select id="offer-{{ offer }}-insurance" name="{{ offer }}_insurance"><option value="unknown">Unklar / nicht angegeben</option><option value="included">Bedingungen schriftlich erläutert</option><option value="excluded">Bedingungen nicht erläutert</option></select><small>Diese Angabe bestätigt keinen Versicherungsschutz. Umfang, Ausschlüsse und Vorgehen persönlich prüfen.</small></div>
+        </div></details>
+      </div></fieldset>
+      {% endfor %}
+    </div>
+    <p class="tool-note">Keine Firmennamen oder persönlichen Daten erforderlich. Alle Beträge selbst aus den Angeboten übernehmen. Dieses Tool bewertet keine Anbieterqualität.</p>
+    <p id="offers-error" class="tool-error" role="alert" hidden></p>
+    <div class="tool-actions"><button class="button" type="submit">Angebote vergleichen</button><button class="tool-secondary" type="reset">Zurücksetzen</button></div>
+  </form>
+  <div id="offers-result" class="tool-result" aria-live="polite" aria-atomic="true" hidden>
+    <h3>Ihre Angebote im Überblick</h3><p id="offers-difference"></p><p class="tool-note" id="offers-context"></p>
+    <div class="tool-table-wrap" tabindex="0" role="region" aria-label="Vergleich Ihrer Umzugsangebote"><table class="tool-comparison-table"><caption>Ihre eingegebenen Angaben</caption><thead><tr><th scope="col">Vergleichspunkt</th><th scope="col">Angebot A</th><th scope="col">Angebot B</th></tr></thead><tbody id="offers-table"></tbody></table></div>
+    <h3>Vor der Entscheidung klären</h3><ul id="offers-questions"></ul>
+    <div class="tool-actions"><a id="offers-enquiry" class="button" href="{{ '/angebot/?service=umzug#angebot-form' | relative_url }}">Vergleich als Anfrage mitnehmen</a><button id="offers-print" class="tool-secondary" type="button">Vergleich drucken</button></div>
+    <p class="tool-note">Die Übersicht ist eine Rechen- und Gesprächshilfe. Nicht bezifferte Leistungen werden nicht als kostenlos angenommen. Originalangebote und schriftliche Vereinbarungen bleiben maßgeblich.</p>
+  </div>
+</div>

@@ -1,0 +1,389 @@
+[
+  {
+    "id": "kosten",
+    "icon": "calculator",
+    "category": "costs",
+    "heading": "Umzugskosten-Rechner",
+    "kind": "intake",
+    "caption": "Beispiel: Kostenanfrage",
+    "rows": [
+      "Umfang",
+      "Zugang",
+      "Leistungen"
+    ],
+    "result": "Ihre Kostenanfrage",
+    "sample_note": "Ein Zahlenbereich ist nur für passende Wiener Referenzfälle verfügbar.",
+    "outcome": "Orientierung oder Kostenanfrage",
+    "steps": [
+      [
+        "Strecke und Haushalt angeben",
+        "Start, Ziel und Haushaltsgröße eintragen. Besondere Möbel und schwierige Zugänge ergänzen."
+      ],
+      [
+        "Gewünschte Hilfe auswählen",
+        "Einpacken, Montage und Ladeplatz berücksichtigen, damit der geplante Umfang zusammenpasst."
+      ],
+      [
+        "Ergebnis richtig einordnen",
+        "Die Orientierung ist kein verbindlicher Preis. Ihre Angaben helfen beim persönlichen Angebot."
+      ]
+    ],
+    "related": [
+      "volumen",
+      "kartons",
+      "vergleich"
+    ]
+  },
+  {
+    "id": "kartons",
+    "icon": "box",
+    "category": "packing",
+    "heading": "Umzugskarton-Rechner",
+    "kind": "metric",
+    "caption": "Beispielplanung",
+    "metric": "35–55 Kartons",
+    "context": "2 Personen · 3 Zimmer · 2 m Bücher",
+    "rows": [
+      "8–12 kleinere Bücherkartons",
+      "2–3 Rollen Packband à 50 m"
+    ],
+    "sample_note": "Bücherkartons sind in der Gesamtmenge enthalten. Modellannahmen, keine Materialbestellung.",
+    "outcome": "Karton- und Materialliste",
+    "steps": [
+      [
+        "Haushalt beschreiben",
+        "Personen, Wohnräume, volle Regale und Kücheninhalt berücksichtigen. Keller und Sammlungen separat prüfen."
+      ],
+      [
+        "Planungsspanne überprüfen",
+        "Bücherkartons sind Teil der Gesamtmenge. Vergleichen Sie den Ansatz mit einer Probepackung."
+      ],
+      [
+        "Materialliste mitnehmen",
+        "Als PDF sichern und mit Ihrer Möbelliste abstimmen. Spezialverpackungen zusätzlich besprechen."
+      ]
+    ],
+    "related": [
+      "volumen",
+      "etiketten",
+      "planer"
+    ]
+  },
+  {
+    "id": "planer",
+    "icon": "calendar",
+    "category": "documents",
+    "heading": "Umzugsplaner Österreich",
+    "kind": "timeline",
+    "caption": "Beispiel: Ihr Zeitplan",
+    "rows": [
+      "6 Wochen vorher|Angebote einholen",
+      "Umzugstag|Transport und Übergabe",
+      "Nach dem Einzug|Adressänderungen erledigen"
+    ],
+    "sample_note": "Ihr eigener Plan richtet sich nach dem eingetragenen Umzugstermin.",
+    "outcome": "Persönliche Umzugscheckliste",
+    "steps": [
+      [
+        "Umzugstermin festlegen",
+        "Ihr Datum bestimmt den Zeitplan. Kinder, Haustiere und ein eigenes Auto können Sie ergänzen."
+      ],
+      [
+        "Aufgaben passend bearbeiten",
+        "Gehen Sie die Liste durch und haken Sie Erledigtes ab. Prüfen Sie eigene Vertrags- und Behördenfristen."
+      ],
+      [
+        "Plan griffbereit halten",
+        "PDF herunterladen oder ausdrucken. Auf Wunsch speichern Sie Ihren Fortschritt ausdrücklich auf diesem Gerät."
+      ]
+    ],
+    "related": [
+      "kosten",
+      "adressen",
+      "uebergabe"
+    ]
+  },
+  {
+    "id": "volumen",
+    "icon": "truck",
+    "category": "packing",
+    "heading": "Umzugsvolumen-Rechner & Möbelliste",
+    "kind": "metric",
+    "caption": "Beispiel: Kleiner Möbeltransport",
+    "metric": "2,6–2,9 m³",
+    "context": "Geschätzter Platzbedarf mit Reserve",
+    "rows": [
+      "1 Zweisitzer",
+      "1 Tisch und 10 Kartons"
+    ],
+    "sample_note": "Orientierungsvolumen. Maße, Stapelbarkeit und Gewicht separat prüfen.",
+    "outcome": "Möbelliste mit Volumenspanne",
+    "steps": [
+      [
+        "Raum für Raum erfassen",
+        "Möbel und Kartons Ihrer Liste hinzufügen. Anzahl und besondere Stücke kontrollieren."
+      ],
+      [
+        "Platzbedarf prüfen",
+        "Richtwerte anpassen, wenn Ihre Möbel deutlich abweichen. Sperriges und Schweres gesondert beschreiben."
+      ],
+      [
+        "Liste für die Abstimmung nutzen",
+        "Inventar und Volumenspanne als PDF sichern. Daraus folgt noch keine Fahrzeug- oder Personalzusage."
+      ]
+    ],
+    "related": [
+      "kartons",
+      "kosten",
+      "planer"
+    ]
+  },
+  {
+    "id": "vergleich",
+    "icon": "quotes",
+    "category": "costs",
+    "heading": "Umzugsangebote vergleichen",
+    "kind": "comparison",
+    "caption": "Beispiel: Leistungen gegenüberstellen",
+    "columns": [
+      "Angebot A",
+      "Angebot B"
+    ],
+    "rows": [
+      "Transport|enthalten|enthalten",
+      "Montage|enthalten|offen",
+      "Material|offen|enthalten"
+    ],
+    "sample_note": "Musterangaben. Tragen Sie im Tool Ihre tatsächlichen Angebote ein.",
+    "outcome": "Angebotsvergleich mit offenen Fragen",
+    "steps": [
+      [
+        "Vorhandene Angebote übertragen",
+        "Gesamtbeträge, Umsatzsteuerstatus und Preisart aus den schriftlichen Angeboten eintragen."
+      ],
+      [
+        "Gleichen Umfang vergleichen",
+        "Transport, Montage, Material und mögliche Zusatzkosten gegenüberstellen. Unklare Angaben offen lassen."
+      ],
+      [
+        "Offene Fragen klären",
+        "Die Übersicht mitnehmen und fehlende Leistungen nachfragen, bevor Sie sich entscheiden."
+      ]
+    ],
+    "related": [
+      "kosten",
+      "budget",
+      "volumen"
+    ]
+  },
+  {
+    "id": "budget",
+    "icon": "scales",
+    "category": "costs",
+    "heading": "Selber umziehen oder Umzugsfirma?",
+    "kind": "comparison",
+    "caption": "Beispiel: Zwei Wege zum Umzug",
+    "columns": [
+      "Selbst organisiert",
+      "Umzugsfirma"
+    ],
+    "rows": [
+      "Fahrzeug|selbst buchen|Angebot prüfen",
+      "Material|selbst planen|Leistung prüfen",
+      "Zeit & Helfer|selbst organisieren|Umfang prüfen"
+    ],
+    "sample_note": "Eigene Beträge verwenden. Erstattbare Kautionen werden separat betrachtet.",
+    "outcome": "Budget- und Aufwandsvergleich",
+    "steps": [
+      [
+        "Eigene Ausgaben sammeln",
+        "Fahrzeug, Treibstoff, Material und weitere bekannte Kosten Ihrer Selbstorganisation erfassen."
+      ],
+      [
+        "Firmenangebot ergänzen",
+        "Den vorhandenen Angebotsbetrag eintragen und prüfen, welche Leistungen enthalten oder noch offen sind."
+      ],
+      [
+        "Geld und Aufwand abwägen",
+        "Bekannte Ausgaben, Kautionen und eigene Zeit getrennt ansehen. Fehlende Beträge zuerst klären."
+      ]
+    ],
+    "related": [
+      "vergleich",
+      "kosten",
+      "kartons"
+    ]
+  },
+  {
+    "id": "uebergabe",
+    "icon": "document",
+    "category": "documents",
+    "heading": "Wohnungsübergabeprotokoll Österreich",
+    "kind": "document",
+    "caption": "Beispiel: Ihr Übergabeprotokoll",
+    "result": "Wohnungsübergabe",
+    "rows": [
+      "Räume & Zustand",
+      "Zählerstände & Schlüssel",
+      "Offene Punkte & Unterschriften"
+    ],
+    "sample_note": "Als leere Vorlage oder ausgefüllter Entwurf. Angaben vor Ort gemeinsam prüfen.",
+    "outcome": "Leere Vorlage oder eigener Entwurf",
+    "steps": [
+      [
+        "Vorlage oder Entwurf wählen",
+        "Eine leere Vorlage erstellen oder Räume, Zähler und Schlüssel vorab aufnehmen."
+      ],
+      [
+        "Bei der Übergabe ergänzen",
+        "Zustand gemeinsam prüfen. Tatsächliche Messwerte und Anzahl der übergebenen Schlüssel eintragen."
+      ],
+      [
+        "Dokument gemeinsam prüfen",
+        "Offene Punkte festhalten, Ausdruck durchgehen und vereinbarte Unterschriften vor Ort ergänzen."
+      ]
+    ],
+    "related": [
+      "planer",
+      "adressen",
+      "halteplatz"
+    ]
+  },
+  {
+    "id": "halteplatz",
+    "icon": "parking",
+    "category": "documents",
+    "heading": "Halteverbotszone für Ihren Umzug",
+    "kind": "checklist",
+    "caption": "Beispiel: Ladeplatz vorbereiten",
+    "rows": [
+      "Start und Ziel getrennt prüfen",
+      "Örtliche Vorgaben nachlesen",
+      "Antrag und Schilder abstimmen"
+    ],
+    "sample_note": "Die Liste reserviert keinen Parkplatz und stellt keinen Behördenantrag.",
+    "outcome": "Ladeplatz-Vorbereitungsliste",
+    "steps": [
+      [
+        "Standort auswählen",
+        "Für Start und Ziel jeweils prüfen, wo das Fahrzeug laden kann und wie lang der Trageweg ist."
+      ],
+      [
+        "Örtliche Hinweise nachlesen",
+        "Die verlinkten offiziellen Informationen der zuständigen Stelle prüfen. Regeln unterscheiden sich je nach Ort."
+      ],
+      [
+        "Zuständigkeiten abstimmen",
+        "Klären, wer Antrag, Bewilligung und Schilder übernimmt. Die Liste dient Ihrer Vorbereitung."
+      ]
+    ],
+    "related": [
+      "planer",
+      "volumen",
+      "kosten"
+    ]
+  },
+  {
+    "id": "adressen",
+    "icon": "mail",
+    "category": "documents",
+    "heading": "Adressänderung-Checkliste",
+    "kind": "checklist",
+    "caption": "Beispiel: Ihre Adressänderungen",
+    "rows": [
+      "Bank und Versicherung",
+      "Strom, Gas und Internet",
+      "Arbeitgeber und Abonnements"
+    ],
+    "sample_note": "Die Liste passt sich Ihren Angaben an. Änderungen melden Sie selbst bei der jeweiligen Stelle.",
+    "outcome": "Checkliste und Nachrichtentext",
+    "steps": [
+      [
+        "Passende Stellen auswählen",
+        "Angeben, was zu Ihrem Haushalt gehört, etwa Auto, Arbeitgeber oder Abonnements."
+      ],
+      [
+        "Meldungen selbst erledigen",
+        "Die entstandene Liste durchgehen und Aufgaben abhaken. Fristen und Verfahren direkt bei der Stelle prüfen."
+      ],
+      [
+        "Nachricht vorbereiten",
+        "Ihren Mitteilungstext bearbeiten und selbst kopieren. Das Tool meldet Ihre Adresse nirgends automatisch."
+      ]
+    ],
+    "related": [
+      "planer",
+      "uebergabe",
+      "etiketten"
+    ]
+  },
+  {
+    "id": "etiketten",
+    "icon": "tag",
+    "category": "packing",
+    "heading": "Umzugskarton-Etiketten",
+    "kind": "label",
+    "caption": "Beispiel: Ihr Kartonetikett",
+    "result": "Küche",
+    "metric": "Karton 01",
+    "rows": [
+      "Gläser & Tassen",
+      "Zerbrechlich"
+    ],
+    "sample_note": "Eigene Zielräume und Inhalte ergänzen. A4-Etiketten und passende Raumschilder erstellen.",
+    "outcome": "A4-Etiketten und Raumschilder",
+    "steps": [
+      [
+        "Zielraum und Nummer angeben",
+        "Die Raumbezeichnung aus der neuen Wohnung verwenden. Eine Nummer hilft beim Wiederfinden."
+      ],
+      [
+        "Inhalt und Hinweise ergänzen",
+        "Kurz und eindeutig beschriften. Zerbrechliches sichtbar markieren und trotzdem passend schützen."
+      ],
+      [
+        "Etiketten und Raumschilder drucken",
+        "PDF herunterladen und Druckvorschau prüfen. Kartons auf mehreren sichtbaren Seiten kennzeichnen."
+      ]
+    ],
+    "related": [
+      "kartons",
+      "volumen",
+      "planer"
+    ]
+  },
+  {
+    "id": "raeumungscheck",
+    "icon": "clearance",
+    "category": "clearance",
+    "heading": "Räumungs-Check",
+    "kind": "checklist",
+    "caption": "Beispiel: Ihre Räumung vorbereiten",
+    "rows": [
+      "Was soll weg, was bleibt?",
+      "Zugänge und Übergabe klären",
+      "Wertanrechnung persönlich prüfen"
+    ],
+    "sample_note": "Keine automatische Bewertung, kein Preisversprechen und keine Zusage einer kostenlosen Räumung.",
+    "outcome": "Räumungsübersicht für die Anfrage",
+    "steps": [
+      [
+        "Umfang erfassen",
+        "Räume und Gegenstände beschreiben. Dinge, die bleiben oder mitziehen, klar davon trennen."
+      ],
+      [
+        "Zugänge und Wertfragen ergänzen",
+        "Stockwerk, Trageweg und besondere Stücke nennen. Eine Wertanrechnung braucht eine persönliche Prüfung."
+      ],
+      [
+        "Besichtigung vorbereiten",
+        "Die Zusammenfassung mitnehmen. Fotos sind optional; Umfang und Angebot werden persönlich abgestimmt."
+      ]
+    ],
+    "related": [
+      "volumen",
+      "uebergabe",
+      "planer"
+    ]
+  }
+]

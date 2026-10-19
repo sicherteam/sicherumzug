@@ -1,0 +1,15 @@
+primary:
+  title: Umzug & Übersiedlung
+  slugs: [privatumzug, firmenumzug-wien, umzug-wien, umzug-oesterreich, moebeltransport, moebelmontage, verpackungsservice, wohlfuehl-umzug, hausumzug, auslandsumzug]
+secondary:
+  title: Entrümpelung & Räumung
+  slugs: [entruempelung-wien, raeumung]
+additional:
+  - title: Besondere Transporte
+    slugs: [klaviertransport, tresortransport, spezialtransporte, archivumzug]
+  - title: Weitere Unterstützung beim Umzug
+    slugs: [seniorenumzug, studentenumzug, express-notdienst, premium-logistik]
+  - title: Räume und Objekte räumen
+    slugs: [kellerraeumung, dachbodenraeumung, garagenraeumung, zimmer-raeumung, wohnungsaufloesung, haushaltsaufloesung, haushaltsaufloesung-ueberblick, hausraeumung, wien-hausraeumung, verlassenschaft, messie-entruempelung, firmenaufloesung, gastronomie-raeumung, lagerraeumung, entruempelung, entruempelungsfirma]
+  - title: Wertanrechnung und Räumungskosten
+    slugs: [altwaren-ankauf, antiquitaeten-ankauf, moebel-ankauf, gratis-entruempelung, gratis-raeumung]

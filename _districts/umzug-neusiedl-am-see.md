@@ -1,65 +1,49 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-checklist:
-- Seehäuser und Ferienwohnungen entlang der Mole West, in Podersdorf, Weiden und Rust
-- Appartements und Häuser in Jois, Gols und dem Designer Outlet Parndorf
-- Lagerflächen, Surfschulen und Freizeitclubs rund um den Seewinkel
-- Weinkeller und landwirtschaftliche Betriebe in der Weinbauregion Neusiedlersee
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-hero_image: /topbg.webp
-highlights:
-- Spezialteams für Wochenendhäuser, Seehütten & Bootsanlagen
-- Feuchteschutz & fachgerechte Demontage von Außenbereichen
-- Kombinierte Wertanrechnung für Boote, Sportgeräte und Mobiliar
-- Logistikplanung mit Rücksicht auf Tourismus und Naturschutz
-kicker: Bezirk Neusiedl
-local_logistics_note: Für Projekte in Neusiedl am See koordinieren wir Vorlauf, Parkflächen
-  und Materialtrennung mit klaren Zeitfenstern.
-micro_case: 'Typischer Ablauf in Neusiedl am See: Foto-Check, Vor-Ort-Termin, schriftlicher
-  Fixpreis und Schlüsselfertige Übergabe im vereinbarten Fenster.'
-permalink: /leistungen/umzug-neusiedl-am-see/
-process:
-- description: Wir prüfen die Zufahrten zu Stegen und Ufergrundstücken und planen
-    den Einsatz von passendem, umweltschonendem Equipment.
-  title: Lage-Check & umweltschonende Planung
-- description: Terrassen, Bootsstege oder Außenküchen werden von uns fachgerecht demontiert
-    und sensible Uferzonen dabei geschützt.
-  title: Sorgfältige Demontage & Schutz
-- description: Unsere Teamgrößen und Fahrzeuge orientieren sich an den Gegebenheiten
-    vor Ort, um auch auf schmalen Wegen und Stegen sicher zu arbeiten.
-  title: Effiziente Übersiedlung & Transport
-- description: Wir arbeiten eng mit den Recyclinghöfen in Neusiedl und Parndorf zusammen
-    und koordinieren die finale Übergabe an Makler oder Käufer.
-  title: Regionale Übersiedlung & saubere Übergabe
-proof_date: 2026-02-09
-redirect_from:
-- /leistungen/haushaltsaufloesung-neusiedl-am-see/
-- /entruempelung-neusiedl-am-see/
-- /raeumung-neusiedl-am-see/
+last_modified_at: '2026-10-17'
+description: "Umzug in Neusiedl am See mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+kicker: Umzug & Übersiedlung
+permalink: "/leistungen/umzug-neusiedl-am-see/"
+redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: Umzug Neusiedl am See - Übersiedlung
+seo_title: "Umzug Neusiedl am See | Transport & Fixpreis | Sicher Team"
 service_type: Umzug
 state: burgenland
-title: Umzug Neusiedl am See
+title: Umzug in Neusiedl am See
+enquiry_service: umzug
+sources:
+- title: 'Neusiedl am See: Gemeindeeinrichtungen'
+  url: https://www.neusiedlamsee.at/stadtgemeinde/gemeindeeinrichtungen/
+faqs:
+- question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Neusiedl am See?
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+- question: Ist die komplette Dachbodenräumung eine kostenlose Haushaltsabgabe?
+  answer: Die Stadt führt größere Mengen wie vollständige Keller- oder Dachbodenräumungen
+    als kostenpflichtig. Klären Sie Material und Menge vorab und lassen Sie einen
+    beauftragten Abgabeweg separat bestätigen.
+- question: Wer muss die aussortierten Möbel zerlegen?
+  answer: Die örtliche Information nennt Sperrmüll und Holz als zerlegt. Für Ihren
+    Bestand klären Sie die Vorbereitung mit der Annahmestelle. Beauftragte Demontage
+    muss im Räumungs- oder Umzugsangebot ausdrücklich enthalten sein.
 ---
+Sicher Team transportiert Ihre Einrichtung in Neusiedl am See oder an Ihre neue Adresse außerhalb der Stadt. Packhilfe, Möbelabbau und Aufbau ergänzen den Transport nach Ihrem Bedarf. Die kostenlose Besichtigung bildet die Grundlage für unser schriftliches Fixpreisangebot.
 
-## Ferienobjekte und Saisonlogik im Bezirk Neusiedl am See
-In Neusiedl am See betreuen wir regelmässig Einsätze in Podersdorf, Weiden, Jois und Seewinkel-Lagen. Im Bezirk Neusiedl am See sind saisonale Nutzung und schwierige Uferzugänge typisch. Wir betreuen Ferienobjekte, Seehütten und gemischte Wohnflächen. Die Planung verbindet Transport über schmale Wege mit sauberer Materialtrennung.
+## Keller und Dachboden vor dem Packen durchgehen
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Gehen Sie jede genutzte Ebene durch und entscheiden Sie, was ins neue Zuhause kommt. Für Keller- und Dachbodenbestand beschreiben Sie auch den Zugang: zusätzliche Stiegen, niedrige Türen und den Weg zum Hauseingang. Empfindliche oder schwere Stücke nennen Sie einzeln.
 
-### Welche Logistik ist in Neusiedl am See typisch?
-Typisch sind in Neusiedl am See unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Umzug mit Demontage und sicherer Logistik](/leistungen/umzug-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Von der Abholung bis zum Aufbau
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Hausumzug mit Nebenflächen und Garten](/leistungen/hausraeumung/) und stützen die lokale Planung mit [Regionalübersicht für Burgenland](/ratgeber/burgenland-nord-standorte/). Den regionalen Rahmen finden Sie unter [Bundesland Burgenland](/bundesland/burgenland/).
+Wenn Sie Möbel verkaufen oder weitergeben, halten Sie den Abholtermin fest. Noch vorhandene Stücke bleiben bis zur Übergabe in Ihrer Übersicht. Soll unser Team einen Restbestand entfernen, planen wir diesen als eigene Aufgabe. Für mitgenommene Schränke oder Betten stimmen wir Demontage und Aufbau am Ziel ab.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für Neusiedl am See eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+## Was nicht mitkommt: örtliche Abgabemöglichkeiten
 
-### Ihr professioneller Umzug in Wien
+Die [Stadtgemeinde Neusiedl am See](https://www.neusiedlamsee.at/stadtgemeinde/gemeindeeinrichtungen/) nennt die Altstoffsammelstelle am Kalvarienberg beziehungsweise in der Triftgasse. Für die dort beschriebenen Haushaltsmengen ist ein Identitätsnachweis erforderlich; Sperrmüll und Holz werden als zerlegt bezeichnet. Größere Mengen, etwa aus kompletten Keller- oder Dachbodenräumungen, sowie gewerbliche und landwirtschaftliche Anlieferungen sind kostenpflichtig.
 
-Als Experten für [Umzug Wien](/leistungen/umzug-wien/) bieten wir Ihnen einen umfassenden Service. Von der ersten Besichtigung bis zur besenreinen Übergabe kümmern wir uns um jeden Schritt Ihrer Übersiedlung. Profitieren Sie von unserer Fixpreisgarantie, Transportversicherung und fachgerechten Montage.
+Wenn Sie selbst aussortierte Gegenstände abgeben möchten, klären Sie Material, Menge und Berechtigung mit der genannten Stelle. Für eine von uns übernommene [Räumung](/leistungen/raeumung/) vereinbaren wir den passenden Abgabeweg gesondert. Eine kommunale Haushaltsregel gilt für deren eigenen Zuständigkeitsbereich.
+
+## Ihr Angebot und die nächsten Schritte
+
+Senden Sie uns Start, Ziel, Möbelumfang und Wunschtermin. Fotos sind optional. Unser Fixpreis gilt für die im Angebot aufgeführten Arbeiten. Zusätzliche Wünsche und deren Preis besprechen wir vor der Ausführung mit Ihnen. Liegt ein vergleichbares schriftliches Angebot vor, erhalten Sie bei gleichen Bedingungen [5 % weniger](/preise/#preisgarantie).
+
+[Umzug in Neusiedl am See anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-neusiedl-am-see%2F#angebot-form) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)

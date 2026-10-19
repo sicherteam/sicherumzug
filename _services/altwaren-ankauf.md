@@ -1,73 +1,25 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-checklist:
-- Porzellan, Glas, Besteck & gut erhaltenes Geschirr
-- Bücher, Comics, Schallplatten, Kuriosa & Sammlungen
-- Vitrinen-Inhalte, Lampen, Deko mit Wiederverkaufswert
-description: Wir rechnen Altwaren, Sammlungen und Kuriosa als Teil unserer Entrümpelung
-  oder Räumung an. Keine Einzelabholung, Anrechnung direkt auf den Fixpreis.
-faqs:
-- answer: Nein. Es gibt keinen Einzelankauf und keine isolierte Abholung. Die Anrechnung
-    erfolgt nur, wenn wir auch die Entrümpelung oder Räumung durchführen.
-  question: Kaufen Sie Altwaren separat an?
-- answer: Porzellan, Glas, Bücher, Schallplatten, Lampen oder Sammlungen in gutem
-    Zustand. Stark beschädigte oder wertarme Ware wird regulär entsorgt.
-  question: Was wird angerechnet?
-- answer: Als Abzug auf den Räumungs-Fixpreis; auf Wunsch ist eine Teil-Auszahlung
-    beim Projektstart möglich.
-  question: Wie erfolgt die Bezahlung?
-- answer: Wien, Niederösterreich und Burgenland – immer gekoppelt an einen bestätigten
-    Entrümpelungs-, Räumungs- oder Verlassenschaftsauftrag.
-  question: In welchen Regionen?
-highlights:
-- Keine Einzelabholung – nur mit Entrümpelung/Räumung
-- Wertanrechnung für Sammlungen, Porzellan, Bücher
-- Gutschrift oder Teil-Auszahlung beim Projektstart
+last_modified_at: '2026-10-11'
+description: 'Altwaren bei einer Räumung prüfen lassen: Zustand, Umfang und mögliche
+  Wertanrechnung im Angebot klären. Fotos optional, kein separater Einzelankauf.'
 kicker: Wertanrechnung
 permalink: "/leistungen/altwaren-ankauf/"
-process:
-- description: Wir prüfen Zustand und Marktwert vorab und planen die Anrechnung im
-    Räumungsangebot.
-  title: Fotos & Liste senden
-- description: Vor Ort bewerten wir die Stücke und ziehen den Wert vom Räumungs-Fixpreis
-    ab.
-  title: Besichtigung + Fixpreis mit Anrechnung
-- description: Wir übernehmen Transport und Verwertung, der Wert wird gegengerechnet
-    oder anteilig ausbezahlt.
-  title: Räumung & Gutschrift
 schema_type: Service
-seo_title: Altwaren Ankauf Wien - Wertanrechnung & Barankauf
-service_type: Altwaren Wertanrechnung
-title: Altwaren Ankauf? Wertanrechnung nur mit Entrümpelung
+seo_title: Altwaren Wien | Wertanrechnung bei Entrümpelung
+service_type: 'Altwaren: Wertanrechnung bei einer Räumung'
+title: 'Altwaren: Wertanrechnung bei einer Räumung'
 intent_primary: Wertanrechnung
 intent_secondary: Altwaren Ankauf
+enquiry_service: entruempelung
+redirect_from:
+- "/leistungen/altwaren-ankauf-:region/"
+faqs:
+- question: Ist ein Einzelankauf von Altwaren möglich?
+  answer: Hier geht es um mögliche Wertanrechnung im Zusammenhang mit einer Räumung.
+    Ein separater Einzelankauf und ein bestimmter Gegenwert werden nicht zugesagt.
 ---
+Altwaren werden hier im Zusammenhang mit einer Räumung auf eine mögliche Wertanrechnung geprüft. Es handelt sich nicht um einen separaten Einzelankauf oder ein verbindliches Wertgutachten.
 
-## Wertanrechnung für Altwaren nur in Verbindung mit Entrümpelung & Räumung
+Beschreiben Sie Art, Menge, Zustand und vorhandenes Zubehör. Sammlungen und zusammengehörige Teile bleiben zugeordnet. Persönliche Stücke zum Behalten sind ausdrücklich ausgenommen. Nicht jeder alte Gegenstand hat einen Wiederverkaufswert.
 
-<figure class="my-8">
-  <img src="/topbg.webp" alt="Altwaren Ankauf und Wertanrechnung direkt vor Ort" class="w-full h-auto rounded-lg shadow-md" width="1200" height="600" loading="lazy">
-  <figcaption class="text-sm text-center text-gray-500 mt-2">Altwaren Ankauf und Wertanrechnung direkt vor Ort</figcaption>
-</figure>
-
-**Wichtig:** Wir bieten keinen separaten Altwaren-Ankauf. Eine Anrechnung erfolgt ausschließlich, wenn wir auch die Entrümpelung, Räumung oder Verlassenschaft durchführen.
-
-### Geeignete Altwaren & Sammlungen
-
-- Porzellan, Glas, Besteck in gutem Zustand
-- Bücher, Comics, Schallplatten, Vitrinen-Inhalte
-- Lampen, Deko, Kuriosa mit Wiederverkaufswert
-
-Nicht geeignet: stark beschädigte, unvollständige oder marktferne Stücke – diese entsorgen wir regulär.
-
-### So läuft die Altwaren-Wertanrechnung ab
-
-1. **Fotos & Liste senden** – per WhatsApp oder Formular für eine erste Einschätzung.
-2. **Besichtigung & Fixpreis** – wir bewerten alles vor Ort und rechnen den Wert auf den Räumungs-Fixpreis an.
-3. **Räumung & Gutschrift** – wir transportieren die Stücke ab, verwerten sie und verrechnen die Summe oder zahlen einen Teilbetrag aus.
-
-### Regionen
-
-Wien, Niederösterreich und Burgenland – immer gebündelt mit einem Entrümpelungs- oder Räumungsauftrag.
-
-**Nächster Schritt:** Fotos und kurze Liste schicken, Räumung nennen und Termin sichern. Sie erhalten einen Fixpreis inklusive Wertanrechnung.
+Das Räumungsangebot sollte freigegebene Stücke und bestätigte Anrechnung nachvollziehbar darstellen. Den allgemeinen Ablauf erklärt [Wertanrechnung](/ratgeber/wertanrechnung-guide/); für größere Einrichtung hilft [Möbel-Wertanrechnung](/leistungen/moebel-ankauf/).

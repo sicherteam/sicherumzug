@@ -14,11 +14,10 @@ contact:
   business_hours: "Mo-So: 06:00 - 23:00 Uhr"
 
 trust_signals:
-  experience_years: 15
-  successful_projects: 5000
-  insurance: "Vollversichert bis zu 1.000.000 EUR"
-  guarantee: "Festpreisgarantie ohne versteckte Kosten"
-  team: "Erfahrenes und fest angestelltes Fachpersonal"
+  consultation: "Kostenlose Besichtigung"
+  offer: "Schriftliches Angebot für den vereinbarten Umfang"
+  guarantee: "5 % Bestpreis-Garantie bei gleichem Umzug und gleichen Bedingungen"
+  contact: "Direkter Kontakt mit Sicher Team"
 
 core_services:
   - "Privatumzug"

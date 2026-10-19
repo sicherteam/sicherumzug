@@ -1,0 +1,6 @@
+{% unless page.url == '/impressum/' or page.url == '/datenschutz/' or page.url == '/angebot/' %}
+<aside class="information-context" aria-label="Verantwortung und Aktualität der Informationen"><div class="wrap">
+<p>Informationen von <a href="{{ '/ueber-uns/#redaktion' | relative_url }}">Redaktion Sicher Team</a>{% if page.last_modified_at and page.collection != 'guides' %} · Inhaltsstand: <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">{{ page.last_modified_at | date: '%d.%m.%Y' }}</time>{% endif %}</p>
+<nav aria-label="Inhalte und Rückfragen"><a href="{{ '/ueber-uns/#redaktion' | relative_url }}">Redaktion &amp; Quellen</a><a href="{{ '/kontakt/' | relative_url }}">Eine Angabe persönlich klären</a></nav>
+</div></aside>
+{% endunless %}

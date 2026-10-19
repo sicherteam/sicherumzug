@@ -1,40 +1,48 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
 layout: page
-title: "Ihr Weg zum perfekten Umzug"
-seo_title: "Umzug & Übersiedlung Ablauf Österreich | So läuft Ihr Umzug"
-description: "Der professionelle Umzugsprozess in vier transparenten Schritten – von der Volumenanalyse bis zur millimetergenauen Montage und schlüsselfertigen Übergabe."
-description_link_label: "Zum Kontaktformular"
-description_link_href: "#ablauf-form"
-kicker: "Ablauf"
-include_form: true
-form_anchor_id: "ablauf-form"
-permalink: /ablauf/
+title: Gut geplant. Gut angekommen.
+seo_title: 'Umzug: Ablauf, Besichtigung & Angebot | Sicher Team'
+description: Start und Ziel nennen, Umfang besprechen und ein schriftliches Angebot
+  erhalten. So planen wir Ihren Privatumzug oder Firmenumzug gemeinsam.
+permalink: "/ablauf/"
+last_modified_at: '2026-10-11'
 ---
-## Schritt 1: Volumen- & Bedarfsanalyse
+Eine Übersiedlung ist planbar, wenn Umfang, Zugang und Zuständigkeiten feststehen. Sicher Team plant und übernimmt Ihren Umzug. Wir besprechen Ihre Anfrage persönlich mit Ihnen. Wir halten die beauftragten Arbeiten und Ihren Ansprechpartner vor der verbindlichen Zusage fest.
 
-Sie rufen uns an oder füllen das Formular aus. Wir vereinbaren einen kurzfristigen Termin für eine kostenlose Besichtigung (vor Ort, per Video oder Foto-Check). Dabei ermitteln wir exakt das Umzugsvolumen (in Kubikmetern) und besprechen Ihre speziellen Anforderungen an Verpackung und Demontage – **komplett kostenlos und unverbindlich**.
+## 1. Start, Ziel und Aufgabe nennen
 
-## Schritt 2: Schriftliches Fixpreis-Angebot
+Nennen Sie beide Orte, Ihren Wunschtermin und die Möbel, die mitkommen. Für eine Räumung beschreiben Sie stattdessen das Objekt und den freigegebenen Bestand. Fotos sind optional. Etagen, Liftmaße und der Weg vom möglichen Ladeplatz bis zu den Räumen helfen bei der Einschätzung.
 
-Basierend auf der Volumenanalyse erhalten Sie ein detailliertes, bindendes Angebot für Ihren Umzug:
+Ein zusätzlicher Lagerstopp oder eine Abholung bei Angehörigen braucht eine eigene Adresse, eine zugeordnete Stückliste und einen Kontakt. Mit der [Vorbereitung Ihrer Kostenanfrage](/kostenanfrage-vorbereiten/) stellen Sie diese Angaben zusammen.
 
-- Garantierter Festpreis für Transport, Personal und All-Risk-Transportversicherung
-- Transparente Auflistung von Verpackungsmaterial und De-/Montageleistungen
-- Auf Wunsch: Optionales Angebot für eine ergänzende Räumung/Entrümpelung
+## 2. Besichtigung und Leistungen abstimmen
 
-## Schritt 3: Verpackung, Demontage & Sicherer Transport
+Bei der angebotenen kostenlosen Besichtigung werden Umfang und Zugänge besprochen. Legen Sie fest, wer Kartons packt, Material bereitstellt und Möbel vorbereitet. Demontage, Aufbau, Einpackhilfe und Räumung sind einzelne Aufgaben, die ausdrücklich zum Angebot gehören müssen.
 
-Am Umzugstag verpackt unser geschultes Fachpersonal Ihr Hab und Gut professionell. Wir demontieren Möbel fachgerecht und verladen alles sicher in unsere luftgefederten LKW. Ihr Inventar ist während des gesamten Transports durch unsere All-Risk-Versicherung optimal geschützt.
+Bei einer nötigen Ladezone klären Sie Antrag, Beschilderung und Kosten. Erfasst wird der Zugang an beiden Adressen. Technische Anschlussarbeiten oder besondere Transportgüter brauchen eine gesonderte Prüfung; sie werden nicht automatisch aus einer allgemeinen Möbeltransportanfrage abgeleitet.
 
-## Schritt 4: Montage & Schlüsselfertige Übergabe
+## 3. Unternehmen und schriftliches Angebot prüfen
 
-Am neuen Standort entladen wir Ihre Möbel und kümmern uns um die millimetergenaue Montage am Wunschplatz. Nach einem abschließenden Rundgang erfolgt die schlüsselfertige Übergabe. Erst wenn alles perfekt steht und Sie absolut zufrieden sind, ist unser Auftrag abgeschlossen.
+Vor der Beauftragung sollten folgende Angaben klar sein:
 
-## Wie lange dauert ein Umzug im Durchschnitt?
-Die Dauer hängt von Faktoren wie Distanz, Volumen und der gebuchten Leistung (De-/Montage) ab. Die meisten Standardumzüge innerhalb Wiens erledigen wir jedoch an einem einzigen Arbeitstag, sodass Sie abends bereits in Ihrer neuen Wohnung schlafen können.
+- Ihr Ansprechpartner bei Sicher Team und die Kontaktdaten.
+- Möbel, Kartons, Adressen, Stopps und gewünschte Zusatzarbeiten.
+- Vereinbarter Termin und bestätigte Gebäudezeiten.
+- Preisart, zu zahlender Gesamtbetrag und mögliche Zusatzkosten.
+- Haftungs- und Versicherungsbedingungen sowie Behandlung von Änderungen.
 
-## Was kostet ein professioneller Umzug?
-Nach der Volumenanalyse erhalten Sie von uns immer einen absoluten Fixpreis. Dies bedeutet, dass Sie im Voraus genau wissen, welche Kosten anfallen – ohne versteckte Aufschläge für Stockwerke, Wochenendeinsätze oder Verkehrsstaus.
+Der [Angebotsvergleich](/umzugsangebote-vergleichen/) hilft, unterschiedliche Umfänge zu erkennen. Eine abgesendete Anfrage ist noch keine Buchung.
 
-> **Bereit für Schritt 1?** Fordern Sie jetzt Ihr kostenloses Angebot für Ihren Umzug an und sichern Sie sich Ihren Wunschtermin.
+## 4. Abholung und Ankunft vorbereiten
+
+Kennzeichnen Sie Kartons nach Zielraum und halten Sie die vereinbarten Wege frei. Bestimmen Sie, wer am Start und am Ziel öffnet und Rückfragen beantwortet. Ein Schlüsseltermin, der noch offen ist, bleibt als offene Voraussetzung im Plan.
+
+Änderungen an Möbelmenge, Zieladresse oder Zugang teilen Sie vor der Durchführung mit. Persönliche Dokumente, Medikamente und Dinge für die erste Nacht nehmen Sie gesondert mit. Der [Umzugsplaner](/umzugsplaner/) verbindet Termine und Aufgaben.
+
+## 5. Übergabe und offene Punkte festhalten
+
+Prüfen Sie mit unserem Team, ob die vereinbarten Möbel im richtigen Raum stehen und die beauftragten Montagearbeiten erledigt sind. Halten Sie offene Arbeiten, zusätzliche Wünsche und erkennbare Schäden getrennt fest.
+
+Bei kombinierter Räumung kontrollieren Sie die Freigabeliste am alten Standort. Eine vereinbarte besenreine Übergabe bedeutet nicht automatisch Renovierung oder besondere Reinigung. Bewahren Sie Angebot, Bestandsliste und bestätigte Änderungen gemeinsam auf.
+
+[Unverbindlich anfragen](/angebot/#angebot-form) · [Kostenfaktoren](/preise/)

@@ -75,4 +75,4 @@ After adding/moving Markdown files or changing Jekyll config/layout behavior:
 
 ## Testing
 
-There is no automated testing suite set up for this project. Any changes should be manually tested by running the development server and verifying that the site builds and displays correctly.
+The isolated `_tests` package contains Playwright, axe and Lighthouse checks. Install with `npm --prefix _tests ci`, install Chromium with `cd _tests && npx playwright install chromium`, then run `npm run test:e2e` from the repository root. See `_tests/README.md`. Keep test artifacts and dependencies out of published output.

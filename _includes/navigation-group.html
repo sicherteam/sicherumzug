@@ -1,0 +1,19 @@
+{% if include.compact and include.kind == 'planning' %}
+<div class="nav-group-links"><p class="nav-group-label">Rechner</p><a href="{{ '/umzugskosten-rechner/' | relative_url }}">Umzugskosten-Rechner</a><a href="{{ '/umzugskarton-rechner/' | relative_url }}">Umzugskarton-Rechner</a><p class="nav-group-label">Vorbereitung</p><a href="{{ '/umzugsplaner/' | relative_url }}">Persönlicher Umzugsplaner</a><a class="nav-all" href="{{ '/umzug-planen/' | relative_url }}">Alle Umzugstools {% include ui-icon.html %}</a></div>
+{% elsif include.compact and include.kind == 'areas' %}
+<div class="nav-group-links"><p class="nav-group-label">Häufige Ziele</p>{% for item in site.data.site_navigation.areas limit:3 %}<a href="{{ item.url | relative_url }}">{{ item.navigation_label | default: item.label }}</a>{% endfor %}<a class="nav-all" href="{{ '/bezirke/' | relative_url }}">Alle Einsatzgebiete {% include ui-icon.html %}</a></div><p class="nav-coverage-note">Alle sieben Kerngebiete und weitere Strecken finden Sie in der Übersicht.</p>
+{% elsif include.kind == 'moving' %}
+  <div class="nav-group-links">
+    {% for item in site.data.site_navigation.moving %}<a href="{{ item.url | relative_url }}">{{ item.navigation_label | default: item.label }}</a>{% endfor %}
+    <a class="nav-all" href="{{ '/leistungen/' | relative_url }}">Alle Umzugsleistungen {% include ui-icon.html %}</a>
+  </div>
+{% elsif include.kind == 'planning' %}
+<div class="nav-planning-columns"><div class="nav-group-links"><p class="nav-group-label">Kosten &amp; Umzugsplanung</p><a href="{{ '/preise/' | relative_url }}">Preise &amp; Kostenfaktoren</a>{% for item in site.data.moving_tools %}{% unless item.group == 'documents' or item.group == 'clearance' %}<a href="{{ item.url | relative_url }}">{{ item.navigation_label | default: item.label }}</a>{% endunless %}{% endfor %}</div><div class="nav-group-links"><p class="nav-group-label">Dokumente &amp; Vorbereitung</p>{% for item in site.data.moving_tools %}{% if item.group == 'documents' %}<a href="{{ item.url | relative_url }}">{{ item.navigation_label | default: item.label }}</a>{% endif %}{% endfor %}<a href="{{ '/ablauf/' | relative_url }}">Ablauf einer Übersiedlung</a><a href="{{ '/raeumungs-check/' | relative_url }}">Räumung vorbereiten</a></div></div><a class="nav-all" href="{{ '/umzug-planen/' | relative_url }}">Alle Umzugstools {% include ui-icon.html %}</a>
+{% else %}
+  <div class="nav-area-columns">
+    <div class="nav-group-links"><p class="nav-group-label">Unsere Kerngebiete</p>{% for item in site.data.site_navigation.areas %}<a href="{{ item.url | relative_url }}">{{ item.navigation_label | default: item.label }}</a>{% endfor %}</div>
+    <div class="nav-group-links"><p class="nav-group-label">Weitere Städte &amp; Strecken</p>{% for item in site.data.site_navigation.cities %}<a href="{{ item.url | relative_url }}">{{ item.navigation_label | default: item.label }}</a>{% endfor %}</div>
+  </div>
+  <p class="nav-coverage-note">Weitere österreichische Strecken auf Anfrage.</p>
+  <a class="nav-all" href="{{ '/bezirke/' | relative_url }}">Alle Städte &amp; Bundesländer {% include ui-icon.html %}</a>
+{% endif %}

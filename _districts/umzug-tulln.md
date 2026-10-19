@@ -1,67 +1,48 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-checklist:
-- Altstadtwohnungen rund um Hauptplatz, Egon Schiele Museum und Minoritenplatz
-- Einfamilienhäuser und Reihenhäuser in Langenlebarn, Königstetten und Zeiselmauer
-- Ateliers, Büros und Lagerflächen im Tullner Hafen und im Technologiepark
-- Weinkeller und Heurigenbetriebe entlang der Tullner Weinstraße
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-hero_image: /topbg.webp
-highlights:
-- Kurze Anfahrt über S5 und B14 aus Wien sowie Partnerlager in St. Andrä-Wördern
-- Übersiedlung entlang der Donauufer mit Rücksicht auf Hochwasserschutz und Treppelwege
-- Wertanrechnung für Einfamilienhäuser, Ateliers und Heurigenbetriebe
-- Halteverbote, Ladezonen und Genehmigungen klären wir mit Stadt und Gemeinden
-kicker: Bezirk Tulln
-local_logistics_note: Für Projekte in Tulln koordinieren wir Vorlauf, Parkflächen
-  und Materialtrennung mit klaren Zeitfenstern.
-micro_case: 'Typischer Ablauf in Tulln: Foto-Check, Vor-Ort-Termin, schriftlicher
-  Fixpreis und Schlüsselfertige Übergabe im vereinbarten Fenster.'
-permalink: /leistungen/umzug-tulln/
-process:
-- description: Telefonisch oder per Foto-Upload. Termine im Großraum Wien/Tulln planen
-    wir oft binnen weniger Tage.
-  title: Schnelle Ersteinschätzung
-- description: Wir erfassen Aufwand, Zugänge und wertvolle Stücke. Der Fixpreis enthält
-    bereits Entsorgung und Wertanrechnung.
-  title: Gratis Erstbesichtigung & Fixpreis
-- description: Teams werden auf Treppelwege, schmale Gassen oder Hofzufahrten abgestimmt.
-    Schutzmaterial und Demontage sind inklusive.
-  title: Durchdachte Übersiedlung
-- description: Entsorgung über Altstoffsammelstellen Tulln, Langenlebarn oder private
-    Partner. Übergabe besenrein mit Protokoll.
-  title: Regionale Entsorgung & Übergabe
-proof_date: 2026-02-09
-redirect_from:
-- /leistungen/haushaltsaufloesung-tulln/
-- /entruempelung-tulln/
-- /raeumung-tulln/
+last_modified_at: '2026-10-17'
+description: "Umzug in Tulln mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+kicker: Umzug & Übersiedlung
+permalink: "/leistungen/umzug-tulln/"
+redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: Umzug Tulln - Übersiedlung & Wertanrechnung
+seo_title: "Umzug Tulln | Transport & Fixpreis | Sicher Team"
 service_type: Umzug
 state: niederoesterreich
-title: Umzug Tulln
+title: Umzug in Tulln
+enquiry_service: umzug
+sources:
+- title: 'Tulln: Abfallsammelzentrum'
+  url: https://www.tulln.at/rathaus-buergerservice/staedtische-einrichtungen/abfallsammelzentrum
+faqs:
+- question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Tulln?
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+- question: Welches Sammelzentrum nennt Tulln für Neuaigen, Mollersdorf und Trübensee?
+  answer: Die Stadt verweist für diese Katastralgemeinden auf das WSZ Absdorf. Prüfen
+    Sie zusätzlich die aktuellen Bedingungen für Ihr Material und Ihre Berechtigung.
+- question: Erlaubt die neue Karte auch die Abgabe aller Möbel?
+  answer: Die veröffentlichte Änderung zur eCard steht im Abschnitt Grünschnittplatz.
+    Für Möbel gelten die dafür vorgesehenen Annahmebedingungen; aus der Kartenänderung
+    folgt keine allgemeine Möbelannahme.
 ---
+Wir bringen Ihre Einrichtung nach, aus oder innerhalb von Tulln an die neue Adresse. Ob Wohnung, Haus oder zusätzliche Abholung: Sicher Team plant Transport, Verpackung und Möbelmontage mit Ihnen. Grundlage ist die kostenlose Besichtigung mit anschließendem schriftlichem Fixpreisangebot.
 
-## Tulln mit Donauzugang und Gartenobjekten
-In Tulln betreuen wir regelmässig Einsätze in Tulln Zentrum, Langenlebarn, Donaulände und Umlandlagen. In Tulln beeinflussen wassernahes Umfeld und Zufahrtsrechte die Einsatzplanung. Typisch sind Wohnungen, Häuser sowie gärtnerische Nebenflächen. Wir strukturieren Demontage, Transport und Flächenfreigabe in klaren Schritten.
+## Nebenräume und zusätzliche Stopps mitplanen
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Gehen Sie neben den Wohnräumen auch Keller, Garage und Garten durch. Gartenmöbel, Geräte und gelagerte Einrichtung zählen zum Transport, wenn sie mitkommen sollen. Geben Sie für einen weiteren Abholort die Gegenstände, eine Kontaktperson und das verfügbare Zeitfenster an.
 
-### Welche Logistik ist in Tulln typisch?
-Typisch sind in Tulln unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Umzug mit Demontage und sicherer Logistik](/leistungen/umzug-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Von der Abholung bis zum Aufbau
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Hausumzug mit Nebenflächen und Garten](/leistungen/hausraeumung/) und stützen die lokale Planung mit [Regionalübersicht für Niederösterreich](/ratgeber/niederoesterreich-umland-standorte/). Den regionalen Rahmen finden Sie unter [Bundesland Niederösterreich](/bundesland/niederoesterreich/).
+Nennen Sie den Ortsteil und den vollständigen Zugang, einschließlich Toren, Stufen und Lift. An der Zieladresse prüfen wir den Weg für die größten Stücke. Kartons mit Zielraum-Beschriftung und eine Liste der aufzubauenden Möbel erleichtern die Ankunft. Gewünschte Packhilfe nehmen wir bereits in das Angebot auf.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für Tulln eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+## Was nicht mitkommt: örtliche Abgabemöglichkeiten
 
-Gerade in Tulln zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+Die [Stadt Tulln](https://www.tulln.at/rathaus-buergerservice/staedtische-einrichtungen/abfallsammelzentrum) nennt das Abfallsammelzentrum beim Bauhof in der Maderspergerstraße 2; die Zufahrt erfolgt über die Kaplanstraße. Für Neuaigen, Mollersdorf und Trübensee verweist sie auf das Wertstoffsammelzentrum Absdorf. Ordnen Sie deshalb die Adresse zuerst der passenden kommunalen Information zu. Der Stadtname allein liefert noch keine vollständige Entscheidung für eine eigene Abgabe.
 
-### Ihr professioneller Umzug in Wien
+Wenn Sie selbst aussortierte Gegenstände abgeben möchten, klären Sie Material, Menge und Berechtigung mit der genannten Stelle. Für eine von uns übernommene [Räumung](/leistungen/raeumung/) vereinbaren wir den passenden Abgabeweg gesondert. Eine kommunale Haushaltsregel gilt für deren eigenen Zuständigkeitsbereich.
 
-Als Experten für [Umzug Wien](/leistungen/umzug-wien/) bieten wir Ihnen einen umfassenden Service. Von der ersten Besichtigung bis zur besenreinen Übergabe kümmern wir uns um jeden Schritt Ihrer Übersiedlung. Profitieren Sie von unserer Fixpreisgarantie, Transportversicherung und fachgerechten Montage.
+## Ihr Angebot und die nächsten Schritte
+
+Senden Sie uns Start, Ziel, Möbelumfang und Wunschtermin. Fotos sind optional. Unser Fixpreis gilt für die im Angebot aufgeführten Arbeiten. Zusätzliche Wünsche und deren Preis besprechen wir vor der Ausführung mit Ihnen. Liegt ein vergleichbares schriftliches Angebot vor, erhalten Sie bei gleichen Bedingungen [5 % weniger](/preise/#preisgarantie).
+
+[Umzug in Tulln anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-tulln%2F#angebot-form) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)

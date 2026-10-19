@@ -1,0 +1,30 @@
+/* WCAG 2.2 AA: distinguish fields, expose result focus, and allow room for fixed controls. */
+.clearance-site .quote-form input:not([type=file]),
+.clearance-site .quote-form select,
+.clearance-site .quote-form textarea,
+.clearance-site .tool-field input:not([type=checkbox]):not([type=radio]),
+.clearance-site .tool-field select,
+.clearance-site .tool-field textarea,
+.clearance-site .catalog-filter input,
+.clearance-site [data-city-search]{border-color:#7b879a}
+.clearance-site .tool-result:focus{outline:3px solid var(--ink);outline-offset:4px}
+.clearance-site :is(a,button,summary,input,select,textarea,[tabindex]):focus-visible{outline:3px solid var(--ink);outline-offset:3px;box-shadow:0 0 0 3px #fff}
+.clearance-site :is(button,summary){min-height:24px}
+html{scroll-padding-bottom:32px}
+.clearance-site :is(input,select,textarea,button,a,summary,[tabindex]){scroll-margin-block:calc(var(--header-h,94px) + 24px) 32px}
+@media(max-width:760px){html{scroll-padding-bottom:calc(112px + env(safe-area-inset-bottom))}.clearance-site :is(input,select,textarea,button,a,summary,[tabindex]){scroll-margin-bottom:calc(112px + env(safe-area-inset-bottom))}}
+@media(forced-colors:active){.clearance-site :focus,.clearance-site :focus-visible{outline:3px solid Highlight;box-shadow:none}.clearance-site :is(input,select,textarea){border-color:ButtonText}}
+@media print{.clearance-site .tool-result:focus{outline:none}}
+/* Long German headings and source names must reflow in a narrow reading column. */
+.clearance-site .document-body,
+.clearance-site .quote-preparation{overflow-wrap:anywhere;hyphens:auto}
+.clearance-site :is(h1,h2,h3,summary,a,button){overflow-wrap:anywhere;hyphens:auto}
+.clearance-site .guide-topic>summary>span:first-child{min-width:0}
+.clearance-site .service-directory-jumps a{max-width:100%;min-width:0}
+@media(max-width:760px){
+  .clearance-site .site-header-inner{gap:12px}
+  .clearance-site .site-header .brand{min-width:0;white-space:normal}
+  .clearance-site .site-header .brand span{min-width:0}
+  .clearance-site .site-header .brand .ui-icon{flex-shrink:0}
+  .clearance-site .moving-controls button{min-width:0;flex-wrap:wrap}
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de-AT">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weiterleitung | Sicher Team</title>
+  <link rel="canonical" href="{{ page.redirect.to | escape }}">
+  {% assign redirect_path = page.redirect.to | remove_first: site.url %}
+  <meta http-equiv="refresh" content="0; url={{ redirect_path | escape }}">
+  <meta name="robots" content="noindex, follow">
+  <script>location.replace({{ redirect_path | jsonify }});</script>
+</head>
+<body><h1>Weiterleitung</h1><p><a href="{{ redirect_path | escape }}">Zur gewünschten Seite</a></p></body>
+</html>

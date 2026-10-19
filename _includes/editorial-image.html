@@ -1,0 +1,6 @@
+{% assign editorial_asset = site.data.editorial_images[page.editorial_image] %}{% if editorial_asset %}
+<figure class="editorial-figure">
+  <img src="{{ editorial_asset.src | relative_url }}" srcset="{{ editorial_asset.src | replace: '.webp', '-480.webp' | relative_url }} 480w, {{ editorial_asset.src | replace: '.webp', '-800.webp' | relative_url }} 800w, {{ editorial_asset.src | relative_url }} 1536w" sizes="(max-width: 760px) calc(100vw - 82px), (max-width: 1000px) calc(100vw - 146px), (max-width: 1190px) calc(100vw - 516px), (max-width: 1440px) calc(100vw - 596px), 844px" width="1536" height="1024" loading="lazy" decoding="async" alt="{{ editorial_asset.alt | escape }}">
+  <figcaption>{{ page.editorial_caption | default: editorial_asset.caption | escape }}<span class="editorial-disclosure">Symbolbild · KI-generierte Illustration</span></figcaption>
+</figure>
+{% endif %}

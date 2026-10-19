@@ -1,0 +1,40 @@
+<div id="volumen-tool">
+  <form class="tool-form" id="volumen-form" novalidate>
+    <fieldset>
+      <legend>Möbel raumweise hinzufügen</legend>
+      <div class="tool-fields">
+        <div class="tool-field"><label for="volume-room">Raum oder Bereich</label><select id="volume-room"><option value="wohnen">Wohnzimmer</option><option value="schlafen">Schlafzimmer</option><option value="essen">Küche &amp; Esszimmer</option><option value="arbeiten">Arbeitszimmer</option><option value="neben">Keller &amp; Nebenräume</option></select></div>
+        <div class="tool-field"><label for="volume-item">Möbelstück</label><select id="volume-item"></select></div>
+        <div class="tool-field"><label for="volume-quantity">Anzahl</label><input id="volume-quantity" type="number" min="1" max="100" step="1" value="1" inputmode="numeric" required></div>
+      </div>
+      <button class="button button-outline" type="submit">Zur Möbelliste hinzufügen</button>
+    </fieldset>
+  </form>
+  <details class="tool-detail"><summary>Gegenstand mit eigenen Maßen ergänzen</summary>
+    <form class="tool-form" id="volume-custom-form" novalidate>
+      <div class="tool-fields">
+        <div class="tool-field"><label for="volume-custom-name">Bezeichnung</label><input id="volume-custom-name" type="text" maxlength="80" autocomplete="off" placeholder="z. B. zerlegtes Regal" required></div>
+        <div class="tool-field"><label for="volume-length">Länge in cm</label><input id="volume-length" type="number" min="1" max="1000" step="1" inputmode="decimal" required></div>
+        <div class="tool-field"><label for="volume-width">Breite in cm</label><input id="volume-width" type="number" min="1" max="1000" step="1" inputmode="decimal" required></div>
+        <div class="tool-field"><label for="volume-height">Höhe in cm</label><input id="volume-height" type="number" min="1" max="1000" step="1" inputmode="decimal" required></div>
+        <div class="tool-field"><label for="volume-custom-quantity">Anzahl</label><input id="volume-custom-quantity" type="number" min="1" max="100" step="1" value="1" inputmode="numeric" required></div>
+      </div>
+      <p class="tool-help">Verwenden Sie die äußeren Maße im Transportzustand, einschließlich Verpackung. Bei mehreren Einzelteilen jedes Paket getrennt ergänzen.</p>
+      <button class="button button-outline" type="submit">Eigenen Gegenstand hinzufügen</button>
+    </form>
+  </details>
+  <div class="tool-field"><label for="volume-cartons">Zusätzliche Umzugskartons</label><input id="volume-cartons" type="number" min="0" max="1000" step="1" value="0" inputmode="numeric"><p class="tool-help">Berechnet mit 0,08 m³ je Karton. Andere Kartongrößen können Sie mit eigenen Maßen ergänzen.</p></div>
+  <h3>Ihre Möbelliste</h3>
+  <p id="volume-empty">Noch keine Möbel erfasst. Beginnen Sie mit einem Raum oder geben Sie Ihre Kartonanzahl ein.</p>
+  <ul id="volume-inventory" class="tool-inventory" aria-label="Erfasste Möbel"></ul>
+  <p id="volume-message" class="tool-status" role="status" aria-live="polite"></p>
+  <div id="volume-result" class="tool-result" hidden aria-live="polite">
+    <h3>Geschätztes Umzugsvolumen</h3><p id="volume-range" class="tool-result-value"></p>
+    <p id="volume-base"></p><p>Der Bereich enthält 10 bis 20 % Planungsreserve. Er bestätigt weder die Fahrzeuggröße noch, dass jedes Stück durch Lift, Türen und Stiegen passt.</p>
+    <div class="tool-actions"><a id="volume-cost-link" class="button" href="{{ '/umzugskosten-rechner/' | relative_url }}">Volumen in Kostenplanung übernehmen</a><a id="volume-quote-link" class="button button-outline" href="{{ '/angebot/?service=umzug' | relative_url }}#angebot-form">Möbelliste für Angebot übernehmen</a><button id="volume-export" type="button" class="button button-outline">Möbelliste herunterladen</button></div>
+  </div>
+  <div class="tool-actions"><button id="volume-save" class="button button-outline" type="button">Auf diesem Gerät speichern</button></div>
+  <div class="tool-reset-row tool-no-print"><button id="volume-reset" class="tool-text-button" type="button">Liste zurücksetzen</button></div>
+  <p class="tool-help">Speichern ist freiwillig. Die Liste bleibt dann im Browser dieses Geräts, bis Sie sie zurücksetzen oder Browserdaten löschen. Ohne Speicherung wird sie beim Neuladen verworfen. Es werden keine Namen oder Adressen benötigt.</p>
+  <noscript><p>Für die interaktive Möbelliste benötigen Sie JavaScript. Alternativ notieren Sie Möbel, Kartons und Maße raumweise und <a href="{{ '/angebot/?service=umzug' | relative_url }}#angebot-form">senden uns Ihre Angaben für ein Angebot</a>.</p></noscript>
+</div>

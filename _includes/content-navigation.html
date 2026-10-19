@@ -1,0 +1,3 @@
+{% assign content_sections = content | split: '<h2 id="' %}{% if content_sections.size > 4 %}
+<details class="contents-nav"><summary>Inhalt dieser Seite</summary><nav aria-label="Inhalt dieser Seite">{% for section in content_sections offset:1 %}{% assign anchor = section | split: '"' | first %}{% assign heading = section | split: '</h2>' | first | split: '>' | slice: 1, 99 | join: '>' | strip_html %}<a href="#{{ anchor | escape }}">{{ heading }}</a>{% endfor %}</nav></details>
+{% endif %}

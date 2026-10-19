@@ -1,67 +1,49 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-checklist:
-- Wohnungen und Stadthäuser rund um Hauptplatz, Bahnstraße und Arena
-- Einfamilien- und Reihenhäuser in Bad Sauerbrunn, Walbersdorf und Mattersburg-Siedlungen
-- Werkstätten, Lager und Büros im Gewerbegebiet Pöttsching und entlang der S31
-- Presshäuser, Nebengebäude und Kellerräume in den Wein- und Obstregionen
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-hero_image: /topbg.webp
-highlights:
-- Schnelle Anfahrt über S31 und Mattersburger Schnellstraße
-- Erfahrung mit Reihenhäusern, Einfamilienhäusern und Gewerbeflächen
-- Wertanrechnung für Haushalte, Werkstätten und kleine Landwirtschaftsflächen
-- Koordination mit Altstoffsammelzentrum Pöttsching und regionalen Entsorgern
-kicker: Bezirk Mattersburg
-local_logistics_note: In Mattersburg kalkulieren wir Halteverbote, Transportstrecken
-  und Entsorgungswege transparent im Fixpreis.
-micro_case: 'Standardfall in Mattersburg: strukturierte Inventarsichtung, Fixpreisfreigabe
-  und Abschluss mit sauberer Übergabe an Eigentümer oder Verwaltung.'
-permalink: /leistungen/umzug-mattersburg/
-process:
-- description: Telefonisch oder per Foto. Dank S31 erreichen wir Termine oft binnen
-    weniger Tage.
-  title: Ersteinschätzung & Termin
-- description: Wir dokumentieren Aufwand, Zugänge und verwertbare Gegenstände. Fixpreis
-    inklusive Wertanrechnung.
-  title: Besichtigung & Fixpreis
-- description: Teams und Fahrzeuge werden auf enge Einfahrten oder Höhenbeschränkungen
-    abgestimmt. Schutzmaterial und Demontage sind eingeplant.
-  title: Geplante Übersiedlung
-- description: Entsorgung über Pöttsching und regionale Partner. Übergabe erfolgt
-    besenrein mit Protokoll.
-  title: Regionale Entsorgung & Übergabe
-proof_date: 2026-02-09
-redirect_from:
-- /leistungen/haushaltsaufloesung-mattersburg/
-- /entruempelung-mattersburg/
-- /raeumung-mattersburg/
+last_modified_at: '2026-10-17'
+description: "Umzug in Mattersburg mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+kicker: Umzug & Übersiedlung
+permalink: "/leistungen/umzug-mattersburg/"
+redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: Umzug Mattersburg - Übersiedlung & Wertanrechnung
+seo_title: "Umzug Mattersburg | Transport & Fixpreis | Sicher Team"
 service_type: Umzug
 state: burgenland
-title: Umzug Mattersburg
+title: Umzug in Mattersburg
+enquiry_service: umzug
+sources:
+- title: 'Mattersburg: Deponie und Sammelstellen'
+  url: https://mattersburg.gv.at/de/projekte-einrichtungen/deponie-sammelstellen/
+faqs:
+- question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Mattersburg?
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+- question: Ist die frühere Sammelstelle noch die richtige Orientierung?
+  answer: Die Stadt nennt seit Jänner 2026 den Ressourcenpark als neue Sammelstelle.
+    Grünschnitt und Erdaushub werden gesondert geführt. Prüfen Sie deshalb die aktuelle
+    Zuordnung für Ihr Material.
+- question: Ist dort jeder Abfall aus einem Haushalt kostenlos?
+  answer: Nein. Die Stadt unterscheidet kostenlose haushaltsübliche Wertstoff- beziehungsweise
+    Sperrmüllmengen und entgeltpflichtige Arten wie Reifen, Rest- und biogene Abfälle.
+    Menge und Annahme bleiben zusätzlich zu prüfen.
 ---
+Wir übernehmen Ihren Umzug in Mattersburg: Möbel tragen, Kartons transportieren und die gewünschte Verpackung und Montage erledigen. Sie wählen die Unterstützung, die zu Ihrem Haushalt passt. Nach der kostenlosen Besichtigung erhalten Sie ein schriftliches Fixpreisangebot.
 
-## Übersiedlungen im Bezirk Mattersburg mit klarer Materialtrennung
-In Mattersburg betreuen wir regelmässig Einsätze in Mattersburg, Pöttsching, Neudörfl und umliegende Ortslagen. Im Bezirk Mattersburg sind grossflächige Objekte und Nebengebäude häufig. Wir betreuen Einfamilienhäuser, Reihenhäuser und ehemalige Hofstrukturen. Die Planung richtet sich an Volumen, Materialmix und besenreiner Übergabe.
+## Mitgenommenen Bestand und aussortierte Dinge ordnen
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Beginnen Sie mit einer Raumliste der neuen Wohnung. Ordnen Sie Möbel und Kartons den Zielräumen zu und notieren Sie notwendige Demontagen. Was nicht mitkommt, führen Sie separat auf. Eine ergänzende Räumung können Sie mit uns zusammen mit dem Umzug besprechen.
 
-### Welche Logistik ist in Mattersburg typisch?
-Typisch sind in Mattersburg unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Umzug mit Demontage und sicherer Logistik](/leistungen/umzug-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Von der Abholung bis zum Aufbau
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Hausumzug mit Nebenflächen und Garten](/leistungen/hausraeumung/) und stützen die lokale Planung mit [Regionalübersicht für Burgenland](/ratgeber/burgenland-nord-standorte/). Den regionalen Rahmen finden Sie unter [Bundesland Burgenland](/bundesland/burgenland/).
+Für Abholung und Ankunft nehmen wir den Weg vom Möbel bis zum Ladeplatz auf. Teilen Sie uns enge Türen, Stufen, Liftmaße und Zugangszeiten mit. Wird eine zusätzliche Abholung benötigt, gehören Adresse und Bestand von Anfang an in die Planung. So passen Vorbereitung, Fahrt und Aufbau zusammen.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für Mattersburg eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+## Was nicht mitkommt: örtliche Abgabemöglichkeiten
 
-Gerade in Mattersburg zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+Die [Stadt Mattersburg](https://mattersburg.gv.at/de/projekte-einrichtungen/deponie-sammelstellen/) führt seit 7. Jänner 2026 den Ressourcenpark Mattersburg als neue Sammelstelle neben der früheren Altstoffsammelstelle Ried Stornpill. Wer noch einen älteren Hinweis zur bisherigen Einrichtung gespeichert hat, sollte Standort und Materialzuordnung neu prüfen. Die Grünschnitt- und Erdaushubstelle Ried Stornpill wird gesondert mit eigenen Zeiten geführt.
 
-### Ihr professioneller Umzug in Wien
+Wenn Sie selbst aussortierte Gegenstände abgeben möchten, klären Sie Material, Menge und Berechtigung mit der genannten Stelle. Für eine von uns übernommene [Räumung](/leistungen/raeumung/) vereinbaren wir den passenden Abgabeweg gesondert. Eine kommunale Haushaltsregel gilt für deren eigenen Zuständigkeitsbereich.
 
-Als Experten für [Umzug Wien](/leistungen/umzug-wien/) bieten wir Ihnen einen umfassenden Service. Von der ersten Besichtigung bis zur besenreinen Übergabe kümmern wir uns um jeden Schritt Ihrer Übersiedlung. Profitieren Sie von unserer Fixpreisgarantie, Transportversicherung und fachgerechten Montage.
+## Ihr Angebot und die nächsten Schritte
+
+Senden Sie uns Start, Ziel, Möbelumfang und Wunschtermin. Fotos sind optional. Unser Fixpreis gilt für die im Angebot aufgeführten Arbeiten. Zusätzliche Wünsche und deren Preis besprechen wir vor der Ausführung mit Ihnen. Liegt ein vergleichbares schriftliches Angebot vor, erhalten Sie bei gleichen Bedingungen [5 % weniger](/preise/#preisgarantie).
+
+[Umzug in Mattersburg anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-mattersburg%2F#angebot-form) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)

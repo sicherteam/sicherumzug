@@ -1,64 +1,40 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
+last_modified_at: '2026-10-11'
 layout: service
-title: "Seniorenumzug Wien & Österreich - Stressfrei ins Pflegeheim"
-seo_title: "Seniorenumzug Wien & Österreich - Stressfrei ins Pflegeheim"
-description: "Behutsamer Umzug für Senioren in Wien und Österreich. Wir bieten Einpackservice, Möbelmontage und die besenreine Räumung der alten Wohnung."
-kicker: "Für Senioren"
-permalink: /leistungen/seniorenumzug/
+title: Seniorenumzug persönlich planen
+seo_title: Seniorenumzug Wien | Übersiedlung & Haushaltsauflösung
+description: 'Seniorenumzug in Wien planen: vertraute Möbel auswählen, Zugänge und
+  Betreuungseinrichtung abstimmen. Haushaltsauflösung bei Bedarf getrennt anfragen.'
+kicker: Für Senioren
+permalink: "/leistungen/seniorenumzug/"
 intent_primary: transactional
 intent_secondary: informational
 schema_type: Service
-service_type: Seniorenumzug
-schema_price_from: 350
-schema_price_to: 3500
-schema_price_description: "Individueller Fixpreis basierend auf Volumen, Etage und gewünschten Zusatzleistungen (z.B. Einpackservice, Demontage)."
-highlights:
-  - "Einfühlsames, geschultes Personal"
-  - "Inklusive Ein- und Auspackservice"
-  - "Wertanrechnung bei Räumungen"
-checklist:
-  - "Kompletter Einpack- und Auspackservice"
-  - "Fachgerechte Demontage und Montage von Möbeln und Lampen"
-  - "Entrümpelung und besenreine Übergabe der alten Wohnung"
-  - "Koordination mit Seniorenresidenzen oder Pflegeheimen"
+service_type: Seniorenumzug persönlich planen
+enquiry_service: umzug
+editorial_image: senior-keepsakes
+og_image: "/assets/images/editorial/seniorenumzug-vertraute-dinge.webp"
+og_image_alt: Vertrauter Lesesessel mit Büchern, geschlossenem Fotoalbum und getrennt
+  gepackter Alltagstasche.
 faqs:
-  - question: "Kümmern Sie sich auch um den Aufbau am neuen Ort?"
-    answer: "Selbstverständlich. Bei einem Seniorenumzug bauen wir alle Möbel auf, hängen Lampen und Bilder auf und räumen das Geschirr in die Schränke, damit das neue Zuhause sofort wohnlich ist."
-  - question: "Was passiert mit Möbeln, die nicht mitgenommen werden?"
-    answer: "Gegenstände, für die im neuen, oft kleineren Zuhause kein Platz ist, entrümpeln wir fachgerecht. Gut erhaltene Möbel oder Antiquitäten verrechnen wir fair über unser Wertanrechnungssystem."
-  - question: "Was kostet ein Seniorenumzug in Wien?"
-    answer: "Die Kosten hängen vom genauen Aufwand ab. Wir bieten eine kostenlose Vor-Ort-Besichtigung an, nach der Sie einen transparenten Fixpreis ohne versteckte Kosten erhalten. Eine gleichzeitige [Haushaltsauflösung](/ratgeber/haushaltsaufloesung-todesfall/) kann die Kosten durch Wertanrechnung deutlich senken."
-  - question: "Müssen wir beim Umzugstag anwesend sein?"
-    answer: "Nein, Sie können uns vertrauensvoll die Schlüssel übergeben. Wir übernehmen den kompletten Ablauf bis zur schlüsselfertigen Übergabe im neuen Zuhause oder betreuten Wohnen."
+- question: Ist persönliche Betreuung Teil des Seniorenumzugs?
+  answer: Nein. Pflege, Begleitung und Betreuung werden unabhängig vom Möbeltransport
+    organisiert. Eine feste Kontaktperson kann Auswahl, Zugang und Zielraumzuordnung
+    abstimmen.
 ---
+Bei einem Seniorenumzug wird zuerst die neue Wohnsituation betrachtet: Welche vertrauten Möbel passen und welche persönlichen Dinge werden am ersten Tag gebraucht? Auswahl und Zielraum bestimmen den Transportbestand.
 
-## Behutsamer Seniorenumzug mit Full-Service
+<!-- editorial-image -->
 
-<figure class="my-8">
-  <img src="/topbg.webp" alt="Stressfreier Seniorenumzug mit Komplettservice" class="w-full h-auto rounded-lg shadow-md" width="1200" height="600" fetchpriority="high">
-  <figcaption class="text-sm text-center text-gray-500 mt-2">Stressfreier Seniorenumzug mit Komplettservice durch unser geschultes Fachpersonal</figcaption>
-</figure>
+## Vorbereitung
 
-Ein Umzug im Alter, sei es in eine kleinere Wohnung, zu Angehörigen oder in ein betreutes Wohnen bzw. Pflegeheim, ist ein großer emotionaler Schritt. Die körperliche Anstrengung und der organisatorische Stress sollten dabei nicht zur Belastung werden.
+- Zimmer und Möbelmaße abgleichen.
+- Vertraute Gegenstände auswählen; offene Entscheidungen ausnehmen.
+- Dokumente, Schlüssel und benötigte Medikamente griffbereit halten.
+- Einpackhilfe und Möbelmontage nach tatsächlichem Bedarf benennen.
+- Eine verantwortliche Kontaktperson festlegen.
+- Lieferzugang und Zeiten bei einer Einrichtung direkt bestätigen lassen.
 
-Unser All-Inclusive-Paket für **Seniorenumzüge in Wien und Österreich** nimmt Ihnen und Ihren Angehörigen alle Sorgen ab. Mit viel Empathie und über 15 Jahren Erfahrung kümmern wir uns um jeden Schritt: Vom sorgfältigen Einpacken Ihres Hausrats mit unserem Verpackungsservice, über den sicheren Transport bis hin zur schlüsselfertigen Einrichtung am neuen Wohnort.
+Angehörige können organisatorisch unterstützen. Pflege, persönliche Begleitung und Betreuung werden unabhängig vom Möbeltransport organisiert.
 
-### Enge Koordination mit Pflegeheimen und Seniorenresidenzen
-
-Ein reibungsloser Ablauf ist beim Einzug in eine Pflegeeinrichtung entscheidend. Wir übernehmen auf Wunsch die komplette Kommunikation und Terminabstimmung mit der Hausleitung der Seniorenresidenz oder des Pflegeheims. So stellen wir sicher, dass vorgegebene Einzugszeiten, Anlieferungszonen für unsere Möbelpacker und spezielle Richtlinien der Einrichtung strikt eingehalten werden. Für Sie oder Ihre Angehörigen entfällt der organisatorische Aufwand vollständig.
-
-### Was unseren Umzugsservice für Senioren besonders macht
-
-- **Alles aus einer Hand:** Vom Abbau der Schrankwand über das Aufhängen der Lampen bis zum Einräumen des Geschirrs.
-- **Kombination mit Entrümpelung:** Was nicht mit umziehen soll, wird von uns im Zuge einer [Wohnungsräumung](/leistungen/wohnungsaufloesung/) diskret geräumt und umweltgerecht entsorgt.
-- **Transparenz:** Wir arbeiten ausschließlich mit fairen Fixpreisen und Fixpreisgarantie – absolut ohne versteckte Nachzahlungen.
-
-### Der Ablauf Ihres Seniorenumzugs
-
-1. **Kostenlose Erstbesichtigung:** Wir nehmen uns Zeit, um Ihre Wünsche in Ruhe zu besprechen.
-2. **Detailplanung:** Wir koordinieren Termine bei Bedarf auch direkt mit der Hausverwaltung oder der Leitung der Seniorenresidenz.
-3. **Der Umzugstag:** Unser geschultes Team verpackt und transportiert alles mit höchster Sorgfalt.
-4. **Schlüsselfertige Übergabe:** Wir verlassen den Ort erst, wenn Sie sich in Ihrem neuen Zuhause rundum wohlfühlen.
-
-> **Sie suchen Unterstützung bei der Planung?** Lesen Sie auch unseren ausführlichen Ratgeber zur [Seniorenumzug Hilfe](/ratgeber/seniorenumzug-oesterreich-profi-hilfe/). Wir beraten Sie gerne unverbindlich!
+Zurückbleibende Bestände bekommen eine eigene Auswahl und Freigabe. Eine [Haushaltsauflösung](/leistungen/haushaltsaufloesung/) kann ergänzend angefragt werden. Im Auftrag sollte erkennbar sein, wer ausführt, welche Unterstützung vereinbart ist und wer am Ziel öffnet und abnimmt.

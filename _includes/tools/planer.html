@@ -1,0 +1,35 @@
+<form id="moving-planner" class="tool-form" data-moving-planner>
+  <div class="tool-field">
+    <label for="planner-date">Wann ist Ihr Umzug?</label>
+    <input type="date" id="planner-date" name="moving_date" required aria-describedby="planner-date-help">
+    <p id="planner-date-help" class="tool-help">Der Zeitplan richtet sich nach diesem Datum. Ein- und Auszug können davon abweichen.</p>
+  </div>
+  <fieldset class="tool-options">
+    <legend>Was sollen wir zusätzlich berücksichtigen?</legend>
+    <label><input type="checkbox" name="children"> Kinder im Haushalt</label>
+    <label><input type="checkbox" name="pets"> Haustiere</label>
+    <label><input type="checkbox" name="car"> Eigenes Auto</label>
+  </fieldset>
+  <button type="submit" class="button button-primary">Meinen Umzugsplan erstellen <span aria-hidden="true">→</span></button>
+  <noscript><p>Für Ihren persönlichen Zeitplan aktivieren Sie JavaScript. Die <a href="/ratgeber/umzugscheckliste-oesterreich/">Umzugscheckliste zum Lesen</a> funktioniert auch ohne JavaScript.</p></noscript>
+</form>
+<section id="planner-result" class="tool-result tool-printable" aria-labelledby="planner-result-title" hidden>
+  <div class="tool-result-heading">
+    <p class="tool-eyebrow">Ihr persönlicher Zeitplan</p>
+    <h2 id="planner-result-title">Ihr Umzug, Schritt für Schritt.</h2>
+    <p id="planner-summary" aria-live="polite"></p>
+    <p class="tool-help">Die Termine sind Planungsvorschläge. Vertragliche Fristen, Behördenwege und den tatsächlichen Einzug stimmen Sie gesondert ab. Aufgaben, die bereits anstehen, holen Sie möglichst bald nach.</p>
+  </div>
+  <p id="planner-progress" class="tool-progress" aria-live="polite"></p>
+  <div id="planner-tasks"></div>
+  <div class="tool-options tool-no-print">
+    <label><input type="checkbox" id="planner-save"> Fortschritt auf diesem Gerät speichern</label>
+    <p class="tool-help">Optional und nur in diesem Browser. Kein Konto erforderlich. Auf gemeinsam genutzten Geräten können andere Personen den Plan sehen. Die Speicherung erstellt keine Erinnerungen.</p>
+  </div>
+  <div class="tool-action-row tool-no-print">
+    <button type="button" id="planner-print" class="button button-secondary">Plan drucken / als PDF speichern</button>
+    <a id="planner-enquiry" class="button button-primary" href="/angebot/?service=umzug&amp;tool=planer#angebot-form">Umzug mit diesem Termin anfragen <span aria-hidden="true">→</span></a>
+    <button type="button" id="planner-reset" class="tool-text-button">Plan und gespeicherten Fortschritt löschen</button>
+  </div>
+</section>
+<p id="planner-status" class="tool-status" role="status"></p>

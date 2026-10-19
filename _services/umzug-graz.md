@@ -1,129 +1,55 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
+last_modified_at: '2026-10-17'
 layout: service
-title: "Umzug Graz | Günstige Übersiedlung in die Steiermark"
-seo_title: "Umzug Graz - Professionelle Umzugsfirma & Möbeltransport"
-description: "Professioneller Umzug in Graz und der gesamten Steiermark zum garantierten Fixpreis. Ihre zuverlässige Umzugsfirma für Privatumzug, Studenten und Firmen."
-kicker: "Privat & Gewerbe"
+title: Umzug nach oder aus Graz
+seo_title: Umzug Graz | Übersiedlung & Streckenplanung
+description: "Umzug nach oder aus Graz mit Sicher Team: Möbeltransport, Verpackung und Montage. Ladeweg und Übergaben planen, kostenloses Fixpreisangebot erhalten."
+kicker: Privat & Gewerbe
 intent_primary: transactional
 intent_secondary: local
-hero_kicker: "Graz & Steiermark"
-hero_image: /topbg.webp
-highlights:
-  - "Gratis Erstbesichtigung in Graz und Umgebung"
-  - "Schriftliche Fixpreisgarantie ohne versteckte Kosten"
-  - "Halteverbotszonen & Ladezonen-Einrichtung in der Grazer City"
-  - "Voll versichert mit Transportversicherung bis € 1.000.000"
-checklist:
-  - "Fernumzüge zwischen Wien, Graz und dem restlichen Österreich"
-  - "Studentenumzüge und WG-Übersiedlungen nahe den Universitäten"
-  - "Firmenumzüge und Büroumsiedlungen in den Grazer Gewerbeparks"
-  - "Kombinierte Übersiedlungen inklusive besenreiner Entrümpelung"
-process:
-  - title: "Kostenloser Foto-Check & Besichtigung"
-    description: "Senden Sie uns Fotos per WhatsApp oder vereinbaren Sie eine Besichtigung für eine präzise Aufwandsschätzung Ihres Graz-Umzugs."
-  - title: "Logistikplanung & Fixpreis"
-    description: "Wir klären Halteverbote in der Innenstadt oder den Hanglagen und bieten Ihnen eine schriftliche Fixpreisgarantie."
-  - title: "Transport & Demontage"
-    description: "Unser geschultes Personal demontiert Möbel fachgerecht, schützt empfindliches Inventar und verlädt es sicher."
-  - title: "Aufbau & Saubere Übergabe"
-    description: "Wir entladen, montieren Ihre Möbel in Graz und übergeben das alte Objekt auf Wunsch besenrein."
-faqs:
-  - question: "Was kostet ein Umzug von Wien nach Graz?"
-    answer: "Die Kosten für einen Fernumzug zwischen Wien und Graz hängen vom Volumen und den gebuchten Zusatzleistungen (Einpacken, Montage) ab. Dank unserer regelmäßigen Routen können wir Ihnen effiziente Beiladungen oder Komplettumzüge zum Fixpreis anbieten. Details finden Sie in unserem Ratgeber für Umzugskosten."
-  - question: "Organisieren Sie Halteverbotszonen in der Grazer Innenstadt?"
-    answer: "Ja, besonders rund um die Herrengasse oder das Univiertel sind Parkplätze für LKW Mangelware. Wir übernehmen die Beantragung und rechtzeitige Aufstellung der Halteverbotsschilder bei den Grazer Behörden."
-  - question: "Bieten Sie auch günstige Umzüge für Studenten in Graz an?"
-    answer: "Absolut! Graz ist eine große Universitätsstadt. Für Studenten bieten wir transparente und faire Fixpreise an, egal ob Sie innerhalb von Graz umziehen oder für das Studium aus einem anderen Bundesland in die Steiermark ziehen."
-  - question: "Bieten Sie auch die Entsorgung von Altmöbeln an?"
-    answer: "Ja! Wir verbinden Umzug und Entrümpelung. Möbel, die nicht mitgenommen werden, können wir fachgerecht entrümpeln und durch unsere Wertanrechnung (Wertausgleich) direkt gegenrechnen."
+hero_kicker: Graz & Steiermark
 schema_type: Service
-service_type: Umzug
-service_schema:
-  type: Service
-  name: "Umzug Graz - Sicher Team"
-  area_served: "Graz, Steiermark, Österreich"
-  phone: "{{ site.phone }}"
-  price_range: "€€"
-  url: "{{ site.url }}/leistungen/umzug-graz/"
-  same_as:
-    - "{{ site.url }}"
-    - "{{ site.instagram }}"
-    - "{{ site.facebook }}"
-schema_price_from: 300
-schema_price_to: 2800
-schema_price_description: "Individuelle Fixpreis-Kalkulation nach kostenloser Besichtigung oder Foto-Check."
-permalink: /leistungen/umzug-graz/
+service_type: Umzug nach oder aus Graz
+permalink: "/leistungen/umzug-graz/"
+enquiry_service: umzug
+sources:
+- title: 'Stadt Graz: Übersiedelungen und temporäre Verkehrsmaßnahmen'
+  url: https://www.graz.at/cms/beitrag/10023512/7755415/Baustellen_und_temporaere_Nutzungen.html
+- title: 'Stadt Graz: Ausnahmegenehmigungen'
+  url: https://www.graz.at/cms/beitrag/10211793/7932131/Sonstige_Ausnahmegenehmigungen.html
+faqs:
+- question: Wer ist in Graz für eine Verkehrsmaßnahme beim Umzug zuständig?
+  answer: Das Straßenamt führt temporäre Verordnungen für Übersiedelungen. Für Ausnahmen, etwa eine Zufahrt in eine Fußgängerzone, gibt es einen eigenen Antrag; dabei nennt die Stadt eine Kopie des Zulassungsscheins als Unterlage. Wir stimmen mit Ihnen ab, welche Maßnahme und welcher Ladeweg für Ihre Adresse benötigt werden.
+- question: Ist ein Büro in Graz vorhanden?
+  answer: Das Büro von Sicher Team befindet sich in Wien. Von dort planen wir Ihren Transport nach oder aus Graz. Ihren Umzugstermin und die Übergaben stimmen wir direkt mit Ihnen ab.
 ---
+Sicher Team übernimmt Ihren Umzug nach oder aus Graz. Ob ein Haushalt von Wien in die Steiermark zieht oder einzelne Möbel aus Graz abgeholt werden: Wir planen Transport, gewünschte Verpackung und Montage anhand Ihrer beiden Adressen. Unser Büro befindet sich in Wien; den möglichen Termin stimmen wir persönlich mit Ihnen ab.
 
-## Stressfreier Umzug in Graz: Ihre verlässliche Umzugsfirma für die Steiermark
+## Von Wien nach Graz: beide Übergaben zusammen planen
 
-Ein **Umzug in Graz** – der zweitgrößten Stadt Österreichs – stellt aufgrund der speziellen Topografie, der verwinkelten Innenstadt und der lebhaften Universitätsviertel besondere Anforderungen an die Planung und Durchführung. Ob Sie innerhalb der steirischen Hauptstadt übersiedeln oder einen Fernumzug von Wien nach Graz planen, Sie benötigen einen Partner, der die Logistik sicher im Griff hat.
+Bei einem Umzug zwischen Wien und Graz gehören Abholung, Fahrt und der Zugang am Ziel in einen gemeinsamen Zeitplan. Nennen Sie den bestätigten Schlüsseltermin und eine erreichbare Kontaktperson für beide Wohnungen. Falls die Zielwohnung erst später zugänglich wird, besprechen wir dies vor der Terminbestätigung.
 
-Das **Sicher Team** ist Ihre professionelle **Umzugsfirma** für Graz und das gesamte [Bundesland Steiermark](/bundesland/steiermark/). Wir bringen Erfahrung, Manpower und die richtige Ausrüstung mit, um Ihren Wohnortwechsel so reibungslos wie möglich zu gestalten – und das stets mit einer transparenten **Fixpreisgarantie**.
+Eine zusätzliche Abholung, etwa von eingelagerten Möbeln, erfassen wir als eigenen Stopp. So kann unser schriftliches Angebot dieselben Adressen, Gegenstände und Arbeiten enthalten, die am Umzugstag benötigt werden.
 
-**TL;DR / Kurzantwort:**
-Wir führen in Graz professionelle Umzüge für Studenten, Familien und Firmen durch. Wir kennen die Grazer Spezifika (Univiertel, historische Altstadt, Hanglagen) und organisieren Halteverbotszonen. Unsere Leistungen umfassen Transport, Montage und optional die Entsorgung von Altmöbeln. Sie profitieren von unserer Fixpreisgarantie und der All-Risk-Transportversicherung. [Holen Sie sich jetzt Ihr kostenloses Angebot](/angebot/).
+## Ladeweg und Zugang an Ihrer Grazer Adresse
 
-<figure class="my-8">
-  <img src="/topbg.webp" alt="Professioneller Möbeltransport und Umzugsservice in Graz und Umgebung" class="w-full h-auto rounded-lg shadow-md" width="1200" height="600" loading="lazy">
-  <figcaption class="text-sm text-center text-gray-500 mt-2">Wir sorgen für einen entspannten und termingerechten Umzug in ganz Graz.</figcaption>
-</figure>
+Entscheidend ist der tatsächliche Weg vom möglichen Ladeplatz bis in die Wohnung: Hauseingang, Innenhof, Stiegen und Lift zählen mit. Messen Sie bei großen Schränken nicht nur die Lifttür, sondern auch die Kabine und enge Durchgänge. Fotos sind hilfreich, aber optional.
 
-### Wer wir sind und unsere Umzugsdienstleistungen
+Eine verfügbare Parkmöglichkeit und eine zulässige Nutzung der Fläche sind getrennte Fragen. Falls eine Genehmigung geklärt werden muss, besprechen wir Zuständigkeit und Aufwand vorab. Das [Straßenamt Graz führt temporäre Verordnungen für Übersiedelungen](https://www.graz.at/cms/beitrag/10023512/7755415/Baustellen_und_temporaere_Nutzungen.html). Davon zu unterscheiden ist eine [Ausnahmegenehmigung](https://www.graz.at/cms/beitrag/10211793/7932131/Sonstige_Ausnahmegenehmigungen.html), etwa für die Zufahrt in eine Fußgängerzone oder auf einer Straße mit Gewichtsbeschränkung. Die Stadt nennt dafür eine Kopie des Zulassungsscheins als Unterlage.
 
-Das Sicher Team hat sich in ganz [Österreich](/leistungen/umzug-oesterreich/) als zuverlässiger Partner für Übersiedlungen etabliert. Wir decken mit unseren Dienstleistungen in Graz das komplette Spektrum ab:
+Für Ihre Planung halten wir Straßenabschnitt, Fahrzeug, Ladefläche und gewünschte Uhrzeit zusammen fest. Sagen Sie uns auch, ob Poller oder ein privates Tor den Zugang begrenzen. Wer den Antrag stellt und Verkehrszeichen organisiert, wird vor dem Termin abgestimmt. Eine Zufahrtserlaubnis und eine freigehaltene Ladefläche erfüllen unterschiedliche Zwecke; die Bewilligung entscheidet die zuständige Behörde.
 
-*   **Inter-City Relocations (z.B. Wien ↔ Graz):** Ein großer Teil unserer Aufträge umfasst Fernumzüge. Wir pendeln regelmäßig zwischen Wien und der Steiermark. Das bedeutet für Sie optimierte Routen, weniger Leerkilometer und faire Preise.
-*   **Studentenumzug:** Mit rund 60.000 Studierenden ist Graz eine junge Stadt. Wir bieten kostengünstige, verlässliche Lösungen für WG-Umzüge oder den Erstbezug des Studentenwohnheims.
-*   **Firmen- und Büroumzug:** Sie verlegen Ihr Büro in den Raiffeisen Corner oder ins Murpark-Umfeld? Wir garantieren kurze Ausfallzeiten und eine strukturierte Logistik für Ihr IT-Equipment und Büromöbel.
-*   **Privat- und Familienumzug:** Egal ob eine Etagenwohnung im Lendviertel oder ein Einfamilienhaus in Mariatrost.
-*   **Zusatzservices:** Wir verpacken Hausrat, demontieren Möbel fachgerecht und [bauen alles am neuen Standort wieder auf](/leistungen/moebelmontage/).
+## Was wir für Ihr Angebot brauchen
 
-### Warum ein Umzug in Graz einzigartig ist
+- Abhol- und Zieladresse, Etagen und Lift an beiden Orten.
+- Möbel- und Kartonliste sowie zusätzliche Abholungen.
+- Wunschtermin und bestätigte Zugangszeiten.
+- Gewünschte Einpackhilfe, Demontage und Montage.
 
-Die Murmetropole hat logistisch ihre ganz eigenen Herausforderungen. Eine standardisierte Herangehensweise reicht hier oft nicht aus.
+Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot. Zusätzliche Arbeiten und deren Preis besprechen wir vor der Ausführung mit Ihnen. Bereits ein schriftliches Vergleichsangebot vorhanden? Bei [demselben Umzug unter denselben Bedingungen](/preise/#preisgarantie) garantieren wir 5 % weniger.
 
-#### Topografie und Hanglagen
-Stadtteile wie Geidorf, Mariatrost oder Ries zeichnen sich durch hügeliges Terrain aus. Lange, steile Zufahrten oder Treppenanlagen zu den Häusern erfordern beim Möbeltransport viel Kraft und das richtige Equipment. Unser Team ist darauf trainiert, schwere und unhandliche Möbel auch unter diesen Bedingungen sicher zu verladen.
+## Nach dem Umzug in Graz
 
-#### Altstadt und Univiertel-Logistik
-Die historische Grazer Altstadt (Innere Stadt) und das belebte Univiertel sind bekannt für enge Gassen, Einbahnregelungen und notorischen Parkplatzmangel. Ohne eine behördlich genehmigte Halteverbotszone steht der LKW schnell Hunderte Meter entfernt. Wir kümmern uns im Vorfeld um die Genehmigung und die pünktliche Aufstellung der Halteverbotsschilder durch die Grazer Behörden, damit der Möbeltransport zügig und sicher vonstattengeht.
+Die Wohnsitzmeldung ist von Transport und Möbelmontage getrennt. Die [Stadt Graz informiert zur Wohnsitzanmeldung](https://www.graz.at/?cms_nearest=10022850). Klären Sie Ihre persönlichen Behördenwege direkt mit der zuständigen Stelle.
 
-### Der Ablauf Ihres Grazer Umzugs
-
-Transparenz und Planbarkeit stehen bei uns an erster Stelle. So funktioniert unser Service:
-
-1.  **Die Bedarfsanalyse:** Sie kontaktieren uns und senden uns unkompliziert Fotos per WhatsApp, oder wir führen eine kostenlose Besichtigung vor Ort in Graz durch.
-2.  **Das Angebot:** Sie erhalten von uns ein maßgeschneidertes Angebot mit einer absoluten Fixpreisgarantie.
-3.  **Die Planung:** Wir übernehmen die Beantragung der Halteverbotszone und organisieren auf Wunsch Umzugskartons. Zur besten Vorbereitung legen wir Ihnen unsere [Umzugs-Checkliste](/ratgeber/umzug-oesterreich-profi-guide/) ans Herz.
-4.  **Der Umzugstag:** Unser fest angestelltes und erfahrenes Team erscheint pünktlich. Wir verpacken sensibles Inventar, verladen alles effizient und fahren sicher zum neuen Standort.
-5.  **Ankunft & Montage:** Am Zielort laden wir aus, tragen die Kartons in die vorgesehenen Räume und montieren Ihre Möbel fachmännisch.
-
-### Umzug und Räumung clever kombinieren
-
-Oft passen alte Möbel nicht in die neue Grazer Wohnung oder man möchte sich neu einrichten. Wir bieten Ihnen die perfekte Kombination aus **Umzug** und **Entrümpelung**:
-Alle Gegenstände, die nicht mit übersiedeln sollen, werden von uns fachgerecht und umweltfreundlich in der Steiermark entsorgt. Besitzen Sie noch verwertbare Stücke (wie gut erhaltene Möbel, Technik oder Altwaren)? Durch unsere Wertanrechnung mindern wir direkt den Fixpreis für Ihren Umzug.
-
-### Was kostet eine Übersiedlung nach oder in Graz?
-
-Wir arbeiten nicht mit vagen Stundensätzen, die durch Verzögerungen im Stau teuer werden, sondern ausschließlich mit verbindlichen Fixpreisen. Die Kalkulation basiert auf:
-*   **Volumen:** Menge der Möbel und Kartons.
-*   **Distanz:** Findet der Umzug innerhalb von Graz statt oder ist es ein Fernumzug aus [unserem Hauptstandort in Wien](/leistungen/umzug-wien/)?
-*   **Logistik vor Ort:** In welchem Stockwerk befinden sich die Wohnungen? Gibt es einen Aufzug?
-*   **Services:** Haben Sie Einpack- und Montageservices hinzugebucht?
-
-Weitere Tipps zur Budgetierung finden Sie im Beitrag [Umzugskosten in Österreich sparen](/ratgeber/umzugskosten-oesterreich-sparen/).
-
-### Warum das Sicher Team?
-
-Als seriöse Umzugsfirma bieten wir Ihnen absolute Sicherheit:
-*   **Keine versteckten Kosten:** Ein Fixpreis ist bei uns ein Fixpreis.
-*   **Umfassend versichert:** Mit unserer All-Risk-Transportversicherung bis € 1.000.000 ist Ihr Hab und Gut gegen alle Eventualitäten abgesichert.
-*   **Qualifiziertes Personal:** Wir setzen ausschließlich auf erfahrenes, fest angestelltes Fachpersonal.
-
-### Starten Sie jetzt Ihre Anfrage
-
-Ein reibungsloser Umzug in Graz erfordert Vorlaufzeit. Kontaktieren Sie uns idealerweise 3-4 Wochen im Voraus, um die nötigen Halteverbote rechtzeitig organisieren zu können.
-
-> Lassen Sie uns die schwere Arbeit übernehmen. [Fordern Sie jetzt Ihr kostenloses Fixpreis-Angebot an](/angebot/) oder senden Sie uns unkompliziert eine Nachricht über [WhatsApp]({{ site.whatsapp }}), um direkt eine Ersteinschätzung zu erhalten.
+Für weitere Strecken lesen Sie [Umzug Steiermark](/bundesland/steiermark/), für Ihren Haushalt [Privatumzug](/leistungen/privatumzug/) und für einzelne Stücke [Möbeltransport](/leistungen/moebeltransport/). [Umzug nach oder aus Graz anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-graz%2F#angebot-form).

@@ -1,57 +1,52 @@
 ---
 layout: page
-title: "Umzugskosten & Fixpreis Rechner Österreich"
-seo_title: "Umzugskosten Rechner Wien | Kosten berechnen | Sicher Team"
-description: "Berechnen Sie Ihre Umzugskosten & Räumungskosten in Wien und Österreich online. Transparent, unverbindlich & mit 100% Fixpreis-Garantie."
-permalink: /umzugskosten-rechner/
+title: Kostenanfrage für Ihren Umzug vorbereiten
+seo_title: 'Umzugsangebot vorbereiten: Angaben & Checkliste | Sicher Team'
+description: Start, Ziel, Möbel und Zugänge für Ihre Umzugsanfrage zusammenstellen.
+  Praktische Vorbereitungsliste für ein nachvollziehbares Angebot.
+permalink: "/kostenanfrage-vorbereiten/"
+enquiry_service: umzug
+last_modified_at: '2026-10-11'
+redirect_from:
 ---
+Für ein vergleichbares Umzugsangebot brauchen Sie eine Bestandsliste, beide Zugänge und die gewünschten Arbeiten. Wohnfläche allein reicht nicht: Zwei gleich große Wohnungen können unterschiedliche Möbel, Kartons und Tragewege haben. Diese Seite hilft beim Zusammenstellen der Angaben.
 
-<section class="py-12 bg-slate-950 text-white">
-  <div class="container mx-auto px-4">
-    {% include calculator.html %}
-  </div>
-</section>
+## Start, Ziel und Termin
 
-<section class="py-16 bg-white">
-  <div class="container mx-auto px-4 max-w-4xl">
-    <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">Wie setzen sich Umzugskosten in Österreich zusammen?</h2>
-    <p class="mt-4 text-base text-gray-600 leading-relaxed">
-      Die Kosten für einen <a href="/leistungen/umzug-wien/" class="font-semibold text-orange-600 hover:underline">Umzug in Wien</a> oder eine Wohnungsräumung hängen von verschiedenen Einflussfaktoren ab. Mit unserem interaktiven <strong>Umzugskosten Rechner</strong> erhalten Sie in wenigen Klicks einen realistischen Richtwert für Ihre Übersiedlung. Weitere Details zu Preisspannen finden Sie in unserem Leitfaden über <a href="/ratgeber/umzugskosten-oesterreich-sparen/" class="font-semibold text-orange-600 hover:underline">Umzugskosten in Österreich</a> sowie auf unserer <a href="/preise/" class="font-semibold text-orange-600 hover:underline">Preise-Übersicht</a>.
-    </p>
+Notieren Sie beide Adressen sowie zusätzliche Abhol- oder Lieferstellen. Nennen Sie Ihren Wunschtermin und trennen Sie ihn von festen Fristen. Wichtig ist, ab wann die neue Wohnung zugänglich ist und wann die alte zurückgegeben werden muss.
 
-    <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
-      <div class="p-6 rounded-2xl bg-gray-50 border border-gray-100">
-        <h3 class="text-lg font-bold text-gray-900">1. Objektgröße &amp; Ladevolumen</h3>
-        <p class="mt-2 text-sm text-gray-600">Je mehr Quadratmeter und Kisten transportiert werden müssen, desto größer muss der Lkw gewählt werden und desto mehr Möbelpacker sind im Einsatz.</p>
-      </div>
+## Inventar Raum für Raum
 
-      <div class="p-6 rounded-2xl bg-gray-50 border border-gray-100">
-        <h3 class="text-lg font-bold text-gray-900">2. Stockwerk &amp; Aufzug</h3>
-        <p class="mt-2 text-sm text-gray-600">Wiener Altbauten ohne Lift erfordern längere Tragezeiten. Hier zahlt sich ein möglicher <a href="/ratgeber/umzugsaufzug-moebellift-mieten-wien-stvo/" class="font-semibold text-orange-600 hover:underline">Fassadenaufzug / Möbellift</a> aus.</p>
-      </div>
+Erfassen Sie Möbel mit Stückzahl und großen Maßen. Zählen Sie Kartons ungefähr nach Büchern, Kleidung, Küche und übrigen Dingen. Keller, Dachboden, Garage und extern gelagerte Möbel brauchen eigene Einträge. Kennzeichnen Sie empfindliche, schwere oder nicht zerlegbare Stücke.
 
-      <div class="p-6 rounded-2xl bg-gray-50 border border-gray-100">
-        <h3 class="text-lg font-bold text-gray-900">3. Zusatzleistungen</h3>
-        <p class="mt-2 text-sm text-gray-600">Spezialservices wie professionelle De- und Remontage, Einpackservice oder das Einrichten von <a href="/ratgeber/halteverbotszone-umzug-oesterreich/" class="font-semibold text-orange-600 hover:underline">Halteverbotszonen</a> erhöhen den Komfort.</p>
-      </div>
+Mit der [Möbelliste und Volumenplanung](/umzugsvolumen-rechner/) können Sie Gegenstände sammeln. Die Volumenwerte sind Planungsansätze, keine Zusage einer bestimmten Fahrzeuggröße.
 
-      <div class="p-6 rounded-2xl bg-gray-50 border border-gray-100">
-        <h3 class="text-lg font-bold text-gray-900">4. Wertanrechnung</h3>
-        <p class="mt-2 text-sm text-gray-600">Bei kombinierten Entrümpelungen ziehen wir den Wert gut erhaltener Altwaren und Antiquitäten direkt von den Gesamtkosten ab (<a href="/ratgeber/wertanrechnung-guide/" class="font-semibold text-orange-600 hover:underline">Wertanrechnung Guide</a>).</p>
-      </div>
-    </div>
+## Zugang an beiden Adressen
 
-    <div class="mt-12 p-8 rounded-3xl bg-slate-900 text-white text-center">
-      <h3 class="text-2xl font-bold">Bevorzugen Sie ein persönliches Fixpreis-Angebot?</h3>
-      <p class="mt-2 text-sm text-slate-300">Senden Sie uns Fotos oder vereinbaren Sie eine kostenlose Besichtigung vor Ort.</p>
-      <div class="mt-6 flex flex-wrap justify-center gap-4">
-        <a href="/angebot/" class="inline-flex items-center gap-2 rounded-full bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 font-bold text-sm transition">
-          Kostenloses Angebot anfordern
-        </a>
-        <a href="tel:+436606060775" class="inline-flex items-center gap-2 rounded-full border border-slate-700 hover:bg-slate-800 text-white px-6 py-3 font-bold text-sm transition">
-          📞 +43 660 6060775
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
+| Angabe | Was Sie notieren |
+| --- | --- |
+| Etage und Stufen | Stockwerk und zusätzliche Stufen bis zum Raum |
+| Lift | Türöffnung, nutzbare Innenmaße und Hausregeln |
+| Engstellen | Türbreite, Stiegenwendungen, Hof- und Kellerzugänge |
+| Ladeweg | Entfernung vom möglichen Fahrzeugstandort zum Eingang |
+| Kontakt | Wer öffnet und nimmt am Ziel entgegen? |
+
+Eine unbekannte Liftgröße bleibt ein offener Punkt. Beschreiben Sie die Bedingungen, statt die Eignung eines Fahrzeugs oder einer Transportmethode vorauszusetzen.
+
+## Gewünschte Arbeiten und Eigenleistung
+
+Halten Sie fest, was Sie selbst packen und welche Einpackhilfe Sie wünschen. Nennen Sie abzubauende Möbel und den gewünschten Aufbau am Ziel. Materialbereitstellung, technische Anschlüsse, Zwischenlagerung und zusätzliche Räumung sind eigene Fragen.
+
+Für Gegenstände, die entfernt werden sollen, führen Sie eine getrennte Freigabeliste. Das verhindert, dass Transportgut und Räumungsbestand verwechselt werden.
+
+## Beispiel einer Anfrage
+
+**Gedachtes Beispiel:** „Abholung einer Zweizimmerwohnung im dritten Stock ohne Lift; Ziel im ersten Stock mit Lift. Bett und Schrank sollen abgebaut und am Ziel montiert werden. Kartons packe ich selbst. Kellerregal und Bücher kommen mit.“
+
+Ergänzen Sie Adressen, Möbelmaße, Kartonzahl, Ladewege und bestätigte Schlüsselzeiten. Dieses Beispiel zeigt die benötigten Angaben und ist keine Kundenreferenz oder Preisberechnung.
+
+## Dieselbe Liste für den Angebotsvergleich
+
+Geben Sie denselben Stand an alle angefragten Unternehmen. Teilen Sie spätere Änderungen mit. Prüfen Sie, ob Vertragspartner, ausführendes Unternehmen, Transportgut, Zugänge und Zusatzarbeiten im schriftlichen Angebot erkennbar sind.
+
+[Anfrage mit Ihren Angaben senden](/angebot/?service=umzug&from=%2Fkostenanfrage-vorbereiten%2F#angebot-form) · [Kostenpositionen verstehen](/preise/) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)

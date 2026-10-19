@@ -55,42 +55,15 @@ document.addEventListener('DOMContentLoaded', function domReady() {
   mobileMenu = document.getElementById('mobile-menu');
   faqButtons = document.querySelectorAll('[data-faq-toggle]');
 
-  // Keyboard navigation: Escape key to close & Tab focus trap in mobile menu
-  document.addEventListener('keydown', function handleGlobalKeyDown(e) {
-    var isMobileOpen = mobileMenu && !mobileMenu.classList.contains('hidden');
-
+  // Close mobile menu or desktop megamenus on Escape key press
+  document.addEventListener('keydown', function handleEscapeKey(e) {
     if (e.key === 'Escape' || e.key === 'Esc' || e.keyCode === 27) {
-      if (isMobileOpen) {
+      if (mobileMenu && !mobileMenu.classList.contains('hidden')) {
         mobileMenuToggle();
       } else {
         var activeEl = document.activeElement;
         if (activeEl && activeEl.closest('[data-mega-panel], .group')) {
           activeEl.blur();
-        }
-      }
-      return;
-    }
-
-    if (isMobileOpen && (e.key === 'Tab' || e.keyCode === 9)) {
-      var focusables = mobileMenu.querySelectorAll('a[href], button:not([disabled]), input:not([disabled]), [tabindex]:not([tabindex="-1"])');
-      var visibleFocusables = Array.prototype.filter.call(focusables, function(el) {
-        return el.offsetWidth > 0 || el.offsetHeight > 0 || el.getClientRects().length > 0;
-      });
-
-      if (visibleFocusables.length === 0) return;
-
-      var firstEl = visibleFocusables[0];
-      var lastEl = visibleFocusables[visibleFocusables.length - 1];
-
-      if (e.shiftKey) {
-        if (document.activeElement === firstEl || !mobileMenu.contains(document.activeElement)) {
-          e.preventDefault();
-          lastEl.focus();
-        }
-      } else {
-        if (document.activeElement === lastEl || !mobileMenu.contains(document.activeElement)) {
-          e.preventDefault();
-          firstEl.focus();
         }
       }
     }
@@ -121,18 +94,6 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     yearTarget.textContent = new Date().getFullYear();
   }
 
-  // Scroll to top button handler
-  var scrollTopBtn = document.querySelector('[data-scroll-to-top]');
-  if (scrollTopBtn) {
-    scrollTopBtn.addEventListener('click', function handleScrollToTop() {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-      var mainEl = document.getElementById('main');
-      if (mainEl) {
-        mainEl.focus({ preventScroll: true });
-      }
-    });
-  }
-
   // Copy to clipboard buttons handler
   var copyButtons = document.querySelectorAll('[data-copy-text]');
   Array.prototype.forEach.call(copyButtons, function(btn) {
@@ -145,13 +106,10 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           feedbackEl.textContent = textToCopy + ' in die Zwischenablage kopiert.';
         }
         var origTitle = btn.getAttribute('title');
-        var origAria = btn.getAttribute('aria-label');
         btn.setAttribute('title', 'Kopiert!');
-        if (origAria) btn.setAttribute('aria-label', 'Kopiert!');
         btn.classList.add('text-amber-400');
         setTimeout(function() {
           btn.setAttribute('title', origTitle);
-          if (origAria) btn.setAttribute('aria-label', origAria);
           btn.classList.remove('text-amber-400');
         }, 2000);
       }).catch(function() {});
@@ -196,7 +154,6 @@ document.addEventListener('DOMContentLoaded', function domReady() {
           countIndicator = document.createElement('p');
           countIndicator.id = 'file-count-indicator';
           countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
-          countIndicator.setAttribute('aria-live', 'polite');
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
         countIndicator.textContent = selectedFiles.length === 1
@@ -219,9 +176,8 @@ document.addEventListener('DOMContentLoaded', function domReady() {
 
         var btn = document.createElement('button');
         btn.type = 'button';
-        btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-white shadow hover:bg-red-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 focus-visible:ring-offset-2 transition-all duration-200 z-10';
-        btn.setAttribute('aria-label', "Foto '" + file.name + "' entfernen");
-        btn.setAttribute('title', "Foto '" + file.name + "' entfernen");
+        btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-white shadow hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-2 transition-all duration-200 z-10';
+        btn.setAttribute('aria-label', 'Foto entfernen');
         btn.innerHTML = `{% include svg/close.svg class="w-4 h-4 shrink-0 !font-bold fill-current" %}`;
         btn.addEventListener('click', function() {
           selectedFiles.splice(index, 1);
@@ -240,29 +196,6 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     photosInput.addEventListener('change', function() {
       if (photosInput.files) {
         Array.prototype.forEach.call(photosInput.files, function(file) {
-          if (file.type.startsWith('image/')) selectedFiles.push(file);
-        });
-        updateInputAndRender();
-      }
-    });
-
-    ['dragenter', 'dragover'].forEach(function(eventName) {
-      photosInput.addEventListener(eventName, function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        photosInput.classList.add('border-primary-light', 'bg-primary/5', 'border-dashed');
-      });
-    });
-    ['dragleave', 'dragend', 'drop'].forEach(function(eventName) {
-      photosInput.addEventListener(eventName, function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        photosInput.classList.remove('border-primary-light', 'bg-primary/5', 'border-dashed');
-      });
-    });
-    photosInput.addEventListener('drop', function(e) {
-      if (e.dataTransfer && e.dataTransfer.files) {
-        Array.prototype.forEach.call(e.dataTransfer.files, function(file) {
           if (file.type.startsWith('image/')) selectedFiles.push(file);
         });
         updateInputAndRender();

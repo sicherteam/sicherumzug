@@ -1,6 +1,10 @@
+---
+permalink: /robots.txt
+llm_exclude: true
+layout: null
+---
 User-agent: *
 Allow: /
-
-Content-Signal: search=yes,use=reference
-
-Sitemap: https://sicher-umzug.at/sitemap.xml
+{% unless site.preview %}
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
+{% endunless %}

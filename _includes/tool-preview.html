@@ -1,0 +1,14 @@
+{% assign example = include.example %}
+<figure class="tool-demo tool-demo--{{ example.kind }}{% if include.compact %} tool-demo--compact{% endif %}">
+<figcaption>{{ example.caption }}</figcaption>
+{% case example.kind %}
+{% when 'metric' %}<strong class="tool-demo-value">{{ example.metric }}</strong><p class="tool-demo-context">{{ example.context }}</p><ul class="tool-demo-list">{% for row in example.rows %}<li>{% include ui-icon.html name=example.icon %}<span>{{ row }}</span></li>{% endfor %}</ul>
+{% when 'timeline' %}<ol class="tool-demo-timeline">{% for row in example.rows %}{% assign parts = row | split: '|' %}<li><span class="tool-demo-dot" aria-hidden="true">{{ forloop.index }}</span><div><strong>{{ parts[0] }}</strong><span>{{ parts[1] }}</span></div></li>{% endfor %}</ol>
+{% when 'intake' %}<ol class="tool-demo-process">{% for row in example.rows %}<li><span aria-hidden="true">{{ forloop.index }}</span>{{ row }}</li>{% endfor %}</ol><div class="tool-demo-paper"><strong>{{ example.result }}</strong><span class="tool-demo-line" aria-hidden="true"></span><span class="tool-demo-line" aria-hidden="true"></span><span class="tool-demo-line" aria-hidden="true"></span></div>
+{% when 'comparison' %}<div class="tool-demo-comparison"><div class="tool-demo-comparison-head"><span></span>{% for column in example.columns %}<strong>{{ column }}</strong>{% endfor %}</div>{% for row in example.rows %}{% assign parts = row | split: '|' %}<div><strong>{{ parts[0] }}</strong><span>{{ parts[1] }}</span><span>{{ parts[2] }}</span></div>{% endfor %}</div>
+{% when 'document' %}<div class="tool-demo-paper"><strong>{{ example.result }}</strong>{% for row in example.rows %}<div class="tool-demo-document-row"><span>{{ row }}</span><span class="tool-demo-line" aria-hidden="true"></span></div>{% endfor %}</div>
+{% when 'label' %}<div class="tool-demo-label"><strong>{{ example.result }}</strong><span class="tool-demo-label-number">{{ example.metric }}</span><span>{{ example.rows[0] }}</span><span class="tool-demo-fragile">{{ example.rows[1] }}</span></div>
+{% else %}<ul class="tool-demo-checklist">{% for row in example.rows %}<li><span class="tool-demo-checkbox" aria-hidden="true"></span>{{ row }}</li>{% endfor %}</ul>
+{% endcase %}
+{% unless include.compact %}<p class="tool-demo-note">{{ example.sample_note }}</p>{% endunless %}
+</figure>

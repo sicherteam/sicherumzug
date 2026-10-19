@@ -1,0 +1,81 @@
+fragile-packing:
+  src: /assets/images/editorial/glaeser-umzug-verpacken.webp
+  alt: Einzeln mit Papier geschützte Gläser in einem Karton mit Trennfächern.
+  caption: Gläser einzeln polstern und Zwischenräume füllen. Vor dem Schließen auch
+    die Oberseite schützen; nichts darf unter Druck stehen.
+furniture-preparation:
+  src: /assets/images/editorial/moebel-abbau-beschlaege-sichern.webp
+  alt: Zerlegte Bettteile auf einer Schutzdecke mit gesondertem Beutel für Beschläge.
+  caption: Zusammengehörige Teile und Beschläge beim passenden Möbelstück aufbewahren.
+    Kanten schützen und die Aufbauanleitung griffbereit halten.
+altbau-access:
+  src: /assets/images/editorial/wien-altbau-stiegenhaus-umzug.webp
+  alt: Illustratives Altbau-Stiegenhaus mit enger Stiegenkurve und Wohnungstür.
+  caption: Türen, Stiegenkurven und Lift an beiden Adressen prüfen. Bei sperrigen
+    Möbeln die engsten Stellen messen und den Trageweg frei halten.
+moving-cartons:
+  src: /assets/images/editorial/umzug-kartons-erste-nacht.webp
+  alt: Gepackte Umzugskartons mit Farbmarkierungen und eine getrennte Tasche für die
+    erste Nacht.
+  caption: Kartons dem Zielraum zuordnen und den Inhalt zusätzlich beschriften. Kleidung,
+    Dokumente und wichtige Dinge für die erste Nacht getrennt griffbereit halten.
+office-preparation:
+  src: /assets/images/editorial/buero-umzug-technik-zubehoer.webp
+  alt: Ausgeschalteter Monitor mit Kantenschutz sowie getrennt geordnete Kabel und
+    Zubehör.
+  caption: Kabel und Zubehör dem Arbeitsplatz zuordnen. Diese Vorbereitung ersetzt
+    keine vollständige Transportverpackung; Datensicherung und Wiederinbetriebnahme
+    separat planen.
+clearance-separation:
+  src: /assets/images/editorial/keller-raeumung-behalten-trennen.webp
+  alt: Alte Gegenstände im Keller und eine separat abgestellte geschlossene Box mit
+    roter Markierung.
+  caption: Was bleiben soll, getrennt sichern und eindeutig kennzeichnen. Die Bedeutung
+    der Markierungen vor der Räumung mit allen Beteiligten abstimmen.
+piano-planning:
+  src: /assets/images/editorial/klaviertransport-instrument-zugang.webp
+  alt: Beispiel eines stehenden Klaviers mit freiem Zugang zur Wohnungstür.
+  caption: Modell, Maße und ein bekanntes Gewicht des Instruments nennen. Türen, Stiegen
+    und den gesamten Ladeweg an beiden Adressen vorab prüfen lassen.
+art-preparation:
+  src: /assets/images/editorial/kunsttransport-rahmen-kantenschutz.webp
+  alt: Gerahmtes Bild mit abnehmbaren Eckenschützern auf einer Schutzdecke.
+  caption: Empfindliche Oberflächen und Kanten gesondert beschreiben. Geeignete vollständige
+    Verpackung und Transportbedingungen für das konkrete Stück abstimmen.
+house-access:
+  src: /assets/images/editorial/hausumzug-zufahrt-stufen-trageweg.webp
+  alt: Illustrativer Hauseingang mit Zufahrt, kurzen Stufen und frei gehaltenem Weg.
+  caption: Zufahrt, Stufen und den Weg vom Fahrzeug bis zur Tür an beiden Adressen
+    erfassen. Auch Keller, Garage und Nebengebäude in der Raumliste berücksichtigen.
+archive-order:
+  src: /assets/images/editorial/archivumzug-akten-reihenfolge.webp
+  alt: Kleine Archivkartons und geordnete Aktenordner mit neutralen Farbmarkierungen.
+  caption: Reihenfolge und Zielräume festlegen; zusammengehörige Bestände gemeinsam
+    kennzeichnen. Handhabung vertraulicher Unterlagen ausdrücklich vereinbaren.
+attic-selection:
+  src: /assets/images/editorial/dachbodenraeumung-auswahl-zugang.webp
+  alt: Angesammelte Möbel, Kartons und Koffer unter einer niedrigen Dachschräge.
+  caption: Erinnerungsstücke zuerst sichern und große Gegenstände erfassen. Dachschrägen,
+    Stiegen oder Luke und den verfügbaren Durchgang bei der Anfrage beschreiben.
+garage-inventory:
+  src: /assets/images/editorial/garagenraeumung-bestand-zufahrt.webp
+  alt: Gartenmöbel, Kartons und ältere Gegenstände seitlich in einer Garage mit freiem
+    Durchgang.
+  caption: Bestand und Zufahrt erfassen; Werkzeuge zum Behalten kennzeichnen. Farben,
+    Öle, Batterien und andere besondere Stoffe separat nennen und ihre Behandlung
+    vorab klären.
+senior-keepsakes:
+  src: /assets/images/editorial/seniorenumzug-vertraute-dinge.webp
+  alt: Vertrauter Lesesessel mit Büchern, geschlossenem Fotoalbum und getrennt gepackter
+    Alltagstasche.
+  caption: Gemeinsam auswählen, was mitkommt. Vertraute Dinge, persönliche Unterlagen
+    und benötigte Alltagsgegenstände während der Übersiedlung griffbereit halten.
+student-room:
+  src: /assets/images/editorial/studentenumzug-wg-zimmer-vorbereiten.webp
+  alt: Kleines WG-Zimmer mit wenigen gepackten Kartons, Schreibtisch und Reisetasche.
+  caption: Eigene Möbel von gemeinsamer Einrichtung trennen. Mitbewohnende und Übergabezeiten
+    abstimmen und nur den tatsächlich benötigten Transportumfang anfragen.
+family-preparation:
+  src: /assets/images/editorial/umzug-mit-kindern-vertraute-dinge.webp
+  alt: Ein Elternteil und ein Kind wählen Bücher und ein Kuscheltier für eine persönliche Tasche aus, neben ihnen stehen Umzugskartons.
+  caption: Vertraute Dinge für den ersten Tag in einer eigenen Tasche griffbereit halten. Betreuung und Transport am Umzugstag getrennt organisieren.

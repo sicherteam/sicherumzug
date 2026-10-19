@@ -1,77 +1,59 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
 layout: service-index
-title: "Professioneller Umzug & Übersiedlung in Österreich"
-seo_title: "Umzugsfirma Österreich | Leistungen & Montage"
-description: "Umzugsleistungen für Wien und Österreich. Privat, Gewerbe mit Fixpreis, Transportversicherung und Montage."
-kicker: "Leistungen"
-permalink: /leistungen/
-include_form: true
-include_districts: true
-districts_intro: "Wir bedienen alle 23 Bezirke – jedes Standortprofil erhält eigene Inhalte inklusive Wertanrechnung, Halteverbotszonen und Behördenwegen."
-categories:
-  - key: "Privat"
-    title: "Private Räumungen"
-    description: "Für Haushalte und Mieter, die Platz schaffen, umziehen oder eine Immobilie übergeben müssen."
-  - key: "Gewerblich"
-    title: "Gewerbliche Umzüge & Räumungen"
-    description: "Gewerbeumzug, Firmenübersiedlung und Office Relocations als unsere B2B-Kernleistungen, ergänzt durch DSGVO-konforme Räumungslösungen für Unternehmen."
-  - key: "Spezialfall"
-    title: "Spezialdienste"
-    description: "Diskrete Unterstützung für besondere Situationen wie Verlassenschaften, Messie-Räumungen oder Express-Sperrmüll."
-  - key: "Wertanrechnung"
-    title: "Wertanrechnung"
-    description: "Wir rechnen Antiquitäten, Möbel und Altwaren nur im Zuge von Entrümpelung/Räumung an – faire Gutschrift statt Einzelankauf."
+title: Ihr Umzug. Die passende Unterstützung.
+seo_title: Umzugsservice Österreich | Leistungen & Städte | Sicher Team
+description: Privatumzug, Büroumzug, Möbeltransport und Full-Service-Umzug nach Vereinbarung.
+  Leistungen und Städte in Österreich finden. Entrümpelung und Räumung ergänzend anfragen.
+permalink: "/leistungen/"
+last_modified_at: 2026-10-17
+llm_summary: |-
+  Sicher Team plant Privatumzug, Wohnungsübersiedlung, Hausumzug, Büroumzug, Firmenübersiedlung, Möbeltransport und Kleintransport. Verpackung, Möbelmontage und Full-Service-Umzug werden nach Bedarf vereinbart. Entrümpelung und Räumung sind ergänzend oder separat anfragbar.
+  Das Büro befindet sich in Wien. Kerngebiete: Wien, Niederösterreich, Burgenland, Oberösterreich, Steiermark, Salzburg und Kärnten. Tirol und Vorarlberg werden auf Durchführung und Verfügbarkeit individuell geprüft. Stadtlinks sind Planungshinweise und keine zusätzlichen Niederlassungen.
+  Städte und regionale Planung:
+  Wien: https://sicher-umzug.at/leistungen/umzug-wien/
+  Meidling: https://sicher-umzug.at/leistungen/umzug-1120-wien/
+  Donaustadt: https://sicher-umzug.at/leistungen/umzug-1220-wien/
+  Liesing: https://sicher-umzug.at/leistungen/umzug-1230-wien/
+  St. Pölten: https://sicher-umzug.at/leistungen/umzug-st-poelten/
+  Wiener Neustadt (Regionalübersicht): https://sicher-umzug.at/bundesland/niederoesterreich/
+  Krems an der Donau (Regionalübersicht): https://sicher-umzug.at/bundesland/niederoesterreich/
+  Amstetten (Regionalübersicht): https://sicher-umzug.at/bundesland/niederoesterreich/
+  Baden: https://sicher-umzug.at/leistungen/umzug-baden/
+  Mödling: https://sicher-umzug.at/leistungen/umzug-moedling/
+  Klosterneuburg: https://sicher-umzug.at/leistungen/umzug-klosterneuburg/
+  Korneuburg: https://sicher-umzug.at/leistungen/umzug-korneuburg/
+  Schwechat: https://sicher-umzug.at/leistungen/umzug-schwechat/
+  Tulln: https://sicher-umzug.at/leistungen/umzug-tulln/
+  Eisenstadt: https://sicher-umzug.at/leistungen/umzug-eisenstadt/
+  Mattersburg: https://sicher-umzug.at/leistungen/umzug-mattersburg/
+  Neusiedl am See: https://sicher-umzug.at/leistungen/umzug-neusiedl-am-see/
+  Oberpullendorf: https://sicher-umzug.at/leistungen/umzug-oberpullendorf/
+  Rust: https://sicher-umzug.at/leistungen/umzug-rust/
+  Linz: https://sicher-umzug.at/leistungen/umzug-linz/
+  Wels (Regionalübersicht): https://sicher-umzug.at/bundesland/oberoesterreich/
+  Steyr (Regionalübersicht): https://sicher-umzug.at/bundesland/oberoesterreich/
+  Graz: https://sicher-umzug.at/leistungen/umzug-graz/
+  Leoben (Regionalübersicht): https://sicher-umzug.at/bundesland/steiermark/
+  Kapfenberg (Regionalübersicht): https://sicher-umzug.at/bundesland/steiermark/
+  Bruck an der Mur (Regionalübersicht): https://sicher-umzug.at/bundesland/steiermark/
+  Salzburg (Stadt): https://sicher-umzug.at/bundesland/salzburg/#stadt-salzburg
+  Hallein (Regionalübersicht): https://sicher-umzug.at/bundesland/salzburg/
+  Zell am See (Regionalübersicht): https://sicher-umzug.at/bundesland/salzburg/
+  Klagenfurt am Wörthersee (Regionalübersicht): https://sicher-umzug.at/bundesland/kaernten/
+  Villach (Regionalübersicht): https://sicher-umzug.at/bundesland/kaernten/
+  Wolfsberg (Regionalübersicht): https://sicher-umzug.at/bundesland/kaernten/
+  Innsbruck (Regionalübersicht): https://sicher-umzug.at/bundesland/tirol/
+  Bregenz (Regionalübersicht): https://sicher-umzug.at/bundesland/vorarlberg/
+  Dornbirn (Regionalübersicht): https://sicher-umzug.at/bundesland/vorarlberg/
+  Feldkirch (Regionalübersicht): https://sicher-umzug.at/bundesland/vorarlberg/
+  Kostenfaktoren und Fixpreisvereinbarung: https://sicher-umzug.at/preise/
+  Umzugskosten-Rechner: https://sicher-umzug.at/umzugskosten-rechner/
+  Umzugsangebote vergleichen: https://sicher-umzug.at/umzugsangebote-vergleichen/
+  Anfrage: https://sicher-umzug.at/angebot/. Beide Adressen, Möbelumfang, Zugänge und Wunschtermin nennen. Fotos sind optional; die Anfrage ist keine Buchung.
+redirect_from:
+- "/dienstleistungen/"
+- "/unsere-dienstleistungen/"
+- "/servicebereich/"
+- "/service/"
 ---
-Sicher Team ist Ihr vertrauenswürdiger Partner für jede Art von Umzug & Übersiedlung in Österreich. Von der privaten Übersiedlung über komplette Firmenumzüge bis hin zu sensiblen Spezialfällen bieten wir eine professionelle, transparente und faire Lösung. Unser Versprechen: **Fixpreis + Transportversicherung + Montage**. Größere Projekte betreuen wir gemeinsam mit Partnern auch außerhalb Wiens – inklusive Planung und Transport.
-
-Wir bündeln alle Leistungen auf dieser Seite, damit Sie schnell jede Angebotsvariante finden und direkt zur passenden Detailseite navigieren können.
-
-## Warum Kund:innen Sicher Team wählen
-
-- **Schnelle Slots & Notdienst:** Express-Termine für dringende Einsätze, Abstimmung per WhatsApp, Telefon oder Formular.
-- **Fixpreis + Wertanrechnung:** Schriftliche Angebote, transparente Anrechnung – keine Überraschungen.
-- **Echte Teams vor Ort:** Unsere fest angestellten Wiener Profis übernehmen Beratung, Besichtigung und Umsetzung ohne Vermittler.
-- **Bewertungen & Medienpräsenz:** Erfahrungen auf [Bewertungen](/bewertungen/) und lokale Presseberichte zeigen transparent, was Sie von uns erwarten können.
-
-### Kundenstimmen aus Wien & NÖ
-
-{% assign service_testimonials = site.data.testimonials %}
-<div class="grid gap-6 md:grid-cols-2">
-  {% for testimonial in service_testimonials limit:2 %}
-  <article class="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
-    <p class="text-lg font-semibold text-primary">„{{ testimonial.quote }}“</p>
-    <p class="mt-4 text-sm font-bold text-gray-900">{{ testimonial.name }}</p>
-    <p class="text-xs uppercase tracking-[0.2em] text-text-light">{{ testimonial.role }}</p>
-    <p class="mt-4 text-xs text-text-light">5/5 Sterne – dokumentiert auf unserer Bewertungsseite.</p>
-  </article>
-  {% endfor %}
-</div>
-
-Mehr Stimmen – inklusive Projektfotos und Wertanrechnung-Beispielen – finden Sie jederzeit unter [Bewertungen & Referenzen](/bewertungen/).
-
-### Beliebte Leistungen im Überblick
-
-- [Privatumzug](/leistungen/privatumzug/) für stressfreie Wohnungswechsel in ganz Österreich
-- [Umzug Wien zum Fixpreis](/leistungen/umzug-wien/) für Komplettprojekte in allen 23 Bezirken
-- [Umzug Wien](/leistungen/umzug-wien/) mit Wertanrechnung
-- [Wohnungsübersiedlung Wien](/leistungen/umzug-wien/) für Mieterwechsel, Übergaben und Fixpreise
-- [Umzug Wien Überblick](/umzugsservice/) als Leitfaden zu Kosten und Ablauf
-- [Hausumzug Wien](/leistungen/hausumzug/) für Einfamilien- und Reihenhäuser
-- [Spezialtransporte Wien](/leistungen/spezialtransporte/) für volle Garagen, Werkbänke und Lagerecken
-- [Studentenumzug Wien](/leistungen/studentenumzug/) für Studentenwohnungen und WGs
-- [Wohlfühl-Umzug Wien](/leistungen/wohlfuehl-umzug/) inklusive Hygieneplan
-
-### Gewerbliche Umzüge & Leistungen
-
-- **Gewerbeumzug & Firmenübersiedlung:** Unser B2B-Premium-Service für einen reibungslosen Standortwechsel. Wir planen Logistik, Transport und Aufbau für Ihr Unternehmen.
-- **Büroumzüge (Office Relocations):** Effiziente Arbeitsplatzverlegung mit minimaler Ausfallzeit.
-- [Firmen- und Büroauflösung](/leistungen/firmenaufloesung/): Ergänzende Räumung inklusive DSGVO-konformer Dokumentenvernichtung und besenreiner Übergabe alter Gewerbeflächen.
-
-### Guides zu Anbieterwahl & Wohnung
-
-- [Räumungsfirma Wien Checkliste](/ratgeber/raeumungsfirma-wien-checkliste/)
-- [Wohnungsentrümpelung Wien Guide](/ratgeber/wohnungsentruempelung-wien-guide/)
-- [Hausräumung Wien Checkliste](/ratgeber/hausraeumung-wien-checkliste/)
-
-> **Top-Themen direkt beantwortet:** Ob „MA 48 Entrümpelung“, „Wertanrechnung Räumung“ oder „Entrümpelung 1180 Wien“ – jede Detailseite enthält FAQ und CTAs mit WhatsApp-Sofortkontakt ([Chat starten]({{ site.whatsapp }})). So finden Interessent:innen sofort den passenden Service.
+Suchen Sie eine Umzugsfirma für Ihre Wohnung, Ihr Haus oder Ihren Betrieb? Sicher Team plant und übernimmt Umzüge und Übersiedlungen für private Haushalte und Unternehmen. Ob Sie vor allem Möbelpacker und Transport brauchen oder Einpackhilfe und Montage dazubuchen möchten: Wir stimmen den Umzugsservice auf Ihren Haushalt, Ihre Strecke und Ihre eigenen Vorbereitungen ab. Entrümpelung und Räumung können Sie ergänzend oder unabhängig vom Umzug anfragen.

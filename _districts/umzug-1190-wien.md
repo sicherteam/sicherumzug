@@ -1,82 +1,66 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: Umzug 1190 Wien
-footer_title: "Umzug & Übersiedlung 1190 (Döbling)"
-seo_title: "Übersiedlung 1190 Wien"
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-kicker: Bezirk 1190
+last_modified_at: '2026-10-11'
+title: Umzug in 1190 Wien (Döbling)
+footer_title: Umzug & Übersiedlung 1190 (Döbling)
+seo_title: Umzug 1190 Wien (Döbling) | Sicher Team
+description: 'Umzug in 1190 Wien: Klavier, Tresor und empfindliche Einzelstücke früh
+  prüfen lassen. Haushaltsbestand, Zugang und Spezialanforderungen trennen.'
+kicker: Umzug & Übersiedlung
 state: wien
 region_type: Bezirk
-hero_image: /topbg.webp
-highlights:
-- Spezialisiert auf Villen in Hanglagen mit schmalen Zufahrten
-- Enge Koordination mit Heurigenbetrieben & Anrainern in sensiblen Lagen
-- Professioneller Wertanrechnung für Weinlager, Kunst & Antiquitäten
-- Diskrete Abwicklung für anspruchsvolle Liegenschaften
-checklist:
-- Winzerhäuser und Villen in Grinzing, Sievering & Neustift am Walde
-- Wohnungen im historischen Karl-Marx-Hof in Heiligenstadt
-- Garagen, Weinkeller und Presshäuser in den Weinbergen
-- Penthäuser und Terrassenwohnungen mit Blick auf die Stadt
-process:
-- title: Detaillierte Zufahrts- & Logistikplanung
-  description: Wir prüfen Hanglagen, Parkverbote und Lieferzeiten in den engen Heurigengassen,
-    um einen störungsfreien Ablauf zu garantieren.
-- title: Fundierte Wertanalyse
-  description: Unsere Profis übernehmen die Bewertung von Weinbeständen, umfangreichen
-    Sammlungen oder wertvollen Kunstobjekten.
-- title: Sorgfältige Übersiedlung
-  description: Bei Bedarf setzen wir kleinere Transporter, Schrägaufzüge oder Seilwinden
-    für steile und schwer zugängliche Auffahrten ein.
-- title: Perfekte Übergabe
-  description: Wir sorgen für eine saubere Abnahme des Objekts, auf Wunsch inklusive
-    einer leichten Gartenpflege für einen makellosen ersten Eindruck.
-faqs:
-- question: Welche Logistik ist bei einem Umzug in dieser Region typisch?
-  answer: Typisch in 1190 Wien sind enge Zeitfenster, begrenzte Haltezonen und objektspezifische
-    Hausregeln. Darum starten wir mit einer kurzen Vorprüfung zu Zugang, Trageweg
-    und Etagenlogik. So bleibt der Ablauf am Einsatztag stabil und vermeidet unnötige
-    Wartezeiten.
-- question: Wie gehen Sie mit Liftregeln und Stiegenhaus-Schutz um?
-  answer: Wir klären Liftzeiten, Schutzvorgaben und Laufwege vor dem Termin und planen
-    die Reihenfolge danach. Bei sensiblen Gebäuden kommen Schutzmaterial und klare
-    Tragezonen zum Einsatz. Das reduziert Reibung mit Hausverwaltung und Nachbarn.
-- question: Ist eine Wertanrechnung in diesem Bezirk möglich?
-  answer: Ja, verwertbare Gegenstände können nach Sichtung angerechnet werden. Wichtig
-    ist eine realistische Bewertung nach Zustand und Nachfrage. Die Positionen werden
-    transparent in die Kalkulation aufgenommen, damit der Endpreis nachvollziehbar
-    bleibt.
-- question: Welche Angaben brauchen Sie für ein Fixpreis-Angebot in 1190 Wien?
-  answer: Am wichtigsten sind aktuelle Fotos, Adresse, Kontaktdaten und der gewünschte
-    Termin. Angaben zu Etage, Lift, Innenhof oder Keller verbessern die Erstkalkulation.
-    Damit erhalten Sie schneller eine belastbare Rückmeldung zum Ablauf.
 schema_type: Service
 service_type: Umzug
-permalink: /leistungen/umzug-1190-wien/
-redirect_from:
-- /leistungen/haushaltsaufloesung-1190-wien/
-- /entruempelung-1190-wien/
-- /raeumung-1190-wien/
-local_logistics_note: Bei Einsätzen in 1190 Wien sichern wir Anfahrt, Etagenlogistik
-  und Schutzmaterialien bereits in der Vorplanung.
-micro_case: 'Bewährter Prozess in 1190 Wien: schnelle Aufnahme, logistischer Ablaufplan
-  und transparente Endabnahme ohne Nachforderungen.'
-proof_date: 2026-02-09
+permalink: "/leistungen/umzug-1190-wien/"
+redirect_from: []
+enquiry_service: umzug
+sources:
+- title: 'Stadt Wien: kurzfristige Halteverbotszone'
+  url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
+faqs:
+- question: Kann ich ein Klavier gemeinsam mit dem Haushalt anfragen?
+  answer: Ja. Führen Sie das Instrument als eigene Position mit vorhandenen Daten
+    und vollständigem Zugang auf. Seine Beförderung muss ausdrücklich geprüft und
+    im Angebot bestätigt werden.
+- question: Was gilt, wenn das Gewicht nicht bekannt ist?
+  answer: Geben Sie die Unsicherheit an und suchen Sie vorhandene Hersteller- oder
+    Gerätedaten. Eine unbestätigte Schätzung sollte nicht als gesicherte Gewichtsangabe
+    Grundlage einer Zusage sein.
 ---
-## Döbling mit Hangzonen, Villen und Sonderinventar
-In 1190 Wien betreuen wir regelmässig Einsätze in Grinzing, Sievering, Neustift am Walde und Karl-Marx-Hof. In 1190 sind schmale und steile Zufahrten in den Höhenlagen zentral für die Planung. Wir sehen Villen, Wohnanlagen und Kellerflächen mit spezialisiertem Inventar. Die Route wird auf Hangprofil, Hofzufahrt und Trageweg abgestimmt.
+## Umzug in 1190 Wien mit besonders schweren Stücken
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Sicher Team nimmt Anfragen für Haushaltsübersiedlungen und Möbeltransporte in Döbling auf. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn Klavier, Tresor oder eine empfindliche Vitrine zum Bestand gehören, sollte deren Prüfung vor einer allgemeinen Zusage stehen. Gewünschte Verpackung und Montage werden passend zum tatsächlich bestätigten Leistungsumfang beschrieben.
 
-### Welche Logistik ist in 1190 Wien typisch?
-Typisch sind in 1190 Wien unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Möbeltransport mit abgestimmter Logistik](/leistungen/entruempelung-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Ein schweres Einzelstück in Döbling zuerst prüfen lassen
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Kellerübersiedlung bei schwierigen Zugängen](/leistungen/kellerraeumung/) und stützen die lokale Planung mit [Leitfaden zur Wertanrechnung](/ratgeber/wertanrechnung-guide/). Den regionalen Rahmen finden Sie unter [Bundesland Wien](/bundesland/wien/).
+Für einen Umzug in 1190 Wien sollten ungewöhnlich schwere oder empfindliche Gegenstände früh in der Anfrage stehen. Tresor, Klavier oder großflächige Glasvitrine sind keine austauschbaren Positionen einer Kartonliste. Die Möglichkeit ihrer Beförderung hängt vom konkreten Stück und dem vollständigen Weg ab.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für 1190 Wien eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+Geben Sie Maße und Gewicht an, soweit verlässlich bekannt. Ergänzen Sie Stockwerk, Stufen, enge Kurven und nutzbare Türen an beiden Orten. Bei fest montierten Teilen ist zu klären, wer sie fachgerecht trennt und welche Arbeiten überhaupt angefragt werden sollen. Ein vorhandener Lift genügt als Angabe dafür nicht.
 
-Gerade in 1190 Wien zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+### Keine Zusage aus einer allgemeinen Umzugsanfrage ableiten
+
+Ein besonderes Stück muss ausdrücklich geprüft und in einem passenden Angebot genannt werden. Verpackung, Hebemittel oder technische Arbeit dürfen nicht ohne Bestätigung vorausgesetzt werden. Der Bezirksname liefert keinen Nachweis dafür, dass jedes Spezialstück übernommen wird.
+
+Nutzen Sie [Spezialtransporte](/leistungen/spezialtransporte/) für die Einzelprüfung und [Umzug Wien](/leistungen/umzug-wien/) für den übrigen Haushalt. Lassen Sie erkennen, ob beide Aufgaben gemeinsam oder getrennt angefragt werden.
+
+## Aus einer Stückbezeichnung eine prüfbare Anfrage machen
+
+Das Wort „Tresor“ oder „Klavier“ allein beschreibt weder Gewicht noch mögliche Beförderung. Sammeln Sie vorhandene Daten und nennen Sie ausdrücklich, welche Angaben noch fehlen. Eine Schätzung sollte nicht als verlässliche Herstellerinformation erscheinen. Das ausführende Unternehmen muss beurteilen, ob der Auftrag mit dem konkreten Stück und Zugang übernommen werden kann.
+
+| Einzelstück | Hilfreiche Angaben | Ausdrücklich zu klärende Frage |
+| --- | --- | --- |
+| Schweres Möbel | Maße, bekanntes Gewicht und aktuelle Position | Möglichkeit und Bedingungen der Beförderung |
+| Klavier | Art des Instruments und vorhandene Daten | Geeignete Ausführung für den beschriebenen Weg |
+| Vitrine | Glasflächen, lose Teile und bestehende Schäden | Gewünschte Vorbereitung und Verpackung |
+| Fest montiertes Stück | Bekannte Befestigungen und zuständige Person | Wer löst Befestigungen oder übernimmt Facharbeit? |
+
+### Der vollständige Weg zählt
+
+Beschreiben Sie den Weg ab dem tatsächlichen Standort des Stücks bis zur Ladefläche und anschließend bis zum Zielplatz. Ein großer Lift kann helfen, aber Öffnung und Vorraum bleiben zu prüfen. Stufen, Richtungswechsel und fehlende Freigaben sollten nicht ausgelassen werden. Ein Foto kann eine Beschreibung ergänzen, ersetzt jedoch keine Maße und keine Prüfung des vorgesehenen Transports.
+
+Wenn am Ziel der Aufstellort noch nicht feststeht, kennzeichnen Sie dies als offen. Technische Montage, Befestigung und eventuell notwendige Facharbeiten gehören in eine gesonderte Abstimmung. Ein gewöhnlicher Haushaltsauftrag beinhaltet nicht automatisch Spezialmittel oder eine bestimmte technische Behandlung.
+
+### Angebot für das Spezialstück und den Haushalt unterscheiden
+
+Prüfen Sie, ob ein besonderes Stück in jedem verglichenen Angebot tatsächlich enthalten ist. Ein niedriger Gesamtbetrag für normalen Wohnungsbestand sagt nichts über die noch ungeklärte Spezialposition aus. Lassen Sie die bestätigte Beförderung, Verpackungsaufgaben und Montagegrenzen benennen. Auch unser Team sollte erkennbar sein.
+
+Für den übrigen Bestand bleiben Kartonzahl, Möbel und Nebenräume relevant. Über [Angebot anfragen](/angebot/) können Sie beides zusammen beschreiben, die besondere Position aber klar abheben. Eine Anfrage startet die Prüfung; sie bestätigt weder spezielle Ausrüstung noch die Übernahme jedes schweren Gegenstands.

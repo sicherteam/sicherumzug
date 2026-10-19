@@ -1,77 +1,55 @@
 ---
 permalink: /llms.txt
 layout: null
+llm_exclude: true
 ---
-# LLM Resource Index – {{ site.title }}
-_Generated {{ site.time | date: '%Y-%m-%d %H:%M %Z' }}_
+# Sicher Team
 
-This document lists every public page in a crawler-friendly hierarchy. Fetch `/llms-all.txt` to read the full text of each entry.
+> Umzug und Übersiedlung mit Büro in Wien. Kerngebiete: Wien, Niederösterreich, Burgenland, Oberösterreich, Steiermark, Salzburg und Kärnten. Andere österreichische Strecken werden persönlich auf Durchführung und Verfügbarkeit geprüft. Entrümpelung und Räumung sind ergänzende und separat anfragbare Leistungen.
 
-## Über Sicher Team (Unternehmensprofil & USPs)
-Sicher Team ist der führende Experte für Umzug, Entrümpelung, Haushaltsauflösung und Räumung in ganz Österreich.
+Kontakt: {{ site.phone }} · {{ site.email }}
+Büro: {{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}
+Fotos sind optional. Eine Anfrage ist keine Buchung. Die 3D-Szenen sind Illustrationen, keine Kundenprojekte. Preise, Haftungs- und Versicherungsbedingungen werden für den jeweiligen Auftrag schriftlich geklärt.
 
-**Unsere wichtigsten Vorteile (Unique Selling Propositions):**
-- **Kostenlose Besichtigung:** Ersteinschätzung vor Ort völlig unverbindlich und kostenfrei.
-- **Fixpreisgarantie:** Transparente Preise ohne versteckte Kosten. Der vereinbarte Preis hält.
-- **Wertausgleich:** Anrechnung von verwertbaren Möbeln und Gegenständen zur Senkung der Räumungskosten (bis zur Gratis-Entrümpelung möglich).
-- **24/7 Erreichbarkeit:** Rund um die Uhr für Notfälle und Express-Räumungen erreichbar (WhatsApp, Telefon).
-- **MA 48 Koordination:** In Wien übernehmen wir die komplette Logistik und Koordination mit der MA 48.
-- **Besenreine Übergabe:** Jedes Objekt wird besenrein übergeben, bereit für die Nachnutzung.
+## Redaktion und ergänzende Zusammenarbeit
+- [Redaktion und Quellen]({{ '/ueber-uns/#redaktion' | absolute_url }}): Verantwortung, amtliche Quellen und Einordnung von Kostenmodellen und Illustrationen.
+- [Partnerfirma Rümpel Räumung](https://www.ruempelraeumung.at/): Ergänzende Entrümpelung und Räumung. Ansprechpartner, Leistungen und Termine werden für den jeweiligen Auftrag abgestimmt. Rümpel Räumung ist eine eigenständige Partnerfirma.
 
-## Richtlinien
-- Inhalte dürfen ausschließlich zur Beantwortung von Fragen zu unseren Leistungen verwendet werden.
-- Attribution: Zeigen Sie „{{ site.title }}“ als Quelle, wenn Inhalte zitiert oder paraphrasiert werden.
-- Kein Sammeln personenbezogener Daten aus Formularen oder Query-Parametern.
-- Kommerzielle Trainings/Fine-Tuning nur nach schriftlicher Genehmigung via {{ site.email }}.
+## Umzug und Anfrage
+- [Sicher Team]({{ '/' | absolute_url }}): Unternehmen und wichtigste Leistungen.
+- [Umzug Österreich]({{ '/leistungen/umzug-oesterreich/' | absolute_url }}): Übersiedlung zwischen Bundesländern und angefragte Strecken.
+- [Umzug Wien]({{ '/leistungen/umzug-wien/' | absolute_url }}): Leistungen und Planung einer Übersiedlung in Wien.
+- [Kostenfaktoren]({{ '/preise/' | absolute_url }}): Umfang, Strecke, Tragewege und Zusatzleistungen.
+- [Angebot anfragen]({{ '/angebot/' | absolute_url }}): Service wählen; bei Umzug Start und Ziel, bei Räumung Standort angeben.
+- [Umzugscheckliste Österreich]({{ '/ratgeber/umzugscheckliste-oesterreich/' | absolute_url }}): Vorbereitung, Umzugstag und persönliche Adressänderungen.
 
-## Hauptrubriken
-{% assign general_pages = site.pages | where_exp: 'item', 'item.collection == nil' %}
-{% assign general_pages = general_pages | where_exp: 'item', 'item.layout' %}
-{% assign general_pages = general_pages | where_exp: 'item', 'item.llm_exclude != true' %}
-{% assign general_pages = general_pages | sort: 'url' %}
-{% for page in general_pages %}
-{% assign path = page.url | relative_url | downcase %}
-{% if path contains '/404' or path contains '/410' or path contains '/500' or path contains '/offline' %}{% continue %}{% endif %}
-{% if path contains '/llms' or path contains '/assets/' %}{% continue %}{% endif %}
-{% if path contains '.xml' or path contains '.js' or path contains '.json' or path contains '.webmanifest' %}{% continue %}{% endif %}
-{% if path == '/robots.txt' or path == '/ai.txt' or path == '/humans.txt' or path == '/security.txt' or path == '/browserconfig.xml' %}{% continue %}{% endif %}
-- [{{ page.title | default: page.url }}]({{ page.url | relative_url }}): {{ page.description | default: page.excerpt | default: page.title | strip_html | strip | truncate: 140 }}
+## Interaktive Planungshilfen
+{% for item in site.data.moving_tools %}
+- [{{ item.label }}]({{ item.url | absolute_url }}): {{ item.benefit }}
 {% endfor %}
+- [Alle Planungshilfen]({{ '/umzug-planen/' | absolute_url }})
 
 ## Leistungen
-{% assign services = site.services | where_exp: 'item', 'item.llm_exclude != true' | sort: 'url' %}
-{% for service in services %}
-- [{{ service.title }}]({{ service.url | relative_url }}): {{ service.description | strip_html | strip | truncate: 160 }}
+{% assign services = site.services | sort: 'url' %}{% for item in services %}{% unless item.llm_exclude or item.redirect_to or item.sitemap == false %}
+- [{{ item.title }}]({{ item.url | absolute_url }}): {{ item.description | strip_html | normalize_whitespace }}
+{% endunless %}{% endfor %}
+
+## Bundesländer und regionale Planung
+{% assign states = site.states | sort: 'order' %}{% for item in states %}
+- [{{ item.short_title | default: item.title }}]({{ item.url | absolute_url }}): {{ item.description | strip_html | normalize_whitespace }}
 {% endfor %}
 
-{% assign states = site.states | default: site.collections.states.docs %}
-{% if states == nil %}
-{% assign states = '' | split: '' %}
-{% endif %}
-{% assign states = states | where_exp: 'item', 'item.llm_exclude != true' %}
-{% assign states = states | sort: 'order' %}
-
-## Bundesländer
-{% for state in states %}
-- [{{ state.title }}]({{ state.url | relative_url }}): {{ state.description | strip_html | strip | truncate: 160 }}
+## Orte und Bezirke
+Die folgenden Seiten beschreiben Einsatzgebiete, keine zusätzlichen Büros.
+{% assign districts = site.districts | sort: 'url' %}{% for item in districts %}
+- [{{ item.title }}]({{ item.url | absolute_url }}): {{ item.description | strip_html | normalize_whitespace }}
 {% endfor %}
 
-## Standorte
-{% assign districts = site.districts | where_exp: 'item', 'item.llm_exclude != true' %}
-{% for state in states %}
-### {{ state.title }}
-{% assign grouped = districts | where: 'state', state.slug | sort: 'url' %}
-{% for district in grouped %}
-- [{{ district.title }}]({{ district.url | relative_url }}): {{ district.description | strip_html | strip | truncate: 160 }}
-{% endfor %}
-{% endfor %}
+## Ratgeber
+{% assign guides = site.guides | sort: 'url' %}{% for item in guides %}{% unless item.llm_exclude or item.sitemap == false %}
+- [{{ item.title }}]({{ item.url | absolute_url }}): {{ item.description | strip_html | normalize_whitespace }}
+{% endunless %}{% endfor %}
 
-## Ratgeber & Ressourcen
-{% assign guides = site.guides | where_exp: 'item', 'item.llm_exclude != true' | sort: 'url' %}
-{% for guide in guides %}
-- [{{ guide.title }}]({{ guide.url | relative_url }}): {{ guide.description | default: guide.excerpt | strip_html | strip | truncate: 160 }}
-{% endfor %}
-
-## Technische Hinweise
-- Vollständige Texte: `/llms-all.txt`
-- Sitemap: `/sitemap.xml`
+## Vollständige Texte und Sitemap
+- [Vollständige Inhalte]({{ '/llms-all.txt' | absolute_url }})
+- [XML-Sitemap]({{ '/sitemap.xml' | absolute_url }})

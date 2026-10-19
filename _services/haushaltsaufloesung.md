@@ -1,73 +1,45 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: "Haushaltsauflösung in Österreich"
-seo_title: "Haushaltsauflösung & kompletter Hausstand auflösen | Fixpreis"
-description: "Professionelle Haushaltsauflösung in Österreich. Diskrete und fachgerechte Auflösung des kompletten Hausstands bei Todesfall, Pflegeheim oder Auswanderung."
-kicker: "Privat"
+last_modified_at: '2026-10-11'
+title: Haushaltsauflösung persönlich planen
+seo_title: Haushaltsauflösung Wien | Hausstand & Räumung planen
+description: 'Haushalt in Wien auflösen: persönliche Dinge auswählen, Räume und Nebenbereiche
+  erfassen. Umfang, mögliche Wertanrechnung und Übergabe gemeinsam klären.'
+kicker: Privat
 intent_primary: transactional
 intent_secondary: local
-
-highlights:
-  - Gratis Erstbesichtigung & schriftlicher Fixpreis
-  - Maximaler Wertanrechnung für Antiquitäten und Möbel
-  - besenreine Hinterlassung inkl. Foto-Dokumentation
-checklist:
-  - Möbel, Küchen & Einbauten
-  - Elektro- und Haushaltsgeräte
-  - Bücher, Textilien & Dekoration
-  - Dokumente mit optionaler Vernichtung
-  - Sperrmüll & Sondermüll (z.B. Lacke)
-process:
-  - title: Kostenlose Analyse vor Ort
-    description: Wir bewerten Fläche, Aufwand und verwertbare Gegenstände direkt bei Ihnen.
-  - title: Fixpreis & Wertanrechnung
-    description: Sie erhalten ein schriftliches Angebot mit gegengerechnetem Wert Ihrer Gegenstände.
-  - title: Räumung
-    description: Unser Team räumt zügig, schützt Böden/Wände und trennt Materialien fachgerecht.
-  - title: besenreine Hinterlassung
-    description: Abschließende Reinigung, Protokoll & Schlüsselübergabe nach Ihren Vorgaben.
-faqs:
-  - question: Was kostet eine Wohnungsauflösung?
-    answer: Der Preis hängt von Fläche, Zugänglichkeit und Menge ab. Nach der Besichtigung erhalten Sie ein Fixpreis-Angebot – Wertgegenstände werden gegengerechnet.
-  - question: Wie schnell können Sie starten?
-    answer: In Wien sind Termine meist innerhalb von 3–5 Werktagen möglich. Express-Optionen gibt es nach Absprache.
-  - question: Räumen Sie auch Keller und Nebenräume?
-    answer: Ja, sämtliche Nebenräume, Kellerabteile und Dachböden sind im Angebot inkludiert.
 schema_type: Service
-service_type: Haushaltsauflösung
-permalink: /leistungen/haushaltsaufloesung/
+service_type: Haushaltsauflösung persönlich planen
+permalink: "/leistungen/haushaltsaufloesung/"
+enquiry_service: raeumung
+editorial_image: clearance-separation
+og_image: "/assets/images/editorial/keller-raeumung-behalten-trennen.webp"
+og_image_alt: Alte Gegenstände im Keller und eine separat abgestellte geschlossene
+  Box mit roter Markierung.
+faqs:
+- question: Was gehört auf getrennte Listen?
+  answer: Gegenstände zum Behalten, Abholungen durch andere, Transport an neue Orte
+    und Entfernung. Offene Entscheidungen bleiben sichtbar. Das erleichtert die Freigabe
+    und verhindert vermischte Aufträge.
 ---
-## Komplette Haushaltsauflösung – Diskret und Professionell
+Bei einer Haushaltsauflösung wird zuerst entschieden, wohin die Gegenstände gehen. Behalten, an Angehörige geben, an einen neuen Ort transportieren und entfernen sind unterschiedliche Aufgaben. Nur die ausdrücklich freigegebene Entfernungsliste wird zum Räumungsbestand.
 
-Eine Haushaltsauflösung ist oft emotional und organisatorisch belastend. Wir übernehmen alles – von der ersten Besichtigung bis zur besenreinen Übergabe – und machen aus dem Projekt eine klare, planbare Aufgabe.
+<!-- editorial-image -->
 
-## Mehr als nur eine Räumung
+Sichern Sie persönliche Unterlagen und benennen Sie eine verantwortliche Kontaktperson. Offene Entscheidungen bleiben als Ausnahmen sichtbar. Eigene Abholungen erhalten bestätigte Kontakte und Termine; eine geplante Abholung gilt noch nicht als erledigt.
 
-Wenn Slots frei sind und der Zugang geklärt ist, übernehmen wir Wohnungsauflösungen am selben Tag. Ein kurzer Foto-Check per WhatsApp genügt für die Ersteinschätzung. Den Fixpreis bestätigen wir nach der Besichtigung vor Ort.
+Erfassen Sie Wohnung und Nebenbereiche mit Zugängen. Das Angebot beschreibt die tatsächlich gewünschten Arbeiten und den Abschlusszustand. Eine mögliche Wertanrechnung betrifft nur geeignete freigegebene Stücke.
 
-> [Kostenloses Angebot anfordern](/angebot/) oder per [WhatsApp {{ site.phone }}]({{ site.whatsapp }}) anfragen.
+Für den neuen Wohnort kann ein [Umzug](/leistungen/privatumzug/) hinzukommen. Soll vor allem eine Wohnung leer übergeben werden, nutzen Sie [Wohnungsräumung](/leistungen/wohnungsaufloesung/). Rechtliche und Vertragsangelegenheiten bleiben gesondert.
 
-Durch Wertanrechnung bleibt der Fixpreis planbar und oft günstiger, weil verwertbare Gegenstände direkt gegengerechnet werden.
+## Auswahlübersicht
 
-Wenn Sie zuerst einen vollständigen Überblick über Kosten, Ablauf und Behördenwege haben möchten, empfehlen wir unseren Leitfaden [Wohnungsauflösung Wien Überblick](/leistungen/haushaltsaufloesung-ueberblick/). Dort finden Sie Tabellen, Checklisten und regionale Hinweise für alle Bezirke.
+| Weg des Gegenstands | Festhalten |
+| --- | --- |
+| Behalten | Gesicherter Platz und Ausnahme |
+| Weitergeben | Empfänger und bestätigte Abholung |
+| Transportieren | Zieladresse und Kontakt |
+| Entfernen | Klare Freigabe |
+| Noch offen | Außerhalb der endgültigen Auswahl |
 
-Eine allgemeine Übersicht ohne Standortbezug finden Sie auf der Seite [Leistungen](/leistungen/).
 
-### Der Wertanrechnung als Game Changer
-
-Unsere eigenen Sachverständigen bewerten Antiquitäten, Designmöbel oder Sammlungen direkt vor Ort. Der Ankaufspreis wird sofort vom Fixpreis abgezogen. So wird Ihre Wohnungsauflösung deutlich günstiger oder sogar kostenlos.
-
-### Umweltgerecht & dokumentiert
-
-- Materialtrennung und Übergabe an zertifizierte Partner (MA 48, Recyclinghöfe)
-- Foto-Protokoll und schriftliche Bestätigung für Hausverwaltungen oder Notare
-- Optional: Desinfektion & Feinreinigung
-
-> **Vorsprung gegenüber DIY & Billiganbietern:** keine versteckten Kosten, volle Haftpflichtversicherung und ein Team, das täglich Wohnungen in Wien räumt.
-
-### Verwandte Dienstleistungen
-
-- **[Wohnungsauflösung](/leistungen/wohnungsaufloesung/):** Für klassische Wohnungsräumungen mit Fixpreis und Übergabe.
-- **[Verlassenschaft](/leistungen/verlassenschaft/):** Sensible Räumungen im Todesfall.
-- **[Messie Entrümpelung](/leistungen/messie-entruempelung/):** Spezialisierte Hilfe bei Hortungsfällen.
-- **[Kellerräumung](/leistungen/kellerraeumung/):** Schafft schnell Platz in Nebenräumen.
+Beginnen Sie mit drei Fragen: Wer entscheidet? Wohin gehen die behaltenen Dinge? Welcher Zustand wird für die Übergabe gebraucht? Diese Antworten unterscheiden einen Umzug, eine persönliche Haushaltsverteilung und eine reine Wohnungsräumung.

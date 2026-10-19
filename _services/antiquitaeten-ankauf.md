@@ -1,64 +1,28 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: Antiquitäten Ankauf? Wertanrechnung mit Entrümpelung
-seo_title: Antiquitäten Wertanrechnung Wien – fair & diskret bei Räumung
-description: Wir bewerten Antiquitäten und rechnen den Wert bei Entrümpelung, Räumung
-  oder Verlassenschaft an. Keine Einzelabholung – faire Gutschrift oder Teil-Auszahlung.
+last_modified_at: '2026-10-11'
+title: 'Antiquitäten: Wertanrechnung bei einer Räumung'
+seo_title: Antiquitäten Wien | Wertanrechnung bei Räumung
+description: Antiquitäten und Sammlungen im Räumungsauftrag prüfen lassen. Zustand,
+  Herkunft und mögliche Wertanrechnung besprechen. Kein separater Einzelankauf.
 kicker: Wertanrechnung
-highlights:
-- Diskrete Wertanrechnung statt Einzelankauf
-- Kunsthistorische Bewertung durch erfahrene Schätzer
-- Gutschrift oder Teil-Auszahlung beim Projektstart
-checklist:
-- Antike Möbel & Einrichtungsgegenstände
-- Gemälde, Skulpturen & Kunst
-- Schmuck, Silber & Porzellan
-process:
-- title: Fotos & Details senden
-  description: Signaturen, Maße und Zustand helfen bei der Vorab-Einschätzung.
-- title: Besichtigung + Fixpreis mit Anrechnung
-  description: Wir bewerten vor Ort und ziehen den Wert direkt vom Räumungs-Fixpreis
-    ab.
-- title: Räumung, Transport & Gutschrift
-  description: Wir organisieren den fachgerechten Transport und verrechnen die vereinbarte
-    Summe oder zahlen anteilig aus.
-faqs:
-- question: Gibt es einen reinen Antiquitäten-Ankauf?
-  answer: Nein, wir führen keinen isolierten Ankauf durch. Die Wertanrechnung erfolgt
-    nur im Rahmen von Entrümpelung, Räumung oder Verlassenschaft.
-- question: Welche Stücke werden angerechnet?
-  answer: Antike Möbel, Kunst, Silber, Schmuck und Porzellan mit Wiederverkaufswert.
-    Stark beschädigte oder kopierte Ware wird regulär entsorgt.
-- question: Wie erfolgt die Auszahlung?
-  answer: Der Wert wird auf den Räumungs-Fixpreis angerechnet; auf Wunsch ist eine
-    Teil-Auszahlung beim Projektstart möglich.
-- question: In welchen Regionen?
-  answer: Wien, Niederösterreich und Burgenland – immer gekoppelt an einen bestätigten
-    Auftrag.
 schema_type: Service
-service_type: Antiquitäten Wertanrechnung
+service_type: 'Antiquitäten: Wertanrechnung bei einer Räumung'
 permalink: "/leistungen/antiquitaeten-ankauf/"
 intent_primary: Wertanrechnung
 intent_secondary: Antiquitäten Ankauf
+enquiry_service: entruempelung
+redirect_from:
+- "/leistungen/antiquitaeten-ankauf-:region/"
+faqs:
+- question: Ist die Prüfung ein Echtheits- oder Wertgutachten?
+  answer: Nein. Eine mögliche Anrechnung im Räumungsauftrag ist keine verbindliche
+    Zuschreibung oder formale Bewertung. Klären Sie gesondert, wenn Sie ein Gutachten
+    für einen anderen Zweck benötigen.
 ---
-## Antiquitäten fair bewerten – nur mit Entrümpelung & Räumung
+Bei einer Räumung können geeignete, freigegebene Antiquitäten auf eine mögliche Wertanrechnung geprüft werden. Ein separater Einzelankauf, Echtheitsgutachten oder verbindlicher Gegenwert wird hier nicht zugesagt.
 
-Wir kombinieren Entrümpelung/Räumung mit einer transparenten Wertanrechnung für Antiquitäten. Einzelankäufe ohne Räumungsauftrag bieten wir nicht an.
+Beschreiben Sie Art, Maße, sichtbaren Zustand und vorhandene Unterlagen. Trennen Sie belegte Herkunft von Vermutungen. Zusammengehörige Teile und Zubehör bleiben zugeordnet; notwendige Veränderungen oder Demontagen werden vorher besprochen.
 
-### Geeignete Objekte
+Entscheiden Sie zuerst, was Sie behalten. Bei mehreren Beteiligten braucht es eine abgestimmte Auswahl. Für die mögliche Anrechnung sollten Gegenstände und bestätigte Summe im Räumungsangebot erkennbar sein. Wer die Prüfung übernimmt und welche Aussage sie ermöglicht, wird vor der Beauftragung geklärt. Eine formale Bewertung für andere Zwecke ist eine eigene Aufgabe.
 
-- Antike Möbel, Biedermeier bis Mid-Century
-- Gemälde, Skulpturen, Grafiken, Ikonen
-- Schmuck, Silber, Porzellan, Uhren
-
-### Ablauf der Wertanrechnung
-
-1. **Fotos & Infos senden** – Signaturen, Maße, Zustand.
-2. **Besichtigung & Fixpreis** – inklusive klarer Anrechnung Ihrer Stücke.
-3. **Räumung & Gutschrift** – wir transportieren die Objekte und verrechnen den vereinbarten Betrag oder zahlen anteilig aus.
-
-### Regionen
-
-Wien, Niederösterreich und Burgenland – diskret, versichert und mit kunsthistorischer Expertise.
-
-**Nächster Schritt:** Fotos schicken, Räumung nennen, Termin sichern. Sie erhalten einen Fixpreis inklusive Wertanrechnung für Ihre Antiquitäten.
+Für persönliche Auswahlfragen hilft [Verlassenschaft](/leistungen/verlassenschaft/), für die Kalkulation [Wertanrechnung](/ratgeber/wertanrechnung-guide/).

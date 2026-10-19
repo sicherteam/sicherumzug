@@ -1,87 +1,72 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: Umzug 1070 Wien
-footer_title: "Umzug & Übersiedlung 1070 (Neubau)"
-seo_title: Umzug 1070 Wien - Übersiedlung Neubau
-description: "Professioneller Umzug & Übersiedlung. Besonderer Fokus auf enge Gassen, Ladefenster und offizielle Halteverbotszonen in Neubau und angrenzenden Bezirken."
-
-kicker: Bezirk 1070
+last_modified_at: '2026-10-11'
+title: Umzug in 1070 Wien (Neubau)
+footer_title: Umzug & Übersiedlung 1070 (Neubau)
+seo_title: Umzug 1070 Wien (Neubau) | Sicher Team
+description: 'Umzug in 1070 Wien: aktuelle Neubaugasse-Anfahrt, Hauseingang und große
+  Möbel prüfen. Verpackung und Montage nach konkreter Vereinbarung.'
+kicker: Umzug & Übersiedlung
 state: wien
 region_type: Bezirk
-hero_image: /topbg.webp
-highlights:
-- Logistik-Profis für Altbau-Stiegen & Hinterhöfe
-- Fixpreis inkl. Halteverbotszone & Behördenwege
-- Wertanrechnung für Designermöbel, Kunst & Vinyl-Sammlungen
-- Spezialisiert auf die engen Gassen des Spittelbergs
-checklist:
-- Haushalte & Wohnungen inkl. Küchen, Möbeln und Elektrogeräten
-- Keller & Dachböden in den Biedermeierhäusern
-- Büros & Studios mit DSGVO-konformer Aktenvernichtung
-- Sperrmüll & Einzelstücke vom Kühlschrank bis zur Couch
-- Verlassenschaften mit sensibler Begleitung
-- Messie-Wohnungen diskret & strukturiert
-process:
-- title: Kontakt & Termin
-  description: Sie melden sich, wir vereinbaren kurzfristig eine Gratis Erstbesichtigung
-    in Neubau.
-- title: Fixpreis-Angebot
-  description: Vor Ort analysieren wir Umfang, Logistik und anrechenbare Werte und
-    erstellen ein transparentes Angebot.
-- title: Professionelle Übersiedlung
-  description: Unser Team sortiert, demontiert und transportiert alles ab – inklusive
-    Organisation der Halteverbotszone.
-- title: Schlüsselfertige Übergabe
-  description: Wir übergeben die Fläche sauber, dokumentiert und bereit für die Weiternutzung.
-faqs:
-- question: Welche Logistik ist bei einem Umzug in dieser Region typisch?
-  answer: Typisch in 1070 Wien sind enge Zeitfenster, begrenzte Haltezonen und objektspezifische
-    Hausregeln. Darum starten wir mit einer kurzen Vorprüfung zu Zugang, Trageweg
-    und Etagenlogik. So bleibt der Ablauf am Einsatztag stabil und vermeidet unnötige
-    Wartezeiten.
-- question: Wie gehen Sie mit Liftregeln und Stiegenhaus-Schutz um?
-  answer: Wir klären Liftzeiten, Schutzvorgaben und Laufwege vor dem Termin und planen
-    die Reihenfolge danach. Bei sensiblen Gebäuden kommen Schutzmaterial und klare
-    Tragezonen zum Einsatz. Das reduziert Reibung mit Hausverwaltung und Nachbarn.
-- question: Ist eine Wertanrechnung in diesem Bezirk möglich?
-  answer: Ja, verwertbare Gegenstände können nach Sichtung angerechnet werden. Wichtig
-    ist eine realistische Bewertung nach Zustand und Nachfrage. Die Positionen werden
-    transparent in die Kalkulation aufgenommen, damit der Endpreis nachvollziehbar
-    bleibt.
-- question: Welche Angaben brauchen Sie für ein Fixpreis-Angebot in 1070 Wien?
-  answer: Am wichtigsten sind aktuelle Fotos, Adresse, Kontaktdaten und der gewünschte
-    Termin. Angaben zu Etage, Lift, Innenhof oder Keller verbessern die Erstkalkulation.
-    Damit erhalten Sie schneller eine belastbare Rückmeldung zum Ablauf.
 schema_type: Service
 service_type: Umzug
-permalink: /leistungen/umzug-1070-wien/
-redirect_from:
-- /leistungen/haushaltsaufloesung-1070-wien/
-- /entruempelung-1070-wien/
-- /raeumung-1070-wien/
-local_logistics_note: In 1070 Wien stimmen wir Ladefenster, Liftzeiten und Zugangspunkte
-  vorab mit der Hausverwaltung ab.
-micro_case: 'Aktuelle Praxis in 1070 Wien: kurze Vorprüfung per Nachricht, Besichtigung
-  vor Ort und termintreue Übersiedlung mit Protokoll.'
-proof_date: 2026-02-09
+permalink: "/leistungen/umzug-1070-wien/"
+redirect_from: []
+enquiry_service: umzug
+sources:
+- title: 'Stadt Wien: Neubaugasse-Neugestaltung'
+  url: https://www.wien.gv.at/stadtplanung/begegnungszone-neubaugasse
+- title: 'Stadt Wien: neue Verkehrsführung Neubaugasse'
+  url: https://www.wien.gv.at/neubau/neubaugasse-neue-verkehrsfuehrung
+- title: 'WKO: Burggasse–Neubaugasse–Siebensterngasse'
+  url: https://www.wko.at/wien/verkehr-betriebsstandort/7-burggasse-neubaugasse-siebensterngasse
+- title: 'Stadt Wien: kurzfristige Halteverbotszone'
+  url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
+faqs:
+- question: Ist die alte Anfahrt durch die Neubaugasse weiterhin richtig?
+  answer: Im Abschnitt Burggasse bis Siebensterngasse wurde die Einbahnführung im
+    August 2026 geändert. Prüfen Sie die aktuelle Beschilderung und die geeignete
+    Route für das tatsächliche Fahrzeug.
+- question: Kann ich Spiegel oder Bilder mitanfragen?
+  answer: Ja. Nennen Sie Maße, Material und besondere Anforderungen. Benötigte Verpackung
+    und die Möglichkeit einer besonderen Beförderung müssen für das konkrete Stück
+    geprüft und im Angebot bestätigt werden.
 ---
-## Shuttle-Logistik in den Gassen von Neubau
-In 1070 Wien betreuen wir regelmässig Einsätze in Spittelberg, Zollergasse, Kirchengasse und Neubaugasse. In 1070 sind enge Gassen und begrenzte Haltezonen der Standard. Viele Objekte kombinieren Wohnnutzung mit Designinventar und sensiblen Einzelstücken. Wir arbeiten mit kompakten Fahrzeugen und klaren Umladepunkten für kurze Wege.
+## Umzug in 1070 Wien: Zugang vor Zusatzleistungen klären
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Für eine Übersiedlung in Neubau können Sie Sicher Team den Haushaltsbestand oder einzelne Möbel anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Bei einer Adresse an der Neubaugasse ist die aktuelle Verkehrsführung ein konkreter Planungspunkt. Gewünschte Verpackung, Zerlegung und Aufbau werden zusätzlich im Angebot festgehalten.
 
-### Welche Logistik ist in 1070 Wien typisch?
-Typisch sind in 1070 Wien unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Möbeltransport mit abgestimmter Logistik](/leistungen/entruempelung-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Neubaugasse: die aktuelle Anfahrt für 2026 prüfen
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Wertanrechnung für Altwaren im Projekt](/leistungen/altwaren-ankauf/) und stützen die lokale Planung mit [Guide zur Möbelbewertung in Wien](/ratgeber/gebrauchte-moebel-verkaufen-wien/). Den regionalen Rahmen finden Sie unter [Bundesland Wien](/bundesland/wien/).
+Für einen Umzug in Neubau lohnt sich zuerst die Prüfung der Straßenführung. Die Stadt Wien meldet seit 17. August 2026 eine neue Einbahnführung im Abschnitt Neubaugasse zwischen Burggasse und Siebensterngasse. Ältere Wegbeschreibungen können damit überholt sein. [Stadt Wien: neue Verkehrsführung Neubaugasse](https://www.wien.gv.at/neubau/neubaugasse-neue-verkehrsfuehrung).
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für 1070 Wien eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+Die WKO-Mitteilung zur Umgestaltung nennt die Zufahrt über Kirchengasse und Siebensterngasse sowie eine Ausnahme für den Busverkehr. Die Mitteilung beschreibt den damals geplanten Umbau; für die konkrete Fahrt sind die aktuelle Beschilderung und das eingesetzte Fahrzeug maßgeblich. Eine Busausnahme ist keine Zufahrtszusage für ein Umzugsfahrzeug. [WKO: Burggasse, Neubaugasse, Siebensterngasse](https://www.wko.at/wien/verkehr-betriebsstandort/7-burggasse-neubaugasse-siebensterngasse).
 
-Gerade in 1070 Wien zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+### Begegnungszone und Hauszugang sind unterschiedliche Fragen
 
+Die Stadt bezeichnet außerdem die Neubaugasse zwischen Mariahilfer Straße und Burggasse als Begegnungszone. Die dortige niveaugleiche Straßenfläche beschreibt den öffentlichen Straßenraum. Sie sagt nicht, dass eine Wohnung stufenlos erreichbar ist oder eine Ladefläche vor dem Hauseingang frei bleibt. [Stadt Wien: Umgestaltung der Neubaugasse](https://www.wien.gv.at/stadtplanung/begegnungszone-neubaugasse).
 
-### Umzug Logistik für diesen Bezirk
-Neubau (1070 Wien) ist bekannt für schmale Einbahnstraßen und dichte Verbauung. Wir kümmern uns im Vorfeld um Halteverbotszonen in der oft stark frequentierten Lerchenfelder Straße oder Mariahilfer Straße. Bei Altbauten ohne Lift setzen wir unseren Möbelaufzug ein.
+Prüfen Sie deshalb den tatsächlich genutzten Eingang: Liegt er direkt an der Straße, im Hof oder an einer anderen Gebäudeseite? Halten Sie Torbreite, enge Richtungswechsel, Stiege und Lift getrennt fest. Das größte nicht zerlegbare Stück verdient dabei zuerst Aufmerksamkeit. Für Bilder, Spiegel oder empfindliche Einrichtung sollten Verpackung und gewünschte Behandlung zusätzlich als konkrete Stückanforderung beschrieben werden. Eine Adresse in Neubau begründet keine pauschale Kunsttransportleistung.
+
+### Ladefläche und Verantwortlichkeit vor dem Termin abstimmen
+
+Eine kurzfristige Halteverbotszone muss bei der MA 46 beantragt werden. Die Stadt nennt mindestens zehn Werktage Vorlauf und einen vorhandenen regulären Parkstreifen als Voraussetzung. Eine solche Zone ersetzt keine andere erforderliche Zufahrtsberechtigung. [Stadt Wien: kurzfristige Halteverbotszone](https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung).
+
+Für die [Anfrage zum Umzug in Wien](/leistungen/umzug-wien/) gehören die genaue Adresse, der geplante Tag, der zugängliche Eingang und die Bestandsliste zusammen. Lassen Sie im Angebot festhalten, wer Zufahrt und Ladeorganisation klärt und welche Verpackungs- oder Montagearbeiten tatsächlich enthalten sind. Eine übermittelte Anfrage reserviert weder den Straßenraum noch einen bestätigten Ausführungstermin.
+
+## Stückanforderungen und Straßenbedingungen verbinden
+
+Die richtige Anfahrt löst noch keine enge Liftöffnung. Umgekehrt hilft eine genaue Möbelliste nicht, wenn der nutzbare Eingang oder die Ladeorganisation offen bleibt. Stellen Sie beide Themen gemeinsam zusammen, damit der tatsächliche Auftrag geprüft werden kann.
+
+| Planungspunkt | Ihre Angaben | Im Angebot festzuhalten |
+| --- | --- | --- |
+| Anfahrt | Genaue Adresse, Eingang und gewünschter Tag | Verantwortlichkeit für die konkrete Zufahrtsprüfung |
+| Größtes Möbel | Maße, zerlegbare Teile und Engstellen | Transportweise und vereinbarte Montage |
+| Empfindliches Stück | Material, Glasflächen und bestehende Schäden | Benötigte Verpackung und Leistungsumfang |
+| Straßenraum | Bekannte Freigaben und offene Bewilligungen | Wer Antrag und Ladeorganisation übernimmt |
+
+### Packhilfe statt pauschalem Kunsttransportversprechen
+
+Wenn Bilder, Spiegel oder Atelierbestand mitgenommen werden, nennen Sie die tatsächlichen Stücke und deren Anforderungen. Ein gewöhnlicher gerahmter Druck, ein großflächiger Spiegel und ein wertvolles Original sind keine gleichwertigen Transportpositionen. Für besondere Gegenstände müssen Eignung, Behandlung und gewünschte Bedingungen ausdrücklich geprüft werden. Ein Bezirksname ist kein Nachweis einer spezialisierten Ausführung.
+
+Vergleichen Sie Angebote mit derselben Bestandsliste, derselben Anfahrt und derselben Vorbereitung. Fragen Sie, ob Verpackung und Aufbau enthalten sind, welche Aufgaben bei Ihnen bleiben und wer tatsächlich ausführt. Änderungen an Verkehrsbedingungen, Eingang oder Umfang gehören vor der Ausführung in die Abstimmung. Über [Angebot anfragen](/angebot/) können Sie bekannte Angaben und offene Punkte zusammen übermitteln.

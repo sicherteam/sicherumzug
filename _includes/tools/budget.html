@@ -1,0 +1,36 @@
+<div id="budget-tool">
+  <form id="budget-form" class="tool-form" novalidate>
+    <div class="tool-field"><label for="budget-scope">Vergleichen Sie denselben Umzug und denselben Leistungsumfang?</label><select id="budget-scope" name="scope"><option value="unknown">Noch nicht geprüft</option><option value="same">Ja, Strecke, Inventar und benötigte Arbeiten sind abgeglichen</option><option value="different">Teilweise unterschiedlich</option></select><small>Zum Beispiel Packen, Tragen und Möbelmontage bei beiden Wegen berücksichtigen.</small></div>
+    <fieldset><legend>1. Selbst organisiert</legend><div class="tool-form">
+      <p class="tool-note">Eigene Angebote und geplante Einkäufe übernehmen. Leer bedeutet „nicht beziffert“. 0 bedeutet ausdrücklich: Für diese Position ist keine Ausgabe vorgesehen.</p>
+      <div class="tool-grid">
+        {% assign diy_keys = 'rental,fuel,material,parking,helpers' | split: ',' %}
+        {% assign diy_labels = 'Fahrzeugmiete,Kraftstoff und Fahrt,Verpackungsmaterial,Ladeplatz und Parken,Helfer und Tragehilfen' | split: ',' %}
+        {% for key in diy_keys %}<div class="tool-field"><label for="budget-{{ key }}">{{ diy_labels[forloop.index0] }} (€)</label><input id="budget-{{ key }}" name="{{ key }}" type="number" min="0" max="100000" step="0.01" inputmode="decimal"></div>{% endfor %}
+      </div>
+      <details><summary>Weitere eigene Ausgaben ergänzen <small>(optional)</small></summary><div class="tool-form">
+        {% for i in (1..2) %}<div class="tool-grid"><div class="tool-field"><label for="budget-custom-{{ i }}-label">Bezeichnung für Zusatzposition {{ i }}</label><input id="budget-custom-{{ i }}-label" name="custom_{{ i }}_label" type="text" maxlength="60" placeholder="Zum Beispiel Einlagerung"></div><div class="tool-field"><label for="budget-custom-{{ i }}-amount">Betrag für Zusatzposition {{ i }} (€)</label><input id="budget-custom-{{ i }}-amount" name="custom_{{ i }}_amount" type="number" min="0" max="100000" step="0.01" inputmode="decimal"></div></div>{% endfor %}
+        <small>Nur Kosten ergänzen, die noch in keiner anderen Position enthalten sind. Eine benannte Position ohne Betrag bleibt offen.</small>
+      </div></details>
+      <div class="tool-grid"><div class="tool-field"><label for="budget-deposit">Rückerstattbare Mietwagen-Kaution (€)</label><input id="budget-deposit" name="deposit" type="number" min="0" max="100000" step="0.01" inputmode="decimal" aria-describedby="budget-deposit-help"><small id="budget-deposit-help">Separat von den Ausgaben. Rückerstattung, Freigabe und mögliche Abzüge beim Vermieter prüfen. Leer bedeutet ungeklärt.</small></div><div class="tool-field"><label for="budget-diy-hours">Ihr eigener Aufwand (Personenstunden)</label><input id="budget-diy-hours" name="diy_hours" type="number" min="0" max="1000" step="0.5" inputmode="decimal" aria-describedby="budget-hours-help"><small id="budget-hours-help">Optional. Zwei Personen mit je 5 Stunden ergeben 10 Personenstunden. Vorbereitung und Rückgabe mitdenken.</small></div></div>
+    </div></fieldset>
+    <fieldset><legend>2. Mit Umzugsfirma</legend><div class="tool-form">
+      <div class="tool-field"><label for="budget-quote">Vorhandener Firmen-Gesamtbetrag inkl. USt (€)</label><input id="budget-quote" name="quote" type="number" min="0" max="100000" step="0.01" inputmode="decimal" required aria-describedby="budget-quote-help"><small id="budget-quote-help">Einen Gesamtbetrag aus Ihrem Angebot übernehmen. Bei Stundenabrechnung den geschätzten Gesamtbetrag, keine einzelne Stundenrate. Firmennamen brauchen Sie nicht.</small></div>
+      <div class="tool-field"><label for="budget-price-type">Preisvereinbarung im Firmenangebot</label><select id="budget-price-type" name="price_type"><option value="unknown">Noch unklar</option><option value="fixed">Schriftlicher Fixpreis für den beschriebenen Umfang</option><option value="estimate">Geschätzter Gesamtbetrag bei Stundenabrechnung</option></select></div>
+      <div class="tool-field"><label for="budget-extras">Bezifferte Firmen-Zusatzkosten inkl. USt (€)</label><input id="budget-extras" name="extras" type="number" min="0" max="100000" step="0.01" inputmode="decimal" aria-describedby="budget-extras-help"><small id="budget-extras-help">Nur zusätzliche Leistungen, die im Gesamtbetrag noch fehlen. Leer bedeutet ungeklärt. 0 nur bei geklärten, nicht anfallenden Zusatzkosten.</small></div>
+      <details><summary>Teilzahlung &amp; eigene Restarbeiten <small>(optional)</small></summary><div class="tool-grid"><div class="tool-field"><label for="budget-advance">Anzahlung, bereits im Gesamtbetrag enthalten (€)</label><input id="budget-advance" name="advance" type="number" min="0" max="100000" step="0.01" inputmode="decimal"><small>Wird nicht erneut auf den Preis addiert. Fälligkeit und Bedingungen im Angebot prüfen.</small></div><div class="tool-field"><label for="budget-pro-hours">Ihr eigener Aufwand mit Firma (Personenstunden)</label><input id="budget-pro-hours" name="pro_hours" type="number" min="0" max="1000" step="0.5" inputmode="decimal"><small>Zum Beispiel Packen und Vorbereitung, wenn diese Aufgaben bei Ihnen bleiben.</small></div></div></details>
+    </div></fieldset>
+    <p class="tool-note">Die Rechnung läuft im Browser, ohne Anmeldung oder automatische Speicherung. Unbekannte Kosten werden nicht geschätzt. Die Übersicht bewertet keine Anbieterqualität und keinen Versicherungsschutz.</p>
+    <p id="budget-error" class="tool-error" role="alert" hidden></p>
+    <div class="tool-actions"><button class="button" type="submit">Mein Budget vergleichen</button><button class="tool-secondary" type="reset">Zurücksetzen</button></div>
+  </form>
+  <div id="budget-result" class="tool-result" aria-live="polite" hidden>
+    <h3>Ihr Budget im Vergleich</h3><p id="budget-difference"></p><p id="budget-context" class="tool-note"></p>
+    <div class="tool-table-wrap" tabindex="0" role="region" aria-label="Kostenvergleich: selbst organisiert und Umzugsfirma"><table class="tool-comparison-table"><caption>Bekannte Beträge und eigener Aufwand</caption><thead><tr><th scope="col">Vergleichspunkt</th><th scope="col">Selbst organisiert</th><th scope="col">Mit Umzugsfirma</th></tr></thead><tbody id="budget-table"></tbody></table></div>
+    <h3>Ihre eingetragenen DIY-Ausgaben</h3><ul id="budget-costs"></ul>
+    <h3>Kaution und Teilzahlung</h3><p id="budget-cash"></p><p id="budget-advance-note"></p><p id="budget-time"></p>
+    <h3>Vor der Entscheidung klären</h3><ul id="budget-questions"></ul>
+    <div class="tool-actions"><a id="budget-enquiry" class="button" href="{{ '/angebot/?service=umzug#angebot-form' | relative_url }}">Budget als Anfrage mitnehmen</a><button id="budget-print" class="tool-secondary" type="button">Vergleich drucken</button></div>
+    <p class="tool-note">Alle Beträge sind Ihre eigenen Angaben inklusive Umsatzsteuer. Die bekannte Summe ist bei offenen Positionen kein vollständiger Endpreis. Eigene Personenstunden werden nicht in Euro umgerechnet. Das Ergebnis ist eine Planungshilfe, kein verbindliches Angebot.</p>
+  </div>
+</div>

@@ -1,20 +1,20 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
+last_modified_at: 2026-08-05 14:01:00.000000000 +02:00
 layout: page
-title: "Datenschutzerklärung"
-seo_title: "Datenschutz & DSGVO | Sicher Team"
-description: "Datenschutzerklärung der Sicher Team e.U. gemäß DSGVO. Informationen zur Verarbeitung Ihrer personenbezogenen Daten auf unserer Website."
-permalink: /datenschutz/
+title: Datenschutzerklärung
+seo_title: Datenschutz & DSGVO | Sicher Team
+description: Datenschutzerklärung der Sicher Team e.U. gemäß DSGVO. Informationen
+  zur Verarbeitung Ihrer personenbezogenen Daten auf unserer Website.
+permalink: "/datenschutz/"
 llm_exclude: true
 ---
-
 <div class="container mx-auto px-4 py-16">
   <div class="prose prose-slate max-w-4xl mx-auto">
     <p>Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.</p>
 
     <h2>Kontakt mit uns</h2>
     <p>Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.</p>
-    <p>Anfragen über das Angebotsformular (einschließlich optionaler Foto-Uploads) werden über einen Cloudflare-Worker als Form-Handler entgegengenommen. Cloudflare fungiert dabei als Auftragsverarbeiter. Die übermittelten Daten dienen ausschließlich der Bearbeitung Ihrer Anfrage und werden nicht zu anderen Zwecken genutzt.</p>
+    <p>Anfragen über das Angebotsformular (einschließlich optionaler Fotos und Vergleichsangebote als PDF oder Bild) werden über einen Cloudflare-Worker als Form-Handler entgegengenommen. Cloudflare fungiert dabei als Auftragsverarbeiter. Die übermittelten Daten dienen ausschließlich der Bearbeitung Ihrer Anfrage und werden nicht zu anderen Zwecken genutzt.</p>
 
     <h2>Datenspeicherung</h2>
     <p>Wir weisen darauf hin, dass zum Zweck der Vertragsabwicklung folgende Daten bei uns gespeichert werden: Name, Anschrift, E-Mail-Adresse und Telefonnummer. Die von Ihnen bereitgestellten Daten sind zur Vertragserfüllung bzw. zur Durchführung vorvertraglicher Maßnahmen erforderlich. Ohne diese Daten können wir den Vertrag mit Ihnen nicht abschließen. Eine Datenübermittlung an Dritte erfolgt nicht, mit Ausnahme der Übermittlung an abwickelnde Bankinstitute/Zahlungsdienstleister zum Zwecke der Abbuchung des Einkaufspreises, an von uns beauftragte Transportunternehmen/Versandunternehmen zur Zustellung der Ware sowie an unseren Steuerberater zur Erfüllung unserer steuerrechtlichen Verpflichtungen.</p>
@@ -30,3 +30,13 @@ llm_exclude: true
     Telefon: +43 660 6060775</p>
   </div>
 </div>
+
+
+## Interaktive Planungshilfen
+
+Die Rechner und der Umzugsplaner verarbeiten Ihre Eingaben zunächst im Browser. Soweit ein Tool eine Speicherung anbietet, wird sie erst durch Ihre ausdrückliche Auswahl aktiviert. Die Angaben werden dann im lokalen Browserspeicher auf diesem Gerät abgelegt. Sie können den gespeicherten Stand über die Zurücksetzen-Funktion des jeweiligen Tools oder durch Löschen der Browserdaten entfernen. Eine solche lokale Speicherung sendet die Angaben nicht an Sicher Team.
+
+Wenn Sie ein Tool-Ergebnis in das Anfrageformular übernehmen, erscheinen die Planungsangaben dort zur Prüfung und Bearbeitung. Beim Absenden werden sie mit Ihrer Anfrage verarbeitet. Die Übergabe erfolgt über einen Link; dessen Adresse kann im Verlauf Ihres Browsers stehen. Nutzen Sie für die Planung möglichst Mengen, Orte und Sachangaben und tragen Sie persönliche Kontaktdaten erst im Anfrageformular ein.
+
+
+Entwürfe für Wohnungsübergabe, Adressmitteilungen und Kartonetiketten werden im Browser verarbeitet. Die darin eingetragenen Namen, Anschriften, Zählerstände und Inhalte werden nicht automatisch übertragen oder gespeichert. Die Exportdateien können solche Angaben enthalten; bewahren Sie sie entsprechend auf. Beim optionalen Wechsel zum Anfrageformular werden aus diesen Dokumententools nur allgemeine Planungsangaben übernommen, keine privaten Dokumentinhalte. Nachrichten an Behörden oder Vertragspartner müssen Sie selbst auf dem gewünschten Weg versenden.

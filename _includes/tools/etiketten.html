@@ -1,0 +1,21 @@
+<form id="labels-form" class="tool-form" data-labels-tool>
+  <div class="tool-grid">
+    <div class="tool-field"><label for="label-room">Zielraum</label><input id="label-room" name="room" type="text" list="label-room-options" maxlength="40" required value="Wohnzimmer" autocomplete="off"><datalist id="label-room-options"><option value="Wohnzimmer"><option value="Küche"><option value="Schlafzimmer"><option value="Kinderzimmer"><option value="Arbeitszimmer"><option value="Bad"><option value="Keller"><option value="Zuerst öffnen"></datalist></div>
+    <div class="tool-field"><label for="label-count">Anzahl Etiketten</label><input type="number" id="label-count" name="count" min="1" max="48" step="1" value="6" required></div>
+    <div class="tool-field"><label for="label-start">Erste Kartonnummer</label><input type="number" id="label-start" name="start" min="1" max="9999" step="1" value="1" required></div>
+    <div class="tool-field"><label for="label-content">Kurzer Inhaltshinweis (optional)</label><input id="label-content" name="content" type="text" maxlength="90" autocomplete="off" placeholder="Zum Beispiel Bücher"></div>
+  </div>
+  <fieldset class="tool-options"><legend>Hinweise für diesen Satz</legend><label><input type="checkbox" name="fragile"> Zerbrechlich</label><label><input type="checkbox" name="upright"> Diese Seite oben</label></fieldset>
+  <label><input type="checkbox" id="label-signs" name="signs"> Passende Raumschilder hinzufügen</label>
+  <p class="tool-help">Bis zu 48 Karten insgesamt. Raumschilder zählen mit. Jeder neue Satz wird zur bestehenden Liste ergänzt. Keine automatische Speicherung.</p>
+  <p id="labels-error" class="tool-error" role="alert"></p>
+  <button type="submit" class="button button-primary">Etiketten erstellen / ergänzen <span aria-hidden="true">→</span></button>
+</form>
+<section id="labels-result" class="tool-result tool-printable" aria-labelledby="labels-title" hidden>
+  <h2 id="labels-title">Ihre Kartonetiketten</h2>
+  <p id="labels-summary" aria-live="polite"></p>
+  <p class="tool-help">A4-Papier verwenden, einen Testbogen drucken und entlang der Kartenränder ausschneiden. Keine Vorlage für vorgestanzte Klebeetiketten. Die Hinweise ersetzen keine geeignete Verpackung.</p>
+  <div id="labels-cards" class="tool-label-grid"></div>
+  <div class="tool-action-row tool-no-print"><button type="button" id="labels-print" class="tool-secondary">Etiketten drucken</button><button type="button" id="labels-reset" class="tool-text-button">Alle Etiketten löschen</button></div>
+</section>
+<p id="labels-status" class="tool-status" role="status"></p>

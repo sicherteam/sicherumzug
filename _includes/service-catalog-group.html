@@ -1,0 +1,3 @@
+<section class="catalog-group"{% if include.id %} id="{{ include.id }}"{% endif %} data-catalog-group><h2>{{ include.group.title }}</h2><div class="catalog">
+{% for slug in include.group.slugs %}{% assign service_url = '/leistungen/' | append: slug | append: '/' %}{% assign item = site.services | where: 'url', service_url | first %}{% if item and item.redirect_to == nil and item.layout != 'redirect' %}{% assign directory_card = site.data.service_directory.cards[slug] %}{% include service-catalog-item.html item=item card=directory_card %}{% endif %}{% endfor %}
+</div></section>

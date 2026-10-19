@@ -1,0 +1,16 @@
+const assert=require('node:assert/strict');
+const tomorrow=new Date(Date.now()+45*86400000).toISOString().slice(0,10);
+const specs=[
+{ id:'kosten',path:'/umzugskosten-rechner/',form:'#cost-form',result:'#cost-result',quote:'#cost-quote',reset:'#cost-reset',setup:async p=>{await p.locator('#cost-size').selectOption('small')},check:async p=>assert.match(await p.locator('#cost-price').innerText(),/288.*352/)},
+{ id:'kartons',path:'/umzugskarton-rechner/',form:'#carton-form',result:'#carton-result',quote:'#carton-enquiry',reset:'#carton-form button[type=reset]',check:async p=>assert.match(await p.locator('#carton-range').innerText(),/35 bis 55/)},
+{ id:'planer',path:'/umzugsplaner/',form:'#moving-planner',result:'#planner-result',quote:'#planner-enquiry',reset:'#planner-reset',setup:async p=>p.locator('#planner-date').fill(tomorrow)},
+{ id:'volumen',path:'/umzugsvolumen-rechner/',form:'#volumen-form',result:'#volume-result',quote:'#volume-quote-link',reset:'#volume-reset',check:async p=>assert.match(await p.locator('#volume-range').innerText(),/1,4.*1,6/)},
+{ id:'vergleich',path:'/umzugsangebote-vergleichen/',form:'#offers-form',result:'#offers-result',quote:'#offers-enquiry',reset:'#offers-form button[type=reset]',setup:async p=>{await p.locator('#offer-a-amount').fill('1000');await p.locator('#offer-b-amount').fill('1200');await p.locator('#offer-a-extras').fill('50');},check:async p=>assert.match(await p.locator('#offers-difference').innerText(),/150,00/)},
+{ id:'budget',path:'/umzug-budget-vergleichen/',form:'#budget-form',result:'#budget-result',quote:'#budget-enquiry',reset:'#budget-form button[type=reset]',setup:async p=>{await p.locator('#budget-rental').fill('180');await p.locator('#budget-fuel').fill('70');await p.locator('#budget-material').fill('60');await p.locator('#budget-parking').fill('40');await p.locator('#budget-helpers').fill('80');await p.locator('#budget-quote').fill('750');await p.locator('#budget-extras').fill('50');},check:async p=>assert.match(await p.locator('#budget-difference').innerText(),/370,00/)},
+{ id:'uebergabe',path:'/ratgeber/wohnungsuebergabeprotokoll-oesterreich-muster/',form:'#handover-form',result:'#handover-result',quote:'#handover-enquiry',reset:'#handover-reset',setup:async p=>{await p.locator('#handover-address').fill('TESTSTRASSE-PRIVATE-987');await p.locator('#handover-form details').first().locator('summary').click();await p.locator('#handover-tenant').fill('PRIVATE-NAME-987')}},
+{ id:'halteplatz',path:'/ratgeber/halteverbotszone-umzug-oesterreich/',form:'#parking-form',result:'#parking-result',quote:'#parking-enquiry',reset:'#parking-form button[type=reset]',setup:async p=>p.locator('#parking-date').fill(tomorrow)},
+{ id:'adressen',path:'/adressaenderung-checkliste/',form:'#addresses-form',result:'#addresses-result',reset:'#addresses-reset'},
+{ id:'etiketten',path:'/umzugskarton-etiketten/',form:'#labels-form',result:'#labels-result',reset:'#labels-reset',check:async p=>assert.equal(await p.locator('#labels-result .tool-label-card[data-kind="carton"]').count(),6)},
+{ id:'raeumungscheck',path:'/raeumungs-check/',form:'#clearance-check-form',result:'#clearance-check-result',quote:'#clearance-check-enquiry',reset:'#clearance-check-form button[type=reset]'}
+];
+module.exports=specs;

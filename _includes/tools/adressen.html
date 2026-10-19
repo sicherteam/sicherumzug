@@ -1,0 +1,36 @@
+<form id="addresses-form" class="tool-form" data-addresses-tool>
+  <fieldset class="tool-options"><legend>Welche Themen treffen auf Sie zu?</legend>
+    <label><input type="checkbox" name="employed"> Angestellt / Arbeitgeber informieren</label>
+    <label><input type="checkbox" name="ams"> Beim AMS betreut</label>
+    <label><input type="checkbox" name="selfemployed"> Selbstständig oder gewerblich tätig</label>
+    <label><input type="checkbox" name="children"> Kinder in Betreuung oder Schule</label>
+    <label><input type="checkbox" name="study"> Studium / Studienbeihilfe</label>
+    <label><input type="checkbox" name="car"> Eigenes Auto</label>
+    <label><input type="checkbox" name="dog"> Hund im Haushalt</label>
+    <label><input type="checkbox" name="property"> Liegenschaft im Grundbuch</label>
+  </fieldset>
+  <details class="tool-detail"><summary>Nachrichtenvorlage personalisieren (optional)</summary>
+    <div class="tool-grid">
+      <div class="tool-field"><label for="address-old">Bisherige Adresse</label><textarea id="address-old" name="old_address" rows="3" maxlength="250" autocomplete="off" placeholder="Straße, Hausnummer, PLZ und Ort"></textarea></div>
+      <div class="tool-field"><label for="address-new">Neue Adresse</label><textarea id="address-new" name="new_address" rows="3" maxlength="250" autocomplete="off" placeholder="Straße, Hausnummer, PLZ und Ort"></textarea></div>
+      <div class="tool-field"><label for="address-date">Änderung gilt ab</label><input type="date" id="address-date" name="change_date" min="1900-01-01" max="2200-12-31"></div>
+    </div>
+    <p class="tool-help">Optional und nur für Ihre Vorlage. Keine automatische Speicherung, keine Übermittlung in der Umzugsanfrage. Die Angaben erscheinen in Ihren eigenen Downloads.</p>
+  </details>
+  <button type="submit" class="button button-primary">Meine Checkliste erstellen <span aria-hidden="true">→</span></button>
+</form>
+<section id="addresses-result" class="tool-result tool-printable" aria-labelledby="addresses-title" hidden>
+  <h2 id="addresses-title">Ihre Adressänderungs-Checkliste</h2>
+  <p>Vorbereitung für private Haushalte in Österreich. Prüfen Sie individuelle Vorgaben und ergänzen Sie weitere Vertragspartner. Dieses Tool meldet Sie bei keiner Stelle an.</p>
+  <p id="addresses-progress" class="tool-progress" aria-live="polite"></p>
+  <div id="addresses-tasks"></div>
+  <h3>Ihre Nachrichtenvorlage</h3>
+  <div class="tool-field tool-no-print"><label for="addresses-notice">Text vor dem Versand anpassen</label><textarea id="addresses-notice" rows="10" maxlength="3000" aria-describedby="addresses-notice-help"></textarea></div>
+  <p id="addresses-notice-export" class="tool-notice-print"></p>
+  <p id="addresses-notice-help" class="tool-help">Die Vorlage ist keine amtliche Meldung. Nutzen Sie die von der jeweiligen Stelle vorgesehenen Formulare oder Kundenkonten. Empfänger, Vertragsnummer und Nachweise ergänzen Sie selbst. Es wird keine Nachricht versendet.</p>
+  <div class="tool-notice-actions tool-no-print"><button type="button" id="addresses-copy-notice" class="tool-secondary">Nur Nachricht kopieren</button></div>
+  <h3 class="tool-export-heading tool-no-print">Ihre Checkliste mitnehmen</h3>
+  <div class="tool-action-row tool-export-actions tool-no-print"><button type="button" id="addresses-print" class="tool-secondary">Checkliste drucken</button></div>
+  <div class="tool-reset-row tool-no-print"><button type="button" id="addresses-reset" class="tool-text-button">Alle Angaben löschen</button></div>
+</section>
+<p id="addresses-status" class="tool-status" role="status"></p>

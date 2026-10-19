@@ -1,57 +1,37 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-title: Verlassenschaften & Nachlassräumung
-seo_title: Verlassenschaften & Nachlassräumung Wien - Wertanrechnung
-description: Ihre Verlassenschaft Wien. Wir bieten Verlassenschaftsräumung Wien und
-  Verlassenschaften Ankauf Wien an, inkl. Abstimmung mit Notaren und Fixpreis.
+last_modified_at: '2026-10-11'
+title: Verlassenschaft & Nachlassräumung
+seo_title: Verlassenschaftsräumung Wien | Nachlass & Wertanrechnung
+description: 'Nachlass in Wien räumen: persönliche Stücke sichern, Freigaben und Auswahl
+  abstimmen. Räumungsumfang und mögliche Wertanrechnung nachvollziehbar besprechen.'
 kicker: Spezialfall
-highlights:
-- Diskrete Teams & persönliche Ansprechpartnerin
-- Wertgutachten für Antiquitäten und Kunst
-- Zusammenarbeit mit Notaren & Hausverwaltungen
-checklist:
-- Komplette Haushalte & Villen
-- Archive, Bibliotheken & Sammlungen
-- Keller, Dachboden & Garagen
-process:
-- title: Sensible Besichtigung
-  description: Gemeinsamer Rundgang, Inventarliste und Klärung emotionaler Stücke.
-- title: Wertbewertung
-  description: Zusammen mit Partner-Auktion Häusern bewerten wir Kunst & Antiquitäten.
-- title: Räumung
-  description: Teams arbeiten diskret, sortieren Erinnerungsstücke separat und entsorgen
-    würdevoll.
-- title: Finale Übergabe
-  description: Besenrein inkl. Schlüsselprotokoll, Fotos und Liste der verwerteten
-    Gegenstände.
-faqs:
-- question: Können Familienmitglieder nicht vor Ort sein?
-  answer: Wir stimmen jedes Detail digital ab und senden Protokolle & Fotos nach jeder
-    Phase.
-- question: Arbeiten Sie mit Rechtsanwält:innen?
-  answer: Ja, wir koordinieren uns mit Notaren oder Anwälten und übernehmen auf Wunsch
-    die komplette Dokumentation.
 schema_type: Service
-service_type: Verlassenschaft
+service_type: Verlassenschaft & Nachlassräumung
 permalink: "/leistungen/verlassenschaft/"
 intent_primary: Verlassenschaftsräumung
 intent_secondary: Verlassenschaft Ankauf
+enquiry_service: raeumung
+redirect_from:
+- "/verlassenschaftsraeumung-in-wien/"
+- "/leistungen/verlassenschaftsraeumung-wien/"
+faqs:
+- question: Dürfen noch ungeklärte Nachlassstücke entfernt werden?
+  answer: Eine offene Entscheidung ist keine Freigabe. Die zuständigen Personen müssen
+    Auswahl und Berechtigung klären. Persönliche Unterlagen und ungeklärte Gegenstände
+    bleiben separat erfasst.
 ---
-## Verlassenschaft Wien: Respektvolle Verlassenschaftsräumung
+Eine Nachlassräumung setzt eine abgestimmte Auswahl und Freigabe durch die zuständigen Personen voraus. Sie ersetzt kein Verlassenschaftsverfahren und kein Gutachten.
 
-Verlassenschaften in Wien benötigen Zeit und Empathie. Bei einer Verlassenschaftsräumung Wien oder Nachlass Entrümpelung Wien erstellen wir Inventarlisten, trennen Erinnerungsstücke und kümmern uns um den Verlassenschaften Ankauf Wien (Verlassenschaftsankauf) sowie Spenden und Auktionen. Wenn Sie nach einem Todesfall eine Wohnung auflösen müssen (Wohnungsauflösung Todesfall Erbe), übernehmen wir die Wohnungsräumung nach Tod und die Wohnungsauflösung im Todesfall. Auf Wunsch organisieren wir die Reinigung für die Schlüsselübergabe an Makler:innen oder neue Mieter:innen.
+Sichern Sie Dokumente, Fotos, Schlüssel und Erinnerungsstücke. Führen Sie getrennte Listen für Behalten, Übernahme durch Angehörige, Transport und Entfernung. Offene Entscheidungen bleiben ausdrücklich ausgenommen. Eine Kontaktperson bündelt bestätigte Änderungen.
 
-Ankauf erfolgt ausschließlich im Rahmen der Räumung als Wertanrechnung. Der Fixpreis weist die Gegenrechnung transparent aus, damit Sie Planungssicherheit haben.
+Erfassen Sie Wohnung und Nebenräume, Zugänge und Übergabetermin. Eine mögliche Wertanrechnung betrifft nur geeignete, freigegebene Stücke und wird nachvollziehbar vereinbart. Persönlicher Erinnerungswert bleibt von dieser Prüfung unabhängig.
 
-### Häufige Suchanfragen, die wir bedienen
+Im Auftrag werden ausführendes Unternehmen, Bestand, Demontagen und Abschlusszustand geklärt. Bei der Abnahme wird die gleiche Liste verwendet. Für die praktische Verteilung eines Haushalts lesen Sie [Haushaltsauflösung](/leistungen/haushaltsaufloesung/).
 
-- **„verlassenschaft räumung wien“** – Stadtweite Teams koordinieren Notare, Hausverwaltungen und MA 48, inklusive Wertgutachten.
-- **„Wertanrechnung räumung wien“** – Antiquitäten, Kunst und Sammlungen werden gemeinsam mit Partner-Auktionshäusern bewertet und gegengerechnet.
-- **„verlassenschafts auflösung baden / burgenland“** – Mehrtägige Projekte im Wiener Umland inklusive Transport und Zwischenlagerung.
+## Auswahl vor dem Auftrag
 
-[Diskreten Termin vereinbaren](/angebot/) oder via [WhatsApp]({{ site.whatsapp }}) Fotos teilen – wir antworten mit einem klaren Ablaufplan.
-
-### Verwandte Dienstleistungen
-
-- **[Wohnungsauflösung](/leistungen/haushaltsaufloesung/):** Der Standard-Service für komplette Wohnungsräumungen.
-- **[Messie Entrümpelung](/leistungen/messie-entruempelung/):** Hilfe bei extremen Hortungsfällen.
+- Persönliche Unterlagen und Erinnerungsstücke sichern.
+- Empfänger und Abholung weiterzugebender Stücke bestätigen.
+- Transportierte Gegenstände mit Zieladresse erfassen.
+- Nur abgestimmte Entfernung freigeben.
+- Noch ungeklärte Positionen sichtbar ausnehmen.

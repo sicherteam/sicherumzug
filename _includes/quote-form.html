@@ -1,43 +1,16 @@
-<form id="contactForm" enctype="multipart/form-data" class="space-y-4">
-  <input type="hidden" name="subject" value="Neue Anfrage über die Website"/>
-  <div>
-    <label class="text-sm font-bold text-gray-900" for="form-name">Name <span class="text-red-600" aria-hidden="true">*</span></label>
-    <input id="form-name" name="name" required aria-required="true" type="text" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-2 focus:ring-primary-light/30 outline-none transition-colors duration-200" placeholder="Max Mustermann"/>
-  </div>
-  <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
-    <div>
-      <label class="text-sm font-bold text-gray-900" for="form-email">E-Mail (optional)</label>
-      <input id="form-email" name="email" type="email" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-2 focus:ring-primary-light/30 outline-none transition-colors duration-200" placeholder="max@example.com"/>
-    </div>
-    <div>
-      <label class="text-sm font-bold text-gray-900" for="form-phone">Telefon <span class="text-red-600" aria-hidden="true">*</span></label>
-      <input id="form-phone" name="phone" required aria-required="true" type="tel" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-2 focus:ring-primary-light/30 outline-none transition-colors duration-200" placeholder="{{ site.phone }}"/>
-    </div>
-  </div>
-  <div>
-    <label class="text-sm font-bold text-gray-900" for="form-postcode">PLZ <span class="text-red-600" aria-hidden="true">*</span></label>
-    <input id="form-postcode" name="postcode" required aria-required="true" type="text" pattern="[0-9]{4}" inputmode="numeric" maxlength="4" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-2 focus:ring-primary-light/30 outline-none transition-colors duration-200" placeholder="1010"/>
-  </div>
-  <div>
-    <div class="flex justify-between items-center">
-      <label class="text-sm font-bold text-gray-900" for="form-message">Kurzbeschreibung (optional)</label>
-      <span id="form-message-counter" class="text-xs text-text-light" aria-live="polite">0 / 1000</span>
-    </div>
-    <textarea id="form-message" name="message" rows="4" maxlength="1000" aria-describedby="form-message-counter" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-2 focus:ring-primary-light/30 outline-none transition-colors duration-200" placeholder="Was soll geräumt werden? Gibt es Besonderheiten?"></textarea>
-  </div>
-  <div>
-    <label class="text-sm font-bold text-gray-900" for="form-photos">Fotos (optional)</label>
-    <input id="form-photos" name="photos[]" type="file" multiple accept="image/*" aria-describedby="form-photos-hint" class="mt-1 block w-full rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm shadow-sm focus:border-primary-light focus:ring-2 focus:ring-primary-light/30 outline-none file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-xs file:font-semibold file:bg-primary/10 file:text-primary hover:file:bg-primary/20 file:cursor-pointer transition-colors duration-200"/>
-    <div id="file-preview-container" class="mt-2 grid grid-cols-4 gap-2 empty:hidden"></div>
-    <p id="form-photos-hint" class="mt-1.5 text-xs text-text-light">Alternativ können Sie Fotos später per WhatsApp senden.</p>
-  </div>
-  <div class="pt-2 space-y-3">
-    <button type="submit" class="w-full inline-flex items-center justify-center rounded-full bg-primary hover:bg-primary-light text-white px-6 py-4 text-base font-bold shadow hover:shadow-md hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light focus-visible:ring-offset-2 transition-all duration-200 cursor-pointer">
-      Jetzt kostenloses Angebot sichern
-    </button>
-    <p class="text-xs text-text-light text-center">Wir melden uns innerhalb eines Werktags mit einem Terminvorschlag.</p>
-    <p class="text-xs text-text-light text-center">Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Angaben (inkl. optionaler Fotos) gemäß unserer <a href="{{ '/datenschutz/' | relative_url }}" class="underline hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-1 rounded">Datenschutzerklärung</a> zu.</p>
-  </div>
+<noscript><style>#contactForm{display:none}</style><p class="noscript-note">Zum Senden des Formulars benötigen Sie JavaScript. Sie erreichen uns auch unter <a href="tel:{{ site.phone | remove: ' ' }}">{{ site.phone }}</a> oder per <a href="{{ site.whatsapp }}">WhatsApp</a>.</p></noscript>
+<form id="contactForm" action="{{ site.quote_endpoint | default: 'https://form-handler.yasin2celik-62a.workers.dev' }}" method="post" enctype="multipart/form-data" class="quote-form">
+  <div class="enquiry-trap" aria-hidden="true"><label for="form-website">Website</label><input id="form-website" name="website" tabindex="-1" autocomplete="off"></div>
+  <input type="hidden" name="subject" value="Umzugsanfrage über Sicher Team">
+  <div><label for="form-service">Wobei dürfen wir helfen?</label><select id="form-service" name="service"><option value="umzug">Umzug</option><option value="entruempelung">Entrümpelung</option><option value="raeumung">Räumung</option></select></div>
+  <section id="tool-quote-source" class="tool-quote-source" hidden><p>Ihre Planung wurde übernommen. Prüfen und ergänzen Sie die Angaben vor dem Absenden.</p><label for="form-planning">Angaben aus Ihrer Planung <small>(optional)</small></label><textarea id="form-planning" name="planning_summary" rows="5" maxlength="3000"></textarea><button type="button" class="tool-secondary" id="tool-quote-remove">Planung entfernen</button></section>
+  <fieldset data-moving-fields><legend>Von wo nach wo?</legend><div class="form-row"><div><label for="form-origin">Startort / PLZ *</label><input id="form-origin" name="origin" required maxlength="160" autocomplete="off" placeholder="z. B. 1120 Wien"></div><div><label for="form-destination">Zielort / PLZ *</label><input id="form-destination" name="destination" required maxlength="160" autocomplete="off" placeholder="z. B. 2340 Mödling"></div></div><div class="form-row"><div><label for="form-date">Wunschtermin <small>(optional)</small></label><input id="form-date" name="preferred_date" type="date"></div><div><label for="form-size">Umfang <small>(optional)</small></label><select id="form-size" name="moving_size"><option value="">Bitte wählen</option><option>Einzelne Möbel</option><option>1–2 Zimmer</option><option>3–4 Zimmer</option><option>Haus / größere Wohnung</option><option>Büro / Betrieb</option></select></div></div><p class="form-hint">Ort oder Postleitzahl genügen. Die genaue Adresse klären wir persönlich.</p></fieldset>
+  <div data-clearance-fields hidden><label for="form-postcode">Postleitzahl des Objekts *</label><input id="form-postcode" name="postcode" type="text" pattern="[0-9]{4}" inputmode="numeric" autocomplete="postal-code" maxlength="4" placeholder="z. B. 1120" disabled></div>
+  <fieldset class="form-section"><legend>Wie erreichen wir Sie?</legend><div class="form-row"><div><label for="form-name">Ihr Name *</label><input id="form-name" name="name" required autocomplete="name" maxlength="120" placeholder="Vor- und Nachname"></div><div><label for="form-phone">Telefon *</label><input id="form-phone" name="phone" required type="tel" autocomplete="tel" minlength="5" maxlength="30" placeholder="+43 …"></div></div><div><label for="form-email">E-Mail *</label><input id="form-email" name="email" required type="email" autocomplete="email" maxlength="200" placeholder="name@beispiel.at"></div></fieldset>
+  <div><label for="form-message"><span data-message-label>Was sollten wir wissen?</span> <small>(optional)</small><span class="form-count" id="form-message-counter">0 / 1000</span></label><textarea id="form-message" name="message" rows="3" maxlength="1000" placeholder="Etagen und Lift an beiden Adressen, gewünschte Verpackung oder Montage, besondere Möbel …"></textarea></div>
+  <div class="upload-field"><label for="form-photos">{% include ui-icon.html name='camera' %} Fotos hinzufügen <small>(optional)</small></label><input id="form-photos" name="photos[]" type="file" multiple accept="image/jpeg,image/png,image/webp,image/heic,image/heif" aria-describedby="file-count upload-error"><small id="file-count">Bis zu 8 Fotos · insgesamt 20 MB</small><p id="upload-error" class="upload-error" role="status"></p><div id="file-preview-container" class="file-previews"></div></div>
+  <details class="comparison-upload" id="comparison-upload"><summary>Schon ein schriftliches Angebot? 5 % weniger sichern</summary><div class="comparison-upload-body"><p>Für denselben Umzug unter denselben Bedingungen garantieren wir 5 % weniger. <a href="{{ '/preise/#preisgarantie' | relative_url }}">Bedingungen ansehen</a>.</p><label for="form-offer">Vergleichsangebot hinzufügen <small>(optional)</small></label><input id="form-offer" name="comparison_offer" type="file" accept="application/pdf,image/jpeg,image/png,image/webp" aria-describedby="offer-hint offer-error"><small id="offer-hint">PDF, JPG, PNG oder WebP · eine Datei bis 10 MB · zusammen mit Fotos höchstens 20 MB</small><p id="offer-error" class="upload-error" role="status"></p><button type="button" class="tool-secondary" id="offer-remove" hidden>Datei entfernen</button><p>Alternativ per <a href="mailto:{{ site.email }}?subject=Bestpreis-Garantie">E-Mail</a> oder <a href="{{ site.whatsapp }}">WhatsApp</a> senden.</p></div></details>
+  <button type="submit" class="button">Kostenloses Angebot anfragen {% include ui-icon.html %}</button>
+  <p class="form-privacy">* Pflichtfelder. Ihre Anfrage ist unverbindlich. Hinweise zur Verarbeitung Ihrer Angaben und Fotos finden Sie in unserer <a href="{{ '/datenschutz/' | relative_url }}">Datenschutzerklärung</a>.</p>
 </form>
-
-<div id="formResponse" class="mt-4 text-center text-sm font-bold"></div>
+<div id="formResponse" class="form-status" role="status" aria-live="polite"></div>

@@ -1,0 +1,2 @@
+{% assign example = site.data.tool_landing | where: 'id', include.item.id | first %}
+<article class="tool-card tool-feature"><div class="tool-feature-heading">{% include ui-icon.html name=include.item.icon %}<h2><a href="{{ include.item.url | relative_url }}">{{ include.item.label }}</a></h2></div><p>{{ include.item.benefit }}</p>{% include tool-preview.html example=example compact=true %}<a class="text-link" href="{{ include.item.url | relative_url }}">{{ include.item.action }} {% include ui-icon.html %}</a></article>

@@ -1,68 +1,48 @@
 ---
-last_modified_at: 2026-08-05T14:01:00+02:00
-checklist:
-- Altbauwohnungen rund um Hauptplatz, Donaustraße und Stadtpark
-- Einfamilienhäuser in Stockerau, Korneuburg und den Bisamberger Hanglagen
-- Büros, Lager und Werkstätten im Gewerbegebiet Hagenbrunn sowie im Industriezentrum
-  Süd
-- Weinkeller und Presshäuser in Langenzersdorf, Bisamberg und den Weinviertler Randgemeinden
-description: Professioneller Umzug & Übersiedlung. Wir sind spezialisiert auf Haus- und Villenumzüge inklusive Gartenmöbeln und großzügiger Parklogistik.
-
-hero_image: /topbg.webp
-highlights:
-- Schnelle Anfahrt über A22 und S1 aus Wien sowie regionale Depots
-- Altstadtgassen, Hanglagen am Bisamberg und Donauhafen-Logistik
-- Wertanrechnung für Einfamilienhäuser, Villen und Gewerbeflächen
-- Halteverbotszonen und Behördenwege übernehmen wir komplett
-kicker: Bezirk Korneuburg
-local_logistics_note: In Korneuburg stimmen wir Ladefenster, Liftzeiten und Zugangspunkte
-  vorab mit der Hausverwaltung ab.
-micro_case: 'Aktuelle Praxis in Korneuburg: kurze Vorprüfung per Nachricht, Besichtigung
-  vor Ort und termintreue Übersiedlung mit Protokoll.'
-permalink: /leistungen/umzug-korneuburg/
-process:
-- description: Sie schicken uns Fotos oder wir treffen uns vor Ort. Anfahrt meist
-    noch in derselben Woche, Besichtigung kostenlos.
-  title: Vorbesprechung & Besichtigung
-- description: Wir kalkulieren transparent und rechnen verwertbare Möbel, Maschinen
-    oder Sammlungen direkt gegen.
-  title: Fixpreis mit Wertanrechnung
-- description: Teams und Fahrzeuge werden auf enge Gassen, Hanglagen oder Tiefgaragen
-    abgestimmt. Schutzmaterial bringen wir mit.
-  title: Geplante Übersiedlung
-- description: Entsorgung über Mistplatz Korneuburg, Stockerau oder private Partner.
-    Übergabe besenrein mit Protokoll.
-  title: Regionale Entsorgung & Abschluss
-proof_date: 2026-02-09
-redirect_from:
-- /leistungen/haushaltsaufloesung-korneuburg/
-- /entruempelung-korneuburg/
-- /raeumung-korneuburg/
+last_modified_at: '2026-10-17'
+description: "Umzug in Korneuburg mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+kicker: Umzug & Übersiedlung
+permalink: "/leistungen/umzug-korneuburg/"
+redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Korneuburg - Umzug & Übersiedlung"
+seo_title: "Umzug Korneuburg | Transport & Fixpreis | Sicher Team"
 service_type: Umzug
 state: niederoesterreich
-title: Umzug Korneuburg
+title: Umzug in Korneuburg
+enquiry_service: umzug
+sources:
+- title: 'Korneuburg: ASZ'
+  url: https://korneuburg.gv.at/Altstoffsammelzentrum_ASZ_1
+faqs:
+- question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Korneuburg?
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+- question: Sind 200 Kilogramm Sperrmüll bei jeder Fahrt kostenlos?
+  answer: Die Stadt nennt 200 Kilogramm pro Haushalt und Jahr. Die Menge gilt deshalb
+    nicht neu bei jedem Besuch; darüber hinaus fallen Übernahmeentgelte an.
+- question: Reicht die Bürgerkarte für einen beauftragten Räumungsbetrieb?
+  answer: Bürger- und Firmenkarten werden getrennt geführt. Lassen Sie Berechtigung
+    und Abgabeweg für den tatsächlichen Anlieferer bestätigen, statt eine private
+    Karte als allgemeine Auftragserlaubnis zu behandeln.
 ---
+Wir transportieren Ihre Möbel und Kartons innerhalb von Korneuburg oder an Ihre neue Adresse außerhalb der Stadt. Verpackung, Demontage und Montage übernehmen wir passend zu Ihrem Vorhaben. Nach der kostenlosen Besichtigung steht der vereinbarte Umfang mit Gesamtpreis in unserem Fixpreisangebot.
 
-## Korneuburg, Stockerau und Bisamberg strukturiert räumen
-In Korneuburg betreuen wir regelmässig Einsätze in Korneuburg, Stockerau, Langenzersdorf und Bisamberglagen. In Korneuburg variieren Wohnsiedlungen, Zentrumslagen und Gewerbeflächen stark. Wir bearbeiten private Objekte und betriebliche Flächen in einem einheitlichen Ablauf. Transport, Trennung und Übergabe werden für Region und Objektart koordiniert.
+## Möbeltransport und Räumung passend kombinieren
 
-## Was vor dem Termin geklärt sein sollte
-Vor dem Start prüfen wir Zugang, Trageweg, Etagenlogik und Zeitfenster gemeinsam. So werden die operativen Entscheidungen nicht erst am Einsatztag getroffen, sondern im Vorfeld klar abgestimmt.
+Markieren Sie vor dem Packen, was ins neue Zuhause kommt. Soll zusätzlich ein Keller oder eine Wohnung geräumt werden, nehmen wir diesen Bestand getrennt auf. So erhalten Sie ein Angebot, in dem Transport und Entfernung nachvollziehbar beschrieben sind.
 
-### Welche Logistik ist in Korneuburg typisch?
-Typisch sind in Korneuburg unterschiedliche Rahmenbedingungen je nach Strassenzug und Objektprofil. Wir verbinden deshalb [Umzug im Fixpreisrahmen](/leistungen/umzug-wien/) mit [Umzug mit Demontage und sicherer Logistik](/leistungen/umzug-wien/), damit Ablauf und Abtransport aus einer Hand geplant werden. Dadurch bleiben Teamgrösse, Taktung und Zeitfenster belastbar.
+## Von der Abholung bis zum Aufbau
 
-### Wie läuft die Umsetzung im Objekt ab?
-Die Umsetzung startet mit der Priorisierung von Engpassbereichen, danach folgen Volumenflächen und Abschlussarbeiten. Bei Spezialthemen setzen wir auf [Firmenauflösung für Büro und Gewerbe](/leistungen/firmenaufloesung/) und stützen die lokale Planung mit [Regionalübersicht für Niederösterreich](/ratgeber/niederoesterreich-umland-standorte/). Den regionalen Rahmen finden Sie unter [Bundesland Niederösterreich](/bundesland/niederoesterreich/).
+Für schwere Möbel zählen Stückgewicht, Maße und der gesamte Trageweg. Nennen Sie Liftöffnung, Stiegen und die Entfernung zum Ladeplatz an beiden Adressen. Diese Angaben helfen uns, die Arbeitsschritte vor dem Umzug zu planen; das Volumen einer Transportladung ist etwas anderes als das Gewicht aussortierter Möbel.
 
-### Welche Angaben brauchen wir für ein Fixpreis-Angebot?
-Senden Sie aktuelle Fotos, Postleitzahl, Etage, Liftstatus und den gewünschten Termin. Wenn Nebenflächen oder Sonderthemen vorhanden sind, markieren Sie diese direkt mit. Über [unser Angebot](/angebot/) erhalten Sie für Korneuburg eine klare Rückmeldung zu Aufwand, Reihenfolge und Zeitfenster.
+## Was nicht mitkommt: örtliche Abgabemöglichkeiten
 
-Gerade in Korneuburg zahlt sich eine kurze Vorab-Abstimmung mit allen Beteiligten aus. Sie verhindert, dass Freigaben oder Zugangsthemen erst während der Durchführung geklärt werden müssen.
+Am [Altstoffsammelzentrum Korneuburg](https://korneuburg.gv.at/Altstoffsammelzentrum_ASZ_1) benötigen Sie bei jedem Zutritt die Bürgerkarte für die Schrankenanlage. Die Stadt nennt 200 Kilogramm Sperrmüll je Haushalt und Jahr als kostenlose Menge. Darüber gelten Übernahmeentgelte. Für Bürger- und Firmen-Berechtigungskarten gibt es unterschiedliche Anmeldeformulare.
 
-### Ihr professioneller Umzug in Wien
+Wenn Sie selbst aussortierte Gegenstände abgeben möchten, klären Sie Material, Menge und Berechtigung mit der genannten Stelle. Für eine von uns übernommene [Räumung](/leistungen/raeumung/) vereinbaren wir den passenden Abgabeweg gesondert. Eine kommunale Haushaltsregel gilt für deren eigenen Zuständigkeitsbereich.
 
-Als Experten für [Umzug Wien](/leistungen/umzug-wien/) bieten wir Ihnen einen umfassenden Service. Von der ersten Besichtigung bis zur besenreinen Übergabe kümmern wir uns um jeden Schritt Ihrer Übersiedlung. Profitieren Sie von unserer Fixpreisgarantie, Transportversicherung und fachgerechten Montage.
+## Ihr Angebot und die nächsten Schritte
+
+Senden Sie uns Start, Ziel, Möbelumfang und Wunschtermin. Fotos sind optional. Unser Fixpreis gilt für die im Angebot aufgeführten Arbeiten. Zusätzliche Wünsche und deren Preis besprechen wir vor der Ausführung mit Ihnen. Liegt ein vergleichbares schriftliches Angebot vor, erhalten Sie bei gleichen Bedingungen [5 % weniger](/preise/#preisgarantie).
+
+[Umzug in Korneuburg anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-korneuburg%2F#angebot-form) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)
