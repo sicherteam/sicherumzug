@@ -43,3 +43,15 @@
   X-Robots-Tag: noindex, follow
 /ratgeber/entruempelung-mietnomaden-wien/
   X-Robots-Tag: noindex, follow
+
+/offline
+  X-Robots-Tag: noindex, follow
+
+/500
+  X-Robots-Tag: noindex, follow
+
+/404
+  X-Robots-Tag: noindex, follow
+
+/410
+  X-Robots-Tag: noindex, follow
