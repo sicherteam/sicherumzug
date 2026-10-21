@@ -282,7 +282,8 @@
       img.src = url; img.alt = file.name;
       img.addEventListener('error', () => { img.remove(); wrap.append(document.createTextNode(file.name.slice(0, 10))); }, { once: true });
       const remove = document.createElement('button'); remove.type = 'button'; remove.textContent = '×';
-      remove.setAttribute('aria-label', `${file.name} entfernen`);
+      remove.setAttribute('aria-label', `Foto ${file.name} entfernen`);
+      remove.setAttribute('title', `Foto ${file.name} entfernen`);
       remove.addEventListener('click', () => { files.splice(index, 1); renderFiles(); photos.focus(); });
       wrap.append(img, remove); previews.append(wrap);
     });
