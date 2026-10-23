@@ -153,6 +153,8 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         if (!countIndicator) {
           countIndicator = document.createElement('p');
           countIndicator.id = 'file-count-indicator';
+          countIndicator.setAttribute('aria-live', 'polite');
+          countIndicator.setAttribute('aria-atomic', 'true');
           countIndicator.className = 'mt-2 text-xs font-bold text-primary transition-all duration-200';
           previewContainer.parentNode.insertBefore(countIndicator, previewContainer.nextSibling);
         }
@@ -177,7 +179,8 @@ document.addEventListener('DOMContentLoaded', function domReady() {
         var btn = document.createElement('button');
         btn.type = 'button';
         btn.className = 'absolute top-1.5 right-1.5 flex h-6 w-6 items-center justify-center rounded-full bg-red-600 text-white shadow hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-offset-2 transition-all duration-200 z-10';
-        btn.setAttribute('aria-label', 'Foto entfernen');
+        btn.setAttribute('aria-label', 'Foto ' + file.name + ' entfernen');
+        btn.setAttribute('title', 'Foto ' + file.name + ' entfernen');
         btn.innerHTML = `{% include svg/close.svg class="w-4 h-4 shrink-0 !font-bold fill-current" %}`;
         btn.addEventListener('click', function() {
           selectedFiles.splice(index, 1);
