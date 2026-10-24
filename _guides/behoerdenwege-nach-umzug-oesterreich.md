@@ -46,3 +46,5 @@ Die [offizielle Anmeldung](https://www.oesterreich.gv.at/de/themen/persoenliche_
 Die [Bundes-Checkliste](https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/umzug/3/Seite.180520) unterscheidet diese Fälle. Nicht jeder Fahrzeugumzug erfordert denselben Schritt. Für die [Postnachsendung](https://www.post.at/p/c/umzug) gelten eigene Bedingungen; sie ändert nicht automatisch die Daten bei allen Absendern.
 
 Notieren Sie pro Stelle übermittelt und bestätigt getrennt. Bewahren Sie Rückmeldungen zusammen mit Übergabeprotokoll und Zählerständen auf. Prüfen Sie anschließend noch eingehende Rechnungen auf die richtige Adresse, damit übersehene Vertragspartner sichtbar werden.
+
+Weiterführende Hilfen: Prüfen Sie vorab Ihren Anspruch auf [Umzugsförderung & Beihilfen in Österreich (AMS & Wien)](/ratgeber/umzug-foerderung-beihilfe-ams-wien/) sowie die rechtlichen Vorgaben für [Mietvertrag kündigen nach MRG](/ratgeber/mietvertrag-kuendigen-frist-muster-oesterreich/).
