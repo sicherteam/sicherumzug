@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Umzug Wien, NÖ & Burgenland | Umzugsfirma für ganz Österreich – Sicher Team"
-description: "Ihre Umzugsfirma für Wien, Niederösterreich & Burgenland sowie Fernumzüge österreichweit (Linz, Graz, Salzburg). Garantierter Fixpreis ✓ 1 Mio. € Allianz Versicherung ➔ Jetzt anfragen!"
+title: "Umzug Wien, NÖ & Burgenland | Umzugsfirma Österreich – Sicher Team"
+description: "Ihre Umzugsfirma für Wien, NÖ & Burgenland sowie ganz Österreich (Linz, Graz). Garantierter Fixpreis ✓ 1 Mio. € Versicherung ➔ Jetzt unverbindlich anfragen!"
 last_modified_at: 2026-10-17
 og_image: "/assets/images/moving/packing-warm.webp"
 og_image_alt: '3D-Illustration: geschützte Möbel und gepackte Kartons für einen Umzug'

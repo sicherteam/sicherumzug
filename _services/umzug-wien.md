@@ -2,7 +2,7 @@
 layout: service
 title: 'Umzug Wien: gut geplant durch die Stadt.'
 seo_title: "Umzug Wien & Umzugsfirma zum Fixpreis | Sicher Team"
-description: "★ Fixpreis-Garantie | Ihre zuverlässige Umzugsfirma in Wien für alle 23 Bezirke. ✓ Kostenlose Besichtigung ✓ 1 Mio. € Allianz Versicherung ✓ Montage & Halteverbot ➔ Jetzt anfragen!"
+description: "★ Fixpreis | Ihre Umzugsfirma in Wien für alle 23 Bezirke. ✓ Kostenlose Besichtigung ✓ 1 Mio. € Allianz Versicherung ✓ Montage & Halteverbot ➔ Jetzt anfragen!"
 permalink: "/leistungen/umzug-wien/"
 last_modified_at: '2026-10-17'
 schema_type: Service

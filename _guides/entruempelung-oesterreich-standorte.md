@@ -2,9 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Entrümpelung in Österreich: Einsatzort und Umfang anfragen'
 seo_title: 'Entrümpelung in Österreich: Einsatzort und Umfang anfragen'
-description: Wien, Niederösterreich, Burgenland, Oberösterreich, Steiermark, Salzburg
-  und Kärnten sind Kerngebiete. Weitere Einsatzorte werden persönlich auf Durchführung
-  und Verfügbarkeit geprüft.
+description: "Entrümpelung in Wien, NÖ, Burgenland, OÖ, Steiermark, Salzburg & Kärnten. Weitere Einsatzorte prüfen wir persönlich auf Verfügbarkeit. Jetzt anfragen!"
 date: '2025-11-26'
 category: Standorte
 tags:

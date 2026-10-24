@@ -55,7 +55,7 @@ llm_summary: |2
 
   ## Wenn es schnell gehen muss
 
-  Bei knappen Deadlines empfiehlt sich eine Expresslösung. Mehr dazu im Leitfaden [Entrümpelung mit Sofort-Hilfe](/ratgeber/entruepelung-mit-sofort-hilfe/).
+  Bei knappen Deadlines empfiehlt sich eine Expresslösung. Mehr dazu im Leitfaden [Entrümpelung mit Sofort-Hilfe](/ratgeber/express-entruempelung-container-logistik/).
 
   ## Angebot sichern
 

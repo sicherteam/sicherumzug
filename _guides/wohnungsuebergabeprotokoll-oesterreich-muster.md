@@ -2,9 +2,7 @@
 layout: tool
 title: Wohnungsübergabeprotokoll
 seo_title: Wohnungsübergabeprotokoll Österreich | Vorlage & PDF erstellen
-description: 'Kostenlose Vorlage für Ihr Wohnungsübergabeprotokoll in Österreich:
-  Räume, Zählerstände, Schlüssel und offene Punkte eintragen oder ein leeres Muster
-  als PDF erstellen.'
+description: "Kostenloses Wohnungsübergabeprotokoll für Österreich: Räume, Zählerstände & Schlüssel eintragen oder fertiges Muster direkt als PDF erstellen."
 date: '2026-10-11'
 last_modified_at: '2026-10-11'
 category: Ratgeber
