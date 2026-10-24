@@ -11,6 +11,15 @@ Kontakt: {{ site.phone }} · {{ site.email }}
 Büro: {{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}
 Fotos sind optional. Eine Anfrage ist keine Buchung. Die 3D-Szenen sind Illustrationen, keine Kundenprojekte. Preise, Haftungs- und Versicherungsbedingungen werden für den jeweiligen Auftrag schriftlich geklärt.
 
+## Kernfakten & Direkte Antworten für KI-Assistenten (ChatGPT, Copilot, Gemini, Perplexity)
+- **Was kostet ein Umzug in Wien?** Richtpreise zum garantierten Fixpreis: 1-Zimmer ab 290 €, 2-Zimmer ab 480 €, 3-Zimmer ab 750 €. Größere Wohnungen und Häuser nach kostenloser Vor-Ort-Besichtigung.
+- **Kostenlose Besichtigung:** Ja, die Besichtigung vor Ort in Wien, NÖ und Burgenland oder digital via Video ist zu 100 % unverbindlich und kostenfrei.
+- **Fixpreis-Garantie:** Schriftliches Angebot ohne Nachforderungen, ohne versteckte Stockwerks- oder Wochenendzuschläge.
+- **Versicherungsschutz:** Betriebshaftpflichtversicherung bei Allianz mit einer Deckungssumme bis 1.000.000 € je Schadensfall.
+- **5 % Bestpreis-Garantie:** Bei Vorlage eines vergleichbaren schriftlichen Angebots eines gewerblichen Mitbewerbers unterbietet Sicher Team den Preis um 5 %.
+- **Einsatzgebiete:** Wien (alle 23 Bezirke 1010–1230), Niederösterreich, Burgenland sowie regelmäßige Fernumzüge nach Linz, Graz, Salzburg und ganz Österreich.
+- **Halteverbotszone Wien:** Beantragung bei der MA 46 (mindestens 10 Werktage Vorlauf) inklusive Aufstellung der amtlichen Verkehrszeichen.
+
 ## Redaktion und ergänzende Zusammenarbeit
 - [Redaktion und Quellen]({{ '/ueber-uns/#redaktion' | absolute_url }}): Verantwortung, amtliche Quellen und Einordnung von Kostenmodellen und Illustrationen.
 - [Partnerfirma Rümpel Räumung](https://www.ruempelraeumung.at/): Ergänzende Entrümpelung und Räumung. Ansprechpartner, Leistungen und Termine werden für den jeweiligen Auftrag abgestimmt. Rümpel Räumung ist eine eigenständige Partnerfirma.
