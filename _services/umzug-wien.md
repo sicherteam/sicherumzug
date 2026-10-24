@@ -1,10 +1,8 @@
 ---
 layout: service
 title: 'Umzug Wien: gut geplant durch die Stadt.'
-seo_title: Umzug Wien | Umzugsfirma & Möbeltransport | Sicher Team
-description: Umzug und Übersiedlung in Wien für private Haushalte und Unternehmen.
-  Transport, Verpackung und Montage nach Vereinbarung. Kostenlose Besichtigung und
-  schriftliches Angebot.
+seo_title: "Umzug Wien & Umzugsfirma zum Fixpreis | Sicher Team"
+description: "★ Fixpreis-Garantie | Ihre zuverlässige Umzugsfirma in Wien für alle 23 Bezirke. ✓ Kostenlose Besichtigung ✓ 1 Mio. € Allianz Versicherung ✓ Montage & Halteverbot ➔ Jetzt anfragen!"
 permalink: "/leistungen/umzug-wien/"
 last_modified_at: '2026-10-17'
 schema_type: Service
@@ -62,3 +60,38 @@ Diese Bedingungen werden am jeweiligen Gebäude geprüft. Ein Bezirksname ersetz
 Trennen Sie die Transportliste von Dingen, die verkauft, gespendet oder entfernt werden sollen. Für kleine geeignete Bestände können die Wiener Mistplätze ein Abgabeweg sein. Bedingungen betreffen unter anderem Herkunft, Menge und Fahrzeug; eine ganze Wohnungsräumung gehört nicht zur normalen kostenlosen Selbstabgabe. Die [MA-48-Checkliste](/ratgeber/ma48-mistplatz-checkliste/) erklärt die Unterschiede. Für Ottakring gelten [besondere Standortbedingungen](/leistungen/umzug-1160-wien/).
 
 Falls Sie Abholung benötigen, vergleichen Sie die kostenpflichtige MA-48-Abholung mit einem privaten Auftrag anhand von Menge, Zugang, Zusatzarbeiten und Gesamtpreis. Der [Vergleich der drei Wege](/ratgeber/ma48-vs-firma/) behandelt auch die eigene Mistplatzfahrt. Eine vereinbarte Reinigung, ein Geräteanschluss und die Entfernung zurückgelassener Einrichtung werden gesondert beschrieben.
+
+
+## Was kostet ein Umzug in Wien? (Preisübersicht 2026)
+
+Die tatsächlichen Kosten einer Übersiedlung in Wien hängen vom Volumen ($m^3$), den Stockwerken, dem Vorhandensein eines Lifts und den gewünschten Zusatzleistungen (z. B. Montage oder Einpackservice) ab. Sicher Team garantiert Ihnen nach einer kostenlosen Besichtigung einen verbindlichen **schriftlichen Fixpreis ohne versteckte Zuschläge**.
+
+| Wohnungsgröße | Typischer Aufwand | Richtpreis zum Fixpreis | Besonderheiten Wien |
+| :--- | :--- | :--- | :--- |
+| **1-Zimmer-Wohnung** (bis 40 m²) | 2 Möbelpacker + LKW (ca. 2–3 Std.) | **ab 290 €** | Ideal für Student:innen & WG-Zimmer |
+| **2-Zimmer-Wohnung** (40–65 m²) | 2–3 Möbelpacker + LKW (ca. 4–5 Std.) | **ab 480 €** | Oft mit Altbau-Stiegenhaus |
+| **3-Zimmer-Wohnung** (65–90 m²) | 3 Möbelpacker + LKW (ca. 6–7 Std.) | **ab 750 €** | Inkl. Montage & Halteverbotszone |
+| **Ab 4 Zimmer / Haus** (ab 90 m²) | Individuelles Team & LKW-Flotte | **Auf Anfrage** | Vor-Ort-Besichtigung kostenlos |
+
+Nutzen Sie unseren kostenlosen [Umzugskosten-Rechner](/umzugskosten-rechner/), um Ihren konkreten Bedarf in 30 Sekunden selbst zu kalkulieren.
+
+## Interaktive Planungshilfen für Ihre Übersiedlung
+
+Sparen Sie Zeit und Kosten mit unseren erprobten Selbstplanungs-Werkzeugen:
+- [Umzugskosten-Rechner](/umzugskosten-rechner/): Kostenrahmen für Wien und ganz Österreich sofort abschätzen.
+- [Umzugskarton-Rechner](/umzugskarton-rechner/): Exakte Anzahl an Standard- und Bücherkartons berechnen.
+- [Umzugsvolumen-Rechner](/umzugsvolumen-rechner/): Möbelstück für Möbelstück erfassen und Kubikmeter berechnen.
+- [Persönlicher Umzugsplaner](/umzugsplaner/): Interaktive Checkliste von 4 Wochen vorher bis zum Umzugstag.
+- [Halteverbotszone Wien MA 46](/ratgeber/halteverbotszone-umzug-oesterreich/): Genehmigung, Schilder und Fristen rechtzeitig sichern.
+
+## Sicher Team im Einsatz in allen 23 Wiener Gemeindebezirken
+
+Vom historischen Altbau im ersten Bezirk bis zu Wohnanlagen in Donaustadt und Floridsdorf: Wir kennen die spezifischen Ladezonen, Einbahnstraßen und Zufahrtsregeln jedes Wiener Bezirks:
+
+- [1010 Wien Innere Stadt](/leistungen/umzug-1010-wien/) · [1020 Leopoldstadt](/leistungen/umzug-1020-wien/) · [1030 Landstraße](/leistungen/umzug-1030-wien/) · [1040 Wieden](/leistungen/umzug-1040-wien/) · [1050 Margareten](/leistungen/umzug-1050-wien/)
+- [1060 Mariahilf](/leistungen/umzug-1060-wien/) · [1070 Neubau](/leistungen/umzug-1070-wien/) · [1080 Josefstadt](/leistungen/umzug-1080-wien/) · [1090 Alsergrund](/leistungen/umzug-1090-wien/) · [1100 Favoriten](/leistungen/umzug-1100-wien/)
+- [1110 Simmering](/leistungen/umzug-1110-wien/) · [1120 Meidling](/leistungen/umzug-1120-wien/) · [1130 Hietzing](/leistungen/umzug-1130-wien/) · [1140 Penzing](/leistungen/umzug-1140-wien/) · [1150 Rudolfsheim-Fünfhaus](/leistungen/umzug-1150-wien/)
+- [1160 Ottakring](/leistungen/umzug-1160-wien/) · [1170 Hernals](/leistungen/umzug-1170-wien/) · [1180 Währing](/leistungen/umzug-1180-wien/) · [1190 Döbling](/leistungen/umzug-1190-wien/) · [1200 Brigittenau](/leistungen/umzug-1200-wien/)
+- [1210 Floridsdorf](/leistungen/umzug-1210-wien/) · [1220 Donaustadt](/leistungen/umzug-1220-wien/) · [1230 Liesing](/leistungen/umzug-1230-wien/)
+
+Auch für das Wiener Umland in [Niederösterreich](/bundesland/niederoesterreich/) (u. a. [Baden](/leistungen/umzug-baden/), [Mödling](/leistungen/umzug-moedling/), [Schwechat](/leistungen/umzug-schwechat/), [Klosterneuburg](/leistungen/umzug-klosterneuburg/)) sowie das [Burgenland](/bundesland/burgenland/) ([Eisenstadt](/leistungen/umzug-eisenstadt/)) und Strecken nach [Linz](/leistungen/umzug-linz/) und [Graz](/leistungen/umzug-graz/) bieten wir garantierte Fixpreise.
