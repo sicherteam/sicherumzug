@@ -161,6 +161,8 @@ instagram: ''
 local_business:
   type: MovingCompany
   price_range: "€€"
+  review_rating: "4.9"
+  review_count: 468
   geo:
     latitude: 48.1633
     longitude: 16.3114

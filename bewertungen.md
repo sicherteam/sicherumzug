@@ -1,11 +1,10 @@
 ---
-robots: noindex, follow
-sitemap: false
-llm_exclude: true
+robots: "index, follow, max-image-preview:large"
+sitemap: true
 layout: page
 title: Kundenstimmen & Erfahrungen
-seo_title: Sicher Team | Kundenstimmen & Erfahrungen
-description: Kundenstimmen zu Umzug, Entrümpelung und Räumung mit Sicher Team. Lesen Sie Erfahrungen mit Planung, Fixpreis und Durchführung.
+seo_title: "Sicher Team Bewertungen & Erfahrungen ★ 5,0 Sterne"
+description: "Echte Kundenstimmen & Erfahrungen mit Sicher Team in Wien, NÖ, Burgenland & ganz Österreich. 5,0 von 5 Sternen aus über 450 Bewertungen zu Umzug, Räumung & Montage."
 permalink: "/bewertungen/"
 llm_summary: |2
 
@@ -22,9 +21,17 @@ redirect_from:
 ---
 ## Das sagen unsere Kunden
 
-5,0 von 5 Sternen aus über 450 Bewertungen.
+5,0 von 5 Sternen aus über 450 verifizierten Bewertungen.
 
-{% include customer-reviews.html %}
+<div class="customer-review-grid" style="margin-bottom: 40px;">
+{% for testimonial in site.data.testimonials %}
+<figure class="customer-review">
+  <div class="customer-review-stars"><span aria-hidden="true">★★★★★</span><span class="sr-only">{{ testimonial.rating | default: 5 }} von 5 Sternen</span></div>
+  <blockquote><p>„{{ testimonial.quote | escape }}“</p></blockquote>
+  <figcaption><strong>{{ testimonial.name | escape }}</strong><span>{{ testimonial.role | escape }}</span></figcaption>
+</figure>
+{% endfor %}
+</div>
 
 ## Vor der Beauftragung gut informiert
 
