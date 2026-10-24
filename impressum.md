@@ -27,3 +27,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für ex
 ## Datenschutz
 
 Wir verarbeiten personenbezogene Daten ausschließlich zur Bearbeitung Ihrer Anfragen gemäß DSGVO Art. 6 Abs. 1 lit. b. Weitere Informationen erhalten Sie jederzeit unter [{{ site.email }}](mailto:{{ site.email }}).
+
+## Unternehmensinformationen
+
+Ausführliche Informationen über unser Team, unsere Qualitätsstandards und unsere Firmenphilosophie finden Sie unter [Über uns](/ueber-uns/). Entdecken Sie unsere zertifizierten Dienstleistungen in der [Leistungsübersicht](/leistungen/) oder lesen Sie echte Erfahrungen auf unserer Seite für [Kundenbewertungen](/bewertungen/). Für Preisauskünfte oder eine unverbindliche Anfrage nutzen Sie bitte unser [Online-Angebot](/angebot/). Zurück zur [Startseite](/).

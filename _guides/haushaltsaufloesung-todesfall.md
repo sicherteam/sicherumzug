@@ -42,3 +42,13 @@ Gehen Sie Wohnräume, Keller und andere Nebenflächen durch. Teilen Sie Bestand 
 Notieren Sie Zugang, Schlüssel, feste Rückgabetermine und gewünschten Abschlusszustand. Technische Vorbereitung und Reinigung erhalten eigene Zuständigkeiten. Nach der Auswahl wird die Freigabeliste aktualisiert; ein geplanter, aber noch nicht erfolgter Verkauf reduziert die Menge noch nicht.
 
 Bei der Abschlusskontrolle prüfen Sie geräumte Bereiche und gesicherte persönliche Dinge getrennt. Halten Sie offene Aufgaben sachlich fest. So bleibt Raum für persönliche Entscheidungen, während die praktische Durchführung auf einem eindeutigen Bestand beruht.
+
+
+## Passende Services & Ratgeber
+
+- [Dauer einer Haushaltsauflösung](/ratgeber/dauer-haushaltsaufloesung-zeitplan-wien/): Fristen für Verlassenschaften.
+- [Altbauwohnung räumen](/ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/): Schmale Stiegen und hoher Bestand.
+- [Seniorenumzug Ratgeber](/ratgeber/seniorenumzug-oesterreich-profi-hilfe/): Einfühlsame Hilfe für ältere Menschen.
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Nachlass schätzen und anrechnen.
+- [Verlassenschaftsräumung](/leistungen/verlassenschaft/): Einfühlsame und diskrete Abwicklung.
+- [Seniorenumzug Service](/leistungen/seniorenumzug/): Übersiedlung ins betreute Wohnen.

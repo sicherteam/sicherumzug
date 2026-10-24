@@ -40,3 +40,12 @@ Vergleichen Sie Anfahrt, Arbeitszeit, Fahrzeug, Tragen, Demontage, Material und 
 ## Bei Änderungen neu abstimmen
 
 Wenn zusätzliche Möbel mitkommen oder ein Lift ausfällt, kann sich der vereinbarte Aufwand ändern. Melden Sie die Änderung vorab und lassen Sie die Folgen schriftlich festhalten. Sparen Sie nicht dadurch, dass Sie schwere Stücke ohne passenden Transportweg vorbereiten oder eine gewünschte Ladefläche als bereits gesichert darstellen. Für die Auswahl anhand gleicher Leistungen nutzen Sie den [Angebotsvergleich](/ratgeber/umzugsfirma-vergleichen/).
+
+
+## Passende Services & Ratgeber
+
+- [Umzugskosten Wien berechnen](/ratgeber/umzugskosten-wien-preise-berechnen/): Kostenüberblick und Preisfaktoren.
+- [Möbelpacker vs. DIY Umzug](/ratgeber/moebelpacker-vs-diy-umzug/): Wann sich Profis wirklich lohnen.
+- [Umzugsförderung AMS Wien](/ratgeber/umzug-foerderung-beihilfe-ams-wien/): Zuschüsse und Beihilfen beantragen.
+- [Studentenumzug](/leistungen/studentenumzug/): Günstiger Transport für Studenten und WGs.
+- [Budget-Vergleich](/umzug-budget-vergleichen/): Kosten online kalkulieren.

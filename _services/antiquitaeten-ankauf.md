@@ -26,3 +26,11 @@ Beschreiben Sie Art, Maße, sichtbaren Zustand und vorhandene Unterlagen. Trenne
 Entscheiden Sie zuerst, was Sie behalten. Bei mehreren Beteiligten braucht es eine abgestimmte Auswahl. Für die mögliche Anrechnung sollten Gegenstände und bestätigte Summe im Räumungsangebot erkennbar sein. Wer die Prüfung übernimmt und welche Aussage sie ermöglicht, wird vor der Beauftragung geklärt. Eine formale Bewertung für andere Zwecke ist eine eigene Aufgabe.
 
 Für persönliche Auswahlfragen hilft [Verlassenschaft](/leistungen/verlassenschaft/), für die Kalkulation [Wertanrechnung](/ratgeber/wertanrechnung-guide/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Altwaren Ankauf & Wertanrechnung](/leistungen/altwaren-ankauf/): Prüfung von Altwaren und Sammlungen.
+- [Verlassenschaftsräumung Wien](/leistungen/verlassenschaft/): Komplette Nachlassräumung mit Verrechnung.
+- [Möbel Ankauf](/leistungen/moebel-ankauf/): Wertanrechnung für Mobiliar.
+- [Ratgeber: Kunst- & Antiquitätentransport](/ratgeber/kunst-antiquitaetentransport-wien-wertanrechnung/): Sicherer Transport wertvoller Objekte.
+- [Bibliothek & Sammlungen](/ratgeber/bibliothek-sammlungen-aufloesen-wien/): Wertvolle Bücher und Kunst anrechnen.

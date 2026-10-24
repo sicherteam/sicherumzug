@@ -53,3 +53,12 @@ Die MA 48 bietet eine kostenpflichtige [Abholung mit Personal](https://www.wien.
 Bei privaten Angeboten klären Sie denselben Bestand, den tatsächlichen Auftragnehmer und die Abrechnung. Fragen Sie, wie zusätzliche Gegenstände oder veränderte Wege vor ihrer Ausführung abgestimmt werden. Eine gescheiterte private Abholung verändert den Restbestand und muss gemeldet werden.
 
 Prüfen Sie nach Abschluss die vereinbarten Räume und Arbeiten. Bewahren Sie Bestandsliste, bestätigtes Angebot und Änderungen gemeinsam auf. So lässt sich der Endbetrag auf einen konkret beschriebenen Auftrag beziehen.
+
+
+## Passende Services & Ratgeber
+
+- [Wohnungsräumung 7 Schritte](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Vorbereitungsschritte vor der Räumung.
+- [Dauer einer Haushaltsauflösung](/ratgeber/dauer-haushaltsaufloesung-zeitplan-wien/): Arbeitstage und Etagenwege.
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Gebrauchtmöbel und Antiquitäten verrechnen.
+- [Haushaltsauflösung Service](/leistungen/haushaltsaufloesung/): Besenreine Übergabe an Wiener Wohnen.
+- [Online Räumungs-Check](/raeumungs-check/): Volumen und Kosten berechnen.

@@ -41,3 +41,12 @@ Geben Sie Kartons eine Nummer, Zielraum und kurze Inhaltsangabe. Schreiben Sie s
 Halten Sie Schlüssel, Hygieneartikel, Ladegeräte und Dinge für die erste Nacht separat. Prüfen Sie Verschluss und tatsächliche Kartonmenge vor der Abholung und melden Sie größere Abweichungen.
 
 Die [Anleitung für zerbrechliche Gegenstände](/ratgeber/zerbrechliche-gegenstaende-verpacken/) ergänzt die Materialplanung. Der [Kartonratgeber](/ratgeber/umzugskartons-verpackungsmaterial-berechnen/) erklärt die Probepackung. Gewünschte Einpackhilfe wird anhand der betreffenden Stücke vereinbart.
+
+
+## Passende Services & Ratgeber
+
+- [Umzugskartons berechnen](/ratgeber/umzugskartons-verpackungsmaterial-berechnen/): Bedarf pro Zimmer kalkulieren.
+- [Zerbrechliche Gegenstände verpacken](/ratgeber/zerbrechliche-gegenstaende-verpacken/): Schutz für Gläser und Kunst.
+- [Küche abbauen und umziehen](/ratgeber/kueche-abbauen-umziehen/): Küchenlogistik und Anschlüsse.
+- [Verpackungsservice](/leistungen/verpackungsservice/): Full-Service Packhilfe.
+- [Karton-Etiketten Tool](/umzugskarton-etiketten/): Farbcodierte Vorlagen generieren.

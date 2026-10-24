@@ -50,3 +50,10 @@ sitemap: false
 llm_exclude: true
 ---
 Dieser Ratgeber ist unter [Altbauwohnung räumen: Stiegenhaus und Ladeweg planen](/ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/) erreichbar.
+
+## Passende Services & Ratgeber
+
+- [Altwaren & Antiquitäten Ankauf](/leistungen/altwaren-ankauf/): Wertanrechnung direkt mit den Räumungskosten verrechnen.
+- [Möbel Ankauf](/leistungen/moebel-ankauf/): Faire Bewertung gebrauchter Möbelstücke.
+- [Haushaltsauflösung mit Wertausgleich](/leistungen/haushaltsaufloesung/): Besenreine Räumung zum Bestpreis.
+

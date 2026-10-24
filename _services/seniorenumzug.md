@@ -38,3 +38,11 @@ Bei einem Seniorenumzug wird zuerst die neue Wohnsituation betrachtet: Welche ve
 Angehörige können organisatorisch unterstützen. Pflege, persönliche Begleitung und Betreuung werden unabhängig vom Möbeltransport organisiert.
 
 Zurückbleibende Bestände bekommen eine eigene Auswahl und Freigabe. Eine [Haushaltsauflösung](/leistungen/haushaltsaufloesung/) kann ergänzend angefragt werden. Im Auftrag sollte erkennbar sein, wer ausführt, welche Unterstützung vereinbart ist und wer am Ziel öffnet und abnimmt.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Privatumzug mit Rundum-Service](/leistungen/privatumzug/): Schonender Umzug ohne körperliche Belastung.
+- [Wohnungsauflösung](/leistungen/wohnungsaufloesung/): Teilräumung der bisherigen Wohnung.
+- [Möbelmontage](/leistungen/moebelmontage/): Aufbau der gewohnten Möbel im neuen Heim.
+- [Ratgeber: Umzug ins Seniorenheim](/ratgeber/seniorenumzug-oesterreich-profi-hilfe/): Einfühlsame Vorbereitung und Betreuung.
+- [Seniorenumzug Ratgeber](/ratgeber/seniorenumzug-oesterreich-profi-hilfe/): Einfühlsame Vorbereitung.

@@ -65,3 +65,12 @@ Auch beim normalen Wohnungsbestand bleiben Kartonzahl, große Möbel und gewüns
 Prüfen Sie, ob ungewöhnliche Stücke in beiden Angeboten ausdrücklich enthalten sind. Ein gewöhnlicher Haushaltsumzug ist kein gleichwertiger Vergleich mit einer noch unklaren Maschine oder einer zusätzlichen Räumung. Lassen Sie den Ausführenden, Verpackungsumfang und Montagegrenzen festhalten. Technische Anschlüsse sind gesondert zu klären, selbst wenn ein Gerät mittransportiert wird.
 
 Auf [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) können Sie fehlende Angaben sichtbar lassen und bekannte Daten ergänzen. Die anschließende Bestätigung muss den tatsächlichen Zustand und Zugang berücksichtigen.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1020 Wien (Leopoldstadt)](/leistungen/umzug-1020-wien/)
+- [1030 Wien (Landstraße)](/leistungen/umzug-1030-wien/)
+- [1100 Wien (Favoriten)](/leistungen/umzug-1100-wien/)
+- [Schwechat](/leistungen/umzug-schwechat/)

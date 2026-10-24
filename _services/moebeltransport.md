@@ -31,3 +31,11 @@ Klären Sie drei Punkte: Wo wird übernommen? Bis wohin wird geliefert? Welche z
 Bei einer Abholung von Privatpersonen oder aus dem Handel bestätigen Sie Übergabekontakt, Zeitfenster und benötigte Unterlagen. Beschreiben Sie Etagen, Lift, Türen und Stiegen an beiden Orten. Ein Kauf allein bestätigt nicht, dass das Möbel durch den Zielweg passt.
 
 Verpackung, Aufbau und Entfernung eines alten Möbelstücks werden gesondert angefragt. Für mehrere Räume hilft [Privatumzug](/leistungen/privatumzug/), für besondere Lasten [Spezialtransport](/leistungen/spezialtransporte/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Möbelmontage](/leistungen/moebelmontage/): Fachgerechter Auf- und Abbau von Möbeln.
+- [Privatumzug](/leistungen/privatumzug/): Umfassende Wohnungsumzüge zum Fixpreis.
+- [Spezialtransporte](/leistungen/spezialtransporte/): Sicherer Transport besonders schwerer Stücke.
+- [Ratgeber: Möbelpacker vs. DIY](/ratgeber/moebelpacker-vs-diy-umzug/): Wann sich Profis bezahlt machen.
+- [Möbeltaxi & Kleintransport](/ratgeber/moebeltaxi-wien-kleintransport/): Einzelmöbel flexibel befördern.

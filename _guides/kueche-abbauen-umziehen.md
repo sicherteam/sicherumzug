@@ -32,3 +32,12 @@ Erfassen Sie Wandlängen, Türen, Fenster und vorhandene Anschlusspunkte. Listen
 Kennzeichnen Sie Einheiten nach Schrank und Position. Schrauben, Scharniere und lose Teile bleiben eindeutig zugeordnet. Halten Sie Montageunterlagen bereit. Unklare Konstruktionen werden nicht allein aus Zeitdruck improvisiert zerlegt.
 
 Dinge, die nicht mitkommen, gehören in eine getrennte Liste. Prüfen Sie nach Ankunft die Vollständigkeit der transportierten Einheiten. Ein abgeschlossener Möbeltransport bestätigt noch keine technische Wiederinbetriebnahme. Die dafür zuständige Fachperson prüft und erledigt ihren vereinbarten Teil separat.
+
+
+## Passende Services & Ratgeber
+
+- [Möbel vor dem Umzug abbauen](/ratgeber/moebelmontage-abbau-tipps/): Schrauben und Scharniere beschriften.
+- [Elektrogeräte entsorgen Wien](/ratgeber/elektrogeraete-entsorgen-wien/): Altgeräte fachgerecht abgeben.
+- [Möbelpacker vs. DIY Umzug](/ratgeber/moebelpacker-vs-diy-umzug/): Küchenmontage vom Fachbetrieb.
+- [Möbelmontage Service](/leistungen/moebelmontage/): Aufbau, Abbau und Anpassung.
+- [Express Notdienst](/leistungen/express-notdienst/): Schnelle Hilfe bei dringenden Terminen.

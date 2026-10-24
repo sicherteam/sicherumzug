@@ -46,3 +46,12 @@ Die Wiener Frist ist keine Regel für ganz Österreich. Am anderen Standort ist 
 ## Angaben für die Prüfung
 
 Notieren Sie vollständige Adresse, geplante Ladezeit, erreichbare Kontaktperson und Weg zum Eingang. Beschreiben Sie Engstellen oder einen möglichen alternativen Zugang. Sobald der konkrete Fahrzeugbedarf bekannt ist, kann der benötigte Bereich dazu abgestimmt werden. Bewahren Sie Bescheid und bestätigte Zuständigkeiten bei den Umzugsunterlagen auf und prüfen Sie Änderungen rechtzeitig.
+
+
+## Passende Services & Ratgeber
+
+- [Möbellift mieten Wien](/ratgeber/umzugsaufzug-moebellift-mieten-wien-stvo/): Aufstellfläche für den Lift.
+- [Professionelle Übersiedlung Wien](/ratgeber/professionelle-uebersiedlung-wien/): Ladezone einrichten.
+- [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Vorlaufzeiten für Amtswege.
+- [Umzug Wien](/leistungen/umzug-wien/): Wir beantragen Ihr Halteverbot.
+- [Express Notdienst](/leistungen/express-notdienst/): Dringende Einsätze in Kurzparkzonen.

@@ -57,3 +57,18 @@ Wenn Sie selbst Gegenstände abgeben möchten, prüfen Sie die [städtischen Wer
 Die Stadt nennt grundsätzlich St. Pöltner Berechtigte und Fahrzeuge mit Kennzeichen P. Seit 1. Juni 2026 gibt es eine Dokumentregel für Zweitwohnsitz und dauerhaft genutztes Firmenauto: gültiger Meldezettel und Lichtbildausweis. Prüfen Sie die vollständigen aktuellen Bedingungen vor Ihrer Fahrt. Daraus folgt keine allgemeine Erlaubnis für gewerbliche Räumungsanlieferungen.
 
 Eine eigene Abgabe und eine beauftragte Räumung sind getrennte Aufgaben. Reduzieren Sie die Transportliste erst um tatsächlich abgegebene Gegenstände. Die [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/) hilft, diese Vorbereitung mit Umzug und Wohnungsrückgabe abzustimmen.
+
+## Weitere Standorte & Planungshilfen
+
+- [Umzug in Tulln](/leistungen/umzug-tulln/): Übersiedlungsservice im Bezirk Tulln.
+- [Umzug Österreich (Fernumzug)](/leistungen/umzug-oesterreich/): Zuverlässige Strecken nach Wien, Linz und Graz.
+- [Kostenfaktoren & Preise](/preise/): Transparente Fixpreise für Niederösterreich.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [Tulln an der Donau](/leistungen/umzug-tulln/)
+- [Baden bei Wien](/leistungen/umzug-baden/)
+- [Umzug Wien](/leistungen/umzug-wien/)
+- [Niederösterreich](/bundesland/niederoesterreich/)

@@ -30,3 +30,12 @@ Das [Trenn-ABC des Burgenländischen Müllverbands](https://bmv.at/trenn-abc/) o
 Nennen Sie Wohnort, Abfallherkunft, Gegenstände und Menge. Fragen Sie nach eigener Anlieferung oder einem örtlichen Abholangebot, Materialausnahmen und dem passenden Termin. Halten Sie Bestätigung und offenen nächsten Schritt fest. Eine allgemeine Aussage „Sperrmüllsammlung vorhanden“ beschreibt noch nicht Ihre Abgabe.
 
 Organisieren Sie den Weg aus dem Gebäude, geeigneten Transport und tatsächlich benötigte Tragehilfe. Falls Sie Teile selbst abgeben und den Rest räumen lassen, führen Sie zwei Listen. Nach jeder erledigten Abgabe wird der Restbestand aktualisiert. Für eine private Anfrage nennen Sie beide Zugänge und nur die tatsächlich verbleibenden freigegebenen Gegenstände.
+
+
+## Passende Services & Ratgeber
+
+- [Entrümpelung Standorte Österreich](/ratgeber/entruempelung-oesterreich-standorte/): Überregionale Einsätze.
+- [Garage räumen: Sondermüll](/ratgeber/garagenraeumung-wien-sondermuell/): Problemstoffabgabe.
+- [Stadt Oberpullendorf](/leistungen/umzug-oberpullendorf/): Entrümpelungen im Mittelburgenland.
+- [Bundesland Niederösterreich](/bundesland/niederoesterreich/): Einsatzgebiet Niederösterreich.
+- [Bundesland Burgenland](/bundesland/burgenland/): Einsatzgebiet Burgenland.

@@ -66,3 +66,12 @@ Verwenden Sie für verschiedene Angebote dieselbe Stückzuordnung und dieselben 
 Auf [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) können Sie Ihre Liste gliedern und offene Freigaben angeben. Änderungen an Zielorten oder ausgewählten Stücken sollten vor dem Termin abgestimmt werden. Eine Anfrage mit mehreren Wünschen bestätigt noch keine beliebige Tour oder kostenlose Zusatzabholung.
 
 Notieren Sie auch, wer den Zugang an jedem Zielort ermöglicht.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1020 Wien (Leopoldstadt)](/leistungen/umzug-1020-wien/)
+- [1200 Wien (Brigittenau)](/leistungen/umzug-1200-wien/)
+- [1220 Wien (Donaustadt)](/leistungen/umzug-1220-wien/)
+- [Korneuburg](/leistungen/umzug-korneuburg/)

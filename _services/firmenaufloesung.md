@@ -23,3 +23,11 @@ Erfassen Sie Möbel, Regale, Geräte und Nebenräume. Fremde oder gemietete Auss
 Für das Angebot werden Bestand, Demontagen, Gebäudeweg, Ladezeiten und gewünschter Abschluss beschrieben. Technische Anschlüsse und Daten werden mit den zuständigen Fachpersonen geklärt. Benennen Sie, wer am Termin öffnet und die Fläche abnimmt.
 
 Weiter benötigte Unterlagen gehören in einen [Archivumzug](/leistungen/archivumzug/), nicht ungeprüft in den Räumungsbestand. Bei zusätzlichem Warenbestand hilft [Lagerräumung](/leistungen/lagerraeumung/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Standortverlegung für Büros und Gewerbe.
+- [Akten- & Archivumzug](/leistungen/archivumzug/): Sicherer Transport von Unternehmensakten.
+- [Lager- & Gewerberaumräumung](/leistungen/lagerraeumung/): Besenreine Rückgabe von Gewerbeimmobilien.
+- [Gastronomie- & Geschäftsraumräumung](/leistungen/gastronomie-raeumung/): Fachgerechte Demontage von Geschäftseinrichtungen.
+- [Büro- und Gewerberäumung](/ratgeber/buero-und-gewerberaemung/): Inventar und DSGVO-konforme Entsorgung.

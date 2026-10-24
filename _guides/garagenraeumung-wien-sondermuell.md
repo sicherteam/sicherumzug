@@ -48,3 +48,12 @@ Wiener Mistplätze haben Problemstoffsammelstellen für passende Haushaltsmengen
 Messen Sie Toröffnung und Engstellen; nennen Sie Rampen, Schwellen und den Weg zum Fahrzeug. Teilen Sie mit, ob abgestellte Fahrzeuge vor dem Termin entfernt werden. Technische Stilllegung, befestigte Einrichtung und besondere Stoffbehandlung werden separat geklärt. Die gewöhnliche Entfernung beweglicher Gegenstände bestätigt diese Arbeiten nicht automatisch.
 
 Prüfen Sie nach Abschluss den vereinbarten Bereich. Garagenreinigung, Entfernen eines Regalsystems und Abtransport lose stehender Möbel sind unterschiedliche Leistungen und sollten im Auftrag unterscheidbar bleiben.
+
+
+## Passende Services & Ratgeber
+
+- [Keller räumen Checkliste](/ratgeber/kellerraeumung-wien-checkliste/): Sondermülltrennung im Keller.
+- [Garten räumen](/ratgeber/gartenraeumung-wien/): Gartengeräte und Schuppenabfälle.
+- [Sperrmüll in NÖ und Burgenland](/ratgeber/sperrmuell-entsorgung-niederoesterreich-burgenland/): Regionale Abgabestellen.
+- [Garagenräumung Service](/leistungen/garagenraeumung/): Reifen, Öle und Werkbänke entsorgen.
+- [Räumung & Entsorgung](/leistungen/raeumung/): Fachgerechte Entsorgungsnachweise.

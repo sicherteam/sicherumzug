@@ -42,3 +42,10 @@ Das Angebot sollte erkennen lassen, welche Möbel an welchem Ort bearbeitet werd
 | Jedes Stück einzeln | Nur vereinbarter Abbau | Nur vereinbarter Aufbau |
 | Neue verpackte Möbel | Nicht erforderlich | Erstmontage ausdrücklich anfragen |
 | Befestigte Einrichtung | Befestigung gesondert klären | Untergrund und Befestigung klären |
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Möbeltransport Wien](/leistungen/moebeltransport/): Transport und Montage aus einer Hand.
+- [Privatumzug mit Montageservice](/leistungen/privatumzug/): Stressfreie Übersiedlung mit fertigen Möbeln.
+- [Küche abbauen & montieren](/ratgeber/kueche-abbauen-umziehen/): Spezialwissen für Einbauküchen.
+- [Ratgeber: Möbelmontage Tipps](/ratgeber/moebelmontage-abbau-tipps/): Werkzeug, Kennzeichnung und Schraubensicherung.

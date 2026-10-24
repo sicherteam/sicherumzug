@@ -47,3 +47,12 @@ Wenn Sie selbst aussortierte Gegenstände abgeben möchten, klären Sie Material
 Senden Sie uns Start, Ziel, Möbelumfang und Wunschtermin. Fotos sind optional. Unser Fixpreis gilt für die im Angebot aufgeführten Arbeiten. Zusätzliche Wünsche und deren Preis besprechen wir vor der Ausführung mit Ihnen. Liegt ein vergleichbares schriftliches Angebot vor, erhalten Sie bei gleichen Bedingungen [5 % weniger](/preise/#preisgarantie).
 
 [Umzug in Oberpullendorf anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-oberpullendorf%2F#angebot-form) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [Mattersburg](/leistungen/umzug-mattersburg/)
+- [Eisenstadt](/leistungen/umzug-eisenstadt/)
+- [Rust](/leistungen/umzug-rust/)
+- [Burgenland](/bundesland/burgenland/)

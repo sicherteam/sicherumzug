@@ -74,3 +74,12 @@ Auf [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) können Sie Liste, 
 Der Mistplatz Ottakring liegt in der Kendlerstraße 38a. Die Stadt erlaubt dort Anlieferungen mit Pkw mit Wiener Kennzeichen, zu Fuß oder mit dem Fahrrad. Firmen, Firmenfahrzeuge und Anhänger sind ausgeschlossen; ebenso Busse mit Ladefläche, Pritschen und Lieferwägen mit verblechten Seitenscheiben sowie ähnliche Fahrzeuge. Ein gemieteter Transporter sollte deshalb nicht einfach für diesen Standort eingeplant werden.
 
 Der Standort öffnet werktags Montag bis Freitag von 7 bis 18 Uhr und samstags von 8 bis 18 Uhr. Damit beginnt der Samstag später als die allgemeine Wiener Regel. Prüfen Sie zusätzlich die Annahmebedingungen und Haushaltsmengen. Eine beauftragte Räumung benötigt einen zulässigen gesonderten Abgabeweg. [Stadt Wien: Mistplatz Ottakring](https://www.wien.gv.at/umwelt/mistplatz-ottakring).
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1080 Wien (Josefstadt)](/leistungen/umzug-1080-wien/)
+- [1140 Wien (Penzing)](/leistungen/umzug-1140-wien/)
+- [1150 Wien (Rudolfsheim)](/leistungen/umzug-1150-wien/)
+- [1170 Wien (Hernals)](/leistungen/umzug-1170-wien/)

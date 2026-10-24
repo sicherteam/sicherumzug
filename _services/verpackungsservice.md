@@ -32,3 +32,10 @@ Klären Sie vorhandenes und benötigtes Material sowie dessen Kosten im Angebot.
 Persönliche Unterlagen, Schlüssel, Wertsachen und Dinge für den ersten Tag sichern Sie separat. Offene Flüssigkeiten und besondere Stoffe werden vorher genannt. Beschriften Sie Kartons mit denselben Raumnamen wie auf Ihrem Zielplan.
 
 Die [Packhinweise](/ratgeber/verpackungstipps-umzug-anleitung/) helfen bei Eigenleistungen. Der [Kartonrechner](/umzugskarton-rechner/) bietet eine Planungsannahme, keine bestätigte Materialmenge.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Privatumzug Wien](/leistungen/privatumzug/): Kompletter Service inklusive Ein- und Auspacken.
+- [Möbeltransport](/leistungen/moebeltransport/): Sicherer Schutz für wertvolle Möbel.
+- [Interaktiver Umzugskarton-Rechner](/umzugskarton-rechner/): Bedarf an Kartons online berechnen.
+- [Ratgeber: Verpackungstipps für den Umzug](/ratgeber/verpackungstipps-umzug-anleitung/): Richtiges Packen zerbrechlicher Gegenstände.

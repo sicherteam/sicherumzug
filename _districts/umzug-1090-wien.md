@@ -64,3 +64,13 @@ Auch bei üblicher Büroeinrichtung kann der Zeitpunkt der Freigabe relevant sei
 Stellen Sie sicher, dass beide Angebote dieselben Geräte und Räume berücksichtigen. Fragen Sie, welche Arbeiten ausgeschlossen oder gesondert zu beauftragen sind. Wird ausschließlich transportiert oder zusätzlich gepackt und aufgebaut? Wer führt tatsächlich aus und an wen werden Änderungen übermittelt? Diese Punkte sind für den Vergleich wichtiger als eine allgemeine Formulierung „kompletter Praxisumzug“.
 
 Für einen privaten Haushalt am Alsergrund gelten andere Bestandsangaben als für ein Büro. Beschreiben Sie bei [Angebot anfragen](/angebot/) den Auftragstyp und gewünschte Zusatzarbeiten, damit die Vereinbarung die tatsächlichen Aufgaben abbildet.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1010 Wien (Innere Stadt)](/leistungen/umzug-1010-wien/)
+- [1080 Wien (Josefstadt)](/leistungen/umzug-1080-wien/)
+- [1180 Wien (Währing)](/leistungen/umzug-1180-wien/)
+- [1190 Wien (Döbling)](/leistungen/umzug-1190-wien/)
+- [1200 Wien (Brigittenau)](/leistungen/umzug-1200-wien/)

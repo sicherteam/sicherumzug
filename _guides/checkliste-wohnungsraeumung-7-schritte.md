@@ -42,3 +42,13 @@ Eine Wohnungsräumung wird in sieben Schritten vorbereitet. Die Liste verbindet 
 Planen Sie von einer festen Rückgabefrist rückwärts. Persönliche Auswahl, unabhängige Bewertung oder eigene Abholungen brauchen bei Bedarf separate Termine. Eine Besichtigung ist noch keine bestätigte Räumung.
 
 Die [Angebotscheckliste](/ratgeber/raeumungsfirma-wien-checkliste/) ergänzt den Vergleich verschiedener Anbieter. Für den späteren Zustand und die Übergabe hilft das [Wohnungsprotokoll](/ratgeber/wohnungsuebergabeprotokoll-oesterreich-muster/). Der Abschluss des Räumungsauftrags und die Rückgabe an die Vermietung sind getrennte Vorgänge.
+
+
+## Passende Services & Ratgeber
+
+- [Kosten einer Haushaltsauflösung](/ratgeber/was-kostet-eine-haushaltsaufloesung/): Kostenschätzung und Einsparpotenziale.
+- [Dauer einer Haushaltsauflösung](/ratgeber/dauer-haushaltsaufloesung-zeitplan-wien/): Zeitplan für die Wohnungsrückgabe.
+- [Gratis entrümpeln mit Wertanrechnung](/ratgeber/gratis-entruempelung-wien/): Wertgegenstände gegenrechnen.
+- [Gemeindewohnung räumen](/ratgeber/entruempelung-gemeindebau-wiener-wohnen/): Rückgabe an Wiener Wohnen.
+- [Messie-Entrümpelung](/leistungen/messie-entruempelung/): Diskrete Hilfe in schwierigen Fällen.
+- [Online Räumungs-Check](/raeumungs-check/): Kostenloses Tool zur Volumeneinschätzung.

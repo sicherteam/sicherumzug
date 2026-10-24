@@ -64,3 +64,13 @@ Wenn Sie selbst packen, markieren Sie empfindliche Inhalte und halten Sie persö
 Ein Angebot sollte erkennen lassen, ob Kellerbestand oder eine andere Stiege aufgenommen ist. Fragen Sie, ob die angegebene Vorbereitung von Ihnen oder vom ausführenden Unternehmen übernommen wird. Aufwendigere Zugänge, ein später geänderter Eingang oder zusätzliche Möbel können eine neue Abstimmung erfordern. Lassen Sie den tatsächlichen Ausführenden und den Kontakt für solche Änderungen benennen.
 
 Über [Angebot anfragen](/angebot/) können Sie die vollständige Übersicht zusammenstellen. Ein Wunschdatum und eine Hausnummer sind ein Anfang; die Ausführung wird auf Grundlage des konkret bestätigten Zugangs und Umfangs vereinbart.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1040 Wien (Wieden)](/leistungen/umzug-1040-wien/)
+- [1050 Wien (Margareten)](/leistungen/umzug-1050-wien/)
+- [1110 Wien (Simmering)](/leistungen/umzug-1110-wien/)
+- [1120 Wien (Meidling)](/leistungen/umzug-1120-wien/)
+- [1230 Wien (Liesing)](/leistungen/umzug-1230-wien/)

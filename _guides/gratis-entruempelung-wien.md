@@ -41,3 +41,12 @@ Auch eine Spende löst den Transport nicht automatisch kostenlos: [Carla Wien](h
 ## Was vor einer Zusage offen bleiben darf
 
 Ungeprüfte Gegenstände sollten als offene Position erscheinen, nicht als garantierte Gegenfinanzierung. Lassen Sie Alternativen für nicht angenommene Stücke und Preisänderungen vorab erklären. Die [Wertanrechnung im Räumungsauftrag](/ratgeber/wertanrechnung-guide/) erläutert, welche Angaben Sie dafür vorbereiten.
+
+
+## Passende Services & Ratgeber
+
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): So funktioniert die Verrechnung.
+- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Vergleich von Verkaufswegen.
+- [Aussortierte Dinge spenden](/ratgeber/verkaufen-spenden-recycling/): Nachhaltige Verwertung.
+- [Gratis Entrümpelung Service](/leistungen/gratis-entruempelung/): Kostenlose Räumung durch Gegenwerte.
+- [Möbel-Ankauf Service](/leistungen/moebel-ankauf/): Sofortige Anrechnung im Fixpreis.

@@ -36,3 +36,12 @@ Packen Sie Ausweise, Wohnungsunterlagen und Dinge für die erste Zeit in persön
 ## Transportumfang vorab bestätigen
 
 Beschreiben Sie Möbel, Kartons und besondere Stücke; Verpackung, Abbau und Aufbau werden ausdrücklich abgestimmt. Änderungen an Einzugsfenster, Adresse oder Bestand teilen Sie früh mit. Für andere Länder liefert der [internationale Leitfaden](/ratgeber/internationaler-umzug-oesterreich-profi/) eine eigene Orientierung. Sondergüter oder individuelle Dokumentfragen klären Sie direkt mit den zuständigen Stellen.
+
+
+## Passende Services & Ratgeber
+
+- [Auslandsumzug international](/ratgeber/internationaler-umzug-oesterreich-profi/): Zollbestimmungen und Fernstrecken.
+- [Umzugskosten in Österreich sparen](/ratgeber/umzugskosten-oesterreich-sparen/): Kombifahrten für Fernumzüge nutzen.
+- [Auslandsumzug Service](/leistungen/auslandsumzug/): Wöchentliche Touren Wien - München - Berlin.
+- [Umzug Österreich](/leistungen/umzug-oesterreich/): Bundesländerüberschreitende Transporte.
+- [Bundesland Vorarlberg](/bundesland/vorarlberg/): Grenzübertritte nach Deutschland und Schweiz.

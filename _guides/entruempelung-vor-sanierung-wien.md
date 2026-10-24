@@ -40,3 +40,13 @@ Kennzeichnen Sie Sachen, die nach der Sanierung zurückkommen. Zubehör und Teil
 Für eigene Abgaben dürfen normale Haushaltsbedingungen nicht auf alle Baustoffe übertragen werden. Die [Stadt Wien](https://www.wien.gv.at/umwelt/mistplatz-abfallarten-mengen) nennt beispielsweise eigene Materialausnahmen und keine normale Annahme von Gipsplatten.
 
 Prüfen Sie nach der Räumung die vereinbarten Bereiche und gesicherten Dinge. Übergeben Sie offene Aufgaben konkret an den zuständigen Sanierungsbetrieb. So bleibt sichtbar, was erledigt wurde und welche baulichen oder technischen Schritte noch fehlen.
+
+
+## Passende Services & Ratgeber
+
+- [Gemeindewohnung räumen](/ratgeber/entruempelung-gemeindebau-wiener-wohnen/): Entkernung und Abbrucharbeiten.
+- [Kurzfristige Entrümpelung](/ratgeber/express-entruempelung-container-logistik/): Containerdienst und schnelle Räumung.
+- [Entrümpelungsstandorte Österreich](/ratgeber/entruempelung-oesterreich-standorte/): Überregionale Sanierungsprojekte.
+- [Entrümpelungsservice](/leistungen/entruempelung/): Komplettentkernung vor Umbau.
+- [Räumungsservice](/leistungen/raeumung/): Bauschutt- und Sperrmüllentsorgung.
+- [Express Notdienst](/leistungen/express-notdienst/): Termine innerhalb von 24 Stunden.

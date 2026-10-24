@@ -24,3 +24,10 @@ Erfassen Sie Menge, bekannte Maße oder Gewichte und Materialart. Regaldemontage
 Nennen Sie Tore, Rampen, Ladezeiten und Bereiche, die im laufenden Betrieb zugänglich bleiben. Eine verantwortliche Person bestätigt Auswahl und Abnahme. Im Auftrag sollte erkennbar sein, wer ausführt, welche Materialwege vereinbart sind und welche Nachweise benötigt werden.
 
 Bestände für einen anderen Standort gehören in einen [Firmenumzug](/leistungen/firmenumzug-wien/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Firmenauflösung](/leistungen/firmenaufloesung/): Komplette Auflösung gewerblicher Standorte.
+- [Gastronomie- & Geschäftsraumräumung](/leistungen/gastronomie-raeumung/): Besenreine Räumung von Gewerbeflächen.
+- [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Standortwechsel für Gewerbebetriebe.
+- [Ratgeber: Lagerräumung Checkliste](/ratgeber/lagerraeumung-checkliste/): Effiziente Entrümpelung von Lagern.

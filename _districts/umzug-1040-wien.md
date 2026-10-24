@@ -64,3 +64,12 @@ Wenn Sie selbst vorbereiten, teilen Sie mit, welche Arbeiten bis zur Übergabe a
 Vergessen Sie durch das zusätzliche Einzelstück nicht Kellerbestand, Kartons und andere große Möbel Ihrer Wohnung. Ordnen Sie dem neuen Stück bereits einen Zielraum zu und prüfen Sie die Stellfläche. Eine Maßeintragung hilft nur, wenn der Zugang am neuen Standort ebenfalls bekannt ist.
 
 Über [Angebot anfragen](/angebot/) können Sie Haushaltsumzug und zusätzliche Abholung zusammen beschreiben. Verbindlich sind der bestätigte Umfang, die vereinbarte Übergabe und das im Angebot genannte ausführende Unternehmen.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1010 Wien (Innere Stadt)](/leistungen/umzug-1010-wien/)
+- [1030 Wien (Landstraße)](/leistungen/umzug-1030-wien/)
+- [1050 Wien (Margareten)](/leistungen/umzug-1050-wien/)
+- [1100 Wien (Favoriten)](/leistungen/umzug-1100-wien/)

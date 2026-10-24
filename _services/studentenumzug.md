@@ -36,3 +36,11 @@ Ein Studentenumzug kann ein WG-Zimmer oder eine kleine Wohnung betreffen. Erfass
 Eine kombinierte Abholung oder Beiladung wird nicht automatisch angeboten. Auch ein kleines Vorhaben braucht einen klaren Umfang und Zugang.
 
 Das bisherige Zimmer zu reinigen oder zu räumen ist keine automatische Transportleistung. Für freigegebene Gegenstände hilft [Zimmerräumung](/leistungen/zimmer-raeumung/), für einzelne Lieferungen [Möbeltransport](/leistungen/moebeltransport/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Privatumzug zum fairen Preis](/leistungen/privatumzug/): Günstige Lösungen für Studenten und WGs.
+- [Möbeltransport Wien](/leistungen/moebeltransport/): Schneller Transport einzelner Zimmer.
+- [Umzug Wien Übersicht](/leistungen/umzug-wien/): Einsatz in allen Wiener Universitätsbezirken.
+- [Ratgeber: Studentenumzug & WG-Tipps](/ratgeber/studentenumzug-oesterreich-wg-tipps/): Budgetfreundlich umziehen.
+- [Umzugskosten sparen](/ratgeber/umzugskosten-oesterreich-sparen/): Günstig umziehen in Österreich.

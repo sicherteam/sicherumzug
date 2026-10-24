@@ -52,3 +52,11 @@ Messen Sie bei der ersten Begehung den vollständigen Weg für große Möbel. Ei
 Halten Sie fest, wer Kartons packt, Möbel zerlegt und am Ziel wieder aufbaut. Kennzeichnen Sie Stücke, die in einen anderen Raum oder an eine zusätzliche Adresse gebracht werden sollen. So lassen sich Transport und gewünschte Zusatzarbeiten gemeinsam planen.
 
 Über [Angebot anfragen](/angebot/?service=umzug) übermitteln Sie bekannte Daten und offene Fragen. Eine frühe Anfrage reserviert noch keinen Termin; diesen bestätigen wir zusammen mit dem vereinbarten Umfang. Weitere Vorbereitung finden Sie unter [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/).
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1020 Wien (Leopoldstadt)](/leistungen/umzug-1020-wien/)
+- [1210 Wien (Floridsdorf)](/leistungen/umzug-1210-wien/)
+- [Schwechat](/leistungen/umzug-schwechat/)

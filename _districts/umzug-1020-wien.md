@@ -62,3 +62,13 @@ Bei selbst gepackten Kartons sollten Sie besonders häufig benötigte Dinge geso
 ### Was im Angebot stehen sollte
 
 Prüfen Sie, ob Wohnung, Keller und zusätzliche Stiegenwege tatsächlich berücksichtigt sind. Lassen Sie festhalten, wer ausführt und ob Tragen, Verpacken, Abbau und Aufbau eingeschlossen sind. Änderungen am Bestand oder eine inzwischen anders nutzbare Eingangstür gehören vor der Ausführung in die Abstimmung. Über [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) können Sie die Informationen sammeln; anschließend lässt sich der konkrete Umfang anfragen.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1010 Wien (Innere Stadt)](/leistungen/umzug-1010-wien/)
+- [1030 Wien (Landstraße)](/leistungen/umzug-1030-wien/)
+- [1200 Wien (Brigittenau)](/leistungen/umzug-1200-wien/)
+- [1210 Wien (Floridsdorf)](/leistungen/umzug-1210-wien/)
+- [1220 Wien (Donaustadt)](/leistungen/umzug-1220-wien/)

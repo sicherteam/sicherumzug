@@ -47,3 +47,12 @@ Bei besonderen Geräten, Stoffen oder fremdem Eigentum werden nötige Freigaben 
 Auch die [MA 48](https://www.wien.gv.at/umwelt/entruempelungsdienst-sperrmuellabfuhr-ma48) bietet eine kostenpflichtige Abholung mit Personal aus Wohnung, Keller oder Dachboden. Sie ist deshalb nicht ausschließlich eine Selbstabgabe-Alternative. Für eigene kleinere Abgaben gelten andere Mengen- und Leistungsgrenzen.
 
 Eine erste Anfrage ist noch kein Auftrag; eine mögliche Anrechnung wird separat geprüft. Stimmen Sie Änderungen vor dem bestätigten Termin ab. Kontrollieren Sie beim Abschluss die vereinbarten Bereiche und dokumentieren Sie verbleibende Aufgaben. Die tatsächliche Wohnungsrückgabe wird getrennt mit der dafür zuständigen Seite organisiert.
+
+
+## Passende Services & Ratgeber
+
+- [Entrümpelungsangebot MA 48](/ratgeber/entruempelungsangebot-wien-ma48/): Angebote vergleichen und prüfen.
+- [MA 48 vs. Entrümpelungsfirma](/ratgeber/ma48-vs-firma/): Vollservice vs. Eigenregie.
+- [Entrümpelungsfirma](/leistungen/entruempelungsfirma/): Sicher Team e.U. Qualitätsstandards.
+- [Über uns](/ueber-uns/): Unser Wiener Familienbetrieb.
+- [Kundenbewertungen](/bewertungen/): Erfahrungsberichte echter Kunden.

@@ -23,3 +23,10 @@ Beschreiben Sie vorhandene Verankerungen und den vollständigen Weg an Start und
 Wer technische Voraussetzungen bewertet und den Transport ausführt, wird vor der Zusage geklärt. Lösen von Befestigungen, neue Verankerung, Öffnung und Schlossarbeiten sind gesonderte Aufgaben. Persönliche Inhalte und Zugangsdaten bleiben außerhalb der allgemeinen Anfrage.
 
 Ändert sich der Zielweg, muss die Grundlage erneut abgestimmt werden. Für weitere Lasten hilft [Spezialtransport](/leistungen/spezialtransporte/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Spezialtransporte](/leistungen/spezialtransporte/): Schwerlastlogistik für schwere Güter.
+- [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Betriebsumzüge inklusive Sicherheitsschränke.
+- [Möbeltransport](/leistungen/moebeltransport/): Fachgerechter Transport empfindlicher Fracht.
+- [Ratgeber: Tresortransport & Schwerlast](/ratgeber/tresortransport-schwerlast-oesterreich/): Bodenbelastung und Treppensteiger.

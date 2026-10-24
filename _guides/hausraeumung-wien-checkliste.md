@@ -52,3 +52,12 @@ Messen Sie auffällige Engstellen und große Gegenstände. Ein gut erreichbarer 
 Eine große Räumung lässt sich nicht pauschal als kostenlose normale Mistplatzabgabe behandeln. Die [Stadt Wien](https://www.wien.gv.at/umwelt/mistplaetze-leistungen) grenzt kleine Abgaben von Zimmer- und Wohnungsräumungen ab.
 
 Kontrollieren Sie nach Abschluss dieselben Bereiche anhand Ihrer Liste. Der gewünschte Reinigungszustand, zurückbleibende Einrichtung und Schlüssel werden konkret festgehalten. So bleibt nachvollziehbar, was abgeschlossen ist und was außerhalb des Auftrags liegt.
+
+
+## Passende Services & Ratgeber
+
+- [Altbauwohnung räumen](/ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/): Logistik für mehrere Etagen.
+- [Dachboden räumen Checkliste](/ratgeber/dachboden-raeumung-wien-checkliste/): Ausmisten unterm Dach.
+- [Keller räumen Checkliste](/ratgeber/kellerraeumung-wien-checkliste/): Feuchte Kellerbestände entsorgen.
+- [Garten räumen](/ratgeber/gartenraeumung-wien/): Gartenmöbel und Schuppen räumen.
+- [Hausräumung Service](/leistungen/hausraeumung/): Kompletträumung vom Keller bis zum Dach.

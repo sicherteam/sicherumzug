@@ -50,3 +50,12 @@ Kennzeichnen Sie, welche Kartons Sie selbst packen und welche Möbel bis zum Ter
 Vergleichen Sie Angebote für denselben Bestand, dieselben Zugänge und dieselben Zusatzarbeiten. Im Angebot halten wir die vereinbarten Leistungen und den bestätigten Termin fest. Änderungen an Menge oder Zugang teilen Sie uns bitte vor dem Umzug mit.
 
 Über [Angebot anfragen](/angebot/?service=umzug) senden Sie uns beide Adressen und den Terminwunsch. Für einzelne Aufbauarbeiten finden Sie weitere Informationen zur [Möbelmontage](/leistungen/moebelmontage/). Unser Überblick zu [Halteverbotszonen](/ratgeber/halteverbotszone-umzug-oesterreich/) hilft bei der Vorbereitung des Ladeplatzes.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1050 Wien (Margareten)](/leistungen/umzug-1050-wien/)
+- [1100 Wien (Favoriten)](/leistungen/umzug-1100-wien/)
+- [1130 Wien (Hietzing)](/leistungen/umzug-1130-wien/)
+- [1230 Wien (Liesing)](/leistungen/umzug-1230-wien/)

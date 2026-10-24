@@ -53,3 +53,10 @@ Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangeb
 Die Wohnsitzmeldung ist von Transport und Möbelmontage getrennt. Die [Stadt Graz informiert zur Wohnsitzanmeldung](https://www.graz.at/?cms_nearest=10022850). Klären Sie Ihre persönlichen Behördenwege direkt mit der zuständigen Stelle.
 
 Für weitere Strecken lesen Sie [Umzug Steiermark](/bundesland/steiermark/), für Ihren Haushalt [Privatumzug](/leistungen/privatumzug/) und für einzelne Stücke [Möbeltransport](/leistungen/moebeltransport/). [Umzug nach oder aus Graz anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-graz%2F#angebot-form).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Umzug Österreich (Fernumzug)](/leistungen/umzug-oesterreich/): Übersiedlungen zwischen Graz, Wien und allen Bundesländern.
+- [Privatumzug mit Fixpreis](/leistungen/privatumzug/): Wohnungsumzüge stressfrei geplant.
+- [Firmenumzug & Büroübersiedlung](/leistungen/firmenumzug-wien/): Verlässlicher Standortwechsel für Unternehmen.
+- [Bundesland Steiermark Übersicht](/bundesland/steiermark/): Einsatzgebiete und Planung in der Steiermark.

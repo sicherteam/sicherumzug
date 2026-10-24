@@ -38,3 +38,13 @@ Für Wien bieten die [Mistplatzregeln](https://www.wien.gv.at/umwelt/mistplatz-r
 ## Angebot nach der Adresse vergleichen
 
 Prüfen Sie bei mehreren Angeboten dieselben Gegenstände und Zugangsangaben. Fragen Sie, welche Positionen Anfahrt, Tragen, Demontage und Abgabe abdecken und was bei Änderungen geschieht. Die [Checkliste für eine Räumungsfirma](/ratgeber/raeumungsfirma-wien-checkliste/) hilft bei diesen Fragen auch dann, wenn sich Ihr Objekt außerhalb Wiens befindet.
+
+
+## Passende Services & Ratgeber
+
+- [Sperrmüll in NÖ und Burgenland](/ratgeber/sperrmuell-entsorgung-niederoesterreich-burgenland/): Regionale Bestimmungen.
+- [Entrümpelungsangebot MA 48](/ratgeber/entruempelungsangebot-wien-ma48/): Preise in Wien und den Bundesländern.
+- [Räumung vor Sanierung](/ratgeber/entruempelung-vor-sanierung-wien/): Gewerbliche und private Räumungen.
+- [Entrümpelungsservice](/leistungen/entruempelung/): Einsatzgebiete in ganz Österreich.
+- [Bundesland Niederösterreich](/bundesland/niederoesterreich/): Räumungen von St. Pölten bis Baden.
+- [Bundesland Burgenland](/bundesland/burgenland/): Entrümpelung in Eisenstadt und Neusiedl.

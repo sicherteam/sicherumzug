@@ -35,3 +35,12 @@ Vereinbaren Sie private Hilfe konkret: Wer packt, wer stellt Fahrzeug und wer is
 Prüfen Sie verbliebene Sachen, Reinigung und Schlüssel anhand der vereinbarten Rückgabe. Gemeinschaftsmöbel werden nicht versehentlich dem persönlichen Bestand zugerechnet. Für reine Entfernung hilft die [WG-Zimmerräumung](/ratgeber/zimmer-raeumung-wien-wg-uebergabe/).
 
 Packen Sie Dinge für Studium, Arbeit und erste Nacht separat. Beschriften Sie Kartons mit denselben Zimmernamen wie der Zielplan. Melden Sie neue Möbel oder ausgefallene Abholungen vor dem Termin. Nach Ankunft kontrollieren Sie die Mitnahme; die Rückgabe des alten Zimmers wird unabhängig davon abgeschlossen.
+
+
+## Passende Services & Ratgeber
+
+- [Erste eigene Wohnung](/ratgeber/erste-eigene-wohnung-umzug-oesterreich/): Erstausstattung und Organisation.
+- [WG-Zimmer Räumung](/ratgeber/zimmer-raeumung-wien-wg-uebergabe/): Übergabeprotokoll und Kaution.
+- [Möbelpacker vs. DIY Umzug](/ratgeber/moebelpacker-vs-diy-umzug/): Mit Freunden oder mit Profis.
+- [Studentenumzug Service](/leistungen/studentenumzug/): Studententarife in Wien und Graz.
+- [Bundesland Steiermark](/bundesland/steiermark/): Umzugsservice für Graz und Umgebung.

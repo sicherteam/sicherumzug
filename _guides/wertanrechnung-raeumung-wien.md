@@ -34,3 +34,10 @@ sitemap: false
 llm_exclude: true
 ---
 Dieser Ratgeber ist unter [Wertanrechnung bei der Räumung: Prüfung und Angebot](/ratgeber/wertanrechnung-guide/) erreichbar.
+
+## Passende Services & Ratgeber
+
+- [Altwaren & Antiquitäten Ankauf](/leistungen/altwaren-ankauf/): Wertanrechnung direkt mit den Räumungskosten verrechnen.
+- [Möbel Ankauf](/leistungen/moebel-ankauf/): Faire Bewertung gebrauchter Möbelstücke.
+- [Haushaltsauflösung mit Wertausgleich](/leistungen/haushaltsaufloesung/): Besenreine Räumung zum Bestpreis.
+

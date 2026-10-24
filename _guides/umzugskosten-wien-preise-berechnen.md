@@ -46,3 +46,12 @@ Die frühere Sicher-Team-Preisorientierung vom 25.08.2026 ist ein historischer e
 Für eine Wiener Halteverbotszone erläutert die [Stadt Wien](https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung) das Verfahren. Behördliche Gebühren und organisatorische Arbeit sind unterschiedliche Positionen. Kaution, doppelte Miete und neue Anschaffungen gehören in Ihr Wohnbudget, nicht automatisch in den Transportpreis.
 
 Der [Angebotsvergleich](/ratgeber/umzugsfirma-vergleichen/) hilft, offene Positionen sichtbar zu machen. Eine Rechenhilfe liefert eine Planung unter ihren angegebenen Annahmen und kein bestätigtes Preisangebot.
+
+
+## Passende Services & Ratgeber
+
+- [Umzugskosten in Österreich sparen](/ratgeber/umzugskosten-oesterreich-sparen/): Spartipps und Kostenfallen vermeiden.
+- [Umzugsförderung & Beihilfen](/ratgeber/umzug-foerderung-beihilfe-ams-wien/): AMS Entfernungsbeihilfe und Förderungen.
+- [Umzugsfirma vergleichen](/ratgeber/umzugsfirma-vergleichen/): Preise und Leistungen objektiv prüfen.
+- [Express Notdienst](/leistungen/express-notdienst/): Schnelle Hilfe bei kurzfristigen Terminen.
+- [Budget-Rechner](/umzug-budget-vergleichen/): Online Umzugskosten berechnen.

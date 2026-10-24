@@ -30,3 +30,12 @@ Klären Sie Adresse, Klingelname, erreichbares Gegenüber und tatsächliches Zei
 Beschreiben Sie Etagen, Lift und Ladeweg an beiden Adressen. Halten Sie ausdrücklich fest, ob aus einem Raum getragen, nur an der Straße übernommen oder am Ziel aufgebaut werden soll. Zusätzliche Stücke und Abholstellen werden vor der Durchführung abgestimmt.
 
 Für ein einzelnes Stück passt die Anfrage [Möbeltransport](/leistungen/moebeltransport/). Wenn mehrere Räume übersiedeln, beschreiben Sie einen gemeinsamen [Privatumzug](/leistungen/privatumzug/). Eine kurze Fahrstrecke beantwortet nicht, wie viel Vorbereitung und Tragearbeit tatsächlich benötigt wird.
+
+
+## Passende Services & Ratgeber
+
+- [Möbel vor dem Umzug abbauen](/ratgeber/moebelmontage-abbau-tipps/): Große Möbel transportfähig machen.
+- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Möbel vorab abgeben.
+- [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Spezialgut sicher befördern.
+- [Möbeltransport Service](/leistungen/moebeltransport/): Kleintransporte und Einzelmöbel.
+- [Möbel-Ankauf](/leistungen/moebel-ankauf/): Gebrauchte Möbel direkt anrechnen.

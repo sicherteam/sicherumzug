@@ -64,3 +64,12 @@ Wenn am Ziel der Aufstellort noch nicht feststeht, kennzeichnen Sie dies als off
 Prüfen Sie, ob ein besonderes Stück in jedem verglichenen Angebot tatsächlich enthalten ist. Ein niedriger Gesamtbetrag für normalen Wohnungsbestand sagt nichts über die noch ungeklärte Spezialposition aus. Lassen Sie die bestätigte Beförderung, Verpackungsaufgaben und Montagegrenzen benennen. Auch unser Team sollte erkennbar sein.
 
 Für den übrigen Bestand bleiben Kartonzahl, Möbel und Nebenräume relevant. Über [Angebot anfragen](/angebot/) können Sie beides zusammen beschreiben, die besondere Position aber klar abheben. Eine Anfrage startet die Prüfung; sie bestätigt weder spezielle Ausrüstung noch die Übernahme jedes schweren Gegenstands.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1090 Wien (Alsergrund)](/leistungen/umzug-1090-wien/)
+- [1180 Wien (Währing)](/leistungen/umzug-1180-wien/)
+- [1200 Wien (Brigittenau)](/leistungen/umzug-1200-wien/)
+- [Klosterneuburg](/leistungen/umzug-klosterneuburg/)

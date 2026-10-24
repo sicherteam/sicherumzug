@@ -37,3 +37,12 @@ Verlassen Sie sich bei unbekanntem Gewicht nicht auf eine freie Schätzung. Prü
 Lassen Sie Instrument und problematische Zugänge durch den tatsächlich ausführenden geeigneten Betrieb prüfen. Entfernen Sie keine Instrumententeile und planen Sie keine improvisierte Beförderung über Fenster, Balkon oder Stiegen. Besondere Maßnahmen, Schutz und Aufstellort müssen ausdrücklich abgestimmt sein.
 
 Klären Sie Verpackungsverantwortung, Vertragspartner und Bedingungen für das Instrument vor der Beauftragung. Dokumentieren Sie Zustand und Zubehör für beide Übergaben. Halten Sie Schlüssel und Zielplatz bereit und melden Sie Standortänderungen früh. Stimmen, Wartung und Reparatur werden unabhängig vom Transport mit der zuständigen Fachperson organisiert.
+
+
+## Passende Services & Ratgeber
+
+- [Schwere Gegenstände räumen](/ratgeber/schwerlastentsorgung-tresor-klavier-wien/): Schwerlasttransport und Entsorgung.
+- [Tresortransport Leitfaden](/ratgeber/tresortransport-schwerlast-oesterreich/): Spezialausrüstung und Tragewege.
+- [Umzugshaftung und Versicherung](/ratgeber/haftung-umzugsschaeden-oesterreich-spedition/): Allianz Versicherung bis 1. Mio €.
+- [Klaviertransport Service](/leistungen/klaviertransport/): Spezialtransporte für Pianos und Flügel.
+- [Tresortransport Service](/leistungen/tresortransport/): Schwerlastkrane und Treppensteiger.

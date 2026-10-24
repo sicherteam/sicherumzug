@@ -27,3 +27,10 @@ sitemap: false
 llm_exclude: true
 ---
 Dieser Ratgeber ist unter [Büro- und Gewerberäumung: Inventar und Zuständigkeiten](/ratgeber/buero-und-gewerberaemung/) erreichbar.
+
+## Passende Services & Ratgeber
+
+- [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Professionelle Betriebs- und Büroübersiedlung.
+- [Akten- & Archivumzug](/leistungen/archivumzug/): Sicherer Transport von Geschäftsunterlagen.
+- [Preise & Kostenfaktoren](/preise/): Kalkulierbare Fixpreisangebote für Unternehmen.
+

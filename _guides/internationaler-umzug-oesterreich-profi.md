@@ -36,3 +36,12 @@ Für Wohnsitz, Aufenthalt, Fahrzeuge oder besondere Güter verwenden Sie die off
 Nennen Sie beide vollständigen Adressen, besondere Stücke und alle Zwischenstopps. Erfassen Sie Zugänge, Schlüssel und erreichbare Personen. Persönliche Anreise und Möbelankunft können unterschiedliche Termine haben; bei Vertretung am Ziel müssen Zugang und Raumplan gesichert sein.
 
 Packen, Abbau, Tragen und Aufbau werden ausdrücklich abgestimmt. Falls eine Einlagerung nötig ist, erhält sie eine eigene Beschreibung mit späterem Weitertransport. Aus einer allgemeinen Anfrage folgt keine Zusage für Zollvertretung, See- oder Luftfracht. Wichtige persönliche Dokumente und Dinge für die erste Zeit bleiben bei Ihnen.
+
+
+## Passende Services & Ratgeber
+
+- [Umzug Österreich - Deutschland](/ratgeber/auslandsumzug-deutschland-oesterreich/): Routen und Grenzabwicklung.
+- [Verpackungstipps für den Umzug](/ratgeber/verpackungstipps-umzug-anleitung/): Seetaugliche und stabile Kartons.
+- [Auslandsumzug Service](/leistungen/auslandsumzug/): Internationale Relocation Services.
+- [Umzug Österreich](/leistungen/umzug-oesterreich/): Transportnetz in allen 9 Bundesländern.
+- [Bundesland Salzburg](/bundesland/salzburg/): Zentraler Knotenpunkt im Fernverkehr.

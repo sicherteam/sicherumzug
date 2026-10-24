@@ -63,3 +63,12 @@ Beim Verpacken kann eine Raumkennzeichnung die Verteilung am Ziel erleichtern. P
 Prüfen Sie, ob die vorgelagerten Stufen und engen Stellen tatsächlich aufgenommen wurden. Ein kurzes Standardangebot nach Wohnungsgröße kann diese Bedingungen offenlassen. Fragen Sie nach dem enthaltenen Tragweg, Montageumfang und tatsächlichen Ausführenden. Auch Freigaben für eine Fläche oder ein Tor bleiben eine eigene Voraussetzung und sollten nicht aus der Nachbarschaft abgeleitet werden.
 
 Auf [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) können Sie Zugang und Bestand gemeinsam sammeln. Ändert sich der nutzbare Weg, muss der Auftrag vor der Ausführung entsprechend abgestimmt werden.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1130 Wien (Hietzing)](/leistungen/umzug-1130-wien/)
+- [1150 Wien (Rudolfsheim)](/leistungen/umzug-1150-wien/)
+- [1160 Wien (Ottakring)](/leistungen/umzug-1160-wien/)
+- [Tulln](/leistungen/umzug-tulln/)

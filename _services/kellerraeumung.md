@@ -38,3 +38,10 @@ Für eine Kellerräumung muss das richtige Abteil eindeutig zugeordnet und freig
 Ungeklärtes Eigentum bleibt als offene Position erfasst. Unbekannte Behälter werden nicht für die Anfrage geöffnet. Technische Anlagen und Gebäudeteile sind eigene Aufgaben; Räumung umfasst keine Schimmelbehandlung oder Sanierung.
 
 Bei einer ganzen Wohnung wird das Abteil unter [Wohnungsräumung](/leistungen/wohnungsaufloesung/) ausdrücklich als Nebenbereich aufgeführt. Bei der Abnahme werden freigegebene Positionen und verbleibende Ausnahmen gemeinsam geprüft.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Dachbodenräumung](/leistungen/dachbodenraeumung/): Räumung ungenutzter Dachböden.
+- [Garagenräumung](/leistungen/garagenraeumung/): Schnelle Entrümpelung von Garagen.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Faire Fixpreise ohne versteckte Kosten.
+- [Ratgeber: Kellerräumung & Feuchtigkeit](/ratgeber/kellerraeumung-wien-checkliste/): Kosten und Schutz vor Schimmel.

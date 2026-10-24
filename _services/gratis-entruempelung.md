@@ -27,3 +27,10 @@ Entscheiden Sie unabhängig davon, welche persönlichen Stücke bleiben. Ein eig
 Die [Wertanrechnung](/ratgeber/wertanrechnung-guide/) erklärt die Prüfung; [Entrümpelung](/leistungen/entruempelung-wien/) beschreibt den Entfernungsauftrag.
 
 Wenn das ganze Objekt leer übergeben werden soll, erfassen Sie auch Schrankinhalte, Keller und weitere Nebenflächen. Die Prüfung eines einzelnen Möbelwerts ist keine Kalkulation für diesen Gesamtumfang.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Altwaren Wertanrechnung](/leistungen/altwaren-ankauf/): Verrechnung historischer Gegenstände.
+- [Möbel Ankauf](/leistungen/moebel-ankauf/): Gegenwert für gebrauchte Möbelstücke.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Besenreine Entrümpelung mit Fixpreisgarantie.
+- [Ratgeber: Wertanrechnung verstehen](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Vorteile der Direktverrechnung.

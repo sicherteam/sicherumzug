@@ -23,3 +23,10 @@ Ein Angebot einer Räumungsfirma ist nur vergleichbar, wenn Bestand, Nebenräume
 Sicher Team übernimmt die vereinbarten Räumungsarbeiten und begleitet Sie von der Anfrage bis zur Abnahme. Eine niedrigere Summe ohne vollständigen Umfang beantwortet diese Fragen nicht.
 
 Der [Angebotsvergleich für Räumungen](/ratgeber/raeumungsfirma-wien-checkliste/) erklärt die Prüfpunkte. Für die eigentliche Leistung wählen Sie [Entrümpelung](/leistungen/entruempelung-wien/) oder [Räumung](/leistungen/raeumung/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Schnelle Hilfe in Wien und Umland.
+- [Haushaltsauflösung](/leistungen/haushaltsaufloesung/): Komplette Räumung privater Wohnungen.
+- [Räumung nach Vereinbarung](/leistungen/raeumung/): Garantierte Fixpreise für jeden Umfang.
+- [Ratgeber: Räumungsfirma vergleichen](/ratgeber/raeumungsfirma-wien-checkliste/): Wichtige Fragen vor der Vergabe.

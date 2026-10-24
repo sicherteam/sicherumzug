@@ -40,3 +40,12 @@ Sichern Sie Fotos, Briefe und persönliche Unterlagen zuerst. In einem gemeinsam
 Notieren Sie den Weg in Reihenfolge: Lagerplatz, Luke oder Tür, Treppe, Gebäudeeingang und Ladeplatz. Messen Sie die engste nutzbare Öffnung und beschreiben Sie Wendungen. Ein Regal kann durch eine breite Tür passen und trotzdem an einer Luke scheitern. Lassen Sie einen unklaren Weg vor der Terminbestätigung beurteilen.
 
 Halten Sie gemeinsame Wege frei. Alte oder beschädigte Kartons werden nicht ungeprüft zum Transport genutzt; besondere oder unbekannte Inhalte werden separat beschrieben. Nach privaten Abholungen aktualisieren Sie die Menge. Beim Abschluss kontrollieren Sie den freigegebenen Bereich und die zurückbehaltenen Dinge. Eine gewünschte Reinigung wird ausdrücklich als eigener Umfang vereinbart.
+
+
+## Passende Services & Ratgeber
+
+- [Keller räumen Checkliste](/ratgeber/kellerraeumung-wien-checkliste/): Kellerabteile effizient leeren.
+- [Hausräumung Checkliste](/ratgeber/hausraeumung-wien-checkliste/): Gesamtes Gebäude planen.
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Dachbodenfunde fair anrechnen.
+- [Dachbodenräumung Service](/leistungen/dachbodenraeumung/): Tragearbeiten durch enge Luken.
+- [Garagenräumung Service](/leistungen/garagenraeumung/): Entrümpelung aller Nebenflächen.

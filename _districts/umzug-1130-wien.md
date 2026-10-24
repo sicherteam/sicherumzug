@@ -64,3 +64,12 @@ Wenn mehr Unterstützung gewünscht ist, benennen Sie die Aufgaben einzeln. Pack
 Ein Angebot für das ganze Haus unterscheidet sich von einem Angebot für bereits ausgewählte Möbel. Verwenden Sie dieselbe endgültige Liste, wenn Sie verschiedene Angebote vergleichen. Prüfen Sie, ob Nebenräume und Zugänge berücksichtigt sind und welche Pack- oder Montagearbeiten bei Ihnen bleiben. Lassen Sie den tatsächlichen Ausführenden und bestätigten Termin nennen.
 
 Über [Angebot anfragen](/angebot/) können Sie den ausgewählten Bestand und gewünschte Hilfe beschreiben. Noch offene Räumung oder Weitergabe sollte dabei als eigene Aufgabe erkennbar bleiben.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1120 Wien (Meidling)](/leistungen/umzug-1120-wien/)
+- [1140 Wien (Penzing)](/leistungen/umzug-1140-wien/)
+- [1230 Wien (Liesing)](/leistungen/umzug-1230-wien/)
+- [Mödling](/leistungen/umzug-moedling/)

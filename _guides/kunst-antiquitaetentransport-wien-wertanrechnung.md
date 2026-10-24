@@ -35,3 +35,12 @@ Messen Sie den vorgesehenen Zugangsweg einschließlich Wendungen und Zielplatz. 
 Das [Dorotheum](https://www.dorotheum.com/de/c/verkaufen-268/) beschreibt eine Bewertungs- und Verkaufsanfrage mit Fotos und möglicher Besichtigung. Dies ist keine automatische Bestätigung eines Anrechnungswerts im Räumungsauftrag. Für eine solche Anrechnung werden freigegebene Stücke und bestätigte Bedingungen separat aufgeführt.
 
 Vor der Beauftragung klären Sie tatsächlichen Transporteur, Verpackungsverantwortung und Versicherungsbedingungen für Ihre Objekte. Die [WKO-Checkliste](https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden) bietet dazu Vertragsfragen. Sie belegt keine Kunsttransportqualifikation eines Betriebs. Restaurierung und fachliche Begutachtung werden unabhängig vom Möbeltransport organisiert.
+
+
+## Passende Services & Ratgeber
+
+- [Bibliothek & Sammlungen auflösen](/ratgeber/bibliothek-sammlungen-aufloesen-wien/): Bücher und Sammlungen schätzen.
+- [Zerbrechliche Gegenstände verpacken](/ratgeber/zerbrechliche-gegenstaende-verpacken/): Stoßfester Schutz.
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Gegenstände verrechnen lassen.
+- [Antiquitäten-Ankauf](/leistungen/antiquitaeten-ankauf/): Faire Schätzung historischer Möbel.
+- [Altwaren-Ankauf](/leistungen/altwaren-ankauf/): Verkauf und Wertausgleich.

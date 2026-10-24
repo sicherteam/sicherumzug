@@ -36,3 +36,13 @@ Fragen zu Schäden, Einbauten oder Investitionen stimmen Sie anhand Ihrer Unterl
 Erfassen Sie Wohnung und zugehörige Nebenbereiche. Kennzeichnen Sie persönliche Dinge zur Mitnahme, bestätigte private Abholungen und freigegebene Entfernung. Beschreiben Sie Kellerzugang, Etagen, Lift und Ladeweg. Technische Vorbereitung, Demontage und Reinigung bekommen jeweils eine eigene Zuständigkeit und einen vereinbarten Umfang.
 
 Planen Sie die Räumung so, dass eine Abschlusskontrolle vor der Rückgabe möglich ist. Prüfen Sie Räume, gesicherte persönliche Dinge und Schlüssel anhand derselben Liste. Die beauftragte Entfernung von Möbeln entscheidet keine offenen Miet- oder Rückgabeansprüche. Der praktische Auftrag und die Abstimmung mit Wiener Wohnen bleiben zwei verbundene Aufgaben.
+
+
+## Passende Services & Ratgeber
+
+- [Räumung vor einer Sanierung](/ratgeber/entruempelung-vor-sanierung-wien/): Rückbau von Fliesen und Einbauten.
+- [Kurzfristige Entrümpelung](/ratgeber/express-entruempelung-container-logistik/): Dringende Übergabetermine halten.
+- [Wohnungsräumung 7 Schritte](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Abnahme durch Wiener Wohnen.
+- [Wohnungsauflösung Service](/leistungen/wohnungsaufloesung/): Rückbau nach Mietvertragsrichtlinien.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Besenreine Übergabe an Hausverwaltung.
+- [Bundesland Wien](/bundesland/wien/): Einsatzgebiete in allen Wiener Gemeindebauten.

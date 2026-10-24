@@ -126,3 +126,11 @@ Menge, Material, Zugang und Demontagen werden für den konkreten Umfang erfasst.
 Besenrein wird als vereinbarter Abschluss beschrieben. Renovierung, spezielle Reinigung und Anschlussarbeiten sind davon getrennt. Bei der Abnahme prüfen Sie die Bereichsliste, Ausnahmen und offenen Punkte gemeinsam.
 
 Für Wohnungen hilft [Wohnungsräumung](/leistungen/wohnungsaufloesung/), für Häuser [Hausräumung](/leistungen/hausraeumung/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Schnelle Entrümpelung von Wohnungen und Häusern.
+- [Wohnungsauflösung](/leistungen/wohnungsaufloesung/): Komplette Räumung mit Wertanrechnung.
+- [Kellerräumung](/leistungen/kellerraeumung/): Entrümpelung von Nebenräumen und Abteilen.
+- [Ratgeber: 5 fatale Fehler bei Räumungen](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Kostenfallen vermeiden.
+- [Gartenräumung Wien](/ratgeber/gartenraeumung-wien/): Schuppen und Außenbereiche räumen.

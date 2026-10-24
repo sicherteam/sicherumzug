@@ -36,3 +36,12 @@ Messen Sie Gartentor und enge Durchgänge. Notieren Sie Stufen, Weglänge und er
 Das [Wiener Mistplatz-ABC](https://www.wien.gv.at/umwelt/mistplatz-abfallarten-mengen) nennt für biogene Abfälle eine eigene Mengenregel, derzeit bis zu zwei Kubikmeter je Anlieferung. Allgemeine [Annahme- und Fahrzeugbedingungen](https://www.wien.gv.at/umwelt/mistplatz-regeln) gelten zusätzlich. Dies ist kein pauschaler Entsorgungsweg für sämtliche Gartenmaterialien oder eine Gewerberäumung.
 
 Für Geräte, Batterien und besondere Materialien wird der richtige Weg separat geklärt. Beim Abschluss prüfen Sie beweglichen Bestand und ausdrücklich vereinbarte zusätzliche Arbeiten. So bleibt die Grenze zwischen Räumung, Transport und gärtnerischen oder baulichen Aufgaben nachvollziehbar.
+
+
+## Passende Services & Ratgeber
+
+- [Garage räumen: Sondermüll](/ratgeber/garagenraeumung-wien-sondermuell/): Werkzeug und Problemstoffe.
+- [Hausräumung Checkliste](/ratgeber/hausraeumung-wien-checkliste/): Außenbereich und Nebengebäude.
+- [Elektrogeräte entsorgen Wien](/ratgeber/elektrogeraete-entsorgen-wien/): Elektrische Rasenmäher und Pumpen.
+- [Räumungsservice](/leistungen/raeumung/): Besenreine Freimachung von Gärten.
+- [Garagenräumung](/leistungen/garagenraeumung/): Schuppen und Unterstände.

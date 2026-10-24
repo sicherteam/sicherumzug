@@ -26,3 +26,12 @@ Erfassen Sie Möbel und Kartons, besondere Gegenstände, Etagen und Zugänge. Ne
 Halten Sie im Angebot fest, welche Verpackung, Demontage, Lieferung und Montage vereinbart sind. Wer erforderliche Transportunterlagen oder Formalitäten übernimmt, bleibt eine eigene Frage für Ihre Länderstrecke. Persönliche Aufenthalts- und Einfuhrfragen klären Sie bei den zuständigen Stellen.
 
 Für Strecken ohne Grenzübertritt nutzen Sie [Umzug Österreich](/leistungen/umzug-oesterreich/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Umzug Österreich (Fernumzug)](/leistungen/umzug-oesterreich/): Überregionale Umzüge zwischen allen Bundesländern.
+- [Privatumzug mit Fixpreis](/leistungen/privatumzug/): Sorgfältige Planung für das neue Zuhause.
+- [Verpackungsservice](/leistungen/verpackungsservice/): Hochwertiger Schutz für lange Transportwege.
+- [Ratgeber: Auslandsumzug planen](/ratgeber/internationaler-umzug-oesterreich-profi/): Zoll, Dokumente und Checklisten.
+- [Umzug Österreich-Deutschland](/ratgeber/auslandsumzug-deutschland-oesterreich/): Tipps für den Grenzübertritt.
+- [Internationaler Umzug](/ratgeber/internationaler-umzug-oesterreich-profi/): Routen und Logistik.

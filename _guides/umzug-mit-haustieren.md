@@ -37,3 +37,12 @@ Für Hunde, Katzen und Frettchen im privaten Reiseverkehr innerhalb der EU bezie
 Klären Sie Schlüssel und tatsächliches Einzugsfenster. Benötigte Dinge sollten erreichbar sein, ohne Transportkartons durchsuchen zu müssen. Für Verzögerungen vereinbaren Sie einen erreichbaren Kontakt und passenden Betreuungsplan.
 
 Aquarium, Terrarium und andere besondere Anlagen werden als eigene Gegenstände beschrieben; ihre Vorbereitung benötigt eine gesonderte fachliche Abstimmung. Bei gesundheitlichen Auffälligkeiten oder Fragen zur Eingewöhnung ist die geeignete Fachperson zuständig. Eine allgemeine Umzugsanleitung liefert dafür keine feste Frist.
+
+
+## Passende Services & Ratgeber
+
+- [Umzug mit Kindern](/ratgeber/umzug-mit-kindern-oesterreich-schulwechsel/): Familienumzug vorbereiten.
+- [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Den Ablauf vorab strukturieren.
+- [Professionelle Übersiedlung Wien](/ratgeber/professionelle-uebersiedlung-wien/): Zeitfenster und Zugang klären.
+- [Privatumzug Service](/leistungen/privatumzug/): Rücksichtsvoller und sicherer Möbeltransport.
+- [Bundesland Wien](/bundesland/wien/): Übersiedlungen in ganz Wien.

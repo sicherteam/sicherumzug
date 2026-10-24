@@ -37,3 +37,13 @@ Die Durchführung, notwendige Facharbeiten und ein möglicher Container werden a
 Für eine Wiener Halteverbotszone nennt die [Stadt Wien](https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung) mindestens zehn Werktage Antragsvorlauf. Daraus lässt sich keine generelle Sofortlösung ableiten. Die [kommunale MA-48-Abholung](https://www.wien.gv.at/umwelt/entruempelungsdienst-sperrmuellabfuhr-ma48) nennt ebenfalls einen eigenen Bestellzeitraum. Private Verfügbarkeit muss separat bestätigt werden.
 
 Melden Sie zusätzliche Gegenstände oder ausgefallene private Abholungen früh. Halten Sie die Abschlusskontrolle vor Ihrer Rückgabe als eigenen Schritt fest. Reinigung, technische Vorbereitung und baulicher Rückbau gehören nur zum Auftrag, wenn sie ausdrücklich vereinbart sind. Bei Eile hilft eine klare Aufgabenverteilung mehr als eine unbestätigte Expresszusage.
+
+
+## Passende Services & Ratgeber
+
+- [Räumung vor einer Sanierung](/ratgeber/entruempelung-vor-sanierung-wien/): Rasche Räumung vor Handwerkerbeginn.
+- [Gemeindewohnung räumen](/ratgeber/entruempelung-gemeindebau-wiener-wohnen/): Kurzfristige Rückgabetermine.
+- [Wohnungsräumung 7 Schritte](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Schnelle Vorbereitung bei Zeitdruck.
+- [Express Notdienst](/leistungen/express-notdienst/): 24h Express-Räumungsdienst.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Zuverlässige Wiener Entrümpler.
+- [Online Räumungs-Check](/raeumungs-check/): Schneller Vorab-Check.

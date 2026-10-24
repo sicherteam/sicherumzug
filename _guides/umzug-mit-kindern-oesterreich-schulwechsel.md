@@ -36,3 +36,12 @@ Fragen Sie für Ihre konkrete Schule nach Beginn, Unterlagen und Betreuung. Noti
 Benennen Sie eine Betreuungsperson und ein erreichbares Gegenüber für Möbelentscheidungen. Wenn möglich, werden diese Aufgaben getrennt. Halten Sie Kleidung, erforderliche Unterlagen und vertraute Dinge im persönlichen Gepäck bereit. Zielraum und Kartonetiketten verwenden dieselben Namen, damit das Kinderzimmer richtig zugeordnet wird.
 
 Planen Sie die ersten Wege und Tage anhand der tatsächlichen Zusagen. Wenn ein Termin offen bleibt, erhält der Übergangszeitraum eine eigene Absprache. Pädagogische und gesundheitliche Fragen klären Sie mit den zuständigen Fachpersonen; aus einer Transportplanung ergibt sich keine allgemeine Eingewöhnungsfrist.
+
+
+## Passende Services & Ratgeber
+
+- [Umzug mit Haustieren](/ratgeber/umzug-mit-haustieren/): Stressfreier Wechsel für die Familie.
+- [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Termine und Fristen einhalten.
+- [Behördenwege nach dem Umzug](/ratgeber/behoerdenwege-nach-umzug-oesterreich/): Schulanmeldung und Meldezettel.
+- [Wohlfühl-Umzug All-Inclusive](/leistungen/wohlfuehl-umzug/): Entspannter Umzug für die ganze Familie.
+- [Bundesland Wien](/bundesland/wien/): Einsatzgebiete in allen Wiener Bezirken.

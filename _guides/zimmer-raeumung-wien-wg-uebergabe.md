@@ -30,3 +30,12 @@ Kennzeichnen Sie den tatsächlichen Bestand und sichern Sie persönliche Unterla
 Notieren Sie Etage, Lift und Weg zum Fahrzeug. Für große Stücke nennen Sie Maße und möglichen Abbau. Klären Sie, wer öffnet und den Abschluss prüft. Reinigung ist ein eigener Arbeitsschritt und nicht allein durch ein leeres Zimmer bestätigt.
 
 Dokumentieren Sie Zustand und tatsächlich übergebene Schlüssel. Mietvertragliche oder gemeinsame finanzielle Fragen werden mit den jeweiligen Beteiligten gesondert geklärt. Wenn Möbel ins neue Zimmer kommen, ist [Studentenumzug](/leistungen/studentenumzug/) beziehungsweise [Möbeltransport](/leistungen/moebeltransport/) passend; die Räumungsfreigabe beschreibt die Dinge zur Entfernung.
+
+
+## Passende Services & Ratgeber
+
+- [Studentenumzug Tipps](/ratgeber/studentenumzug-oesterreich-wg-tipps/): Gemeinschaftsflächen und Kaution.
+- [Erste eigene Wohnung](/ratgeber/erste-eigene-wohnung-umzug-oesterreich/): Eigenes Mobiliar mitnehmen.
+- [Wohnungsräumung 7 Schritte](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Abnahme durch Hauptmieter.
+- [Zimmer Räumung Service](/leistungen/zimmer-raeumung/): Günstige Teilräumung für WG-Zimmer.
+- [Studentenumzug Service](/leistungen/studentenumzug/): Möbeltransport zum WG-Tarif.

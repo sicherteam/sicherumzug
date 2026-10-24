@@ -61,3 +61,12 @@ Wenn Sie selbst sortieren, sollten die Kategorien am Ende auch räumlich oder du
 ### Angebote nach den aufgenommenen Wegen vergleichen
 
 Prüfen Sie, ob beide Angebote tatsächlich Wohnung und Keller mit denselben Zugangsbedingungen enthalten. Ein Preis für Wohnungsbestand ist kein vollständiger Vergleich mit zusätzlicher Räumung. Halten Sie Montage, Verpackung und Kellertransport als erkennbare Aufgaben fest und lassen Sie den tatsächlichen Ausführenden benennen. Auf [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) können Sie bekannte Wege und noch offene Freigaben sammeln. Spätere Änderungen an Abholstellen sollten vor der Ausführung besprochen werden.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1040 Wien (Wieden)](/leistungen/umzug-1040-wien/)
+- [1060 Wien (Mariahilf)](/leistungen/umzug-1060-wien/)
+- [1100 Wien (Favoriten)](/leistungen/umzug-1100-wien/)
+- [1120 Wien (Meidling)](/leistungen/umzug-1120-wien/)

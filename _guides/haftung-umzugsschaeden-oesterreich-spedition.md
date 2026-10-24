@@ -32,3 +32,12 @@ Die [WKO-Checkliste](https://www.wko.at/transport-verkehr/gueterbefoerderungsgew
 Dokumentieren Sie Gegenstand, Stelle und beobachteten Zustand. Übersichts- und Detailbilder sowie die zugehörige Inventarkennung helfen bei der Zuordnung. Die WKO empfiehlt, sichtbare Schäden umgehend und verdeckte Schäden so rasch wie möglich, bevorzugt schriftlich, zu melden und vereinbarte Fristen zu beachten. Eine pauschale feste Meldefrist für jeden Auftrag lässt sich daraus nicht ableiten.
 
 Bewahren Sie Vereinbarung, Zustandsbilder und relevante Verpackung auf, bis das weitere Vorgehen abgestimmt ist. Lassen Sie rechtliche Ansprüche oder unklare Bedingungen geeignet prüfen. Die Dokumentation erleichtert die sachliche Bearbeitung, entscheidet aber weder Haftung noch Schadenshöhe.
+
+
+## Passende Services & Ratgeber
+
+- [Umzugsfirma vergleichen](/ratgeber/umzugsfirma-vergleichen/): Versicherungspolizze prüfen.
+- [Möbelpacker vs. DIY Umzug](/ratgeber/moebelpacker-vs-diy-umzug/): Haftungsunterschiede im Vergleich.
+- [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Versicherungsschutz bei Kunst & Klavier.
+- [Über uns](/ueber-uns/): Allianz Betriebshaftpflicht bis 1 Mio. €.
+- [Kundenbewertungen](/bewertungen/): Erfahrungen unserer Kunden.

@@ -62,3 +62,12 @@ Möbelmontage ist außerdem von der technischen Inbetriebnahme zu unterscheiden.
 ### Ein nachvollziehbarer Angebotsvergleich
 
 Prüfen Sie bei mehreren Angeboten, ob private und betriebliche Teile denselben Umfang haben. Welche Räume, zusätzlichen Adressen und Zeitfenster sind aufgenommen? Wer übernimmt Verpackung und welche Arbeiten bleiben bei Ihrem Betrieb? Lassen Sie den tatsächlichen Ausführenden und den Kontakt für Änderungen nennen. Nachträgliche zusätzliche Räume oder ein zweites Ziel gehören in eine aktualisierte Abstimmung über [Angebot anfragen](/angebot/).
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1010 Wien (Innere Stadt)](/leistungen/umzug-1010-wien/)
+- [1020 Wien (Leopoldstadt)](/leistungen/umzug-1020-wien/)
+- [1040 Wien (Wieden)](/leistungen/umzug-1040-wien/)
+- [1110 Wien (Simmering)](/leistungen/umzug-1110-wien/)

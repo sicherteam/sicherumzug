@@ -43,3 +43,11 @@ Weiter benötigte Akten gehören auf eine [Archivumzugsliste](/leistungen/archiv
 | Akten | Berechtigte Freigabe und Übergabe |
 | Laufender Betrieb | Zugänge und weiter benötigte Bereiche |
 | Abnahme | Verantwortliche Person am Ziel |
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Akten- & Archivumzug](/leistungen/archivumzug/): Strukturierter Umzug von Ordnern und Archiven.
+- [Firmen- & Büroauflösung](/leistungen/firmenaufloesung/): Entrümpelung nicht mehr benötigter Büroausstattung.
+- [Möbelmontage durch Profis](/leistungen/moebelmontage/): Fachgerechter Aufbau von Schreibtischen und Regalen.
+- [Umzug Österreich (Fernumzug)](/leistungen/umzug-oesterreich/): Betriebsverlegungen zwischen Bundesländern.
+- [Firmenumzug Planung](/ratgeber/firmenumzug-oesterreich-profi-planung/): Gewerbliche Standortverlagerung.

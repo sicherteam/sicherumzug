@@ -23,3 +23,10 @@ Altwaren werden hier im Zusammenhang mit einer Räumung auf eine mögliche Werta
 Beschreiben Sie Art, Menge, Zustand und vorhandenes Zubehör. Sammlungen und zusammengehörige Teile bleiben zugeordnet. Persönliche Stücke zum Behalten sind ausdrücklich ausgenommen. Nicht jeder alte Gegenstand hat einen Wiederverkaufswert.
 
 Das Räumungsangebot sollte freigegebene Stücke und bestätigte Anrechnung nachvollziehbar darstellen. Den allgemeinen Ablauf erklärt [Wertanrechnung](/ratgeber/wertanrechnung-guide/); für größere Einrichtung hilft [Möbel-Wertanrechnung](/leistungen/moebel-ankauf/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Antiquitäten Ankauf & Wertanrechnung](/leistungen/antiquitaeten-ankauf/): Wertanrechnung für historische Einzelstücke.
+- [Möbel Ankauf & Verwertung](/leistungen/moebel-ankauf/): Anrechnung gut erhaltener Möbelstücke.
+- [Verlassenschaft & Nachlassräumung](/leistungen/verlassenschaft/): Fachgerechte Auflösung von Verlassenschaften.
+- [Ratgeber: Wertanrechnung in Wien](/ratgeber/wertanrechnung-guide/): Ablauf und Wertermittlung vor Ort.

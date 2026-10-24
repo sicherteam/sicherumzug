@@ -64,3 +64,12 @@ Ordnen Sie jedes Stück einem Ziel zu und kennzeichnen Sie zusätzliche Abholung
 Prüfen Sie, ob jedes Angebot dieselben Stopps, Kontakte und Zugänge enthält. Eine reine Wohnungsübersiedlung ist kein fairer Vergleich mit zusätzlicher Lagerabholung und Verkäuferstopp. Fragen Sie, welche Vorbereitung vorausgesetzt wird und ob Zerlegung oder Aufbau eingeschlossen sind. Lassen Sie außerdem den tatsächlichen Ausführenden und den bestätigten Umfang erkennen.
 
 Über [Angebot anfragen](/angebot/) können Sie die Orte und offenen Übergabefragen zusammen übermitteln. Geänderte Stopps oder neue Stücke sollten vor der Ausführung in die Vereinbarung aufgenommen werden.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1060 Wien (Mariahilf)](/leistungen/umzug-1060-wien/)
+- [1070 Wien (Neubau)](/leistungen/umzug-1070-wien/)
+- [1140 Wien (Penzing)](/leistungen/umzug-1140-wien/)
+- [1160 Wien (Ottakring)](/leistungen/umzug-1160-wien/)

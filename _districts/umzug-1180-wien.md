@@ -64,3 +64,11 @@ Halten Sie unmittelbar benötigte Unterlagen, Medikamente und persönliche Dinge
 Verwenden Sie beim Angebotsvergleich die ausgewählte Stückliste und denselben Stand der Packvorbereitung. Wird ein Teil selbst vorbereitet, sollte das in allen verglichenen Angeboten klar sein. Prüfen Sie, ob Abbau, Wiederaufbau, Nebenräume und gewünschte Packhilfe enthalten sind. Wer ausführt und wer am Ziel die Übergabe begleitet, sollte vor dem Termin feststehen.
 
 Über [Angebot anfragen](/angebot/) können Sie den Bestand und die benötigten Aufgaben beschreiben. Spätere Änderungen der Auswahl oder des Unterstützungsbedarfs gehören vor der Durchführung in die Abstimmung.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1090 Wien (Alsergrund)](/leistungen/umzug-1090-wien/)
+- [1170 Wien (Hernals)](/leistungen/umzug-1170-wien/)
+- [1190 Wien (Döbling)](/leistungen/umzug-1190-wien/)

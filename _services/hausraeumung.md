@@ -45,3 +45,10 @@ Leer oder besenrein bedeutet keine Renovierung, Gartenarbeit oder spezielle Rein
 
 
 Bei gemeinsam genutzter Zufahrt oder nur zeitweise zugänglichen Wegen werden Ladefenster und Schlüsselpersonen vorher abgestimmt. Auch auf einem eigenen Grundstück ist ein passender Ladeplatz nicht allein durch die Adresse bestätigt.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Dachbodenräumung](/leistungen/dachbodenraeumung/): Entrümpelung von Dachböden und Speichern.
+- [Kellerräumung](/leistungen/kellerraeumung/): Räumung von Kellern, Schuppen und Garagen.
+- [Haushaltsauflösung](/leistungen/haushaltsaufloesung/): Besenreine Übergabe mit Wertanrechnung.
+- [Ratgeber: Hausräumung Checkliste](/ratgeber/hausraeumung-wien-checkliste/): Schritt-für-Schritt Leitfaden.

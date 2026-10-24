@@ -38,3 +38,12 @@ Notieren Sie Stellfläche im Zielzimmer und den Weg durch Tür, Stiegenhaus und 
 Für die Versorgung erklärt [E-Control](https://www.e-control.at/konsumenten/wie-uebersiedeln) Liefer- und Netzvertrag. Persönliche Meldungen führen Sie anhand der [offiziellen Umzugsinformation](https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/umzug) separat.
 
 Halten Sie Unterlagen, Schlüssel, Bettzeug, Hygieneartikel und Ladegeräte im persönlichen Gepäck bereit. Klären Sie, was Sie selbst packen oder aufbauen und welche Hilfe vereinbart wird. Beim Einzug prüfen Sie Möbel und offene Aufgaben anhand Ihrer Liste, statt einen bereits erfolgten Transport mit einer vollständig eingerichteten Wohnung gleichzusetzen.
+
+
+## Passende Services & Ratgeber
+
+- [Studentenumzug Tipps](/ratgeber/studentenumzug-oesterreich-wg-tipps/): Kostengünstig umziehen in die WG.
+- [WG-Zimmer Räumung](/ratgeber/zimmer-raeumung-wien-wg-uebergabe/): Zimmer sauber übergeben.
+- [Verpackungstipps für den Umzug](/ratgeber/verpackungstipps-umzug-anleitung/): Richtig einpacken und beschriften.
+- [Studentenumzug Service](/leistungen/studentenumzug/): Günstige Pauschalen für Studierende.
+- [Budget-Rechner](/umzug-budget-vergleichen/): Erste Wohnungskosten kalkulieren.

@@ -40,3 +40,12 @@ Lesen Sie konkrete Berichte zu ähnlichen Aufgaben. Ein einzelner Möbeltranspor
 Ein niedriger Startbetrag kann Fahrt, Material oder Montage offenlassen. Fragen Sie nach dem vollständigen zu zahlenden Betrag und der Abrechnungsgrundlage. Stimmen Sie geplante Eigenleistungen konkret ab. Aktualisieren Sie Angebote bei neuem Bestand oder geändertem Zugang.
 
 Bei Sicher Team besprechen Sie die Planung und Durchführung Ihres Umzugs direkt mit uns. Die vereinbarten Arbeiten halten wir im Angebot fest. Bewahren Sie Angebot, Inventarliste und spätere Änderungen gemeinsam auf. Der [interaktive Angebotsvergleich](/umzugsangebote-vergleichen/) ordnet bekannte Positionen und zeigt offene Fragen; er bewertet keine ungeprüfte Anbieterqualität.
+
+
+## Passende Services & Ratgeber
+
+- [Umzugskosten Wien berechnen](/ratgeber/umzugskosten-wien-preise-berechnen/): Transparente Fixpreise statt Schätzungen.
+- [Umzugshaftung und Versicherung](/ratgeber/haftung-umzugsschaeden-oesterreich-spedition/): Konzession und Haftung.
+- [Räumungsangebote vergleichen](/ratgeber/raeumungsfirma-wien-checkliste/): Checkliste für Räumungsfirmen.
+- [Über uns](/ueber-uns/): Unser Wiener Traditionsunternehmen.
+- [Kundenbewertungen](/bewertungen/): Über 450 echte 5-Sterne-Bewertungen.

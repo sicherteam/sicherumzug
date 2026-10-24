@@ -33,3 +33,12 @@ Sichern Sie persönliche Inhalte und vertrauliche Unterlagen durch die zuständi
 Beschreiben Sie vom Ausgangsplatz bis zum Fahrzeug jede Engstelle. Für einen Lift zählen nutzbare Öffnung und Innenmaße; sie ersetzen keine Prüfung seiner Eignung. Am Ziel sind dieselben Angaben und der vorgesehene Aufstellort erforderlich. Tragfähigkeit, geeignete Hilfsmittel und Durchführung beurteilt der dafür zuständige qualifizierte Betrieb am konkreten Vorhaben.
 
 Versuchen Sie keine improvisierte Bewegung mit zusätzlichen privaten Helfern. Melden Sie veränderten Standort oder neue Lasten früh. Halten Sie den bestätigten Zugang frei. Nach Abschluss dokumentieren Sie den vereinbarten Zielort beziehungsweise die bestätigte Entfernung. Ein Transportblatt hilft der Abstimmung, ersetzt aber keine fachliche Prüfung.
+
+
+## Passende Services & Ratgeber
+
+- [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Spezialausrüstung für schwere Lasten.
+- [Schwere Gegenstände räumen](/ratgeber/schwerlastentsorgung-tresor-klavier-wien/): Entsorgung massiver Geldschränke.
+- [Möbellift mieten Wien](/ratgeber/umzugsaufzug-moebellift-mieten-wien-stvo/): Aussenaufzug bei engen Treppen.
+- [Tresortransport Service](/leistungen/tresortransport/): Panzerschränke und Waffenschränke.
+- [Spezialtransporte](/leistungen/spezialtransporte/): Schwere und unhandliche Güter.

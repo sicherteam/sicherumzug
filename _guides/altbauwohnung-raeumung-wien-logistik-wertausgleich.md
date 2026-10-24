@@ -44,3 +44,12 @@ Markieren Sie bewegliche Möbel, Einbauten und Gegenstände, die bleiben sollen,
 ## Wertanrechnung getrennt von der Logistik prüfen
 
 Ein aufwendiger Zugang und ein möglicher Verkaufserlös sind zwei eigene Kalkulationspunkte. Lassen Sie den Aufwand und die bestätigte Anrechnung einzeln ausweisen. Gut erhaltene Stücke sind ohne Prüfung keine gesicherte Gegenfinanzierung. Für persönliche Unterlagen und ungeklärtes Eigentum richten Sie vor Beginn einen deutlich markierten Bereich ein. Die [Räumungscheckliste](/ratgeber/checkliste-wohnungsraeumung-7-schritte/) ergänzt die Reihenfolge bis zur Arbeitsabnahme.
+
+
+## Passende Services & Ratgeber
+
+- [Haushaltsauflösung nach Todesfall](/ratgeber/haushaltsaufloesung-todesfall/): Nachlassabwicklung mit Notar.
+- [Hausräumung Checkliste](/ratgeber/hausraeumung-wien-checkliste/): Alle Stockwerke erfassen.
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Möbelwert von Räumungskosten abziehen.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Wiener Altbauspezialisten.
+- [Entrümpelungsservice](/leistungen/entruempelung/): Besenreine Räumung zum Fixpreis.

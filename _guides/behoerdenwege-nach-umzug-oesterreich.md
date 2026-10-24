@@ -48,3 +48,12 @@ Die [Bundes-Checkliste](https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen
 Notieren Sie pro Stelle übermittelt und bestätigt getrennt. Bewahren Sie Rückmeldungen zusammen mit Übergabeprotokoll und Zählerständen auf. Prüfen Sie anschließend noch eingehende Rechnungen auf die richtige Adresse, damit übersehene Vertragspartner sichtbar werden.
 
 Weiterführende Hilfen: Prüfen Sie vorab Ihren Anspruch auf [Umzugsförderung & Beihilfen in Österreich (AMS & Wien)](/ratgeber/umzug-foerderung-beihilfe-ams-wien/) sowie die rechtlichen Vorgaben für [Mietvertrag kündigen nach MRG](/ratgeber/mietvertrag-kuendigen-frist-muster-oesterreich/).
+
+
+## Passende Services & Ratgeber
+
+- [Strom und Gas ummelden](/ratgeber/strom-gas-ummelden-umzug-oesterreich/): Energieversorger rechtzeitig wechseln.
+- [Erste eigene Wohnung](/ratgeber/erste-eigene-wohnung-umzug-oesterreich/): Wichtige Schritte für Erstmieter.
+- [Umzug mit Kindern](/ratgeber/umzug-mit-kindern-oesterreich-schulwechsel/): Schulanmeldung und Betreuung.
+- [Umzug Wien](/leistungen/umzug-wien/): Kompetenter Umzugspartner in Wien.
+- [Adressänderung Checkliste](/adressaenderung-checkliste/): Alle Amtswege im interaktiven Tool.

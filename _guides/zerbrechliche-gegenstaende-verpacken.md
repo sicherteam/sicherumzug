@@ -39,3 +39,12 @@ Packen Sie Teile nicht lose aneinander. Der Karton muss sich schließen lassen u
 Dokumentieren Sie auffällige oder bereits beschädigte besondere Stücke vor der Übergabe. Geben Sie jeder Verpackungseinheit eine Kennung und denselben Zielraum wie im Wohnungsplan. Zubehör bleibt dem zugehörigen Stück zugeordnet.
 
 Prüfen Sie am Ziel besondere Gegenstände und ihre Verpackung sachlich. Bei einer Auffälligkeit sichern Sie Bilder, Auftragsinformationen und relevante Teile, bis das weitere Vorgehen abgestimmt ist. Versicherung und Verantwortung bei eigener Verpackung werden vor dem Auftrag gesondert geklärt. Die [Packreihenfolge](/ratgeber/verpackungstipps-umzug-anleitung/) ergänzt diese Vorbereitung; sie ist keine Schadensgarantie.
+
+
+## Passende Services & Ratgeber
+
+- [Kunst & Antiquitätentransport](/ratgeber/kunst-antiquitaetentransport-wien-wertanrechnung/): Wertvolles Transportgut sichern.
+- [Verpackungstipps für den Umzug](/ratgeber/verpackungstipps-umzug-anleitung/): Kartonfüllung und Polsterung.
+- [Umzugskartons berechnen](/ratgeber/umzugskartons-verpackungsmaterial-berechnen/): Materialbedarf ermitteln.
+- [Möbeltransport](/leistungen/moebeltransport/): Sicherer Transport im luftgefederten Lkw.
+- [Karton-Etiketten Tool](/umzugskarton-etiketten/): Aufkleber für Bruchgefahr.

@@ -32,3 +32,12 @@ Alte Schäden, empfindliche Verbindungen und unbekannte Konstruktionen gehören 
 Messen Sie Stellfläche und Zugang. Teilen Sie Dachschrägen, enge Bereiche und gewünschte Veränderungen mit. Ein vereinbarter Wiederaufbau umfasst nicht automatisch eine Anpassung an ein anderes Raummaß.
 
 Notieren Sie, welche Arbeiten Sie selbst erledigen und welche beauftragt werden. Prüfen Sie vor dem Transport Vollständigkeit und Zuordnung der Einheiten. Fehlende Beschläge oder erkannte Schäden werden früh gemeldet. Am Ziel kontrollieren Sie den vereinbarten Aufbau anhand derselben Kennungen. Das Kennzeichnungssystem unterstützt die Arbeit, ersetzt aber keine fachgerechte Montage.
+
+
+## Passende Services & Ratgeber
+
+- [Küche abbauen und umziehen](/ratgeber/kueche-abbauen-umziehen/): Arbeitsplatten und Hängeschränke.
+- [Möbelpacker vs. DIY Umzug](/ratgeber/moebelpacker-vs-diy-umzug/): Montageaufwand realistisch einschätzen.
+- [Möbeltaxi & Kleintransport](/ratgeber/moebeltaxi-wien-kleintransport/): Abholung großer Einzelstücke.
+- [Möbelmontage Service](/leistungen/moebelmontage/): Fachgerechte Küchen- und Möbelmontage.
+- [Möbeltransport Service](/leistungen/moebeltransport/): Sicherer Transport in Wien.

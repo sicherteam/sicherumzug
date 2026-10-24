@@ -35,3 +35,10 @@ Für eine Garagenräumung werden Haushaltsbestände, Werkzeug, Geräte und beson
 Besondere Stoffe werden nicht pauschal als gewöhnlicher Sperrmüll eingeplant. Ihre mögliche Übernahme wird vor einer Zusage geprüft. Ein Fahrzeug oder fest verbaute Werkstattausstattung gehört ebenfalls nicht automatisch dazu.
 
 Die vereinbarte Entfernung erledigt keine Bodenbehandlung, Reinigung oder Anschlussarbeiten. Benennen Sie den gewünschten Abschluss. Für ein ganzes Gebäude wird die Garage bei der [Hausräumung](/leistungen/hausraeumung/) als eigener Bereich erfasst.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Kellerräumung](/leistungen/kellerraeumung/): Befreiung von Abteilen und Lagerräumen.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Besenreine Räumung in allen Bezirken.
+- [Dachbodenräumung](/leistungen/dachbodenraeumung/): Fachgerechte Entsorgung von Altlasten.
+- [Ratgeber: Garagenräumung & Sondermüll](/ratgeber/garagenraeumung-wien-sondermuell/): Rechtssichere Entsorgung von Chemikalien und Reifen.

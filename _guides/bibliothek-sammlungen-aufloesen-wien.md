@@ -40,3 +40,12 @@ Eine alte Sammlung ist nicht automatisch wertvoll. Herkunft, Vollständigkeit un
 Für Spenden nennt [Carla Wien](https://www.carla-wien.at/sachspenden/) Wiederverwendbarkeit und guten Zustand als Grundlagen. Prüfen Sie die konkrete Bestandsgruppe beim Empfänger, bevor Sie deren Transport planen.
 
 Geben Sie in einer Räumungsanfrage Menge, Regalbereiche und Zugang an. Eine mögliche Anrechnung wird getrennt von Transport und persönlicher Auswahl geprüft. Am Ende vergleichen Sie freigegebenen Bestand und erhaltene Gruppen anhand derselben Kennungen.
+
+
+## Passende Services & Ratgeber
+
+- [Kunst & Antiquitätentransport](/ratgeber/kunst-antiquitaetentransport-wien-wertanrechnung/): Wertvolle Exponate schützen.
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Büchersammlungen und Kunst gegenrechnen.
+- [Aussortierte Dinge spenden](/ratgeber/verkaufen-spenden-recycling/): Literatur sinnvoll weitergeben.
+- [Antiquitäten-Ankauf](/leistungen/antiquitaeten-ankauf/): Ankauf ganzer Nachlässe.
+- [Altwaren-Ankauf](/leistungen/altwaren-ankauf/): Faire Schätzung vor Ort.

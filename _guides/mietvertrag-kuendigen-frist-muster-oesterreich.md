@@ -126,3 +126,12 @@ Sobald die Kündigung bestätigt ist, planen wir Ihren reibungslosen [Umzug in W
 - [Kostenfaktoren & Preisübersicht ansehen](/preise/)
 - Zur umfassenden [Umzugscheckliste für Österreich](/ratgeber/umzugscheckliste-oesterreich/)
 - Ratgeber: [Umzugsförderung & Beihilfen vom AMS prüfen](/ratgeber/umzug-foerderung-beihilfe-ams-wien/)
+
+
+## Passende Services & Ratgeber
+
+- [Wohnungsübergabeprotokoll Muster](/ratgeber/wohnungsuebergabeprotokoll-oesterreich-muster/): Rechtssichere Übergabe.
+- [Behördenwege nach dem Umzug](/ratgeber/behoerdenwege-nach-umzug-oesterreich/): Meldepflicht und Meldezettel.
+- [Sonderurlaub beim Umzug](/ratgeber/sonderurlaub-umzug-oesterreich-arbeitsrecht/): Urlaubsanspruch bei Wohnungswechsel.
+- [Entrümpelung & Räumung](/leistungen/entruempelung/): Besenreine Wohnungsräumung.
+- [Datenschutzerklärung](/datenschutz/): Sicherer Umgang mit Ihren Daten.

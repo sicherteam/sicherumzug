@@ -90,3 +90,14 @@ Prüfen Sie vor Beginn Bestand, Zugang, Gesamtbetrag, mögliche Anrechnung und �
 - Persönliche Ausnahmen kennzeichnen.
 - Besondere Materialien gesondert nennen.
 - Gewünschten Abschluss und Termin mitteilen.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Räumung in Wien & Ostösterreich](/leistungen/raeumung/): Besenreine Übergabe von Wohnungen und Häusern.
+- [Haushaltsauflösung mit Wertanrechnung](/leistungen/haushaltsaufloesung/): Faire Verrechnung verwertbarer Gegenstände.
+- [Kellerräumung](/leistungen/kellerraeumung/): Befreiung voller Kellerräume und Lagerräume.
+- [Wohnungsauflösung Wien](/leistungen/wohnungsaufloesung/): Termingerechte Abwicklung inklusive Entsorgung.
+
+- [Messie-Entrümpelung Wien](/leistungen/messie-entruempelung/): Diskrete und einfühlsame Räumung.
+- [Express Notdienst](/leistungen/express-notdienst/): Kurzfristige Einsätze innerhalb von 24 Stunden.
+- [Wiener Altbauwohnung räumen](/ratgeber/altbauwohnung-raeumung-wien-logistik-Wertanrechnung/): Logistik bei schmalen Stiegenhäusern.

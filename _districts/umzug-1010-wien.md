@@ -68,3 +68,20 @@ Wenn die zulässige Ladezeit knapp ist, sollten Schlüssel, Bestand und gewünsc
 Vergleichen Sie nicht nur einen Endbetrag. Beide Angebote sollten dieselben Zugänge, Stücklisten und Verkehrsbedingungen berücksichtigen. Fragen Sie, ob Antrag, Verkehrszeichen, vereinbarte Verpackung und Montage enthalten sind und wie Änderungen des Bestands behandelt werden. Halten Sie außerdem fest, welches Unternehmen ausführt und wer für Rückfragen zum Auftrag erreichbar ist. Ein allgemeines Angebot für eine Wohnungsgröße lässt diese Unterschiede oft offen.
 
 Über [Angebot anfragen](/angebot/) können Sie bekannte Angaben und offene Zufahrtsfragen gemeinsam übermitteln. Nachträglich geänderte Eingänge oder Zeitfenster sollten vor der verbindlichen Ausführung abgestimmt werden.
+
+## Angrenzende Bezirke & Umzugshilfen
+
+- [Umzug in 1020 Wien (Leopoldstadt)](/leistungen/umzug-1020-wien/): Umzugsservice für den 2. Bezirk.
+- [Umzug in 1030 Wien (Landstraße)](/leistungen/umzug-1030-wien/): Übersiedlung im 3. Bezirk.
+- [Halteverbotszone Wien beantragen](/ratgeber/halteverbotszone-umzug-oesterreich/): MA 46 Bewilligung und Beschilderung.
+- [Möbelmontage Wien](/leistungen/moebelmontage/): Professioneller Möbelabbau und Aufbau vor Ort.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1020 Wien (Leopoldstadt)](/leistungen/umzug-1020-wien/)
+- [1030 Wien (Landstraße)](/leistungen/umzug-1030-wien/)
+- [1040 Wien (Wieden)](/leistungen/umzug-1040-wien/)
+- [1070 Wien (Neubau)](/leistungen/umzug-1070-wien/)
+- [1090 Wien (Alsergrund)](/leistungen/umzug-1090-wien/)

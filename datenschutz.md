@@ -40,3 +40,7 @@ Wenn Sie ein Tool-Ergebnis in das Anfrageformular übernehmen, erscheinen die Pl
 
 
 Entwürfe für Wohnungsübergabe, Adressmitteilungen und Kartonetiketten werden im Browser verarbeitet. Die darin eingetragenen Namen, Anschriften, Zählerstände und Inhalte werden nicht automatisch übertragen oder gespeichert. Die Exportdateien können solche Angaben enthalten; bewahren Sie sie entsprechend auf. Beim optionalen Wechsel zum Anfrageformular werden aus diesen Dokumententools nur allgemeine Planungsangaben übernommen, keine privaten Dokumentinhalte. Nachrichten an Behörden oder Vertragspartner müssen Sie selbst auf dem gewünschten Weg versenden.
+
+## Kontakt und Unternehmensdaten
+
+Weitere Informationen über unser Unternehmen finden Sie im [Impressum](/impressum/) sowie auf der Seite [Über Sicher Team](/ueber-uns/). Bei Fragen zu unseren Dienstleistungen oder zur Datenverarbeitung nutzen Sie bitte unser [Angebots- und Kontaktformular](/angebot/) oder informieren Sie sich auf unserer [Startseite](/) und [Leistungsübersicht](/leistungen/).

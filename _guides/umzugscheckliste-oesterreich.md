@@ -56,3 +56,14 @@ Halten Sie vereinbarte Wege zugänglich und Ansprechpartner erreichbar. Zeigen S
 Erledigen Sie erforderliche Meldungen anhand der [offiziellen Checkliste](https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/umzug/3/Seite.180520). Energie, Post und weitere Vertragspartner haben eigene Vorgänge. Die alte Wohnung bleibt mit Reinigung, verbliebenen Gegenständen und Rückgabe eine getrennte Aufgabe.
 
 Der [persönliche Umzugsplaner](/umzugsplaner/) ordnet Aufgaben nach Ihrem Termin. Verwenden Sie pro Aufgabe Verantwortlichen und tatsächlichen Status; übermittelt und bestätigt sind unterschiedliche Schritte.
+
+
+## Passende Services & Ratgeber
+
+- [Umzugskosten berechnen](/ratgeber/umzugskosten-wien-preise-berechnen/): Richtwerte und Angebote vergleichen.
+- [Mietvertrag kündigen Fristen](/ratgeber/mietvertrag-kuendigen-frist-muster-oesterreich/): Kündigungsfristen und Musterschreiben.
+- [Behördenwege nach dem Umzug](/ratgeber/behoerdenwege-nach-umzug-oesterreich/): Meldepflicht und Ummeldungen.
+- [Umzug mit Kindern](/ratgeber/umzug-mit-kindern-oesterreich-schulwechsel/): Schulwechsel und Betreuung organisieren.
+- [Sonderurlaub beim Umzug](/ratgeber/sonderurlaub-umzug-oesterreich-arbeitsrecht/): Gesetzlicher Urlaubsanspruch.
+- [Privatumzug Wien](/leistungen/privatumzug/): Stressfreie Übersiedlung mit Fixpreisgarantie.
+- [Adressänderung Checkliste](/adressaenderung-checkliste/): Interaktive Planungshilfe für Behörden.

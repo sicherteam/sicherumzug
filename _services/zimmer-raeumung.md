@@ -30,3 +30,10 @@ Eine Zimmerräumung entfernt den ausdrücklich freigegebenen Bestand eines einze
 Ein Gegenstand im Flur gehört nur dazu, wenn er einzeln aufgenommen und freigegeben ist. Andere Bereiche werden durch einen Zimmerauftrag nicht automatisch einbezogen.
 
 Reinigung, Ausmalung und Wandarbeiten werden gesondert geklärt. Wenn Möbel mitkommen sollen, nutzen Sie [Studentenumzug](/leistungen/studentenumzug/) oder [Möbeltransport](/leistungen/moebeltransport/). Bei der Abnahme hilft dieselbe Zimmerliste, entfernte Stücke und erhaltene Ausnahmen zu prüfen.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Wohnungsauflösung](/leistungen/wohnungsaufloesung/): Teil- oder Gesamträumung von Wohnungen.
+- [Studentenumzug Wien](/leistungen/studentenumzug/): Schnelle Hilfe bei WG-Zimmerwechseln.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Besenreine Räumung einzelner Räume.
+- [Ratgeber: Zimmerräumung bei WG-Übergabe](/ratgeber/zimmer-raeumung-wien-wg-uebergabe/): Ablauf und Übergabe.

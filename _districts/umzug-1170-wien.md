@@ -63,3 +63,11 @@ Wenn Sie selbst sortieren, kennzeichnen Sie die Kategorien so, dass die Auswahl 
 Ein Angebot für ausgewählte Möbel ist anders als eine vollständige Kellerräumung. Prüfen Sie, ob Transport und Räumungsarbeiten gesondert beschrieben sind und welcher Abgabeweg für aussortiertes Material vorgesehen ist. Private kommunale Annahmebedingungen bestätigen nicht automatisch eine gewerbliche Anlieferung. Lassen Sie den Ausführenden und die vereinbarten Aufgaben erkennen.
 
 Über [Angebot anfragen](/angebot/) können Sie beide Bereiche gemeinsam beschreiben. Ein Keller gehört nur in dem Umfang zur Durchführung, der tatsächlich geprüft und bestätigt wurde; unbekannter Restbestand sollte nicht erst bei der Abholung sichtbar werden.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1160 Wien (Ottakring)](/leistungen/umzug-1160-wien/)
+- [1180 Wien (Währing)](/leistungen/umzug-1180-wien/)
+- [1190 Wien (Döbling)](/leistungen/umzug-1190-wien/)

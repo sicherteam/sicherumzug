@@ -34,3 +34,10 @@ Bei einem Hausumzug erhalten größere Möbel einen Ausgangsraum und einen Zielr
 Eine passende Stellfläche bestätigt noch keinen passenden Transportweg. Nennen Sie Türen, Stiegenkurven und nicht zerlegbare Möbel. Noch unfertige Zielräume werden ebenfalls vorher erwähnt.
 
 Zurückbleibende Gegenstände erhalten eine eigene Freigabe und gehören nicht zur Transportliste. Eine ergänzende [Hausräumung](/leistungen/hausraeumung/) wird separat angefragt. Das Angebot muss Bestand, Arbeiten und beide Zugänge nachvollziehbar zusammenführen.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Privatumzug mit Fixpreis](/leistungen/privatumzug/): Umfassender Service für Ihren Umzug.
+- [Möbelmontage & Tischlerarbeiten](/leistungen/moebelmontage/): Fachgerechter Abbau und Neuaufbau.
+- [Verpackungsservice](/leistungen/verpackungsservice/): Sicheres Einpacken für den gesamten Haushalt.
+- [Umzug Wien & Umgebung](/leistungen/umzug-wien/): Zuverlässige Übersiedlung für Haus und Garten.

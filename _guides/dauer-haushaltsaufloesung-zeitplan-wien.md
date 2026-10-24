@@ -39,3 +39,12 @@ Beginnen Sie bei der festen Rückgabefrist und ordnen Sie die Aufgaben rückwär
 Die [MA 48](https://www.wien.gv.at/umwelt/entruempelungsdienst-sperrmuellabfuhr-ma48) nennt für ihre kostenpflichtige Abholung 6 bis 14 Werktage ab Bestellung, abhängig von der Halteverbotszone. Das ist der veröffentlichte Bestellvorlauf und keine Angabe, wie lange eine bestimmte Wohnung vor Ort geräumt wird. Private Termine werden für den tatsächlichen Auftrag separat bestätigt.
 
 Nennen Sie Räume, Menge, Nebenbereiche, Etagen und Ladeweg. Markieren Sie offene private Abholungen. Falls eine ausfällt oder zusätzlicher Bestand entdeckt wird, melden Sie die Änderung vor dem Termin. Die Abschlusskontrolle wird anhand der aktualisierten Liste erledigt. So bleibt erkennbar, was Ihren Zeitplan beeinflusst, auch ohne erfundene Standarddauer.
+
+
+## Passende Services & Ratgeber
+
+- [Wohnungsräumung 7 Schritte](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Praktischer Ablaufplan.
+- [Kosten einer Haushaltsauflösung](/ratgeber/was-kostet-eine-haushaltsaufloesung/): Fixpreisangebote vergleichen.
+- [Haushaltsauflösung nach Todesfall](/ratgeber/haushaltsaufloesung-todesfall/): Verlassenschaft und Notartermine.
+- [Wohnungsauflösung Service](/leistungen/wohnungsaufloesung/): Fachgerechte Räumung in Wien.
+- [Messie-Entrümpelung](/leistungen/messie-entruempelung/): Einsatzdauer bei Großobjekten.

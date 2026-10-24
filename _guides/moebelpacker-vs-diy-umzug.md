@@ -35,3 +35,12 @@ Selbst packen und Transport beauftragen ist eine mögliche Kombination. Beschrei
 Der Begriff Umzugshelfer bestätigt weder Fahrzeug noch Werkzeug, Verpackung oder Montage. Fragen Sie nach dem tatsächlich verfügbaren Umfang. Für einen Einzelkauf kann [Möbeltransport](/leistungen/moebeltransport/) passen; für mehrere Räume ein [Privatumzug](/leistungen/privatumzug/).
 
 Nennen Sie Bestand, Zugang, feste Termine und zusätzliche Stopps. Eine Anfrage reserviert keinen Termin. Der [Angebotsvergleich](/ratgeber/umzugsfirma-vergleichen/) hilft, offene Positionen zu klären, bevor Sie sich zwischen Eigenregie, gemischter Hilfe und größerem Auftrag entscheiden.
+
+
+## Passende Services & Ratgeber
+
+- [Umzugsfirma vergleichen](/ratgeber/umzugsfirma-vergleichen/): Festpreisangebote statt Stundensätze.
+- [Umzugshaftung und Versicherung](/ratgeber/haftung-umzugsschaeden-oesterreich-spedition/): Versicherungsschutz bei Schäden.
+- [Möbel vor dem Umzug abbauen](/ratgeber/moebelmontage-abbau-tipps/): Arbeiten selbst vorbereiten.
+- [Privatumzug Service](/leistungen/privatumzug/): Entlastung durch erfahrene Profis.
+- [Über uns](/ueber-uns/): Unser Team und Fuhrpark.

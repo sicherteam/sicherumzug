@@ -43,3 +43,10 @@ Für den neuen Wohnort kann ein [Umzug](/leistungen/privatumzug/) hinzukommen. S
 
 
 Beginnen Sie mit drei Fragen: Wer entscheidet? Wohin gehen die behaltenen Dinge? Welcher Zustand wird für die Übergabe gebraucht? Diese Antworten unterscheiden einen Umzug, eine persönliche Haushaltsverteilung und eine reine Wohnungsräumung.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Wohnungsauflösung Wien](/leistungen/wohnungsaufloesung/): Räumung von Miet- und Eigentumswohnungen.
+- [Verlassenschaftsräumung](/leistungen/verlassenschaft/): Einfühlsame Nachlassräumung mit Wertausgleich.
+- [Hausräumung](/leistungen/hausraeumung/): Komplette Entrümpelung von Einfamilienhäusern.
+- [Ratgeber: Dauer einer Haushaltsauflösung](/ratgeber/dauer-haushaltsaufloesung-zeitplan-wien/): Zeitplan und Ablaufplanung.

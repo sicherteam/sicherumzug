@@ -33,3 +33,10 @@ Möbel können im Zusammenhang mit einer Räumung auf eine mögliche Wertanrechn
 Fotos können ergänzen, sind optional. Verändern Sie den Bestand nicht für eine vermeintliche Wertsteigerung. Entscheiden Sie zuerst, was behalten werden soll.
 
 Eine bestätigte Anrechnung und die einbezogenen Gegenstände sollten im Räumungsangebot erkennbar sein. Bereits verkaufte oder verschenkte Stücke werden vor der Durchführung gemeldet. Für eigene Verkaufsplanung hilft der [Vergleich mit Wertanrechnung](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/), für behaltene Stücke [Möbeltransport](/leistungen/moebeltransport/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Altwaren Ankauf](/leistungen/altwaren-ankauf/): Verrechnung antiker und alter Gegenstände.
+- [Antiquitäten Ankauf](/leistungen/antiquitaeten-ankauf/): Wertanrechnung für Sammlerstücke.
+- [Haushaltsauflösung mit Wertausgleich](/leistungen/haushaltsaufloesung/): Kosten der Räumung spürbar senken.
+- [Ratgeber: Möbel verkaufen vs. Anrechnen](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Vergleich von Verkaufsoptionen.

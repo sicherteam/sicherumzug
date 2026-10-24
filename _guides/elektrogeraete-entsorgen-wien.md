@@ -48,3 +48,12 @@ Geräte mit Lithium-Akkus gehören nicht in den Restmüll. Die [Wiener Abfallber
 Beachten Sie Geräte- und Herstellerhinweise. Eine Abholung ist kein Nachweis für Datenlöschung oder fachgerechte Anschlussarbeiten. Beschreiben Sie beide Zugänge, wenn ein Gerät weitergenutzt wird.
 
 Für eine Abholung prüft die MA 48 Geräte und Kosten nach ihren [veröffentlichten Bedingungen](https://www.wien.gv.at/umwelt/sperrmuellabholung-entruempelung-tarifuebersicht). Bei einem privaten Auftrag werden freigegebene Geräte und gewünschte Arbeiten ausdrücklich vereinbart. Aktualisieren Sie die Liste nach tatsächlicher eigener Abgabe.
+
+
+## Passende Services & Ratgeber
+
+- [MA 48 Mistplatz Checkliste](/ratgeber/ma48-mistplatz-checkliste/): Elektroschrott-Annahme in Wien.
+- [MA 48 vs. Entrümpelungsfirma](/ratgeber/ma48-vs-firma/): Kosten und Trageaufwand im Vergleich.
+- [Sperrmüll in NÖ und Burgenland](/ratgeber/sperrmuell-entsorgung-niederoesterreich-burgenland/): Entsorgung außerhalb Wiens.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Fachgerechte E-Schrott-Entsorgung.
+- [Express Notdienst](/leistungen/express-notdienst/): Dringende Abholung am selben Tag.

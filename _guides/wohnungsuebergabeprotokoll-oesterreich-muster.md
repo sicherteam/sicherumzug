@@ -56,3 +56,12 @@ Planen Sie Möbelabholung, neuen Zugang und Rückgabe getrennt im [Umzugsplaner]
 ## Nach einer beauftragten Räumung
 
 Dokumentieren Sie vor der Wohnungsübergabe getrennt, welche Räumungsarbeiten vereinbart und erledigt wurden. Prüfen Sie freigegebene Räume, zurückzulassende Einbauten und gegebenenfalls vereinbarte Reinigung mit dem ausführenden Unternehmen. Halten Sie offene Punkte und deren Zuständigkeit schriftlich fest. Diese Arbeitsabnahme ersetzt weder das Protokoll mit der Vermietung noch die Prüfung Ihrer mietvertraglichen Pflichten.
+
+
+## Passende Services & Ratgeber
+
+- [Mietvertrag kündigen Fristen](/ratgeber/mietvertrag-kuendigen-frist-muster-oesterreich/): Kündigungsschreiben und Termine.
+- [Wohnungsräumung 7 Schritte](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Checkliste für besenreine Übergabe.
+- [WG-Zimmer Räumung](/ratgeber/zimmer-raeumung-wien-wg-uebergabe/): Auszug und Übergabe in einer WG.
+- [Zimmer Räumung Service](/leistungen/zimmer-raeumung/): Schnelle Räumung einzelner Zimmer.
+- [Impressum](/impressum/): Rechtliche Angaben von Sicher Team.

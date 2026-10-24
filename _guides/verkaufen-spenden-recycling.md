@@ -54,3 +54,12 @@ Führen Sie Gegenstand, Weg, Kontakt und Termin in einer Liste. Markieren Sie of
 ## Erst sortieren, dann einen Abgabeweg wählen
 
 Gehen Sie raumweise vor: zuerst behaltene Dinge und persönliche Unterlagen kennzeichnen, danach ungeklärtes Eigentum getrennt lassen. Ordnen Sie erst den freigegebenen Rest Verkauf, Spende, Wiederverwendung oder Entsorgung zu. Für jedes größere Stück notieren Sie den tatsächlichen Empfänger, den bestätigten Termin und wer Abbau, Tragen und Fahrzeug organisiert. Eine unbeantwortete Anzeige ist noch kein erledigter Verkauf. Wenn der Termin ausbleibt, braucht das Stück vor der Wohnungsübergabe einen anderen bestätigten Weg.
+
+
+## Passende Services & Ratgeber
+
+- [Gratis entrümpeln mit Wertanrechnung](/ratgeber/gratis-entruempelung-wien/): Wiederverwertung schont die Umwelt.
+- [MA 48 Mistplatz Checkliste](/ratgeber/ma48-mistplatz-checkliste/): Regeln für Wiener Wertstoffhöfe.
+- [Elektrogeräte entsorgen Wien](/ratgeber/elektrogeraete-entsorgen-wien/): Kühlgeräte und Altmetall.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Umweltgerechte Mülltrennung.
+- [Altwaren-Ankauf](/leistungen/altwaren-ankauf/): Zweites Leben für Antiquitäten.

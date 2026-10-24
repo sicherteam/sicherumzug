@@ -39,3 +39,13 @@ Eine gewünschte Fläche vor dem Haus ist noch kein genehmigter Ladeplatz. Die S
 ## Änderungen vor dem Termin melden
 
 Wird ein Lift gesperrt, kommt weiterer Bestand dazu oder ändert sich die Zieladresse, informieren Sie den Auftragnehmer vor der Ausführung. Verlangen Sie eine nachvollziehbare Anpassung von Umfang und Preis. Für die gesamte Terminfolge hilft die [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/).
+
+
+## Passende Services & Ratgeber
+
+- [Möbellift mieten Wien](/ratgeber/umzugsaufzug-moebellift-mieten-wien-stvo/): Aussenaufzug für hohe Stockwerke.
+- [Halteverbotszone für den Umzug](/ratgeber/halteverbotszone-umzug-oesterreich/): Parkverbot StVO beantragen.
+- [Umzug mit Haustieren](/ratgeber/umzug-mit-haustieren/): Sichere Vorbereitung am Umzugstag.
+- [Umzugsfirma vergleichen](/ratgeber/umzugsfirma-vergleichen/): Seriöse Angebote erkennen.
+- [Umzug Wien](/leistungen/umzug-wien/): Ihr Wiener Umzugsunternehmen.
+- [Bundesland Wien](/bundesland/wien/): Übersicht für Wien und Umland.

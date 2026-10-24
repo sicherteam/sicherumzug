@@ -39,3 +39,12 @@ Benennen Sie eine Person für persönliche Begleitung und ein erreichbares Gegen
 Wenn die bisherige Wohnung aufgelöst wird, erstellen Sie dafür eine separate Freigabeliste. Erinnerungsstücke und Möbel zur Mitnahme bleiben außerhalb des Räumungsbestands. Auswahl, private Abholungen und Rückgabe werden mit eigenen Zuständigkeiten verfolgt.
 
 Kontrollieren Sie nach Ankunft die wichtigsten Dinge und den gemeinsam gewählten Aufstellort. Die Rückgabe der bisherigen Wohnung kann noch eine eigene Aufgabe sein. Praktische Hilfe ersetzt weder persönliche Entscheidungen über Erinnerungen noch individuelle gesundheitliche Beratung.
+
+
+## Passende Services & Ratgeber
+
+- [Haushaltsauflösung Todesfall](/ratgeber/haushaltsaufloesung-todesfall/): Einfühlsame Hilfe für Angehörige.
+- [Dauer einer Haushaltsauflösung](/ratgeber/dauer-haushaltsaufloesung-zeitplan-wien/): Realistischer Zeitplan.
+- [Wohlfühl-Umzug All-Inclusive](/leistungen/wohlfuehl-umzug/): Vollservice mit Einpacken und Aufbau.
+- [Seniorenumzug Service](/leistungen/seniorenumzug/): Geduldige Unterstützung für Senioren.
+- [Bundesland Kärnten](/bundesland/kaernten/): Übersiedlung nach und aus Kärnten.

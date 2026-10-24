@@ -24,3 +24,10 @@ Bestimmen Sie eine Kontaktperson für Auswahl und Rückfragen. Persönliche Unte
 Eine Räumung ist keine medizinische Betreuung, Schädlingsbekämpfung, Desinfektion oder Schimmelsanierung. Notwendige Fachleistungen werden gesondert geklärt. Umfang, Ausnahmen, Zugang und gewünschter Abschluss gehören in die Vereinbarung.
 
 Für die Aufteilung eines ganzen Haushalts hilft [Haushaltsauflösung](/leistungen/haushaltsaufloesung/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Diskrete Hilfe bei vollgestellten Räumen.
+- [Wohnungsauflösung](/leistungen/wohnungsaufloesung/): Besenreine Wiederherstellung der Wohnung.
+- [Haushaltsauflösung](/leistungen/haushaltsaufloesung/): Systematisches Ausmisten und Entsorgen.
+- [Ratgeber: Messie-Wohnung auflösen](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Einfühlsame Organisation und Ablauf.

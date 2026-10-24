@@ -30,3 +30,12 @@ Das ist nicht gleichbedeutend damit, dass jede mögliche Freistellung allein ein
 Notieren Sie benötigte Zeit, Rückmeldung und offenen nächsten Schritt. Stimmen Sie Schlüsselübergabe und Transportfenster erst anhand der tatsächlich geklärten Organisation ab. Falls Sie während der Abholung nicht anwesend sein können, kann eine geeignete Vertretung für den Zugang angefragt werden.
 
 Eine Umzugsrechnung oder die Buchung eines Transportbetriebs belegt keinen pauschalen Anspruch auf eine bestimmte Zahl freier Tage. Bewahren Sie die arbeitsbezogene Abstimmung getrennt von den Transportunterlagen auf und informieren Sie beteiligte Ansprechpartner über Terminänderungen.
+
+
+## Passende Services & Ratgeber
+
+- [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Den Umzugstag perfekt timen.
+- [Mietvertrag kündigen Fristen](/ratgeber/mietvertrag-kuendigen-frist-muster-oesterreich/): Gesetzliche Fristen beachten.
+- [Firmenumzug Planung](/ratgeber/firmenumzug-oesterreich-profi-planung/): Umzug während der Arbeitszeit.
+- [Express Notdienst](/leistungen/express-notdienst/): Dringende Einsätze am Wochenende.
+- [Datenschutzerklärung](/datenschutz/): Informationen zum Datenschutz.

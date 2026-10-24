@@ -48,3 +48,12 @@ Notieren Sie Bereiche, die bis zuletzt genutzt werden, Lieferzugänge und erlaub
 Abtransport, Regaldemontage, Rückbau und Reinigung sind unterschiedliche Arbeiten. Eine mögliche Anrechnung wird getrennt geprüft. Bei gewerblichen Abfällen gelten eigene Annahmebedingungen; Haushaltsabgabewege werden nicht pauschal übertragen.
 
 Prüfen Sie beim Abschluss die beauftragten Bereiche und verbliebenen Bestände. Dokumentieren Sie offene Aufgaben mit Zuständigkeit. Die betriebliche Daten-, Vertrags- und Gebäudefreigabe bleibt bei den dafür verantwortlichen Personen.
+
+
+## Passende Services & Ratgeber
+
+- [Firmenumzug Planung](/ratgeber/firmenumzug-oesterreich-profi-planung/): Büroinventar erfassen.
+- [Lager räumen Checkliste](/ratgeber/lagerraeumung-checkliste/): Paletten und Großregale demontieren.
+- [Gastronomie-Räumung](/leistungen/gastronomie-raeumung/): Räumung von Lokalen und Großküchen.
+- [Firmenauflösung Service](/leistungen/firmenaufloesung/): Besenreine Betriebsauflösung.
+- [Bundesland Oberösterreich](/bundesland/oberoesterreich/): Gewerbliche Standorte in Linz und Wels.

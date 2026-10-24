@@ -39,3 +39,10 @@ Verbinden Sie Arbeitsplätze mit dem [Firmenumzug](/leistungen/firmenumzug-wien/
 | Packen und Kennzeichnen | Ausdrücklich vereinbarte Aufgabe |
 | Kartons übernehmen | Berechtigte Kontaktperson |
 | Einräumen und prüfen | Zuständige Person am Ziel |
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Professionelle Betriebs- und Büroübersiedlung.
+- [Firmen- & Büroauflösung](/leistungen/firmenaufloesung/): DSGVO-konforme Aktenvernichtung und Räumung.
+- [Lager- & Gewerberaumräumung](/leistungen/lagerraeumung/): Räumung von Lagerflächen und Archiven.
+- [Spezialtransporte Österreich](/leistungen/spezialtransporte/): Sichere Beförderung sensibler Unterlagen.

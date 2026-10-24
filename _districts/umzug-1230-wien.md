@@ -53,3 +53,13 @@ Bei einem Betriebsumzug stimmen wir die Reihenfolge der freigegebenen Möbel mit
 Sagen Sie uns, welche Kartons fertig gepackt sind und ob Möbel bereits zerlegt werden. Gewünschte Packhilfe, Abbau und Aufbau nehmen wir in die Abstimmung auf. Aussortierte Gegenstände, die nicht mitkommen, werden getrennt von der Transportliste geführt; eine zusätzliche Räumung können Sie gesondert anfragen.
 
 Für den nächsten Schritt senden Sie Ihre Übersicht über [Angebot anfragen](/angebot/?service=umzug). Weitere Informationen bieten [Hausumzug](/leistungen/hausumzug/) und [Firmenumzug](/leistungen/firmenumzug-wien/).
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1100 Wien (Favoriten)](/leistungen/umzug-1100-wien/)
+- [1120 Wien (Meidling)](/leistungen/umzug-1120-wien/)
+- [1130 Wien (Hietzing)](/leistungen/umzug-1130-wien/)
+- [Mödling](/leistungen/umzug-moedling/)
+- [Baden bei Wien](/leistungen/umzug-baden/)

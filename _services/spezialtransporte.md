@@ -28,3 +28,10 @@ Beschreiben Sie beide Gebäudewege bis zum vorgesehenen Aufstellort: Türen, Sch
 Vor der Beauftragung muss feststehen, welches Unternehmen die Last prüft und befördert, welche Vorbereitung benötigt wird und welche Bedingungen gelten. Bestimmte Hilfsmittel, Traglasten oder Verfahren werden nicht pauschal zugesagt. Reparatur, Restaurierung und Anschlussarbeiten sind eigene Aufgaben.
 
 Für [Klaviere](/leistungen/klaviertransport/) und [Tresore](/leistungen/tresortransport/) erfassen Sie die zusätzlichen objektspezifischen Angaben.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Klaviertransport Wien](/leistungen/klaviertransport/): Transport von Klavieren und Flügeln.
+- [Tresortransport vorab prüfen](/leistungen/tresortransport/): Schwerlasttransport für Tresore und Safes.
+- [Möbeltransport](/leistungen/moebeltransport/): Schonende Beförderung wertvoller Einzelstücke.
+- [Ratgeber: Tresortransport Österreich](/ratgeber/tresortransport-schwerlast-oesterreich/): Traglast, Schutz und Etagenlogistik.

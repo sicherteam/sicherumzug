@@ -46,3 +46,12 @@ Ordnen Sie Möbel, Kartons und Geräte Bereich oder Arbeitsplatznummer zu. Verwe
 Eine verantwortliche Kontaktperson sammelt Änderungen aus den Teams. Fremde oder gemietete Geräte erhalten einen eigenen Rückgabeweg. Zusätzliche Bestände werden vor der Durchführung abgestimmt.
 
 Prüfen Sie nach jedem Abschnitt Inventar und Raumzuordnung. Halten Sie offene technische oder betriebliche Aufgaben mit Zuständigkeit fest. Ein solcher Ablauf kann Ausfälle planbar machen; er bestätigt weder einen Umzug ohne Unterbrechung noch eine ungeprüfte IT-Leistung des Transportbetriebs.
+
+
+## Passende Services & Ratgeber
+
+- [Büro- und Gewerberäumung](/ratgeber/buero-und-gewerberaemung/): Gewerbliche Räumung und Entsorgung.
+- [Lager räumen Checkliste](/ratgeber/lagerraeumung-checkliste/): Lagerbestände geordnet übergeben.
+- [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Minimale Ausfallzeiten für Ihren Betrieb.
+- [Archivumzug Service](/leistungen/archivumzug/): DSGVO-konformer Aktentransport.
+- [Stadt St. Pölten](/leistungen/umzug-st-poelten/): Firmenumzüge in der Landeshauptstadt.

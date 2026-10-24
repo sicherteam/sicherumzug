@@ -44,3 +44,13 @@ Beschreiben Sie Feuchtigkeit, beschädigte Kartons und unbekannte Behälter sach
 Wiener Haushalts-Problemstoffe haben eigene [Abgabewege](https://www.wien.gv.at/umwelt/problemstoffe-muelltrennung). Geräte und [Lithium-Akkus](https://abfallberatung.wien.gv.at/lithium-batterien-und-akkus/) sind nicht pauschal gewöhnlicher Restmüll. Unklare Behälter werden nicht geöffnet, umgefüllt oder vermischt.
 
 Nach eigenen Abgaben aktualisieren Sie den Restbestand. Beim Abschluss prüfen Sie Abteil, zurückbehaltene Gegenstände und Schlüssel. Ein leerer Keller, eine Reinigung und die Bearbeitung eines Feuchtigkeitsschadens sind verschiedene Aufgaben und werden getrennt vereinbart.
+
+
+## Passende Services & Ratgeber
+
+- [Dachboden räumen Checkliste](/ratgeber/dachboden-raeumung-wien-checkliste/): Vorbereitung für Nebenräume.
+- [Garage räumen: Sondermüll](/ratgeber/garagenraeumung-wien-sondermuell/): Farben, Lacke und Altreifen.
+- [Garten räumen](/ratgeber/gartenraeumung-wien/): Garten- und Werkzeugschuppen leeren.
+- [Elektrogeräte entsorgen Wien](/ratgeber/elektrogeraete-entsorgen-wien/): Alte Waschmaschinen und Gefriertruhen.
+- [Kellerräumung Service](/leistungen/kellerraeumung/): Räumung verwinkelter Kellerabteile.
+- [Garagenräumung Service](/leistungen/garagenraeumung/): Schnelle Entsorgung von Garagen.

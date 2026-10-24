@@ -52,3 +52,12 @@ Die [Tarifübersicht](https://www.wien.gv.at/umwelt/sperrmuellabholung-entruempe
 Verwenden Sie für alle Anfragen dieselbe Liste: Räume, freigegebene Gegenstände, Zugang, gewünschter Abschluss und Arbeiten, die Sie selbst erledigen. Eine mögliche Wertanrechnung wird getrennt geprüft. Ein privater Betrieb ist nicht allein wegen einer Anrechnung nachweislich günstiger.
 
 Für wenige geeignete Gegenstände kann die [Selbstabgabe](/ratgeber/ma48-mistplatz-checkliste/) passen. Bei ganzen Räumungsbeständen gelten deren Mengen- und Leistungsgrenzen; die kostenlose Mistplatzabgabe ist kein Ersatz für jede Wohnungsauflösung. Eine Kombination funktioniert, wenn erledigte Eigenleistungen und tatsächlicher Restbestand aktuell beschrieben bleiben.
+
+
+## Passende Services & Ratgeber
+
+- [MA 48 Mistplatz Checkliste](/ratgeber/ma48-mistplatz-checkliste/): Mistplätze der MA 48 in Wien.
+- [Entrümpelungsangebot MA 48](/ratgeber/entruempelungsangebot-wien-ma48/): Pauschalpreise und Leistungsumfang.
+- [Räumungsangebote vergleichen](/ratgeber/raeumungsfirma-wien-checkliste/): Wichtige Punkte im Kostenvoranschlag.
+- [Entrümpelungsfirma Service](/leistungen/entruempelungsfirma/): Zertifizierter Entrümpelungsfachbetrieb.
+- [Entrümpelung Service](/leistungen/entruempelung/): Besenreine Räumung mit Übergabegarantie.

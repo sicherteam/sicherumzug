@@ -48,3 +48,11 @@ Rechner liefern eine Orientierung nach den jeweils beschriebenen Annahmen und er
 - **Büro:** {{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}
 
 [Ihr Vorhaben mit Sicher Team planen](/angebot/?service=umzug#angebot-form).
+
+### Qualität & Kundenvertrauen
+
+- [Echte Kundenbewertungen ansehen](/bewertungen/): Über 450 positive Rückmeldungen mit 5 Sternen.
+- [Alle Leistungen im Überblick](/leistungen/): Vom Privatumzug bis zur Vollräumung.
+- [Ratgeber & Vorbereitung](/ratgeber/): Schritt-für-Schritt Anleitungen und Planungstools.
+- [Zurück zur Startseite](/)
+- [Rechtliche Angaben & Impressum](/impressum/): Impressum der Sicher Team e.U.

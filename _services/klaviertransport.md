@@ -30,3 +30,10 @@ Beschreiben Sie Türen, Stufen, Podeste, Stiegenkurven, Lift und Ladeweg vom bis
 Notwendige Vorbereitung, Schutz, Demontage und geltende Haftungs- oder Versicherungsbedingungen werden ausdrücklich besprochen. Außenlift und bestimmte Hilfsmittel sind keine pauschale Zusage. Stimmung, Wartung und Reparatur bleiben eigene Aufgaben.
 
 Bei mehreren besonderen Stücken hilft [Spezialtransport](/leistungen/spezialtransporte/), sie einzeln zu erfassen.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Spezialtransporte Österreich](/leistungen/spezialtransporte/): Sicherer Transport heikler Großgeräte.
+- [Möbeltransport Wien](/leistungen/moebeltransport/): Schonender Transport wertvoller Möbel.
+- [Privatumzug](/leistungen/privatumzug/): Klaviertransport als Teil Ihres Gesamtumzugs.
+- [Ratgeber: Klaviertransport sicher planen](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Gewichte, Schutz und Etagenplanung.

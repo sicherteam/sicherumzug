@@ -35,3 +35,10 @@ Im Auftrag werden ausführendes Unternehmen, Bestand, Demontagen und Abschlusszu
 - Transportierte Gegenstände mit Zieladresse erfassen.
 - Nur abgestimmte Entfernung freigeben.
 - Noch ungeklärte Positionen sichtbar ausnehmen.
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Haushaltsauflösung mit Wertanrechnung](/leistungen/haushaltsaufloesung/): Entrümpelung und Verwertung aus einer Hand.
+- [Antiquitäten Ankauf](/leistungen/antiquitaeten-ankauf/): Wertausgleich für wertvolle Sammlungen.
+- [Räumung in Wien & Umgebung](/leistungen/raeumung/): Besenreine Übergabe an Erben oder Vermieter.
+- [Ratgeber: Verlassenschaften schätzen](/ratgeber/haushaltsaufloesung-todesfall/): Wertermittlung und Notarabstimmung.

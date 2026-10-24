@@ -40,3 +40,12 @@ Für einen Verkauf halten Sie Maße, Zustand, Zubehör und Tragebedingungen fest
 Ein sichtbarer Inseratspreis ist kein erzielter Erlös. Ebenso ist eine erste mögliche Gutschrift keine fertige Anrechnungsvereinbarung. Vergleichen Sie deshalb Ihren Zeitrahmen, bestätigte Abholungen und den tatsächlichen Restbestand.
 
 Setzen Sie vor einer Wohnungsrückgabe einen letzten Entscheidungstermin. Falls ein Verkauf ausfällt, bleibt das Stück in der Liste und sein nächster Weg muss geklärt werden. Falls ein vorgesehenes Anrechnungsstück privat abgeholt wird, ändern sich ebenfalls die Angaben. Der [Anrechnungsleitfaden](/ratgeber/wertanrechnung-guide/) erläutert die getrennte Darstellung von Kosten und Gutschrift.
+
+
+## Passende Services & Ratgeber
+
+- [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Vorteile der professionellen Verrechnung.
+- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Vor- und Nachteile von Online-Inseraten.
+- [Aussortierte Dinge spenden](/ratgeber/verkaufen-spenden-recycling/): Spenden statt wegwerfen.
+- [Altwaren-Ankauf Service](/leistungen/altwaren-ankauf/): Direkter Ankauf durch Experten.
+- [Gratis Entrümpelung](/leistungen/gratis-entruempelung/): Räumung ohne Zuzahlung.

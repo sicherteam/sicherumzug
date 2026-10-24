@@ -63,3 +63,18 @@ Halten Sie fest, welche Kartons fertig gepackt sind und wer Möbel zerlegt. Wir 
 Für selbst aussortierte Gegenstände gelten die Bedingungen der [Stadt Baden zum Altstoffsammelzentrum](https://www.baden.at/Unsere_Stadt/Umwelt/Muellentsorgung/Bauhof_-_Altstoffsammelzentrum). Erforderlich ist eine gültige Baden Card. Für Sperrmüll nennt die Stadt Haushaltsmengen von rund zwei Kubikmetern; Wohnungs- und Hausräumungen sind ausgeschlossen. Lkw über 3,5 Tonnen können nicht zufahren, und das Personal bietet keine Ausladehilfe.
 
 Prüfen Sie Materialart, Berechtigung und aktuelle Öffnungszeiten vor einer eigenen Fahrt. Diese Möglichkeit ersetzt keinen vereinbarten Entsorgungsweg für eine komplette Räumung. Die [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/) hilft Ihnen, Aussortieren, Transport und Wohnungsübergabe zeitlich zu ordnen.
+
+## Weitere Standorte & Planungshilfen
+
+- [Umzug in Mödling](/leistungen/umzug-moedling/): Übersiedlung im Bezirk Mödling und Wiener Umland.
+- [Umzug Wien Übersicht](/leistungen/umzug-wien/): Umzugsfirma für die gesamte Region Wien und Niederösterreich.
+- [Kostenfaktoren & Preise](/preise/): Transparente Angebote für Ihren Umzug in Baden.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [Mödling](/leistungen/umzug-moedling/)
+- [1230 Wien (Liesing)](/leistungen/umzug-1230-wien/)
+- [Eisenstadt](/leistungen/umzug-eisenstadt/)
+- [Niederösterreich](/bundesland/niederoesterreich/)

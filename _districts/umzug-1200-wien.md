@@ -64,3 +64,12 @@ Bei nicht zerlegbarem Bestand sollte die Möglichkeit des Transports ausdrückli
 Prüfen Sie, ob die Liftangaben und gegebenenfalls der alternative Weg in allen Angeboten gleich berücksichtigt sind. Ist nur Transport vorgesehen oder zusätzlich Abbau und Aufbau? Werden vollständig gepackte Kartons erwartet oder ist Packhilfe enthalten? Lassen Sie außerdem den tatsächlichen Ausführenden nennen.
 
 Über [Angebot anfragen](/angebot/) können Sie Maße und gewünschte Vorbereitung gemeinsam übermitteln. Wenn sich der Liftzugang oder die Hausregel vor dem Termin verändert, gehört dies in eine aktualisierte Abstimmung statt in eine stillschweigende Annahme.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1020 Wien (Leopoldstadt)](/leistungen/umzug-1020-wien/)
+- [1090 Wien (Alsergrund)](/leistungen/umzug-1090-wien/)
+- [1190 Wien (Döbling)](/leistungen/umzug-1190-wien/)
+- [1210 Wien (Floridsdorf)](/leistungen/umzug-1210-wien/)

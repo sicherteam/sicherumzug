@@ -43,3 +43,12 @@ Ein Vorrat großer Kartons löst nicht jeden Bedarf kleiner Bücherkartons. Besc
 Führen Sie je Raum gepackt, offen und besondere Verpackung. So wird derselbe Inhalt nicht zweimal geschätzt. Melden Sie die tatsächliche Menge vor dem Transport, wenn sie wesentlich von der Anfrage abweicht.
 
 Der [Umzugskarton-Rechner](/umzugskarton-rechner/) ist eine Planung unter seinen genannten Annahmen. Prüfen Sie dessen Schätzung mit Ihrer Probepackung; sie bestätigt weder Materialeignung für jedes Stück noch einen Transportpreis.
+
+
+## Passende Services & Ratgeber
+
+- [Verpackungstipps für den Umzug](/ratgeber/verpackungstipps-umzug-anleitung/): Systematisches Packen Schritt für Schritt.
+- [Zerbrechliche Gegenstände verpacken](/ratgeber/zerbrechliche-gegenstaende-verpacken/): Porzellan, Glas und Spiegel schützen.
+- [Möbeltaxi & Kleintransport](/ratgeber/moebeltaxi-wien-kleintransport/): Einzelmöbel transportieren.
+- [Verpackungsservice](/leistungen/verpackungsservice/): Professionelles Ein- und Auspacken.
+- [Karton-Etiketten Tool](/umzugskarton-etiketten/): Kostenlose Etiketten zum Drucken.

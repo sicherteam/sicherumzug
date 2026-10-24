@@ -44,3 +44,13 @@ Das Angebot sollte Räumungsumfang, Kosten und berücksichtigte Gegenstände nac
 Sichern Sie Erinnerungsstücke und Unterlagen zuerst. Klären Sie, wer über die übrigen Gegenstände entscheiden darf. Wenn ein eingeplantes Stück privat verkauft oder von Angehörigen übernommen wird, melden Sie die Änderung vor der Durchführung. Die Prüfung muss sich auf den verbleibenden Bestand beziehen.
 
 Wer selbst verkaufen möchte, organisiert Inserat, Rückfragen und tatsächliche Abholung. Der [Vergleich mit Eigenverkauf](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/) hilft, diesen Aufwand gegenüber einer möglichen Anrechnung einzuordnen. Entscheidend sind bestätigte Bedingungen, keine pauschale Zusage „alles gratis“.
+
+
+## Passende Services & Ratgeber
+
+- [Gratis entrümpeln mit Wertanrechnung](/ratgeber/gratis-entruempelung-wien/): Rechnen sich Ihre Möbel?.
+- [Willhaben vs. Wertanrechnung](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Zeitaufwand gegen Sofortabzug.
+- [Bibliothek & Sammlungen auflösen](/ratgeber/bibliothek-sammlungen-aufloesen-wien/): Antiquarische Bestände anrechnen.
+- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Bequemer Ankauf bei Abholung.
+- [Gratis Entrümpelung](/leistungen/gratis-entruempelung/): 0-Euro-Räumung bei ausreichendem Wert.
+- [Altwaren-Ankauf](/leistungen/altwaren-ankauf/): Porzellan, Uhren und Gemälde.

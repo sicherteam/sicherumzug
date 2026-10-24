@@ -92,4 +92,14 @@ Sicher Team ist ein **staatlich konzessioniertes Umzugsunternehmen mit Sitz in W
 - [Kostenlosen Kostenvoranschlag anfragen](/angebot/)
 - Mehr zu [Preisen & Kostenfaktoren beim Umzug](/preise/)
 - Zur [Umzugscheckliste für Österreich](/ratgeber/umzugscheckliste-oesterreich/)
-- Ratgeber: [Umzugskosten von der Steuer absetzen](/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/)
+- Ratgeber: [Umzugskosten von der Steuer absetzen](/ratgeber/umzugskosten-oesterreich-sparen/)
+
+
+## Passende Services & Ratgeber
+
+- [Umzugskosten Wien berechnen](/ratgeber/umzugskosten-wien-preise-berechnen/): Preise und Kostenvoranschläge.
+- [Umzugskosten in Österreich sparen](/ratgeber/umzugskosten-oesterreich-sparen/): Kosten senken und Beihilfen nutzen.
+- [Sonderurlaub beim Umzug](/ratgeber/sonderurlaub-umzug-oesterreich-arbeitsrecht/): Arbeitsrechtliche Freistellung.
+- [Mietvertrag kündigen Fristen](/ratgeber/mietvertrag-kuendigen-frist-muster-oesterreich/): Rechtliche Schritte beim Auszug.
+- [Wohlfühl-Umzug All-Inclusive](/leistungen/wohlfuehl-umzug/): Komplettservice ohne Eigenleistung.
+- [Budget-Rechner](/umzug-budget-vergleichen/): Kosten für AMS-Antrag kalkulieren.

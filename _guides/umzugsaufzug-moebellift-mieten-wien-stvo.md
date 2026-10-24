@@ -32,3 +32,12 @@ Nennen Sie Möbelart, Außenmaße und bekannte Gewichte. Beschreiben Sie, an wel
 Die [Wiener Halteverbotsinformation](https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung) betrifft Ladetätigkeiten. Sie bestätigt nicht automatisch jede Geräteaufstellung oder Arbeit an Fenstern und Balkonen. Erforderliche weitere Schritte müssen für das Vorhaben geklärt werden.
 
 Halten Sie fest, wer Zugang, Geräteprüfung, mögliche Bewilligungen und Möbelvorbereitung organisiert. Verpackung, Demontage und Aufbau werden ausdrücklich vereinbart. Bereiten Sie keine unbestätigte Beförderung über einen Außenweg selbst vor. Wenn Gegenstand oder Aufstellplatz sich ändern, muss die Durchführung erneut abgestimmt werden.
+
+
+## Passende Services & Ratgeber
+
+- [Halteverbotszone für den Umzug](/ratgeber/halteverbotszone-umzug-oesterreich/): Parkverbotszone StVO in Wien.
+- [Professionelle Übersiedlung Wien](/ratgeber/professionelle-uebersiedlung-wien/): Vorbereitung für Altbauten.
+- [Schwere Gegenstände räumen](/ratgeber/schwerlastentsorgung-tresor-klavier-wien/): Außenlift für Schwerlasten.
+- [Spezialtransporte](/leistungen/spezialtransporte/): Fassadenlifte und Kranwagen.
+- [Bundesland Wien](/bundesland/wien/): Genehmigungen bei MA 46.

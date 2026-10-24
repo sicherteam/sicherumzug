@@ -10,3 +10,9 @@ robots: noindex, follow
 last_modified_at: '2026-10-11'
 ---
 
+## Passende Services & Ratgeber
+
+- [Privatumzug Wien & Österreich](/leistungen/privatumzug/): Zuverlässige Übersiedlung zum garantierten Fixpreis.
+- [Umzug Wien Übersicht](/leistungen/umzug-wien/): Ihr starker Partner für alle 23 Wiener Bezirke.
+- [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Alle Termine, Fristen und Ummeldungen im Blick.
+

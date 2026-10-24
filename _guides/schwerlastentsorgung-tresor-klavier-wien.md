@@ -45,3 +45,12 @@ Ein geeigneter Transportweg macht einen Gegenstand noch nicht zur zulässigen Ab
 Für eine Weiterverwendung legen Sie die Zieladresse und die dortigen Zugänge vor der Beauftragung fest. Für eine Abgabe verlangen Sie einen vereinbarten Leistungsumfang mit Transport und Behandlung des Gegenstands. Lassen Sie mögliche Zusatzarbeiten und den Umgang mit einem nicht nutzbaren Weg erklären. Eine allgemeine Stückpauschale ohne Gewichts- und Zugangsdaten ist dafür keine ausreichende Beschreibung.
 
 Weitere Angaben für erhaltene schwere Gegenstände finden Sie im [Ratgeber zum Tresor- und Schwerlasttransport](/ratgeber/tresortransport-schwerlast-oesterreich/).
+
+
+## Passende Services & Ratgeber
+
+- [Tresortransport Leitfaden](/ratgeber/tresortransport-schwerlast-oesterreich/): Transport und Umplatzierung.
+- [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Empfindliche Mechanik schonen.
+- [Elektrogeräte entsorgen Wien](/ratgeber/elektrogeraete-entsorgen-wien/): Sperrige Altgeräte abgeben.
+- [Tresortransport Service](/leistungen/tresortransport/): Fachgerechte Schrottung und Transport.
+- [Spezialtransporte](/leistungen/spezialtransporte/): Spezialfahrzeuge und Hebewerkzeuge.

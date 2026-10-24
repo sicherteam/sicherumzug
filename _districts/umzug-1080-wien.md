@@ -64,3 +64,12 @@ Bei einer Vitrine sollte vorab geklärt sein, welche Teile entfernt werden könn
 Ein Angebot für vollständig gepackte Kartons unterscheidet sich von einem Auftrag mit Packhilfe. Prüfen Sie, ob Bücher, zerlegbare Regale und empfindliche Stücke in beiden Angeboten gleich aufgenommen sind. Lassen Sie Verpackungsumfang, gewünschte Montage und tatsächlich ausführendes Unternehmen erkennen. Auch ein langer Weg vom Eingang zur Stiege gehört in die Anfrage, selbst wenn eine Begegnungszone in der Nähe liegt.
 
 Über [Angebot anfragen](/angebot/) können Sie Liste und Zugangsfragen zusammen übermitteln. Änderungen am Bestand oder bisher unklare Stückanforderungen sollten vor einer festen Ausführung abgestimmt werden.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1010 Wien (Innere Stadt)](/leistungen/umzug-1010-wien/)
+- [1070 Wien (Neubau)](/leistungen/umzug-1070-wien/)
+- [1090 Wien (Alsergrund)](/leistungen/umzug-1090-wien/)
+- [1160 Wien (Ottakring)](/leistungen/umzug-1160-wien/)

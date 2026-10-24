@@ -70,3 +70,19 @@ Die richtige Anfahrt löst noch keine enge Liftöffnung. Umgekehrt hilft eine ge
 Wenn Bilder, Spiegel oder Atelierbestand mitgenommen werden, nennen Sie die tatsächlichen Stücke und deren Anforderungen. Ein gewöhnlicher gerahmter Druck, ein großflächiger Spiegel und ein wertvolles Original sind keine gleichwertigen Transportpositionen. Für besondere Gegenstände müssen Eignung, Behandlung und gewünschte Bedingungen ausdrücklich geprüft werden. Ein Bezirksname ist kein Nachweis einer spezialisierten Ausführung.
 
 Vergleichen Sie Angebote mit derselben Bestandsliste, derselben Anfahrt und derselben Vorbereitung. Fragen Sie, ob Verpackung und Aufbau enthalten sind, welche Aufgaben bei Ihnen bleiben und wer tatsächlich ausführt. Änderungen an Verkehrsbedingungen, Eingang oder Umfang gehören vor der Ausführung in die Abstimmung. Über [Angebot anfragen](/angebot/) können Sie bekannte Angaben und offene Punkte zusammen übermitteln.
+
+## Angrenzende Bezirke & Umzugshilfen
+
+- [Umzug in 1060 Wien (Mariahilf)](/leistungen/umzug-1060-wien/): Umzüge im Nachbarbezirk.
+- [Umzug in 1080 Wien (Josefstadt)](/leistungen/umzug-1080-wien/): Zuverlässige Übersiedlung im 8. Bezirk.
+- [Halteverbotszone Wien (MA 46)](/ratgeber/halteverbotszone-umzug-oesterreich/): Parkverbot für den Umzugstag sichern.
+- [Privatumzug zum Fixpreis](/leistungen/privatumzug/): Stressfreier Wohnungsumzug in Wien.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1010 Wien (Innere Stadt)](/leistungen/umzug-1010-wien/)
+- [1060 Wien (Mariahilf)](/leistungen/umzug-1060-wien/)
+- [1080 Wien (Josefstadt)](/leistungen/umzug-1080-wien/)
+- [1150 Wien (Rudolfsheim)](/leistungen/umzug-1150-wien/)

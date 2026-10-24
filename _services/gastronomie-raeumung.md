@@ -24,3 +24,10 @@ Nennen Sie Gastraum oder Verkaufsfläche, Küche, Lager und Nebenräume mit ihre
 Anschlussarbeiten, Stilllegung und baulicher Rückbau sind keine automatische Räumungsleistung. Klären Sie deren Zuständigkeit und Reihenfolge. Das Angebot muss den freigegebenen Bestand, gewünschte Demontagen, Zugänge und Übergabezustand erkennen lassen.
 
 Einrichtung, die weitergenutzt wird, gehört stattdessen auf eine [Firmenumzugsliste](/leistungen/firmenumzug-wien/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Firmen- & Büroauflösung](/leistungen/firmenaufloesung/): Räumung von Gewerbeflächen und Büros.
+- [Lager- & Gewerberaumräumung](/leistungen/lagerraeumung/): Verwertung und Entrümpelung von Lagern.
+- [Spezialtransporte](/leistungen/spezialtransporte/): Transport von Gastro-Geräten und Schwergut.
+- [Räumung in Wien & Umgebung](/leistungen/raeumung/): Verbindliche Angebote für gewerbliche Kunden.

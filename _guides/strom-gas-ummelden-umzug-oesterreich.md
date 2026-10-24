@@ -30,3 +30,12 @@ Erfragen Sie, welche Anmeldung und welche Angaben für die neue Adresse benötig
 Dokumentieren Sie Zählerkennung und Stand zusammen mit Adresse und Datum. Klären Sie, ob der Netzbetreiber abliest oder Sie den Stand selbst übermitteln. Prüfen Sie anschließend Bestätigungen und Abrechnung anhand dieser Unterlagen.
 
 Technische Arbeiten an Geräten oder Anschlüssen sind eine andere Aufgabe. Eine Energieanmeldung bestätigt weder die fachgerechte Demontage einer Küche noch den Wiederanschluss eines Geräts. Organisieren Sie diese Arbeiten mit den zuständigen Fachpersonen. Der Möbeltransport wird getrennt davon vereinbart.
+
+
+## Passende Services & Ratgeber
+
+- [Behördenwege nach dem Umzug](/ratgeber/behoerdenwege-nach-umzug-oesterreich/): Meldepflichten in Österreich.
+- [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Fristen vor und nach dem Einzug.
+- [Erste eigene Wohnung](/ratgeber/erste-eigene-wohnung-umzug-oesterreich/): Anmeldung und Grundversorgung.
+- [Privatumzug Service](/leistungen/privatumzug/): Fachgerechte Übersiedlung.
+- [Adressänderung Tool](/adressaenderung-checkliste/): Checkliste zum Abhaken.

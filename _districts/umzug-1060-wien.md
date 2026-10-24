@@ -65,3 +65,12 @@ Wenn Sie selbst auspacken oder aufbauen wollen, sollte das im gewünschten Leist
 Ein Händlertransport und ein unabhängiger Möbeltransport können unterschiedliche Übergabepunkte und Zusatzleistungen umfassen. Vergleichen Sie deshalb, wo die Leistung beginnt und endet. Ist nur die Lieferung bis zum Eingang vorgesehen oder auch das Tragen in die Wohnung? Sind Verpackung, Zerlegung oder Aufbau enthalten? Lassen Sie im konkreten Angebot erkennen, wer ausführt und wer Fragen zur Übergabe klärt.
 
 Für den gesamten Haushalt können Sie über [Angebot anfragen](/angebot/) zusätzlich alle Kartons und Möbel auflisten. Ein unverbindlicher Anfrageeingang bestätigt noch keine Ladezeit oder Fahrzeugzufahrt.
+
+## Regionale Einsatzgebiete & Nachbarbezirke
+
+Planen Sie einen Umzug in angrenzende Bezirke oder Regionen? Erfahren Sie mehr über unsere lokalen Services:
+
+- [1050 Wien (Margareten)](/leistungen/umzug-1050-wien/)
+- [1070 Wien (Neubau)](/leistungen/umzug-1070-wien/)
+- [1120 Wien (Meidling)](/leistungen/umzug-1120-wien/)
+- [1150 Wien (Rudolfsheim)](/leistungen/umzug-1150-wien/)

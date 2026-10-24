@@ -30,3 +30,10 @@ Sichern Sie persönliche Dinge und markieren Sie Ausnahmen. Klären Sie, welche 
 Leer, besenrein und renoviert sind unterschiedliche Erwartungen. Der konkret verlangte Zustand wird mit den Beteiligten abgestimmt; eine Räumung enthält keine automatische Ausmalung, Anschlussänderung oder besondere Reinigung.
 
 Bei der Abnahme prüfen Sie Räume, entfernte Positionen, erhaltene Ausnahmen und offene Punkte anhand derselben Liste. Für die Verteilung eines gesamten Haushalts hilft [Haushaltsauflösung](/leistungen/haushaltsaufloesung/), für einzelne Stücke [Entrümpelung](/leistungen/entruempelung-wien/).
+
+## Ergänzende Leistungen & Ratgeber
+
+- [Haushaltsauflösung mit Wertanrechnung](/leistungen/haushaltsaufloesung/): Faire Verrechnung und besenreine Räumung.
+- [Entrümpelung Wien](/leistungen/entruempelung-wien/): Garantierter Fixpreis für jeden Wohnungszustand.
+- [Kellerräumung](/leistungen/kellerraeumung/): Entrümpelung aller zugehörigen Abteile.
+- [Ratgeber: Wohnungsübergabeprotokoll PDF](/ratgeber/wohnungsuebergabeprotokoll-oesterreich-muster/): Rechtssichere Übergabe an die Hausverwaltung.
