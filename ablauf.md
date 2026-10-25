@@ -46,3 +46,5 @@ Prüfen Sie mit unserem Team, ob die vereinbarten Möbel im richtigen Raum stehe
 Bei kombinierter Räumung kontrollieren Sie die Freigabeliste am alten Standort. Eine vereinbarte besenreine Übergabe bedeutet nicht automatisch Renovierung oder besondere Reinigung. Bewahren Sie Angebot, Bestandsliste und bestätigte Änderungen gemeinsam auf.
 
 [Unverbindlich anfragen](/angebot/#angebot-form) · [Kostenfaktoren](/preise/)
+
+Für telefonische Rückfragen oder persönliche Anfahrt besuchen Sie bitte unsere [Kontaktseite](/kontakt/).

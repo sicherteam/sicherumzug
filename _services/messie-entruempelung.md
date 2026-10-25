@@ -25,6 +25,50 @@ Eine Räumung ist keine medizinische Betreuung, Schädlingsbekämpfung, Desinfek
 
 Für die Aufteilung eines ganzen Haushalts hilft [Haushaltsauflösung](/leistungen/haushaltsaufloesung/).
 
+## Diskrete & einfühlsame Messie-Entrümpelung in Wien
+
+Das Messie-Syndrom (Desorganisationssyndrom) ist eine ernstzunehmende psychische Belastung für Betroffene und Angehörige. Wenn Wohnungen über Jahre hinweg mit Gegenständen, Verpackungen oder Unrat vollgestellt wurden, drohen Kündigung, Geruchsbelästigung und Ungezieferbefall:
+
+### Unser respektvoller & professioneller Ansatz:
+- **100 % Diskretion & neutrale Fahrzeuge:** Wir arbeiten ohne Aufschrift auf den Fahrzeugen. Unsere Mitarbeiter begegnen den Bewohnern mit größtem Verständnis, Respekt und ohne jede Verurteilung.
+- **Professionelle Schutzausrüstung (PSA):** Bei stark vernachlässigten Wohnungen arbeiten wir mit Schutzanzügen, FFP3-Atemmasken und reißfesten Handschuhen zur biologischen Eigensicherung.
+- **Schrittweise Sortierung nach Wertsachen:** Auch im Chaos suchen wir gezielt nach wichtigen Dokumenten, Geld, Schmuck, Urkunden und Familienfotos und sichern diese für die Eigentümer.
+- **Desinfektion & Geruchsneutralisation (Ozonbehandlung):** Nach der vollständigen Räumung desinfizieren wir Böden und Wände und neutralisieren hartnäckige Gerüche mittels moderner Ozongeneratoren nachhaltig.
+
+## Häufige Fragen zur Messie-Wohnungsräumung in Wien
+
+- **Wie wird die Diskretion gewahrt?** Wir treten stets mit neutraler Kleidung und unbeschrifteten Fahrzeugen auf. Niemand in der Nachbarschaft erfährt vom Grund unseres Einsatzes.
+- **Was passiert mit gefundenem Bargeld oder Dokumenten?** Alle wertvollen Gegenstände, Schmuck und behördlichen Dokumente werden in versiegelten Boxen gesichert und den Betroffenen oder deren gesetzlichen Vertretern persönlich übergeben.
+- **Können Sie auch stark verschmutzte Wohnungen reinigen?** Ja, wir bieten eine gründliche Grundreinigung sowie Geruchsneutralisation mittels Ozonbehandlung an.
+
+## Der 5-Stufen-Weg zurück in ein lebenswertes Zuhause
+1. **Verständnisvolle Erstberatung:** Kostenlos, diskret und vorurteilsfrei.
+2. **Schutz der Privatsphäre:** Keine neugierigen Blicke durch geschlossene Verpackung und neutrale Lkw.
+3. **Wertsachen-Sicherung:** Gründliche Suche nach Bargeld, Sparbüchern und Ausweisen.
+4. **Fachgerechte Müllabfuhr:** Abtransport aller Abfallarten zur MA 48.
+5. **Hygienische Desinfektion:** Professionelle Ozon-Geruchsbehandlung für saubere Raumluft.
+
+## Menschlichkeit & Diskretion bei Messie-Wohnungen in Wien
+
+Wir wissen, dass hinter jeder Messie-Wohnung eine persönliche Lebensgeschichte steht:
+- **Respektvoller Umgang:** Keine Schuldzuweisungen, keine Vorurteile. Wir begegnen jedem Kunden auf Augenhöhe.
+- **Unbeschriftete Transporter:** Zum Schutz Ihrer Privatsphäre arbeiten wir auf Wunsch mit völlig neutralen Fahrzeugen.
+- **Gezielte Wertsachensuche:** Bargeld, Sparbücher, Ausweise und Familienfotos werden akribisch gesichert.
+- **Ozon-Geruchsneutralisation & Desinfektion:** Wir hinterlassen die Wohnung hygienisch sauber und geruchsfrei.
+
+## Begleitende Betreuung & Kooperation mit sozialen Diensten
+
+Eine Messie-Wohnung zu räumen erfordert nicht nur Muskelkraft, sondern soziale Verantwortung:
+- **Zusammenarbeit mit Sachwaltern & Angehörigen:** Wir stimmen alle Schritte eng mit gesetzlichen Erwachsenenvertretern oder Familienangehörigen ab.
+- **Strukturierte Vorgehensweise:** Wir arbeiten uns Raum für Raum vor und trennen Unrat strukturiert von nützlichen Gegenständen.
+- **Wiederherstellung von Lebensqualität:** Unser Ziel ist es, den Betroffenen einen sauberen, hygienischen Neuanfang zu ermöglichen.
+
+### Schnelle Hilfe ohne Schamgefühl
+Wir garantieren Ihnen absolute Diskretion: Unsere Mitarbeiter treten neutral auf und behandeln jeden Kunden mit größtem Respekt. Wir helfen Ihnen, das Chaos schnell und nachhaltig zu beseitigen, damit Sie wieder unbeschwert in Ihren eigenen vier Wänden leben können.
+
+### Vollständige Desinfektion und nachhaltige Schädlingsprävention
+Nach der Entrümpelung einer Messie-Wohnung behandeln wir alle Räume mit modernen Heißdampf- und Desinfektionsverfahren. Dadurch beseitigen wir Keime, Bakterien und Schimmelsporen nachhaltig, sodass die Wohnung wieder bedenkenlos bezogen oder vermietet werden kann.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Entrümpelung Wien](/leistungen/entruempelung-wien/): Diskrete Hilfe bei vollgestellten Räumen.

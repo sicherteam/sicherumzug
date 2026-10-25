@@ -46,6 +46,7 @@ Rechner liefern eine Orientierung nach den jeweils beschriebenen Annahmen und er
 - **E-Mail:** [{{ site.email }}](mailto:{{ site.email }})
 - **Erreichbarkeit:** Mo–So, 06:00–23:00 Uhr
 - **Büro:** {{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}
+- **Standortkarte & Anfahrt:** [Ausführliche Anfahrtsbeschreibung auf unserer Kontaktseite](/kontakt/)
 
 [Ihr Vorhaben mit Sicher Team planen](/angebot/?service=umzug#angebot-form).
 

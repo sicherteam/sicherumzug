@@ -74,3 +74,5 @@ Soll zusätzlich geräumt werden, markieren Sie getrennt, was mitkommt und was e
 [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) · [Ablauf ansehen](/ablauf/) · [Angebote vergleichen](/umzugsangebote-vergleichen/)
 
 <a class="button" href="/angebot/?service=umzug&from=%2Fpreise%2F#angebot-form">Ihr Umzugsangebot anfragen {% include ui-icon.html %}</a>
+
+Fragen zu unseren Konditionen oder Sonderleistungen beantworten wir Ihnen gerne persönlich über unseren [Kontakt](/kontakt/).

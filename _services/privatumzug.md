@@ -44,6 +44,31 @@ Wir halten Transport, Packhilfe, Montage und Ihre Eigenleistungen im Angebot fes
 
 Sie können selbst packen oder das Einpacken unserem Team überlassen. Wir stimmen die Unterstützung auf Ihre Einrichtung und Ihren Zeitplan ab. [Preise](/preise/) erklärt den Angebotsvergleich, [Ablauf](/ablauf/) die nächsten Schritte. Reinigung, Anschlüsse und Räumung gehören nur bei ausdrücklicher Vereinbarung dazu.
 
+## Der Ablauf Ihres Privatumzugs in 5 transparenten Schritten
+
+Ein reibungsloser Wohnungsumzug beruht auf klarer Vorbereitung und verlässlicher Absprache. Unser Team führt Ihren Privatumzug nach einem bewährten fünfstufigen Prozess durch:
+
+1. **Kostenlose Besichtigung & Bedarfsanalyse:** Ob vor Ort in Wien, digital via WhatsApp-Video oder anhand von Fotos: Wir erfassen das exakte Umzugsvolumen in Kubikmetern (m³), die Möbelausstattung, die Tragewege vom Eingang bis zum Lkw und die Gegebenheiten beider Stiegenhäuser.
+2. **Verbindliches Fixpreisangebot:** Sie erhalten ein detailliertes schriftliches Angebot mit 100 % Festpreisgarantie. Bei uns gibt es keine nachträglichen Überraschungen, keine Anfahrtsgebühren innerhalb unseres Kerngebiets und keine versteckten Zuschläge für Wochenenden oder Stockwerke.
+3. **Behördliche Halteverbotszone (MA 46):** Wir kümmern uns auf Wunsch um die rechtzeitige Beantragung bei der Wiener Magistratsabteilung 46 und stellen die amtlichen Halteverbotstafeln mindestens 72 Stunden vorab gemäß StVO § 62 auf. Das garantiert einen freien Lkw-Parkplatz direkt vor Ihrer Haustür.
+4. **Schonender Pack- und Transportservice:** Am Umzugstag schützen wir empfindliche Parkett- und Fliesenböden im Eingangsbereich mit speziellem Bodenschutzvlies. Möbel werden mit Polsterdecken, Kantenschonern und Stretchfolie transportsicher verpackt.
+5. **Möbelaufbau & gemeinsame Endabnahme:** Am neuen Wohnort platzieren und montieren unsere geschulten Fachkräfte Ihre Möbel nach Ihrem Wunschplan. Gemeinsam prüfen wir alle Räume, halten den ordnungsgemäßen Abschluss fest und übergeben Ihnen Ihr neues Zuhause schlüsselfertig.
+
+## Wiener Altbau-Herausforderungen & Möbellift-Logistik
+
+Privatumzüge im Wiener Stadtgebiet – insbesondere in Gründerzeitvierteln von Leopoldstadt (1020), Landstraße (1030) bis Alsergrund (1090) – weisen spezifische architektonische Besonderheiten auf:
+
+- **Schmale Stiegenhäuser & Halbstock-Lifte:** Viele historische Wiener Zinshäuser verfügen über denkmalgeschützte, gewundene Stiegenhäuser oder nachträglich eingebaute Lifte, die nur auf Halbstöcken halten. Für sperrige Massivholzschränke, große Polstermöbel oder Betten bedeutet dies millimetergenaue Zirkelarbeit.
+- **Einsatz eines Außenaufzugs (Möbellift):** Wenn Möbelstücke nicht durch das Stiegenhaus passen oder der Transport in den 4. Stock ohne Lift zu viel Zeit in Anspruch nehmen würde, setzen wir unseren modernen Möbellift ein. Über Balkon oder Fenster gelangen schwere Gegenstände geräuscharm und ohne jedes Beschädigungsrisiko für Wände und Stuckdecken direkt in Ihre Wohnung.
+- **Einhaltung der Wiener Hausordnung & Hofruhe:** Wir respektieren die Nachbarschaft und halten gesetzliche Ruhezeiten (12:00 bis 14:00 Uhr sowie ab 20:00 Uhr) strikt ein. Bei Innenhofzufahrten prüfen wir vorab Torhöhen, maximale Achslasten und eventuelle Begrenzungen.
+
+## Faire Preismodelle für jedes Umzugsbudget
+
+Wir passen unsere Konditionen flexibel an Ihre individuellen Wünsche an:
+- **Günstige Stundensätze ab 29 € pro Umzugshelfer:** Ideal für kleinere Wohnungen, WGs oder handwerklich versierte Umziehende, die selbst mit anpacken und lediglich kräftige Tragehilfe und einen Lkw mit Fahrer benötigen.
+- **Pauschaler Festpreis für den Komplettumzug:** Für maximale Planungssicherheit bei 2- bis 4-Zimmer-Wohnungen und Einfamilienhäusern. Sie wissen vorab auf den Cent genau, was Ihr Umzug kostet.
+- **Allianz Betriebshaftpflicht bis 1.000.000 €:** Ihr gesamtes Umzugsgut sowie Gebäudeteile in beiden Liegenschaften sind während der gesamten Dauer vollumfänglich gegen Schäden versichert.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Möbelmontage beim Umzug](/leistungen/moebelmontage/): Demontage und Wiederaufbau durch Profis.

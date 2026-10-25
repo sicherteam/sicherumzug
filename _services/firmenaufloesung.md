@@ -36,6 +36,52 @@ Bei einer Geschäftsaufgabe oder Standortschließung in Wien sorgen wir für ein
 - **Datenträgervernichtung:** Festplatten, Magnetbänder und Aktenordner werden vor der Entsorgung unwiderruflich und datenschutzkonform vernichtet.
 - **Möbel-Wertanrechnung:** Wiederverwertbare Schreibtische, Chefsessel und Konferenztische verrechnen wir transparent mit den Räumungskosten.
 
+## Komplette Firmenauflösung nach AWG & DSGVO in Wien
+
+Die Auflösung eines Betriebs erfordert absolute Rechtssicherheit und Termintreue:
+- **Möbel-Wertausgleich:** Hochwertige Büromöbel, Marken-Schreibtische und Chefsessel werden bewertet und von den Räumungskosten abgezogen.
+- **Datenträgervernichtung:** Festplatten und Server werden vor dem Schrottrecycling unwiderruflich zerstört.
+- **Rückgabe an Vermieter:** Vollständige Beräumung von Büros, Besprechungsräumen, Teeküchen und Archiven inklusive besenreiner Übergabe.
+
+## Transparenter Festpreis bei Firmen- & Büroauflösungen
+
+- **Schrank- & Schreibtischanrechnung:** Wir prüfen moderne Büromöbel für einen fairen Wertausgleich.
+- **Sichere Vernichtung von Akten & Datenträgern:** Nach DIN 66399 mit offiziellem Vernichtungsnachweis.
+- **Fristgerechte Räumung:** Pünktliche besenreine Übergabe an den Vermieter zur Vermeidung weiterer Mietzahlungen.
+
+## Rechtssichere Betriebsauflösung für Wiener Unternehmen
+- **DIN 66399 Aktenvernichtung:** Mit offiziellem Vernichtungszertifikat für das Finanzamt.
+- **EDV- & Hardware-Recycling:** WEEE-konforme Entsorgung alter Computer und Bildschirme.
+- **Fixpreis ohne Nachforderungen:** Klare Kostenkontrolle für Ihre Liquiditätsplanung.
+
+## DSGVO-konforme Büro- & Gewerberäumung in Wien
+
+Die Auflösung von Firmenstandorten, Kanzleien oder Ladenlokalen verlangt strikte Einhaltung des Datenschutzes und der Umweltgesetze:
+- **Aktenvernichtung nach DIN 66399:** Vertrauliche Geschäftsunterlagen, Steuerordner und Personalakten transportieren wir in versiegelten Sicherheitsbehältern und führen sie der zertifizierten Schredderung nach Schutzklasse 2 und 3 zu – inklusive offiziellem Vernichtungszertifikat für Ihre Steuerberatung.
+- **Elektronik- & Server-Recycling (WEEE):** Monitore, Server, Switche und PCs werden nach österreichischer Elektroaltgeräteverordnung fachgerecht entsorgt; Festplatten werden vorab mechanisch zerstört.
+- **Rückbau von Einbauten & Ladenbau:** Demontage von Glastrennwänden, Systemböden, abgehängten Akustikdecken und Außenwerbungen für eine besenreine Vermieterübergabe.
+
+## Kooperation mit Masseverwaltern & Insolvenzräumungen in Wien
+
+Bei Unternehmensinsolvenzen oder gerichtlichen Verwertungen gelten strenge Fristen:
+- **Verwertungs- & Versteigerungsunterstützung:** Wir erfassen mobile Vermögenswerte zur Verwertung über Versteigerungshäuser.
+- **Pünktliche Mietvertragsbeendigung:** Schnelle Räumung zur Vermeidung von Masseverbindlichkeiten durch weiterlaufende Gewerbemieten.
+- **Zertifizierte Entsorgungsbelege:** Rechtssichere Nachweise für Insolvenzgerichte und Gläubigerausschüsse.
+
+### Zuverlässige Firmenräumung ohne Betriebsbehinderung
+Wir wickeln Betriebsauflösungen und Kanzleiräumungen auf Wunsch vollständig am Wochenende oder nach Feierabend ab. So entstehen keine Störungen im Gebäude und Sie können die Räumlichkeiten fristgerecht und besenrein an die Hausverwaltung übergeben.
+
+### Schredderzertifikat nach DIN 66399 für Ihre Akten
+Bei gewerblichen Betriebsauflösungen übergeben wir Ihnen nach der Aktenvernichtung ein rechtssicheres Vernichtungszertifikat mit Angabe der Sicherheitsstufe für Ihre Firmenunterlagen und behördliche Prüfungen.
+
+### Gewerbliche Räumung nach Maß
+Vom Kleinbüro bis zum mehrstöckigen Betriebsgebäude räumen wir Büroflächen, Teeküchen und Lagerräume zügig, diskret und besenrein nach österreichischem Gewerberecht.
+
+### Zuverlässige Entlastung Ihrer Geschäftsleitung
+Eine Betriebsschließung ist mit vielen bürokratischen Aufgaben verbunden. Wir nehmen Ihnen die gesamte Räumung, Möbelverwertung und Aktenvernichtung professionell ab, damit Sie sich auf das Wesentliche konzentrieren können.
+
+- **Schriftliche Fixpreis-Sicherheit:** Wir garantieren Ihnen vor Arbeitsbeginn einen festen Pauschalpreis ohne unvorhergesehene Mehrkosten für Entsorgung oder Personal.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Standortverlegung für Büros und Gewerbe.

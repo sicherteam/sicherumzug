@@ -44,6 +44,43 @@ Für den neuen Wohnort kann ein [Umzug](/leistungen/privatumzug/) hinzukommen. S
 
 Beginnen Sie mit drei Fragen: Wer entscheidet? Wohin gehen die behaltenen Dinge? Welcher Zustand wird für die Übergabe gebraucht? Diese Antworten unterscheiden einen Umzug, eine persönliche Haushaltsverteilung und eine reine Wohnungsräumung.
 
+## Haushaltsauflösung mit Wertanrechnung in Wien & Umgebung
+
+Die Auflösung eines kompletten Haushalts umfasst oft hunderte Gegenstände aus mehreren Jahrzehnten. Sicher Team bietet Ihnen ein transparentes Rundum-Sorglos-Paket:
+- **Fachkundige Vor-Ort-Begutachtung:** Wir sichten gemeinsam mit Ihnen alle Räume und erstellen eine klare Trennung zwischen zu behaltenden Stücken, verwertbaren Objekten und zu entsorgendem Sperrmüll.
+- **Transparente Gegenrechnung auf der Gesamtrechnung:** Der ermittelte Sachwert für Antiquitäten, Kunst, Silberbesteck oder Vollholzmöbel wird transparent im Angebot ausgewiesen und von den Entsorgungskosten abgezogen.
+- **Besenreine Übergabe an Vermieter:** Wir demontieren Lampen, entfernen Nägel und Schrauben aus den Wänden und hinterlassen alle Räume in einem tadellos besenreinen Zustand.
+- **Allianz Versicherungsschutz bis 1.000.000 €:** Ihr Schutz vor Stiegenhaus-, Tür- und Wandschäden.
+
+## Kostenersparnis durch fairen Wertausgleich bei Haushaltsauflösungen
+
+Ein vollständiger Hausstand birgt häufig unerwartete Werte:
+- **Gegenrechnung von Sammlungen:** Münzen, Briefmarken, historische Uhren, Musikinstrumente, Modeschmuck und edle Metalle (Silberbesteck) ziehen wir 1:1 von den Gesamtkosten ab.
+- **Verwertung von Großgeräten:** Funktionierende Waschmaschinen, Kühlschränke und Marken-Elektrogeräte reduzieren Ihren Entsorgungsaufwand spürbar.
+- **Transparente Dokumentation:** Sie erhalten eine detaillierte Abrechnung, auf der alle gegengerechneten Positionen klar ersichtlich sind.
+
+## Sensible Nachlassabwicklung & Entlastung der Angehörigen
+Der Verlust eines nahestehenden Menschen ist schmerzhaft genug. Wir nehmen Ihnen die schwere körperliche und organisatorische Last der Wohnungsauflösung komplett ab. Nach einer gemeinsamen Besprechung sortieren wir den gesamten Nachlass pietätvoll, trennen Erinnerungsstücke von Verwertbarem und übergeben Ihnen die Wohnung besenrein.
+### Wichtige Schritte vor der Übergabe:
+1. Strom-, Gas- und Wasserzählerstände gemeinsam ablesen und fotografieren.
+2. Namensschilder an Tür und Briefkasten auf Wunsch entfernen.
+3. Sämtliche Wohnungsschlüssel bündeln und quittieren.
+
+## Haushaltsauflösung mit Herz, Verstand & Festpreis-Garantie
+
+Eine Haushaltsauflösung markiert oft das Ende eines Lebensabschnitts. Unser Team begleitet Sie mit Einfühlungsvermögen, Diskretion und handwerklicher Präzision:
+- **Sorgsame Inventarisierung:** Wir erfassen alle Räume vom Keller bis zum Dachboden und trennen Erinnerungsstücke von verwertbaren Objekten und Abfall.
+- **Wertanrechnung direkt auf der Gesamtrechnung:** Ob Antiquitäten, Gemälde, Schmuck oder funktionstüchtige Elektrogeräte – wir vergüten den realen Gegenwert und senken damit Ihre Gesamtkosten drastisch.
+- **Besenreine Übergabe:** Nach getaner Arbeit fegen wir alle Räume besenrein durch, entfernen Schrauben und Dübel und stellen den geforderten Übergabezustand her.
+- **Allianz Versicherungsschutz bis 1.000.000 €:** Ihr vollumfänglicher Schutz während der gesamten Arbeiten.
+
+## Notarielle Nachlassverzeichnisse & Begleitung von Erbgemeinschaften
+
+Bei Erbschaften verlangt das österreichische Verlassenschaftsgericht häufig die Errichtung eines formalen Nachlassinventars:
+- **Zusammenarbeit mit Gerichtskommissären:** Wir unterstützen Notare und Erben durch transparente Inventarlisten mit geschätzten Verkehrswerten.
+- **Streitschlichtung in Erbgemeinschaften:** Durch unsere neutrale und sachliche Bewertung verhindern wir Missverständnisse und Streitigkeiten unter den Miterben.
+- **Aufteilung & Teillieferungen:** Gegenstände, die von verschiedenen Familienmitgliedern übernommen werden, liefern wir zuverlässig an die jeweiligen Wunschadressen in ganz Österreich.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Wohnungsauflösung Wien](/leistungen/wohnungsaufloesung/): Räumung von Miet- und Eigentumswohnungen.

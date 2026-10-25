@@ -30,6 +30,47 @@ Im Angebot sollten Transport, Eigenleistungen, gewünschte Verpackung oder Monta
 
 Die [Bundesländerübersicht](/bezirke/) bietet örtliche Vorbereitung. Für Haushalte lesen Sie [Privatumzug](/leistungen/privatumzug/), für Betriebe [Firmenumzug](/leistungen/firmenumzug-wien/). Grenzüberschreitende Strecken werden als [Auslandsumzug](/leistungen/auslandsumzug/) gesondert angefragt.
 
+## Bundesweiter Fernumzug: Zwischen allen 9 Bundesländern
+
+Eine Übersiedlung über Bundesländergrenzen hinweg – von Wien nach Salzburg, Tirol, Vorarlberg, Kärnten, in die Steiermark, nach Oberösterreich, Niederösterreich oder ins Burgenland – erfordert professionelle Langstreckenlogistik:
+
+### Gesetzliche Vorschriften & Transportstandards:
+- **ASFINAG Maut & GO-Box:** Unsere Lkw-Flotte ist mit modernen On-Board-Units für das österreichische Mautsystem ausgestattet. Sämtliche Tunnel- und Autobahnmauten sind bereits transparent in unserem Festpreisangebot enthalten.
+- **Wochenendfahrverbote & Lenkzeiten:** Wir planen Routen strikt nach den gesetzlichen Ruhe- und Lenkzeiten für Berufskraftfahrer sowie unter Berücksichtigung des Wochenendfahrverbots für Lkw über 7,5 Tonnen.
+- **Luftgefederte Möbelkoffer:** Empfindliche Möbelstücke, Glasvitrinen und Klaviere werden auf weiten Distanzen vor Erschütterungen durch moderne Luftfederung geschützt.
+
+### Günstige Beiladung & Teilladungs-System:
+Wenn Sie nur ein Zimmer oder wenige Großmöbel quer durch Österreich transportieren möchten, bündeln wir Teilladungen entlang unserer festen Routen. Das spart bis zu 40 % der Transportkosten gegenüber einer Einzelfahrt.
+
+### Transparente Fixpreis-Garantie:
+Keine Überraschungen bei Ankunft: Sprit, Maut, Arbeitszeit und Versicherungsschutz bei der Allianz bis 1.000.000 € sind im Festpreis vollständig abgedeckt.
+
+## Typische Fernumzugsrouten quer durch die Republik
+
+Unser Fuhrpark verbindet Wien wöchentlich mit allen österreichischen Bundesländern:
+- **Wien – Salzburg & Tirol:** Über die Westautobahn (A1) und das Deutsche Eck nach Salzburg und Innsbruck. Wir beachten das Tiroler Sektoralfahrverbot und setzen schadstoffarme Euro-6-Möbeltransporter ein.
+- **Wien – Kärnten:** Über die A2 via Klagenfurt und Villach. Pünktliche Überstellung auch in winterlichen Alpenregionen mit Allradtechnik und Schneekettenausrüstung.
+- **Wien – Vorarlberg:** Die längste Strecke Österreichs nach Bregenz und Feldkirch organisieren wir zuverlässig mit zwei Fahrern für einen kontinuierlichen, sicheren Transportlauf.
+
+### Checkliste für die Fernumzugs-Planung:
+1. **Fester Termin & Zeitfenster:** Pünktliche Abfahrt und minutengenaue Ankunft am Zielort.
+2. **ASFINAG Maut & GO-Box:** Sämtliche Straßenabgaben und Tunnelmauten (Gleinalm, Bosruck, Tauern) sind im Festpreis enthalten.
+3. **Versicherungsschutz bis 1.000.000 €:** Maximale Allianz-Absicherung über alle Autobahnkilometer.
+
+## Häufige Fragen zu Fernumzügen in Österreich
+
+- **Wie lange dauert ein Umzug zwischen Bundesländern?** Strecken wie Wien-Linz, Wien-Graz oder Wien-Eisenstadt wickeln wir an einem einzigen Tag ab. Für größere Entfernungen wie Wien-Innsbruck oder Wien-Bregenz beladen wir am Nachmittag des Vortags und entladen am Folgetag pünktlich morgens.
+- **Sind Maut- und Treibstoffkosten fixiert?** Ja, unser schriftliches Festpreisangebot beinhaltet ausnahmslos alle ASFINAG-Mautgebühren, Tunnelaufschläge, Treibstoffkosten und Lkw-Spesen – garantiert ohne Nachberechnungen.
+- **Was passiert bei schlechtem Bergwetter?** Unsere Lkw sind ganzjährig mit modernster Winterausrüstung und Schneeketten für österreichische Alpenpässe ausgestattet.
+
+## Langstrecken-Sicherheit & Zwischenlagerung bei Fernumzügen
+
+Bei weiten Übersiedlungen über mehrere hundert Kilometer spielen Zwischenlagerung und flexible Terminkoordination eine zentrale Rolle:
+
+- **Zwischenlagerung bei Datumsüberlappung:** Wenn der Auszugstermin in Wien am 30. des Monats liegt, die neue Wohnung in Innsbruck oder Bregenz aber erst am 15. des Folgemonats bezugsfertig ist, lagern wir Ihr Hab und Gut in unserem videoüberwachten und temperierten Möbellager ein.
+- **Ladungssicherung nach VDI 2700:** Auf langen Autobahnfahrten wirken kontinuierlich Flieh- und Bremskräfte auf das Transportgut. Unsere Lkw sind mit Antirutschmatten, Zurrschienen und Schwerlastgurten nach VDI 2700 ausgestattet, um jedes Verrutschen auszuschließen.
+- **Kombinierte Rücktransporte:** Durch ein dichtes Netzwerk an bundesweiten Partnern vermeiden wir Leerfahrten und können Ihnen auf Relationen wie Graz-Wien oder Salzburg-Wien hochattraktive Rückfracht-Konditionen anbieten.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Umzug Wien Übersicht](/leistungen/umzug-wien/): Ihr Ausgangs- oder Zielort in Wien.

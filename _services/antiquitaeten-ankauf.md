@@ -37,6 +37,48 @@ Bei einer Haushalts- oder Nachlassauflösung bedarf der Umgang mit Kunst und Ant
 - **Verbindliche Gegenrechnung:** Keine vagen Schätzungen – der vereinbarte Gegenwert wird schwarz auf weiß im Festpreisangebot verrechnet.
 - **Sorgfältige Handhabung & Transport:** Wertvolle Einzelstücke werden von unserem geschulten Team mit Spezialpolsterung und Kantenschutz gesichert.
 
+## Antiquitäten-Schätzung & Ankauf nach Wiener Marktstandards
+
+Antiquitäten erfordern geschultes Expertenwissen:
+- **Gefragte Epochen:** Biedermeier, Jugendstil, Wiener Werkstätte, Art Déco und Barock.
+- **Objektarten:** Gemälde bekannter Maler, Bronzen, Kaminuhren, Augarten- und Meissen-Porzellan, Tafelsilber (800er/925er).
+- **Reale Marktpreise:** Wir orientieren uns an tatsächlich erzielbaren Auktionsergebnissen und verrechnen den Wert 1:1 mit Ihrem Räumungsauftrag.
+
+## Antiquitäten-Ankauf mit fundierter Expertise in Wien
+
+- **Wertermittlung nach Epochen:** Biedermeier, Jugendstil, Wiener Werkstätte, Barock.
+- **Fachgerechter Transport:** Empfindliche Kunstgegenstände werden mit Spezialpolsterung gesichert.
+- **1:1 Verrechnung mit Räumungskosten:** Maximale Kostenreduktion für Sie.
+
+## Expertenwissen für Wiener Antiquitäten
+- **Biedermeier & Jugendstil:** Hohe Wertschätzung für originale Wiener Epochenmöbel.
+- **Silber & Porzellan:** Faire Grammpreise für Tafelsilber und Schätzungen für Augarten-Porzellan.
+- **Sicherer Transport:** Kunstgerechte Verpackung und Transportversicherung bis 1.000.000 €.
+
+## Wiener Antiquitäten-Kunde: Von Biedermeier bis Wiener Werkstätte
+
+Wien blickt auf eine reiche kunsthistorische Tradition zurück. Bei Haushaltsauflösungen und Nachlässen begegnen unseren Experten regelmäßig wertvolle Zeitzeugen:
+- **Biedermeier (ca. 1815–1848):** Schlichte Eleganz, edle Kirschbaum- und Nussbaumfurniere, Lyra-Motive und typische Wiener Kommoden, Schreibsekretäre und Nähtischchen.
+- **Jugendstil & Secession (um 1900):** Geometrische Formen von Josef Hoffmann, Entwürfe von Otto Wagner und Adolf Loos, Thonet-Bugholzstühle sowie Glasarbeiten von Johann Lötz Witwe.
+- **Wiener Silber & Punzierungen:** Wir prüfen historische Punzen (Diana-Kopf, Tutenkopfpunze, Meisterzeichen) und vergüten reines Silber (800er, 835er, 900er, 925er) nach aktuellen Edelmetall-Tageskursen.
+- **Alt-Wiener Porzellan (Augarten & Meissen):** Handbemalte Porzellanfiguren, Kaffeeservices und Prunkteller begutachten wir mit Kennerblick auf Manufakturmarken, Risse und Schleifstriche.
+
+### Seriöse Bewertung nach Auktionsstandards:
+Wir orientieren uns an den tatsächlichen Auktionsergebnissen führender mitteleuropäischer Auktionshäuser (wie dem Wiener Dorotheum). Sie erhalten eine nachvollziehbare, faire Wertermittlung und die Garantie, dass wertvolle Kunstwerke nicht im Sperrmüllcontainer landen.
+
+## Echtheitsbestimmung & Restaurierungspotenzial
+
+Viele historische Möbelstücke und Kunstgegenstände wirken auf den ersten Blick unansehnlich, bergen jedoch großes Potenzial:
+- **Oberflächen & Schellack-Polituren:** Historische Schellack-Handpolituren lassen sich von Fachleuten wieder aufarbeiten.
+- **Originalität von Beschlägen & Schlössern:** Original erhaltene Kastenschlösser und feuervergoldete Beschläge steigern den Sammlerwert erheblich.
+- **Transparente Dokumentation:** Wir erklären Ihnen vor Ort verständlich, worauf sich unsere Wertermittlung stützt.
+
+### Schutz und Werterhalt bei jedem Handgriff
+Wertvolle Antiquitäten und historische Möbelstücke wickeln wir vor dem Transport in spezielle Schutzdecken und Kantenschoner. Unsere erfahrenen Möbelpacker transportieren Ihre Schätze mit größter Vorsicht und vollumfänglich versichert bei der Allianz bis 1.000.000 €.
+
+### Kostenlose Schätzung und diskrete Bar-Verrechnung
+Sie möchten eine unverbindliche Einschätzung Ihrer Schätze? Unsere Sachverständigen begutachten Ihre Kunstgegenstände und Antiquitäten direkt bei Ihnen vor Ort in Wien und Niederösterreich – diskret, kompetent und fair.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Altwaren Ankauf & Wertanrechnung](/leistungen/altwaren-ankauf/): Prüfung von Altwaren und Sammlungen.

@@ -34,6 +34,46 @@ Statt alte Schätze wegzuwerfen, prüfen wir bei der Besichtigung den Wiederverk
 - **Unkomplizierte Foto-Prüfung:** Senden Sie uns vorab Detailaufnahmen via WhatsApp für eine rasche Orientierung.
 - **Wiener Marktkenntnis:** Von Wiener Bronze über historische Reklameschilder bis zu Vintagemöbeln kennen wir die Sammlernachfrage.
 
+## Altwaren-Ankauf & Wertanrechnung bei Räumungen in Wien
+
+Nicht alles Alte ist wertlos – oft schlummern in Wiener Kellern und Wohnungen gesuchte Sammlerstücke:
+- **Was wir bewerten:** Vintage-Möbel aus den 50er bis 70er Jahren, Emailschilder, Blechspielzeug, historische Lampen, Porzellanfiguren und Musikinstrumente.
+- **Faire Gegenrechnung:** Der Wert wird direkt von Ihren Räumungskosten abgezogen, was die Gesamtrechnung spürbar reduziert.
+- **WhatsApp Vorab-Schätzung:** Schicken Sie uns einfach Fotos der Fundstücke via WhatsApp für eine zügige Ersteinschätzung.
+
+## Altwaren-Ankauf: Wie funktioniert die Begutachtung vor Ort?
+
+- **Unverbindliche Besichtigung:** Unser Experte begutachtet historische Gegenstände direkt in Ihrer Wohnung.
+- **Transparente Gegenrechnung:** Der Wert wird schwarz auf weiß im Räumungsangebot gutgeschrieben.
+- **WhatsApp Foto-Vorabcheck:** Schicken Sie uns vorab Bilder für eine rasche Orientierung.
+
+## So machen Sie Altwaren zu barem Geld
+- **Begutachtung vor Ort:** Wir prüfen alte Reklameschilder, Spielzeug, Instrumente und Vintage-Möbel.
+- **Direkte Gutschrift:** Der Wert wird 1:1 von Ihrer Räumungsrechnung abgezogen.
+- **Unkomplizierter WhatsApp-Check:** Senden Sie uns Fotos für eine schnelle Einschätzung.
+
+## Praxis-Leitfaden: Welche Altwaren erzielen die besten Erlöse?
+
+In Wiener Haushalten finden sich oft historische Gegenstände, deren materieller oder sammlerischer Wert von Laien unterschätzt wird:
+- **Alte Email- und Blechschilder:** Historische Wiener Werbeschilder (z. B. Manner, Meinl, Gösser) sind bei Sammlern hochbegehrt und erzielen je nach Erhaltungszustand dreistellige Beträge.
+- **Historisches Spielzeug & Modelleisenbahnen:** Märklin-Bahnen, Steiff-Tiere, Blechautos und Puppenstuben aus der Zeit vor 1970 werden gesucht und direkt gegengerechnet.
+- **Alte Musikinstrumente & Grammophone:** Geigen, Akkordeons, Blechblasinstrumente und Schellack-Platten prüfen wir sachkundig auf ihren Marktwert.
+- **Vintage-Designklassiker der 50er, 60er & 70er Jahre:** Nierentische, Cocktailsessel, Stehlampen und dänisches Teakholz-Design erleben eine Renaissance auf dem Wiener Markt.
+
+### Die Vorteile der Sicher Team Wertanrechnung:
+1. **Kein mühsamer Einzelverkauf:** Sie sparen sich wochenlange Inserate auf Kleinanzeigenportalen, unzuverlässige Interessenten und zeitraubende Preisverhandlungen.
+2. **Sofortige Entlastung Ihrer Räumungskosten:** Der ermittelte Gesamtwert wird als transparente Gutschriftsposition direkt von den Arbeits- und Entsorgungskosten abgezogen.
+3. **Schriftliche Festpreis-Garantie:** Alle Bewertungen werden vor Beginn der Arbeiten schriftlich fixiert und garantiert eingehalten.
+
+## Häufige Fragen zum Altwaren-Ankauf
+
+- **Kann ich vorab Fotos schicken?** Ja, senden Sie uns 2 bis 3 deutliche Fotos per WhatsApp. Wir geben Ihnen innerhalb von 15 Minuten eine erste Einschätzung.
+- **Wie erfolgt die Verrechnung?** Der vereinbarte Gegenwert wird direkt als Gutschrift auf Ihrer Räumungsrechnung abgezogen.
+- **Kaufen Sie auch Einzelstücke an?** Unser Schwerpunkt liegt auf der Wertanrechnung im Rahmen von Räumungen, um Ihre Gesamtkosten zu minimieren.
+
+### Schnelle Abwicklung und direkte Kostensenkung
+Statt alte Gegenstände mühsam selbst zu inserieren, profitieren Sie bei uns von der direkten Verrechnung. Wir bewerten Ihre Altwaren fair, transparent und unkompliziert vor Ort und ziehen den Betrag direkt von der Endrechnung ab – einfach, sicher und rentabel.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Antiquitäten Ankauf & Wertanrechnung](/leistungen/antiquitaeten-ankauf/): Wertanrechnung für historische Einzelstücke.

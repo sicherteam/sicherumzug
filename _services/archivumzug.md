@@ -52,6 +52,34 @@ Die Verlegung von Archiven und Kanzleibeständen unterliegt strengen Datenschutz
 - **Lückenlose Dokumentation:** Jede Aktenkassette wird nach dem Vier-Augen-Prinzip erfasst, verladen und am Zielort gegen Quittung an befugte Personen übergeben.
 - **Zertifizierte Vernichtung nach DIN 66399:** Auf Wunsch sondern wir abgelaufene Aktenjahrgänge vor dem Transport aus und führen sie der datenschutzkonformen Schredderung zu.
 
+## Präzise Kanzlei- & Archivumzüge nach strengem Ordnungssystem
+
+Archive von Anwaltskanzleien, Notariaten, Steuerberatungskanzleien, Krankenhäusern und Ämtern enthalten zehntausende laufende und historische Aktenjahrgänge. Ein Archivumzug darf die Aktenordnung unter keinen Umständen durcheinanderbringen:
+
+### Das Sicher Team Archiv-System:
+1. **Regalmetergenaue Vorplanung:** Wir erfassen die exakte Anzahl der laufenden Regalmeter (lfm) und die Nummerierung aller Fächer.
+2. **Plombierte Sicherheits-Aktenrollwagen:** Aktenordner werden regalweise in nummerierte, geschlossene Sicherheitsrollwagen umgeräumt, versiegelt und im neuen Archivregal exakt an derselben Position wieder eingeräumt.
+3. **Schutz vor Datenverlust & Vertraulichkeit:** Unser Personal ist auf das Datengeheimnis nach DSGVO verpflichtet. Aktenbehälter bleiben während des gesamten Transports versiegelt und unter ständiger Aufsicht.
+4. **Zertifizierte Altaktenvernichtung (DIN 66399):** Akten, deren gesetzliche Aufbewahrungsfrist (in Österreich meist 7 Jahre nach BAO bzw. 10 Jahre bei Immobilienunterlagen) abgelaufen ist, sondern wir vorab aus und schreddern sie datenschutzkonform mit Vernichtungsnachweis.
+
+## Vertraulichkeit & Sicherheitsstufen nach DIN 66399
+
+Beim Transport von behördlichen, juristischen oder medizinischen Archiven gelten kompromisslose Schutzstandards:
+- **Schutzklasse 2 & 3:** Hoher bis sehr hoher Schutzbedarf für vertrauliche Finanzdaten, Mandantenakten, Patientengeschichten und Personalakten.
+- **Plombierte Transportbehälter:** Jeder Aktencontainer wird vor den Augen Ihres Archivbeauftragten versiegelt. Die Seriennummer der Plombe wird im Übergabeprotokoll vermerkt und erst am Zielort nach Kontrolle geöffnet.
+- **Geschlossene Sicherheitskette:** Fahrzeuge werden während des Be- und Entladevorgangs niemals unbeaufsichtigt gelassen. Der Fahrweg erfolgt ohne Zwischenstopps direkt an den Zielort.
+- **Rechtssichere Entsorgungszertifikate:** Ausgesonderte Altakten werden nach DIN 66399 geschreddert und mit offiziellem Vernichtungsnachweis für Wirtschaftsprüfer dokumentiert.
+
+## Barcode-Tracking & Schneller Akten-Zugriff während des Umzugs
+
+Auch während einer mehrtägigen Archivverlegung muss der Geschäftsbetrieb von Kanzleien und Verwaltungen weiterlaufen:
+- **Permanenter Notfall-Aktenzugriff:** Benötigt ein Anwalt oder Notar während des Transports dringend eine Gerichtsakte, können wir das betreffende Aktenbündel dank unseres detaillierten Regal-Mappings innerhalb von 15 Minuten lokalisieren und bereitstellen.
+- **Barcode- & RFID-Erfassung:** Auf Wunsch versehen wir Aktenkassetten und Rollcontainer mit maschinenlesbaren Barcodes für einen lückenlosen Scan-Nachweis an Start-, Verlade- und Zielstation.
+- **Besenreine Archivraum-Rückgabe:** Nach dem Abtransport alter Aktenbestände reinigen wir die freigewordenen Archivflächen besenrein und demontieren alte Schwerlast-Steckregale.
+
+## Technische Ausstattung & Datenschutzverpflichtung
+Unsere Archivteams arbeiten mit rutschfesten Baumwollhandschuhen, um empfindliche Papiere und historische Schriften vor Hautfetten zu schützen. Jeder Mitarbeiter unterzeichnet vor Auftragsbeginn eine gesonderte Verschwiegenheitserklärung gemäß Art. 32 DSGVO. Zudem protokollieren wir lückenlos die Übergabezeiten an den Lade- und Entladestationen.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Firmenumzug Wien](/leistungen/firmenumzug-wien/): Professionelle Betriebs- und Büroübersiedlung.

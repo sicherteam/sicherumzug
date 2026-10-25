@@ -101,6 +101,23 @@ Eine professionelle Entrümpelung in Wien schützt Sie vor rechtlichen Risiken u
 - **Zertifizierte MA 48 Entsorgungswege:** Wir liefern sämtliche Abfälle ausschließlich an behördlich genehmigte Wiener Mistplätze und lizenzierte Entsorgungsfachbetriebe der MA 48.
 - **Schutz vor illegalen Müllablagerungen:** Mit Sicher Team erhalten Sie die Gewissheit, dass Ihr Inventar ordnungsgemäß recycelt wird – inklusive transparenter Entsorgungsbelege.
 
+## Rechtssichere Entrümpelung in allen 23 Wiener Bezirken
+
+Eine Wohnungs- oder Kellerentrümpelung in Wien erfordert die Einhaltung zahlreicher städtischer und gesetzlicher Vorschriften:
+- **Strikte Mülltrennung nach AWG 2002 & MA 48:** Wir trennen Sperrmüll, Altholz, Alteisen, Bauschutt, Elektroaltgeräte (WEEE), Matratzen und Problemstoffe bereits in der Wohnung. Sämtliche nicht verwertbaren Reststoffe liefern wir an behördlich genehmigte Wiener Mistplätze der MA 48 oder zertifizierte Verwertungsbetriebe.
+- **Gemeindebau-Entrümpelungen (Wiener Wohnen):** Bei der Rückgabe von Gemeindewohnungen verlangt Wiener Wohnen einen strikten Originalzustand (Entfernung von Wandverkleidungen, Zwischendecken, PVC-Böden und Einbauten). Wir kennen die Abnahmekriterien genau und garantieren eine besenreine Übergabe ohne Kautionsabzüge.
+- **Schutz vor illegalen Müllablagerungen:** Mit unserer schriftlichen Entsorgungsgarantie sind Sie zu 100 % davor geschützt, dass Ihr Unrat illegal im Wienerwald oder auf öffentlichen Straßen abgelagert wird.
+
+## Häufige Fragen & Kostenfaktoren bei der Entrümpelung in Wien
+
+Ein transparenter Preis basiert bei Sicher Team auf verlässlichen Parametern:
+- **Was kostet eine Entrümpelung in Wien?** Der Preis richtet sich nach dem Gesamtvolumen in Kubikmetern (m³), der Art des Entsorgungsguts (reiner Sperrmüll vs. Mischmüll oder Bauschutt) sowie den Tragewegen im Gebäude. Ein 1-Zimmer-Keller startet ab 250 €, eine durchschnittliche 2-Zimmer-Wohnung liegt bei ca. 600 bis 1.200 € – abzüglich möglicher Wertanrechnung!
+- **Wie läuft die Besichtigung ab?** Unsere Experten kommen persönlich und kostenlos zu Ihnen in alle 23 Wiener Bezirke. Wir schätzen das Volumen minutengenau und händigen Ihnen direkt vor Ort ein schriftliches Festpreisangebot aus.
+- **Müssen Sie während der Räumung anwesend sein?** Nein. Nach der Schlüsselübergabe führen unsere Teams die Arbeiten selbstständig aus. Nach Abschluss treffen wir uns zur gemeinsamen Endkontrolle und Übergabe des Objekts.
+
+## Häufige Irrtümer bei Wiener Entrümpelungen
+Viele Mieter glauben, dass der Sperrmüll einfach an den Gehsteig gestellt werden kann. In Wien stellt das unbefugte Abstellen auf öffentlichem Grund jedoch eine Verwaltungsübertretung dar, die von den WasteWatchern der MA 48 mit empfindlichen Geldstrafen bis zu mehreren hundert Euro geahndet wird. Mit Sicher Team erfolgt die Verladung direkt aus Ihrer Wohnung in unsere geschlossenen Lkw – ohne jede Belästigung für Nachbarn oder das Straßenbild.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Räumung in Wien & Ostösterreich](/leistungen/raeumung/): Besenreine Übergabe von Wohnungen und Häusern.

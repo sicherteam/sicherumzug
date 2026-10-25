@@ -39,6 +39,49 @@ Ungeklärtes Eigentum bleibt als offene Position erfasst. Unbekannte Behälter w
 
 Bei einer ganzen Wohnung wird das Abteil unter [Wohnungsräumung](/leistungen/wohnungsaufloesung/) ausdrücklich als Nebenbereich aufgeführt. Bei der Abnahme werden freigegebene Positionen und verbleibende Ausnahmen gemeinsam geprüft.
 
+## Gründliche Kellerräumung in Wien: Feuchtigkeit & Sperrmüll meistern
+
+Wiener Kellerabteile in Altbauten oder Gemeindebauten sind berüchtigt: Sie sind oft feucht, dunkel und über Jahre hinweg bis unter die Decke mit ausrangiertem Hausrat, Kartons und alten Möbeln vollgestellt:
+- **Schimmel- & Feuchtigkeitsschutz:** Vermoderte Holzmöbel, feuchte Pappe und Textilien können gesundheitsschädliche Schimmelsporen freisetzen. Unsere Mitarbeiter räumen Kellerabteile mit Staubmasken und reißfesten Spezialsäcken aus.
+- **Befreiung von engen Kellergängen:** In verwinkelten Altbau-Kellergewölben transportieren wir den Sperrmüll zügig über enge Kellertreppen an die Straßenoberfläche, ohne die Hausbewohner zu behindern.
+- **Besenreine Kellerübergabe:** Nach dem Leerräumen kehren wir das Abteil sauber aus, entfernen lose Spinnweben und übergeben den Keller schlüsselfertig zur Neuvermietung.
+
+## Schnelle Hilfe bei überfüllten Wiener Altbaukellern
+
+- **Feuchtigkeit & Schimmelbildung:** Feuchte Kellerabteile bergen Gesundheitsrisiken. Wir räumen auch modrige Kartonagen und vermoderte Möbel zügig und sicher aus.
+- **Beseitigung von Ungezieferherden:** Eine gründliche Räumung nimmt Schädlingen wie Motten und Mäusen den Nährboden.
+- **Festpreise ab 250 €:** Günstige Pauschalen für normale Kellerabteile in allen 23 Wiener Bezirken.
+
+## Feuchtigkeit, Holzverschläge & enge Altbaustiegen
+Wiener Keller stellen besondere Ansprüche an die Logistik:
+- **Demontage alter Lattenverschläge:** Wir reißen morsche Holzwände fachgerecht ab und entsorgen das Altholz.
+- **Transport über steile Kellertreppen:** Erfahrene Packer tragen schwere Lasten sicher nach oben, ohne Wände zu streifen.
+- **Besenreine Sauberkeit:** Wir fegen den Kellerraum gründlich aus, damit Sie ihn sofort wieder nutzen können.
+
+## Ihr Keller in Wien wieder frei & nutzbar in wenigen Stunden
+
+Überfüllte Keller sind nicht nur ärgerlich, sondern bergen Brand- und Feuchtigkeitsrisiken:
+- **Befreiung von altem Sperrmüll:** Wir räumen kaputte Elektrogeräte, alte Koffer, ausrangierte Möbel und Kistenstapel restlos aus.
+- **Spezielle Ausrüstung für enge Kellerstiegen:** Unsere Träger nutzen rutschfeste Tragegurte und Treppenkarren, um enge historische Kellertreppen sicher zu bewältigen.
+- **Besenreine Endreinigung:** Nach dem Abtransport fegen wir das Kellerabteil gründlich aus und entsorgen sämtlichen Kehricht.
+- **Dokumentierte Schlüsselübergabe:** Gerne übergeben wir den gereinigten Keller direkt an Ihre Hausverwaltung oder den Liegenschaftseigentümer.
+
+## Tipps zur dauerhaften Kellerordnung & Schimmelprävention
+
+Nach einer gründlichen Kellerräumung durch Sicher Team empfehlen wir:
+- **Abstand zu Außenwänden:** Stellen Sie Regale mit mindestens 5 cm Abstand zu feuchten Kellerwänden auf, um die Luftzirkulation zu gewährleisten.
+- **Kunststoff- oder Metallregale:** Verwenden Sie feuchtigkeitsresistente Regalsysteme anstelle von rohem Holz.
+- **Regelmäßiges Querlüften:** Im Winter an kalten, trockenen Tagen lüften; im Sommer warme Außenluft meiden, um Kondensatbildung zu verhindern.
+
+### Gründliche Beseitigung von Feuchtigkeits- und Schimmelschäden
+Vollgestellte Kellerabteile nehmen oft Feuchtigkeit auf. Wir entfernen morsche Kartons, feuchte Teppiche und vermoderte Möbelstücke restlos und schaffen wieder frische, saubere Luft in Ihrem Wiener Kellerabteil – schnell, sauber und günstig zum Festpreis.
+
+### Fachgerechte Entsorgung von Altfarben und Lacken
+In vielen Kellern lagern seit Jahren eingetrocknete Farbkübel und Lösungsmittel. Wir trennen diese gefährlichen Problemstoffe sorgsam ab und liefern sie bei den offiziellen Problemstoffsammelstellen der Stadt Wien ab – für einen rundum sicheren Keller.
+
+### Schnelle Entrümpelung bei Verlassenschaften
+Bei Nachlassverfahren müssen Kellerabteile oft kurzfristig für den Nachmieter freigemacht werden. Wir sortieren den Bestand, entsorgen Müll vorschriftsmäßig und übergeben das Kellerabteil besenrein.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Dachbodenräumung](/leistungen/dachbodenraeumung/): Räumung ungenutzter Dachböden.

@@ -60,6 +60,21 @@ Ein erfolgreicher Firmenumzug in Wien verlangt exakte Taktung, um teure Ausfallz
 - **Allianz Haftpflichtschutz bis 1.000.000 €:** Maximale Absicherung für Ihr gesamtes Betriebsinventar sowie Schutz vor Stiegenhaus-, Boden- und Aufzugsschäden in beiden Liegenschaften.
 - **Feste Rahmenvereinbarung & persönlicher Projektleiter:** Ein fester Ansprechpartner vor Ort koordiniert alle Gewerke und stellt sicher, dass vereinbarte Zeitfenster minutiös eingehalten werden.
 
+## Detaillierte Phasen eines B2B-Standortwechsels in Wien
+
+1. **Projektierung & Phasenplan:** Unser B2B-Projektleiter erstellt gemeinsam mit Ihrer Geschäftsleitung oder Ihrem Facility Manager ein detailliertes Leistungsverzeichnis mit Farb- und Nummernleitsystem für Arbeitsplätze, Abteilungen und Serverräume.
+2. **Rollcontainer & Sicherheitsboxen:** Wir liefern vorab abschließbare Sicherheitsrollwagen für sensible Personal- und Finanzakten sowie antistatische Wannen für Monitore, Desktops und Peripheriegeräte.
+3. **Wochenend-Ausführung (Zero Downtime):** Freitag 17:00 Uhr Arbeitsplatzabbau – Samstag Transport und Verkabelung – Sonntag Funktionsprüfung und Möbelmontage – Montag 08:00 Uhr Arbeitsaufnahme.
+4. **Zertifizierte Entsorgung von Altinventar:** Nicht mehr benötigte Schreibtische und defekte Elektronik werden gemäß AWG 2002 und Elektroaltgeräteverordnung (WEEE) zertifiziert recycelt.
+
+## IT-Rollout, Arbeitsplatz-Verkabelung & DSGVO-Auftragsverarbeitung
+
+Ein professioneller Firmenumzug schützt Ihre betriebliche Produktivität und sensible Unternehmensdaten:
+- **IT-Arbeitsplatz-Pakete:** Bildschirme, Dockingstations, Tastaturen und Netzteile jedes Mitarbeiters werden in separaten, nummerierten IT-Transportboxen verpackt und am Zielort direkt auf dem richtigen Schreibtisch platziert.
+- **Serverraum- & Rack-Transport:** Demontage von Servern, USV-Anlagen und Switches aus 19-Zoll-Racks. Der Transport erfolgt in vibrationsgedämpften Spezialfahrzeugen mit Hebebühne.
+- **DSGVO-Vertrag zur Auftragsverarbeitung (AVV):** Gemäß Art. 28 DSGVO schließen wir mit Ihnen eine formelle Vereinbarung zur Auftragsverarbeitung ab, die den Schutz von Mitarbeiter- und Kundendaten während des gesamten Transports lückenlos garantiert.
+- **Gewerbliche Rahmenverträge:** Für wachsende Unternehmen, Kanzleien und Filialisten bieten wir feste Rahmenvereinbarungen mit garantierten Konditionen und flexiblen Reaktionszeiten.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Akten- & Archivumzug](/leistungen/archivumzug/): Strukturierter Umzug von Ordnern und Archiven.

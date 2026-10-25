@@ -51,6 +51,45 @@ Verlassenschaften in Wien bergen oft wertvolle Einzelstücke, die zu schade für
 - **WhatsApp 3-Foto Schnellservice:** Senden Sie uns vorab drei Fotos der Objekte (Übersicht, Herstellersiegel/Signatur, Detail) per WhatsApp für eine schnelle Vorabeinschätzung.
 - **Diskrete Zusammenarbeit mit Notaren & Hausverwaltungen:** Wir unterstützen Erben und Verlassenschaftskuratoren bei der formalen Nachlassabwicklung und garantieren eine pünktliche, besenreine Übergabe.
 
+## Umfassende Begleitung bei Verlassenschaften in Wien
+
+Ein Todesfall bringt für Erben zahlreiche bürokratische und emotionale Herausforderungen mit sich. Sicher Team steht Ihnen als seriöser Wiener Partner zur Seite:
+- **Transparente Auktionsbewertung:** Kunstwerke, Gemälde, Silber und Schmuck schätzen wir sachkundig nach aktuellen Wiener Markt- und Auktionspreisen (z. B. Dorotheum-Standard).
+- **Zusammenarbeit mit Notaren & Verlassenschaftskuratoren:** Wir erstellen detaillierte Inventarlisten zur Vorlage beim Notar oder Bezirksgericht.
+- **100 % Diskretion & Sorgfalt:** Persönliche Dokumente, Briefe und Erinnerungsstücke werden vertraulich gesichert und den Erben übergeben.
+
+## Feingefühl & Fachkompetenz bei Nachlassräumungen in Wien
+
+- **Faire Marktbewertung:** Wir orientieren uns an anerkannten Wiener Auktionsstandards (Dorotheum).
+- **Zusammenarbeit mit Notaren:** Vollständige Inventarlisten zur Unterstützung des Verlassenschaftsverfahrens.
+- **Besenreine Übergabe:** Schlüsselfertige Rückgabe an Hausverwaltungen oder Erben.
+
+## Notarabstimmung & Wertanrechnung nach Dorotheum-Standard
+- **Anerkannte Wertermittlung:** Faire Preise für Gemälde, Schmuck, Silber und Porzellan.
+- **Vermeidung von Nachlass-Streitigkeiten:** Transparente Listen für alle Erben.
+- **Besenreine Übergabe:** Entlastung der Familie von allen Entrümpelungssorgen.
+
+## Seriöse Nachlassauflösung mit Dorotheum-orientierter Wertermittlung
+
+Verlassenschaften in Wien erfordern Vertrauen, Transparenz und Sachverstand:
+- **Faire Schätzung von Antiquitäten & Kunst:** Schätzung nach anerkannten Wiener Markt- und Auktionsstandards.
+- **Entlastung der Erben:** Wir übernehmen alle Behörden- und Hausverwaltungswege rund um die Räumung.
+- **Direkte Wertanrechnung:** Der Wert Ihres Nachlasses senkt Ihre Räumungskosten direkt auf null oder führt zu einer Barauszahlung.
+- **Besenreine Übergabe:** Schlüsselfertige Wohnungsrückgabe ohne Sorgen.
+
+## Ablauf des Verlassenschaftsverfahrens in Österreich
+
+Nach einem Todesfall leitet das zuständige Bezirksgericht das Verlassenschaftsverfahren ein und beauftragt einen Notar als Gerichtskommissär:
+- **Todesfallaufnahme:** Der Notar ermittelt das Vermögen und eventuelle Schulden des Erblassers.
+- **Inventarerrichtung:** Bei unbedingter Erbantrittserklärung oder minderjährigen Erben wird ein offizielles Schätzgutachten verlangt.
+- **Räumung nach Freigabe:** Sobald der Notar die Liegenschaft zur Räumung freigegeben hat, führt Sicher Team die besenreine Räumung und Verwertung termingerecht durch.
+
+### Diskrete Nachlassräumung mit voller Kostentransparenz
+Wir wissen um die emotionale Belastung bei der Auflösung einer Verlassenschaft. Unser Team arbeitet mit höchstem Respekt, sichert persönliche Dokumente und garantiert eine transparente Anrechnung aller verwertbaren Nachlasswerte direkt im schriftlichen Festpreisangebot.
+
+### Feingefühl & Rechtssicherheit bei Erbschaften in Wien
+Wir begleiten Sie von der ersten Nachlassbegehung bis zur finalen Wohnungsübergabe. Unsere Experten arbeiten eng mit Wiener Notaren und Hausverwaltungen zusammen, um Ihnen maximale Entlastung und Rechtssicherheit zu garantieren.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Haushaltsauflösung mit Wertanrechnung](/leistungen/haushaltsaufloesung/): Entrümpelung und Verwertung aus einer Hand.
