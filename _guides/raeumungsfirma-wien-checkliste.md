@@ -50,7 +50,7 @@ Eine erste Anfrage ist noch kein Auftrag; eine mögliche Anrechnung wird separat
 
 ## Passende Services & Ratgeber
 
-- [Entrümpelungsangebot MA 48](/ratgeber/entruempelungsangebot-wien-ma48/): Angebote vergleichen und prüfen.
+- [Selbst abgeben oder räumen lassen?](/ratgeber/ma48-vs-firma/): Angebote vergleichen und Aufwand prüfen.
 - [MA 48 vs. Entrümpelungsfirma](/ratgeber/ma48-vs-firma/): Vollservice vs. Eigenregie.
 - [Entrümpelungsfirma](/leistungen/entruempelungsfirma/): Sicher Team e.U. Qualitätsstandards.
 - [Über uns](/ueber-uns/): Unser Wiener Familienbetrieb.

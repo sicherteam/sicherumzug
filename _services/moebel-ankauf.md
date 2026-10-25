@@ -91,4 +91,4 @@ Gebrauchte Qualitätsmöbel sind bares Geld wert. Wir bewerten Ihre Möbelstück
 - [Altwaren Ankauf](/leistungen/altwaren-ankauf/): Verrechnung antiker und alter Gegenstände.
 - [Antiquitäten Ankauf](/leistungen/antiquitaeten-ankauf/): Wertanrechnung für Sammlerstücke.
 - [Haushaltsauflösung mit Wertausgleich](/leistungen/haushaltsaufloesung/): Kosten der Räumung spürbar senken.
-- [Ratgeber: Möbel verkaufen vs. Anrechnen](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Vergleich von Verkaufsoptionen.
+- [Ratgeber: Möbel selbst verkaufen oder anrechnen?](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Vergleich von Verkaufsoptionen.

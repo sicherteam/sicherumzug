@@ -35,7 +35,7 @@ Für ein einzelnes Stück passt die Anfrage [Möbeltransport](/leistungen/moebel
 ## Passende Services & Ratgeber
 
 - [Möbel vor dem Umzug abbauen](/ratgeber/moebelmontage-abbau-tipps/): Große Möbel transportfähig machen.
-- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Möbel vorab abgeben.
+- [Möbel selbst verkaufen oder anrechnen?](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Möbel vorab abgeben oder verwerten.
 - [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Spezialgut sicher befördern.
 - [Möbeltransport Service](/leistungen/moebeltransport/): Kleintransporte und Einzelmöbel.
 - [Möbel-Ankauf](/leistungen/moebel-ankauf/): Gebrauchte Möbel direkt anrechnen.

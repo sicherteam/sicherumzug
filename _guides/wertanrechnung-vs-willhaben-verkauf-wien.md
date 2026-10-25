@@ -45,7 +45,7 @@ Setzen Sie vor einer Wohnungsrückgabe einen letzten Entscheidungstermin. Falls 
 ## Passende Services & Ratgeber
 
 - [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): Vorteile der professionellen Verrechnung.
-- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Vor- und Nachteile von Online-Inseraten.
+- [Möbel Ankauf & Wertausgleich](/leistungen/moebel-ankauf/): Einzelmöbel bewerten und direkt anrechnen lassen.
 - [Aussortierte Dinge spenden](/ratgeber/verkaufen-spenden-recycling/): Spenden statt wegwerfen.
 - [Altwaren-Ankauf Service](/leistungen/altwaren-ankauf/): Direkter Ankauf durch Experten.
 - [Gratis Entrümpelung](/leistungen/gratis-entruempelung/): Räumung ohne Zuzahlung.

@@ -46,7 +46,7 @@ Ungeprüfte Gegenstände sollten als offene Position erscheinen, nicht als garan
 ## Passende Services & Ratgeber
 
 - [Wertanrechnung Guide](/ratgeber/wertanrechnung-guide/): So funktioniert die Verrechnung.
-- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Vergleich von Verkaufswegen.
+- [Möbel selbst verkaufen oder anrechnen?](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Vergleich von Verkaufswegen.
 - [Aussortierte Dinge spenden](/ratgeber/verkaufen-spenden-recycling/): Nachhaltige Verwertung.
 - [Gratis Entrümpelung Service](/leistungen/gratis-entruempelung/): Kostenlose Räumung durch Gegenwerte.
 - [Möbel-Ankauf Service](/leistungen/moebel-ankauf/): Sofortige Anrechnung im Fixpreis.

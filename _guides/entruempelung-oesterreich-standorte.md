@@ -43,7 +43,7 @@ Prüfen Sie bei mehreren Angeboten dieselben Gegenstände und Zugangsangaben. Fr
 ## Passende Services & Ratgeber
 
 - [Sperrmüll in NÖ und Burgenland](/ratgeber/sperrmuell-entsorgung-niederoesterreich-burgenland/): Regionale Bestimmungen.
-- [Entrümpelungsangebot MA 48](/ratgeber/entruempelungsangebot-wien-ma48/): Preise in Wien und den Bundesländern.
+- [Selbst abgeben oder räumen lassen?](/ratgeber/ma48-vs-firma/): Preise in Wien und den Bundesländern vergleichen.
 - [Räumung vor Sanierung](/ratgeber/entruempelung-vor-sanierung-wien/): Gewerbliche und private Räumungen.
 - [Entrümpelungsservice](/leistungen/entruempelung/): Einsatzgebiete in ganz Österreich.
 - [Bundesland Niederösterreich](/bundesland/niederoesterreich/): Räumungen von St. Pölten bis Baden.

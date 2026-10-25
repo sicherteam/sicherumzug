@@ -65,7 +65,7 @@ Die MA 48 bietet auch einen [kostenpflichtigen Entrümpelungsdienst](https://www
 ## Passende Services & Ratgeber
 
 - [MA 48 vs. Entrümpelungsfirma](/ratgeber/ma48-vs-firma/): Wann lohnt sich die Eigenanlieferung?.
-- [Entrümpelungsangebot MA 48](/ratgeber/entruempelungsangebot-wien-ma48/): Gewerbliche Abholung der Stadt.
+- [Selbst abgeben oder räumen lassen?](/ratgeber/ma48-vs-firma/): Gewerbliche Abholung und Alternativen vergleichen.
 - [Elektrogeräte entsorgen Wien](/ratgeber/elektrogeraete-entsorgen-wien/): Problemstoffe und Batterien.
 - [Entrümpelung Wien](/leistungen/entruempelung-wien/): Bequeme Abholung aus Ihrer Wohnung.
 - [Entrümpelungsfirma](/leistungen/entruempelungsfirma/): Unser Team übernimmt alle Wege.

@@ -51,6 +51,6 @@ Wer selbst verkaufen möchte, organisiert Inserat, Rückfragen und tatsächliche
 - [Gratis entrümpeln mit Wertanrechnung](/ratgeber/gratis-entruempelung-wien/): Rechnen sich Ihre Möbel?.
 - [Willhaben vs. Wertanrechnung](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Zeitaufwand gegen Sofortabzug.
 - [Bibliothek & Sammlungen auflösen](/ratgeber/bibliothek-sammlungen-aufloesen-wien/): Antiquarische Bestände anrechnen.
-- [Möbel verkaufen: Willhaben vs. Sofortankauf](/ratgeber/moebel-verkaufen-willhaben-vs-sofort-ankauf/): Bequemer Ankauf bei Abholung.
+- [Möbel selbst verkaufen oder anrechnen?](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Bequemer Ankauf und Verrechnung.
 - [Gratis Entrümpelung](/leistungen/gratis-entruempelung/): 0-Euro-Räumung bei ausreichendem Wert.
 - [Altwaren-Ankauf](/leistungen/altwaren-ankauf/): Porzellan, Uhren und Gemälde.

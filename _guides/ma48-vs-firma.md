@@ -56,7 +56,7 @@ Für wenige geeignete Gegenstände kann die [Selbstabgabe](/ratgeber/ma48-mistpl
 ## Passende Services & Ratgeber
 
 - [MA 48 Mistplatz Checkliste](/ratgeber/ma48-mistplatz-checkliste/): Mistplätze der MA 48 in Wien.
-- [Entrümpelungsangebot MA 48](/ratgeber/entruempelungsangebot-wien-ma48/): Pauschalpreise und Leistungsumfang.
+- [Sperrmüllentsorgung im Umland](/ratgeber/sperrmuell-entsorgung-niederoesterreich-burgenland/): Mistplätze und Abfuhr in NÖ & Burgenland.
 - [Räumungsangebote vergleichen](/ratgeber/raeumungsfirma-wien-checkliste/): Wichtige Punkte im Kostenvoranschlag.
 - [Entrümpelungsfirma Service](/leistungen/entruempelungsfirma/): Zertifizierter Entrümpelungsfachbetrieb.
 - [Entrümpelung Service](/leistungen/entruempelung/): Besenreine Räumung mit Übergabegarantie.
