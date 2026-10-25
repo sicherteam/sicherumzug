@@ -18,6 +18,8 @@ faqs:
   answer: Nein. Eine mögliche Anrechnung im Räumungsauftrag ist keine verbindliche
     Zuschreibung oder formale Bewertung. Klären Sie gesondert, wenn Sie ein Gutachten
     für einen anderen Zweck benötigen.
+- question: Welche Antiquitäten eignen sich für eine Wertanrechnung?
+  answer: Besonders gefragt sind Biedermeier- und Jugendstilmöbel, Wiener Porzellan (Augarten), Silberwaren (800er/925er), signierte Ölgemälde, Skulpturen und historische Uhren.
 ---
 Bei einer Räumung können geeignete, freigegebene Antiquitäten auf eine mögliche Wertanrechnung geprüft werden. Ein separater Einzelankauf, Echtheitsgutachten oder verbindlicher Gegenwert wird hier nicht zugesagt.
 
@@ -26,6 +28,14 @@ Beschreiben Sie Art, Maße, sichtbaren Zustand und vorhandene Unterlagen. Trenne
 Entscheiden Sie zuerst, was Sie behalten. Bei mehreren Beteiligten braucht es eine abgestimmte Auswahl. Für die mögliche Anrechnung sollten Gegenstände und bestätigte Summe im Räumungsangebot erkennbar sein. Wer die Prüfung übernimmt und welche Aussage sie ermöglicht, wird vor der Beauftragung geklärt. Eine formale Bewertung für andere Zwecke ist eine eigene Aufgabe.
 
 Für persönliche Auswahlfragen hilft [Verlassenschaft](/leistungen/verlassenschaft/), für die Kalkulation [Wertanrechnung](/ratgeber/wertanrechnung-guide/).
+
+## Fachkundige Wertermittlung für Antiquitäten in Wien
+
+Bei einer Haushalts- oder Nachlassauflösung bedarf der Umgang mit Kunst und Antiquitäten besonderer Sorgfalt:
+
+- **Orientierung an Wiener Auktionshäusern:** Wir orientieren uns an realistischen Handels- und Auktionswerten (z. B. Dorotheum) für Mobiliar, Kunsthandwerk und Gemälde.
+- **Verbindliche Gegenrechnung:** Keine vagen Schätzungen – der vereinbarte Gegenwert wird schwarz auf weiß im Festpreisangebot verrechnet.
+- **Sorgfältige Handhabung & Transport:** Wertvolle Einzelstücke werden von unserem geschulten Team mit Spezialpolsterung und Kantenschutz gesichert.
 
 ## Ergänzende Leistungen & Ratgeber
 

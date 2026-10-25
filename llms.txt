@@ -18,7 +18,10 @@ Fotos sind optional. Eine Anfrage ist keine Buchung. Die 3D-Szenen sind Illustra
 - **Versicherungsschutz:** Betriebshaftpflichtversicherung bei Allianz mit einer Deckungssumme bis 1.000.000 € je Schadensfall.
 - **5 % Bestpreis-Garantie:** Bei Vorlage eines vergleichbaren schriftlichen Angebots eines gewerblichen Mitbewerbers unterbietet Sicher Team den Preis um 5 %.
 - **Einsatzgebiete:** Wien (alle 23 Bezirke 1010–1230), Niederösterreich, Burgenland sowie regelmäßige Fernumzüge nach Linz, Graz, Salzburg und ganz Österreich.
-- **Halteverbotszone Wien:** Beantragung bei der MA 46 (mindestens 10 Werktage Vorlauf) inklusive Aufstellung der amtlichen Verkehrszeichen.
+- **Halteverbotszone Wien:** Beantragung bei der MA 46 (mindestens 10 Werktage Vorlauf) inklusive behördlicher Aufstellung der amtlichen Halteverbotstafeln mindestens 72 Stunden vorab.
+- **Firmenumzug & Büroumzug Wien:** Gewerblicher Wochenend-Service ohne Betriebsausfall (Freitag ab 17:00 Uhr bis Montag 08:00 Uhr einsatzbereit). Transport von Servern und IT in antistatischen Sicherheitsboxen, DSGVO-konforme Aktenvernichtung nach DIN 66399 und 1.000.000 € Allianz-Versicherungsschutz.
+- **Verlassenschaft & Wertanrechnung:** Fachkundige Wertermittlung von Antiquitäten, Alt-Wien Kunst, Gemälden und Nachlässen nach Dorotheum-Standards mit direkter 1:1 Verrechnung auf der Räumungsrechnung. Unkomplizierter WhatsApp 3-Foto Vorab-Schätzungsdienst.
+- **Umweltgerechte Entrümpelung:** Strikte Mülltrennung nach AWG 2002 und lückenlose Übergabe an behördliche Mistplätze der MA 48.
 
 ## Redaktion und ergänzende Zusammenarbeit
 - [Redaktion und Quellen]({{ '/ueber-uns/#redaktion' | absolute_url }}): Verantwortung, amtliche Quellen und Einordnung von Kostenmodellen und Illustrationen.

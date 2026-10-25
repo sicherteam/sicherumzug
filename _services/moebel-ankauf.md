@@ -34,6 +34,14 @@ Fotos können ergänzen, sind optional. Verändern Sie den Bestand nicht für ei
 
 Eine bestätigte Anrechnung und die einbezogenen Gegenstände sollten im Räumungsangebot erkennbar sein. Bereits verkaufte oder verschenkte Stücke werden vor der Durchführung gemeldet. Für eigene Verkaufsplanung hilft der [Vergleich mit Wertanrechnung](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/), für behaltene Stücke [Möbeltransport](/leistungen/moebeltransport/).
 
+## Möbel anrechnen statt entsorgen: So sparen Sie Räumungskosten
+
+Gut erhaltene Designmöbel, Vollholzschränke, Ledersofas und Markenküchen müssen nicht im Müllcontainer landen:
+
+- **Gutschrift auf das Räumungsangebot:** Verwertbare Möbelstücke reduzieren den Arbeits- und Deponieaufwand, was wir Ihnen als spürbaren Preisvorteil weitergeben.
+- **Foto-Vorabcheck:** Machen Sie Fotos von Vorderseite, Details und eventuellen Herstelleretiketten und senden Sie diese an unser Team.
+- **Fachgerechte Demontage:** Unsere Tischler demontieren die Möbelstücke sorgsam, ohne Stiegenhaus oder Böden zu beschädigen.
+
 ## Ergänzende Leistungen & Ratgeber
 
 - [Altwaren Ankauf](/leistungen/altwaren-ankauf/): Verrechnung antiker und alter Gegenstände.

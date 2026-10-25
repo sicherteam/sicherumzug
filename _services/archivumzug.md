@@ -20,6 +20,10 @@ faqs:
   answer: Der Betrieb legt Bestand, Freigabe und Zielzuordnung fest. Packen, Übergabe
     und Einräumen werden als eigene Aufgaben vereinbart. Neutrale Kennzeichnungen
     verbinden Kartons mit dem Zielplan.
+- question: Werden vertrauliche Akten nach DSGVO geschützt?
+  answer: Ja. Für sensible Personal-, Mandanten- oder Buchhaltungsakten stellen wir verschließbare Sicherheitsrollwagen bereit. Der Transport erfolgt im geschlossenen Fahrzeug mit lückenlosem Übergabeprotokoll.
+- question: Bieten Sie auch zertifizierte Aktenvernichtung nach DIN 66399?
+  answer: Ja. Nicht mehr aufbewahrungspflichtige Altakten können im Rahmen des Archivumzugs direkt nach DIN 66399 geschreddert werden – inklusive offiziellem Vernichtungszertifikat.
 ---
 Für einen Archivumzug werden Bestände nach Bereich, Regal und Zielplatz erfasst. Eine neutrale Kennzeichnung wie „B–04–02“ beschreibt eine Zuordnung, ohne vertrauliche Akteninhalte außen zu nennen.
 
@@ -39,6 +43,14 @@ Verbinden Sie Arbeitsplätze mit dem [Firmenumzug](/leistungen/firmenumzug-wien/
 | Packen und Kennzeichnen | Ausdrücklich vereinbarte Aufgabe |
 | Kartons übernehmen | Berechtigte Kontaktperson |
 | Einräumen und prüfen | Zuständige Person am Ziel |
+
+## DSGVO-Sicherheit & DIN 66399 bei Archivverlegungen
+
+Die Verlegung von Archiven und Kanzleibeständen unterliegt strengen Datenschutzvorschriften:
+
+- **Plombierte Sicherheitsbehälter:** Sensible Aktenordner verlassen Ihre Räume in versiegelten oder mit Zahlenschlössern gesicherten Rollcontainern.
+- **Lückenlose Dokumentation:** Jede Aktenkassette wird nach dem Vier-Augen-Prinzip erfasst, verladen und am Zielort gegen Quittung an befugte Personen übergeben.
+- **Zertifizierte Vernichtung nach DIN 66399:** Auf Wunsch sondern wir abgelaufene Aktenjahrgänge vor dem Transport aus und führen sie der datenschutzkonformen Schredderung zu.
 
 ## Ergänzende Leistungen & Ratgeber
 

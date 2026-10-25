@@ -19,6 +19,12 @@ faqs:
   answer: Eine offene Entscheidung ist keine Freigabe. Die zuständigen Personen müssen
     Auswahl und Berechtigung klären. Persönliche Unterlagen und ungeklärte Gegenstände
     bleiben separat erfasst.
+- question: Wie funktioniert die Wertanrechnung bei Verlassenschaften?
+  answer: Wir begutachten Antiquitäten, Gemälde, Schmuck, Silber und Designmöbel vor Ort nach Wiener Markt- und Auktionsstandards (z. B. Dorotheum-Referenzwerte). Der ermittelte Wert wird direkt 1:1 von den Räumungskosten abgezogen.
+- question: Kann ich vorab Fotos für eine Ersteinschätzung senden?
+  answer: Ja. Senden Sie uns einfach 3 aussagekräftige Fotos (Gesamtansicht, Detail/Signatur, Zustand) per WhatsApp. Wir geben Ihnen innerhalb kürzester Zeit eine unverbindliche Ersteinschätzung.
+- question: Bieten Sie besenreine Übergabe für Hausverwaltungen und Notare?
+  answer: Ja, wir räumen das Objekt vollständig leer, entfernen alte Einbauten oder Vorhangschienen und übergeben die Wohnung besenrein direkt an Notare, Vermieter oder Erben.
 ---
 Eine Nachlassräumung setzt eine abgestimmte Auswahl und Freigabe durch die zuständigen Personen voraus. Sie ersetzt kein Verlassenschaftsverfahren und kein Gutachten.
 
@@ -35,6 +41,15 @@ Im Auftrag werden ausführendes Unternehmen, Bestand, Demontagen und Abschlusszu
 - Transportierte Gegenstände mit Zieladresse erfassen.
 - Nur abgestimmte Entfernung freigeben.
 - Noch ungeklärte Positionen sichtbar ausnehmen.
+
+## Transparente Wertanrechnung nach Wiener Auktionsstandards
+
+Verlassenschaften in Wien bergen oft wertvolle Einzelstücke, die zu schade für die Entsorgung sind:
+
+- **Faire Wertermittlung (Dorotheum-Referenz):** Antiquitäten, Biedermeier- und Jugendstilmöbel, Ölgemälde, Porzellan (z. B. Augarten, Meissen), Silberbesteck und Sammlungen schätzen wir sachkundig nach realistischen Wiener Marktpreisen.
+- **1:1 Verrechnung auf der Gesamtrechnung:** Der ermittelte Sachwert wird transparent und nachvollziehbar von den Räumungskosten abgezogen. Bei werthaltigen Nachlässen ist so eine kostenneutrale oder sogar gewinnbringende Räumung möglich.
+- **WhatsApp 3-Foto Schnellservice:** Senden Sie uns vorab drei Fotos der Objekte (Übersicht, Herstellersiegel/Signatur, Detail) per WhatsApp für eine schnelle Vorabeinschätzung.
+- **Diskrete Zusammenarbeit mit Notaren & Hausverwaltungen:** Wir unterstützen Erben und Verlassenschaftskuratoren bei der formalen Nachlassabwicklung und garantieren eine pünktliche, besenreine Übergabe.
 
 ## Ergänzende Leistungen & Ratgeber
 

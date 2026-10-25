@@ -69,6 +69,8 @@ faqs:
 sources:
 - title: Offizielle Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplaetze-leistungen
+- question: Wie garantiert Sicher Team eine umweltgerechte Entsorgung?
+  answer: Wir trennen sämtlichen Müll strikt nach dem Abfallwirtschaftsgesetz (AWG 2002) und übergeben Wertstoffe, Sperrmüll und Problemstoffe ausschließlich an lizenzierte Entsorgungsfachbetriebe und MA 48 Mistplätze.
 ---
 Bei einer Entrümpelung werden die ausdrücklich freigegebenen Gegenstände aus den vereinbarten Bereichen entfernt. Soll ein Objekt vollständig leer übergeben werden, beschreiben Sie zusätzlich den Abschlusszustand und alle Nebenräume.
 
@@ -90,6 +92,14 @@ Prüfen Sie vor Beginn Bestand, Zugang, Gesamtbetrag, mögliche Anrechnung und �
 - Persönliche Ausnahmen kennzeichnen.
 - Besondere Materialien gesondert nennen.
 - Gewünschten Abschluss und Termin mitteilen.
+
+## Umweltgerechte Entsorgung nach AWG 2002 & MA 48 Nachweis
+
+Eine professionelle Entrümpelung in Wien schützt Sie vor rechtlichen Risiken und Umweltschäden:
+
+- **Strikte Mülltrennung nach AWG § 24a:** Holz, Metall, Bauschutt, Sperrmüll, Elektroaltgeräte und Problemstoffe werden bereits vor Ort penibel getrennt.
+- **Zertifizierte MA 48 Entsorgungswege:** Wir liefern sämtliche Abfälle ausschließlich an behördlich genehmigte Wiener Mistplätze und lizenzierte Entsorgungsfachbetriebe der MA 48.
+- **Schutz vor illegalen Müllablagerungen:** Mit Sicher Team erhalten Sie die Gewissheit, dass Ihr Inventar ordnungsgemäß recycelt wird – inklusive transparenter Entsorgungsbelege.
 
 ## Ergänzende Leistungen & Ratgeber
 
