@@ -2,8 +2,7 @@
 layout: guide
 title: 'Umzugsversicherung und Haftung: vor dem Umzug klären'
 seo_title: Umzugsversicherung & Haftung in Österreich | Sicher Team
-description: 'Umzug in Wien oder Österreich: Versicherung, Haftungsbedingungen und
-  eigene Polizze prüfen. Welche Fragen vorab helfen und wie Sie mögliche Schäden dokumentieren.'
+description: "Haftung und Versicherung beim Umzug in Österreich: Haftungsbedingungen prüfen, Schäden vorbeugen und Umzugsschäden richtig dokumentieren."
 date: 2026-08-25 09:45:00.000000000 +02:00
 last_modified_at: '2026-10-11'
 category: Ratgeber

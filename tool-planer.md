@@ -1,9 +1,9 @@
 ---
+article_schema: true
 layout: tool
 title: Umzugsplaner Österreich
 seo_title: Umzugsplaner Österreich | Kostenloser Zeitplan & Checkliste
-description: Umzugstermin eingeben, persönlichen Zeitplan erstellen und Aufgaben abhaken.
-  Kostenloser Umzugsplaner für Österreich mit Druckansicht und optionaler Speicherung.
+description: "Umzugstermin eingeben, persönlichen Zeitplan erstellen und Aufgaben abhaken. Kostenloser Umzugsplaner für ganz Österreich mit praktischer Checkliste."
 permalink: "/umzugsplaner/"
 tool_id: planer
 tool_script: tool-planer.js

@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: tool
 tool_id: volumen
 tool_script: tool-volumen.js

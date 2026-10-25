@@ -2,8 +2,7 @@
 layout: guide
 title: 'Erste eigene Wohnung: den Einzug vorbereiten'
 seo_title: 'Erste eigene Wohnung: den Einzug vorbereiten | Sicher Team'
-description: 'Erste Wohnung in Österreich: Möbel, Kosten, Schlüssel, Versorgung und
-  Meldung für den Einzug vorbereiten.'
+description: "Erste eigene Wohnung in Österreich: Möbel, Kostenkalkulation, Schlüsselübergabe, Ummeldung und Kaution Schritt für Schritt planen. Tipps & Tricks."
 date: '2026-10-11'
 last_modified_at: '2026-10-11'
 category: Ratgeber

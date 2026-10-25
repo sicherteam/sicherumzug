@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Dauer einer Haushaltsauflösung: den Zeitplan vorbereiten'
 seo_title: 'Dauer einer Haushaltsauflösung: den Zeitplan vorbereiten | Sicher Team'
-description: 'Welche Faktoren die Dauer einer Räumung beeinflussen: Auswahl, Volumen,
-  Zugang, Demontage und Übergabe.'
+description: "Dauer einer Haushaltsauflösung in Wien: Zeitplan von Vorbereitung über Entrümpelung bis Wohnungsübergabe verlässlich planen und einschätzen."
 date: '2024-05-19'
 category: Ratgeber
 permalink: "/ratgeber/dauer-haushaltsaufloesung-zeitplan-wien/"

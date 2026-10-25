@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 layout: service
 title: Studentenumzug in Wien
-description: 'WG-Zimmer oder kleine Wohnung übersiedeln: Möbel, Kartons und Strecke
-  gemeinsam planen.'
+description: "Günstiger Studentenumzug in Wien: WG-Zimmer oder Kleinwohnung übersiedeln. Flexible Umzugshelfer ab 29 €/Std. Möbel, Kartons und Route planen."
 kicker: Für Studenten
 permalink: "/leistungen/studentenumzug/"
 intent_primary: Umzug

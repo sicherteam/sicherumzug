@@ -1,10 +1,9 @@
 ---
+article_schema: true
 layout: tool
 title: Räumungs-Check
 seo_title: Räumung vorbereiten & Wertanrechnung prüfen | Kostenloser Check
-description: 'Wohnungsräumung oder Entrümpelung vorbereiten: Umfang, Zugang und zu
-  behaltende Stücke erfassen. Checkliste erstellen und eine mögliche Wertanrechnung
-  besprechen.'
+description: "Wohnungsräumung oder Entrümpelung vorbereiten: Umfang, Zugang und Möbel erfassen. Checkliste erstellen und Wertanrechnung unverbindlich prüfen."
 permalink: "/raeumungs-check/"
 tool_id: raeumungscheck
 tool_include: tools/raeumungscheck.html

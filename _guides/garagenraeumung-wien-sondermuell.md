@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Garage räumen: Gegenstände und besondere Stoffe erfassen'
 seo_title: 'Garage räumen: Gegenstände und besondere Stoffe erfassen | Sicher Team'
-description: 'Garagenräumung vorbereiten: Eigentum, Zugänge, größere Stücke und mögliche
-  Problemstoffe vorab klären.'
+description: "Garagenräumung in Wien vorbereiten: Autozubehör, Altreifen, Werkzeuge und Problemstoffe fachgerecht trennen und umweltgerecht entsorgen lassen."
 date: '2024-05-16'
 category: Ratgeber
 permalink: "/ratgeber/garagenraeumung-wien-sondermuell/"

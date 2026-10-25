@@ -1,10 +1,9 @@
 ---
+article_schema: true
 layout: tool
 title: 'Adressänderung: Ihre Checkliste'
 seo_title: Adressänderung Checkliste Österreich | Liste & Vorlage
-description: Wen beim Umzug informieren? Persönliche Adressänderungs-Checkliste für
-  Österreich mit Meldestellen, editierbarer Umzugsmitteilung und PDF. Kostenlos ohne
-  Anmeldung.
+description: "Adressänderung Checkliste für Österreich: Meldestellen, Behördenwege und Umzugsmitteilung mit PDF-Vorlage. Kostenlos und ohne Anmeldung."
 permalink: "/adressaenderung-checkliste/"
 tool_id: adressen
 tool_script: tool-adressen.js

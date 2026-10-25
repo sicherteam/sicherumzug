@@ -3,7 +3,7 @@ last_modified_at: '2026-10-11'
 layout: service
 title: Hausumzug in Wien & Umgebung
 seo_title: Hausumzug in Wien & Umgebung | Sicher Team
-description: Wohnräume, Keller und Nebenbereiche beim Hausumzug gemeinsam planen.
+description: "Hausumzug in Wien & Niederösterreich zum Fixpreis: Wohnräume, Dachboden, Keller und Möbelmontage sorgfältig planen. Zuverlässig und versichert."
 kicker: Privatumzug
 permalink: "/leistungen/hausumzug/"
 schema_type: Service

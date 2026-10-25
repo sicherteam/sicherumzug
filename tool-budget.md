@@ -1,10 +1,9 @@
 ---
+article_schema: true
 layout: tool
 title: Selber umziehen oder Umzugsfirma?
 seo_title: Umzug selber machen oder Umzugsfirma? Kosten vergleichen
-description: Vergleichen Sie Ihr DIY-Umzugsbudget mit einem vorhandenen Firmenangebot.
-  Mietwagen, Material, Helfer, Kaution, Zusatzkosten und eigenen Aufwand getrennt
-  betrachten.
+description: "Umzug selber machen oder Umzugsfirma beauftragen? Vergleichen Sie DIY-Kosten mit einem Firmenangebot. Transparenter Budgetrechner für Österreich."
 permalink: "/umzug-budget-vergleichen/"
 tool_id: budget
 tool_include: tools/budget.html

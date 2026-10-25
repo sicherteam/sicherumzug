@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: tools-index
 title: Umzug planen
 seo_title: 'Umzug planen: kostenlose Rechner & Checkliste | Sicher Team'

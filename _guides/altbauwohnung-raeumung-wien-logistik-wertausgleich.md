@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Altbauwohnung räumen: Stiegenhaus und Ladeweg planen'
 seo_title: 'Altbauwohnung räumen: Stiegenhaus und Ladeweg planen | Sicher Team'
-description: 'Wiener Altbau räumen: sperrige Möbel, enge Stiegen, Lift und Ladeplatz
-  vorab erfassen.'
+description: "Wiener Altbauwohnung räumen: Sperrige Möbel, enge Stiegenhäuser, Liftmaße und Ladezonen vorab erfassen. Inklusive transparenter Wertanrechnung."
 date: '2025-05-15'
 category: Kosten
 tags:

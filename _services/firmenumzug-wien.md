@@ -2,9 +2,7 @@
 layout: service
 title: 'Firmenumzug Wien: den Standortwechsel planen.'
 seo_title: Büroumzug & Firmenumzug Wien | Sicher Team
-description: 'Büro, Praxis oder Betrieb: Wir besprechen Ihren Firmenumzug in Wien,
-  Transport, Möbelmontage und die zeitliche Abstimmung. Schriftliches Angebot nach
-  Besichtigung.'
+description: "Professioneller Firmenumzug & Büroumzug in Wien zum Fixpreis: Minimale Ausfallzeiten, IT-Transport und Möbelmontage nach maßgeschneidertem Zeitplan."
 permalink: "/leistungen/firmenumzug-wien/"
 last_modified_at: '2026-10-17'
 schema_type: Service

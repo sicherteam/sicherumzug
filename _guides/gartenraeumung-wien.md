@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Garten räumen: Möbel, Gegenstände und Zugang planen'
 seo_title: 'Garten räumen: Möbel, Gegenstände und Zugang planen | Sicher Team'
-description: 'Garten und Kleingarten vorbereiten: Auswahl, Zufahrt, Ladewege und gewünschte
-  Arbeiten getrennt erfassen.'
+description: "Garten- und Kleingartenräumung in Wien: Gartenhaus, Grünschnitt, alte Zäune und Zufahrtswege erfassen. Entrümpelung mit fachgerechter Entsorgung."
 date: '2025-12-19'
 category: Entrümpelung
 tags:

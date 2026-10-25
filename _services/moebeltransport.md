@@ -3,8 +3,7 @@ last_modified_at: '2026-10-11'
 layout: service
 title: Möbeltransport in Wien
 seo_title: Möbeltransport Wien | Einzelmöbel & Kleintransporte
-description: 'Ein Sofa, ein Schrank oder mehrere Möbel: Abholung, Tragewege und Lieferung
-  gemeinsam planen.'
+description: "Möbeltransport in Wien ab 50 €: Einzelmöbel, Sofa oder Schrank sicher transportieren lassen. Abholung, Tragewege und Express-Lieferung nach Maß."
 kicker: Transport
 permalink: "/leistungen/moebeltransport/"
 intent_primary: transactional

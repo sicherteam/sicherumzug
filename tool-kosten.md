@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: tool
 title: Umzugskosten-Rechner für Ihre Übersiedlung
 seo_title: Umzugskosten-Rechner Wien & Österreich | Sicher Team

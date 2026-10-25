@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: page
 title: Kostenanfrage für Ihren Umzug vorbereiten
 seo_title: 'Umzugsangebot vorbereiten: Angaben & Checkliste | Sicher Team'

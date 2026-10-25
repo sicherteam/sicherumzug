@@ -3,8 +3,7 @@ last_modified_at: '2026-10-11'
 layout: guide
 title: 'Dachboden räumen: Auswahl, Zugang und Transportweg'
 seo_title: 'Dachboden räumen: Auswahl, Zugang und Transportweg | Sicher Team'
-description: 'Dachbodenräumung vorbereiten: persönliche Dinge, Stiegen, Zugänge und
-  besondere Gegenstände erfassen.'
+description: "Dachbodenräumung in Wien planen: Persönliche Gegenstände sichern, enge Stiegen und Tragewege prüfen sowie Wertanrechnung nutzen. Checkliste."
 date: '2025-11-05'
 category: Spezialfall
 tags:

@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Lager räumen: Bestände und Abholwege planen'
 seo_title: 'Lager räumen: Bestände und Abholwege planen | Sicher Team'
-description: 'Lager- und Hallenräumung vorbereiten: Eigentum, Inventar, Zugänge und
-  besondere Materialien klären.'
+description: "Lager- und Hallenräumung strukturiert vorbereiten: Eigentum, Inventar, Rampenzugänge und besondere Materialien erfassen. Praktische Checkliste."
 date: '2025-09-19'
 category: Gewerbe
 tags:

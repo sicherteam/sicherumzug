@@ -3,8 +3,7 @@ last_modified_at: '2026-10-11'
 layout: service
 title: Möbelmontage beim Umzug
 seo_title: Möbelmontage Wien | Demontage & Aufbau beim Umzug
-description: 'Demontage und Aufbau nach Vereinbarung: Möbel, Aufbauanleitungen und
-  gewünschte Arbeiten vorab abstimmen.'
+description: "Möbelmontage in Wien durch erfahrene Tischler: Fachgerechte Demontage und Montage von Schränken, Küchen und Betten zum transparenten Fixpreis."
 kicker: Handwerk
 intent_primary: transactional
 intent_secondary: local

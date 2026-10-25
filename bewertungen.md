@@ -4,7 +4,7 @@ sitemap: true
 layout: page
 title: Kundenstimmen & Erfahrungen
 seo_title: "Sicher Team Bewertungen & Erfahrungen ★ 5,0 Sterne"
-description: "Echte Kundenstimmen & Erfahrungen mit Sicher Team in Wien, NÖ, Burgenland & ganz Österreich. 5,0 von 5 Sternen aus über 450 Bewertungen zu Umzug, Räumung & Montage."
+description: "Echte Kundenstimmen & Erfahrungen mit Sicher Team in Wien: 5,0 von 5 Sternen aus über 450 Bewertungen zu Umzug, Räumung und Möbelmontage."
 permalink: "/bewertungen/"
 llm_summary: |2
 

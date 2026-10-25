@@ -1,8 +1,6 @@
 ---
 last_modified_at: '2026-10-11'
-description: 'Wohnung in Wien räumen lassen: Gegenstände und Nebenräume erfassen,
-  Auswahl und Freigaben klären. Schriftlichen Umfang und gewünschten Übergabezustand
-  abstimmen.'
+description: "Wohnungsauflösung in Wien zum Fixpreis: Wohnräume und Keller besenrein räumen lassen. Inklusive Wertanrechnung, Möbelabbau und Übergabegarantie."
 hero_kicker: Wien
 intent_primary: transactional
 intent_secondary: local

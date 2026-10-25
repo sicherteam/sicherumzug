@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: tool
 title: 'Umzugskarton-Rechner: Wie viele Kartons brauchen Sie?'
 seo_title: Umzugskarton-Rechner | Kartonbedarf kostenlos berechnen

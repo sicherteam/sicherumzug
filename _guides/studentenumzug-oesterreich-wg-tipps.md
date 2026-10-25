@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Studentenumzug: WG-Zimmer und Transport vorbereiten'
 seo_title: 'Studentenumzug: WG-Zimmer und Transport vorbereiten | Sicher Team'
-description: 'WG-Wechsel vorbereiten: eigene Möbel, gemeinsame Einrichtung, Ladeweg
-  und Übergabezeiten klären.'
+description: "Günstiger Studentenumzug in Österreich: Eigene Möbel, WG-Einrichtung, Ladewege und Übergabezeiten vorausschauend planen. Praktische Spartipps."
 date: '2026-02-10'
 category: Ratgeber
 tags:

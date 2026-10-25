@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Büro- und Gewerberäumung: Inventar und Zuständigkeiten'
 seo_title: 'Büro- und Gewerberäumung: Inventar und Zuständigkeiten | Sicher Team'
-description: 'Geschäftsräume räumen: Inventar, Zugänge, vertrauliche Unterlagen und
-  besondere Geräte vorab getrennt planen.'
+description: "Geschäfts- und Büroräume in Wien professionell räumen: Inventar, Zugänge, Aktenvernichtung und Geräte rechtzeitig planen. Inklusive Checkliste."
 date: '2024-07-01'
 category: Business
 tags:

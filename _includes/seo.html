@@ -13,12 +13,13 @@
 <meta name="robots" content="{{ robots | escape }}">
 <link rel="canonical" href="{{ canonical }}">
 <link rel="alternate" hreflang="de-AT" href="{{ canonical }}">
+<link rel="alternate" hreflang="x-default" href="{{ canonical }}">
 <meta property="og:locale" content="de_AT">
 <meta property="og:site_name" content="{{ site.brand_name | escape }}">
 <meta property="og:title" content="{{ seo_title | escape }}">
 <meta property="og:description" content="{{ description | escape }}">
 <meta property="og:url" content="{{ canonical }}">
-<meta property="og:type" content="{% if page.collection == 'guides' %}article{% else %}website{% endif %}">
+<meta property="og:type" content="{% if page.collection == 'guides' or page.article_schema %}article{% else %}website{% endif %}">
 <meta property="og:image" content="{{ image_url }}">
 <meta property="og:image:alt" content="{{ page.og_image_alt | default: default_image_alt | escape }}">
 <meta name="twitter:card" content="summary_large_image">
@@ -35,7 +36,7 @@
   {"@type":"Organization","@id":{{ editorial_id | jsonify }},"name":"Redaktion Sicher Team","url":{{ editorial_id | jsonify }},"parentOrganization":{"@id":{{ organization_id | jsonify }}}},
   {"@type":"WebPage","@id":{{ canonical | append: '#webpage' | jsonify }},"url":{{ canonical | jsonify }},"name":{{ seo_title | jsonify }},"description":{{ description | jsonify }},"inLanguage":"de-AT","isPartOf":{"@id":{{ '/#website' | absolute_url | jsonify }}},"about":{"@id":{{ organization_id | jsonify }}},"publisher":{"@id":{{ organization_id | jsonify }}},"author":{"@id":{{ editorial_id | jsonify }}}
    {% if page.last_modified_at %},"dateModified":{{ page.last_modified_at | date_to_xmlschema | jsonify }}{% endif %}
-   {% if page.collection == 'guides' %},"mainEntity":{"@id":{{ canonical | append: '#article' | jsonify }}}{% elsif page.layout == 'tool' %},"mainEntity":{"@id":{{ canonical | append: '#tool' | jsonify }}}{% elsif page.schema_type == 'Service' %},"mainEntity":{"@id":{{ canonical | append: '#service' | jsonify }}}{% endif %}
+   {% if page.collection == 'guides' or page.article_schema and page.layout != 'tool' %},"mainEntity":{"@id":{{ canonical | append: '#article' | jsonify }}}{% elsif page.layout == 'tool' %},"mainEntity":{"@id":{{ canonical | append: '#tool' | jsonify }}}{% elsif page.schema_type == 'Service' %},"mainEntity":{"@id":{{ canonical | append: '#service' | jsonify }}}{% endif %}
    {% if page.sources.size > 0 %},"citation":[{% for source in page.sources %}{{ source.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]{% endif %}
    {% if partner_reference or page.url == '/ueber-uns/' %},"mentions":{"@type":"Organization","@id":"https://www.ruempelraeumung.at/#organization","name":"Rümpel Räumung","url":"https://www.ruempelraeumung.at/"}{% endif %}
   }
@@ -45,8 +46,8 @@
   {% if page.schema_type == 'Service' %},
   {"@type":"Service","@id":{{ canonical | append: '#service' | jsonify }},"name":{{ page.title | jsonify }},"serviceType":{{ page.service_type | default: page.title | jsonify }},"description":{{ description | jsonify }},"url":{{ canonical | jsonify }},"provider":{"@id":{{ organization_id | jsonify }}},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"{{ page.min_price | default: '29' }}","highPrice":"{{ page.max_price | default: '2800' }}","offerCount":"1","priceValidUntil":"2026-12-31","availability":"https://schema.org/InStock"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"{{ site.local_business.review_rating | default: '4.9' }}","reviewCount":{{ site.local_business.review_count | default: 468 }},"bestRating":"5","worstRating":"1"}{% if page.collection == 'districts' %},"areaServed":{"@type":"AdministrativeArea","name":{{ page.title | replace: 'Umzug in ', '' | replace: 'Umzug ', '' | jsonify }}{% if page.postal_code %},"postalCode":{{ page.postal_code | jsonify }}{% endif %}}{% endif %},"mainEntityOfPage":{"@id":{{ canonical | append: '#webpage' | jsonify }}}}
   {% endif %}
-  {% if page.collection == 'guides' %},
-  {"@type":"Article","@id":{{ canonical | append: '#article' | jsonify }},"headline":{{ page.title | jsonify }},{% if page.editorial_image %}"image":{{ image_url | jsonify }},{% endif %}"description":{{ description | jsonify }},"datePublished":{{ page.date | date_to_xmlschema | jsonify }},"dateModified":{{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},"author":{"@id":{{ editorial_id | jsonify }}},"publisher":{"@id":{{ organization_id | jsonify }}},"isAccessibleForFree":true,{% if page.sources.size > 0 %}"citation":[{% for source in page.sources %}{{ source.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}],{% endif %}"mainEntityOfPage":{"@id":{{ canonical | append: '#webpage' | jsonify }}}}
+  {% if page.collection == 'guides' or page.article_schema %},
+  {"@type":"Article","@id":{{ canonical | append: '#article' | jsonify }},"headline":{{ page.seo_title | default: page.title | jsonify }},"image":{{ image_url | jsonify }},"description":{{ description | jsonify }},"datePublished":{{ page.date | default: page.last_modified_at | default: '2026-01-01T08:00:00+01:00' | date_to_xmlschema | jsonify }},"dateModified":{{ page.last_modified_at | default: page.date | default: '2026-10-25T12:00:00+01:00' | date_to_xmlschema | jsonify }},"author":{"@id":{{ editorial_id | jsonify }}},"publisher":{"@id":{{ organization_id | jsonify }}},"isAccessibleForFree":true{% if page.sources.size > 0 %},"citation":[{% for source in page.sources %}{{ source.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]{% endif %},"mainEntityOfPage":{"@id":{{ canonical | append: '#webpage' | jsonify }}}}
   {% endif %}
   {% assign faq_items = page.faqs %}{% if faq_items == nil and page.use_global_faqs %}{% assign faq_items = site.data.faqs %}{% endif %}
   {% if faq_items.size > 0 %},

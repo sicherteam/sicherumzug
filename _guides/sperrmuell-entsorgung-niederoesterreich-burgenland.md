@@ -2,8 +2,7 @@
 layout: guide
 title: 'Sperrmüll in NÖ und Burgenland: örtliche Bedingungen prüfen'
 seo_title: 'Sperrmüll in NÖ und Burgenland: örtliche Bedingungen prüfen'
-description: 'Gemeinde oder Abfallverband kontaktieren: Herkunft, Abfallart, Menge,
-  Annahme und Transport vorab klären.'
+description: "Sperrmüll in NÖ & Burgenland entsorgen: Wertstoffhöfe, Abfuhrtermine, Abfallverbände und Containerdienst im Vergleich. Wertvolle Spartipps."
 date: 2026-08-25 11:00:00.000000000 +02:00
 last_modified_at: '2026-10-11'
 category: Ratgeber

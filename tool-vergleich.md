@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: tool
 title: Umzugsangebote vergleichen
 seo_title: Umzugsangebote vergleichen | Kostenloser Angebotsvergleich

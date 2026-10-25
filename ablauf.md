@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: page
 title: Gut geplant. Gut angekommen.
 seo_title: 'Umzug: Ablauf, Besichtigung & Angebot | Sicher Team'

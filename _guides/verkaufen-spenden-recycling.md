@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Aussortierte Dinge weitergeben: Verkauf, Spende und Abgabe'
 seo_title: 'Aussortierte Dinge weitergeben: Verkauf, Spende und Abgabe'
-description: Vor einer Entrümpelung Zustand prüfen, Annahme bestätigen und Verkauf
-  oder Abgabe realistisch planen.
+description: "Möbel verkaufen, spenden oder entsorgen: Caritas, Second Hand und Wertanrechnung vor der Entrümpelung in Wien nutzen. Schritt-für-Schritt-Guide."
 date: '2026-02-09'
 category: Leitfaden
 tags:

@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: tool
 title: Umzugskarton-Etiketten
 seo_title: Umzugskarton Etiketten PDF | Beschriftung & Raumschilder

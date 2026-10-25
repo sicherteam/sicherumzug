@@ -1,4 +1,5 @@
 ---
+article_schema: true
 layout: guide-index
 title: Gut vorbereitet übersiedeln.
 seo_title: Umzugsratgeber Österreich | Checklisten & Vorbereitung

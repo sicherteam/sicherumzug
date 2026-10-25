@@ -3,8 +3,7 @@ last_modified_at: '2026-10-11'
 layout: service
 title: Akten- & Archivumzug
 seo_title: Akten- & Archivumzug Wien | Bestände geordnet übersiedeln
-description: Akten, Regale und Archivbestände übersiedeln. Reihenfolge, Kennzeichnung
-  und Zugänge vorab abstimmen.
+description: "Archivumzug in Wien: Sichere Akten- und Archivübersiedlung nach DSGVO. Systematische Kennzeichnung, Spezialrollwagen und vertraulicher Transport."
 kicker: Gewerbe
 permalink: "/leistungen/archivumzug/"
 intent_primary: transactional

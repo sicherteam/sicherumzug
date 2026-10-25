@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Elektrogeräte bei einer Räumung: Geräte und Wege klären'
 seo_title: 'Elektrogeräte bei einer Räumung: Geräte und Wege klären | Sicher Team'
-description: Geräte vor einer Entrümpelung erfassen, persönliche Daten sichern und
-  passende Annahmewege prüfen.
+description: "Elektrogeräte in Wien fachgerecht entsorgen: Altgeräte erfassen, persönliche Daten sicher löschen und Annahmestellen oder Abholung abstimmen."
 date: '2025-09-26'
 category: Entsorgung
 tags:

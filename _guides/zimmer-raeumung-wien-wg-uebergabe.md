@@ -2,8 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'WG-Zimmer räumen: eigenes Inventar und Übergabe'
 seo_title: 'WG-Zimmer räumen: eigenes Inventar und Übergabe | Sicher Team'
-description: Bei einer Zimmerräumung eigenes und gemeinsames Eigentum trennen, Ladeweg
-  nennen und die Übergabe abstimmen.
+description: "Zimmerräumung in Wien: Einzelne Zimmer oder WG-Räume schnell räumen. Inventar trennen, Tragewege klären und besenreine Übergabe vereinbaren."
 date: '2026-01-17'
 kicker: Zimmer Räumung
 reading_time: 6

@@ -3,8 +3,7 @@ last_modified_at: '2026-10-11'
 layout: service
 title: Klaviertransport anfragen
 seo_title: Klaviertransport Wien | Piano & Flügel vorab planen
-description: 'Klavier oder Flügel transportieren: Maße, Zugänge und besondere Anforderungen
-  vorab prüfen.'
+description: "Klaviertransport in Wien zum Fixpreis: Pianinos und Flügel sicher transportieren. Gurttechnik, Treppenschutz, Vorabbesichtigung und Versicherung."
 kicker: Spezialtransport
 permalink: "/leistungen/klaviertransport/"
 intent_primary: transactional
