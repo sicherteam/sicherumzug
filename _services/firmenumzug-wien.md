@@ -60,6 +60,13 @@ Ein erfolgreicher Firmenumzug in Wien verlangt exakte Taktung, um teure Ausfallz
 - **Allianz Haftpflichtschutz bis 1.000.000 €:** Maximale Absicherung für Ihr gesamtes Betriebsinventar sowie Schutz vor Stiegenhaus-, Boden- und Aufzugsschäden in beiden Liegenschaften.
 - **Feste Rahmenvereinbarung & persönlicher Projektleiter:** Ein fester Ansprechpartner vor Ort koordiniert alle Gewerke und stellt sicher, dass vereinbarte Zeitfenster minutiös eingehalten werden.
 
+## Praxisumzug & Ordinationsumzug in Wien: Taktung ohne Ausfallzeiten
+
+Für Ärzte, Zahnärzte, Therapeuten und Gemeinschaftspraxen in Wien erfordert ein Praxisumzug oder Ordinationsumzug höchste Sorgfalt, absolute Diskretion und termingenauen Ablauf:
+- **Transport sensibler Medizintechnik:** Ultraschallgeräte, Behandlungsstühle, Zentrifugen und Labormobiliar werden erschütterungsfrei gepolstert und hydraulisch gesichert transportiert.
+- **DSGVO-konformer Archivtransport:** Patientenakten, vertrauliche Karteien und digitale Datenträger überführen wir in verplombten Sicherheitsbehältern nach DIN 66399.
+- **Wochenend-Übersiedlung:** Wir verlegen Ihre Ordination bevorzugt von Freitagnachmittag bis Sonntagabend, sodass Ihr regulärer Ordinationsbetrieb am Montagmorgen ohne Patientenausfallzeiten weiterläuft.
+
 ## Detaillierte Phasen eines B2B-Standortwechsels in Wien
 
 1. **Projektierung & Phasenplan:** Unser B2B-Projektleiter erstellt gemeinsam mit Ihrer Geschäftsleitung oder Ihrem Facility Manager ein detailliertes Leistungsverzeichnis mit Farb- und Nummernleitsystem für Arbeitsplätze, Abteilungen und Serverräume.
