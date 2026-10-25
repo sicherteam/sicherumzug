@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Eisenstadt mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Eisenstadt mit Sicher Team: Möbeltransport, Verpackung und
+  Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-eisenstadt/"
+permalink: /leistungen/umzug-eisenstadt/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Eisenstadt | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Eisenstadt | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: burgenland
 title: Umzug in Eisenstadt
@@ -16,7 +17,10 @@ sources:
   url: https://www.eisenstadt.gv.at/buergerservice/oeffnungszeiten/
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Eisenstadt?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Bleiben die Sammelstellenzeiten im Winter gleich?
   answer: Die Stadt nennt für Freitag und Samstag im Zeitraum Oktober bis März 13
     bis 16 Uhr, im Sommerhalbjahr 13 bis 18 Uhr. Prüfen Sie außerdem aktuelle Schließtage
@@ -24,6 +28,7 @@ faqs:
 - question: Kann Einrichtung aus zwei Wohnungen gemeinsam übersiedelt werden?
   answer: Führen Sie beide Abholadressen mit Bestand, Kontakt und Zugang auf. Reihenfolge,
     Fahrten und zusätzliche Arbeiten müssen für den konkreten Auftrag bestätigt werden.
+postal_code: '7000'
 ---
 Sicher Team übernimmt Ihren Umzug in Eisenstadt und den Transport zwischen Eisenstadt und Wien. Wir helfen beim Einpacken, tragen Ihre Einrichtung und bauen die beauftragten Möbel am Ziel wieder auf. Nach der kostenlosen Besichtigung erhalten Sie den vereinbarten Umfang als schriftliches Fixpreisangebot.
 

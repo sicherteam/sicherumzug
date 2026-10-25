@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Oberpullendorf mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Oberpullendorf mit Sicher Team: Möbeltransport, Verpackung
+  und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-oberpullendorf/"
+permalink: /leistungen/umzug-oberpullendorf/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Oberpullendorf | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Oberpullendorf | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: burgenland
 title: Umzug in Oberpullendorf
@@ -16,7 +17,10 @@ sources:
   url: https://www.oberpullendorf.gv.at/buergerservice/muellentsorgung/
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Oberpullendorf?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Kann ich Sperrmüll an jedem Samstag abgeben?
   answer: Die Gemeinde nennt den ersten Samstag im Monat sowie freitags jeweils 8
     bis 12 Uhr. Prüfen Sie den konkreten Termin und eventuelle Schließtage vor einer
@@ -25,6 +29,7 @@ faqs:
   answer: Die veröffentlichte Information beschränkt das Angebot auf die Oberpullendorfer
     Bevölkerung. Für andere Gemeinden sind deren zuständige Stellen und Bedingungen
     maßgeblich.
+postal_code: '7350'
 ---
 Wir übernehmen Ihren Umzug in Oberpullendorf und planen Transport, Verpackung und Möbelmontage mit Ihnen. Sie können selbst vorbereiten oder mehr Aufgaben an unser Team abgeben. Nach der kostenlosen Besichtigung halten wir die gewünschten Arbeiten und den Gesamtpreis im schriftlichen Fixpreisangebot fest.
 

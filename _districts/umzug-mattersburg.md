@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Mattersburg mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Mattersburg mit Sicher Team: Möbeltransport, Verpackung und
+  Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-mattersburg/"
+permalink: /leistungen/umzug-mattersburg/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Mattersburg | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Mattersburg | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: burgenland
 title: Umzug in Mattersburg
@@ -16,7 +17,10 @@ sources:
   url: https://mattersburg.gv.at/de/projekte-einrichtungen/deponie-sammelstellen/
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Mattersburg?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Ist die frühere Sammelstelle noch die richtige Orientierung?
   answer: Die Stadt nennt seit Jänner 2026 den Ressourcenpark als neue Sammelstelle.
     Grünschnitt und Erdaushub werden gesondert geführt. Prüfen Sie deshalb die aktuelle
@@ -25,6 +29,7 @@ faqs:
   answer: Nein. Die Stadt unterscheidet kostenlose haushaltsübliche Wertstoff- beziehungsweise
     Sperrmüllmengen und entgeltpflichtige Arten wie Reifen, Rest- und biogene Abfälle.
     Menge und Annahme bleiben zusätzlich zu prüfen.
+postal_code: '7210'
 ---
 Wir übernehmen Ihren Umzug in Mattersburg: Möbel tragen, Kartons transportieren und die gewünschte Verpackung und Montage erledigen. Sie wählen die Unterstützung, die zu Ihrem Haushalt passt. Nach der kostenlosen Besichtigung erhalten Sie ein schriftliches Fixpreisangebot.
 

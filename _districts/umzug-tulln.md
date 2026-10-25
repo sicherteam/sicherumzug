@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Tulln mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Tulln mit Sicher Team: Möbeltransport, Verpackung und Montage.
+  Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-tulln/"
+permalink: /leistungen/umzug-tulln/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Tulln | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Tulln | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: niederoesterreich
 title: Umzug in Tulln
@@ -16,7 +17,10 @@ sources:
   url: https://www.tulln.at/rathaus-buergerservice/staedtische-einrichtungen/abfallsammelzentrum
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Tulln?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Welches Sammelzentrum nennt Tulln für Neuaigen, Mollersdorf und Trübensee?
   answer: Die Stadt verweist für diese Katastralgemeinden auf das WSZ Absdorf. Prüfen
     Sie zusätzlich die aktuellen Bedingungen für Ihr Material und Ihre Berechtigung.
@@ -24,6 +28,7 @@ faqs:
   answer: Die veröffentlichte Änderung zur eCard steht im Abschnitt Grünschnittplatz.
     Für Möbel gelten die dafür vorgesehenen Annahmebedingungen; aus der Kartenänderung
     folgt keine allgemeine Möbelannahme.
+postal_code: '3430'
 ---
 Wir bringen Ihre Einrichtung nach, aus oder innerhalb von Tulln an die neue Adresse. Ob Wohnung, Haus oder zusätzliche Abholung: Sicher Team plant Transport, Verpackung und Möbelmontage mit Ihnen. Grundlage ist die kostenlose Besichtigung mit anschließendem schriftlichem Fixpreisangebot.
 

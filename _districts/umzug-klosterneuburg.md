@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Klosterneuburg mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Klosterneuburg mit Sicher Team: Möbeltransport, Verpackung
+  und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-klosterneuburg/"
+permalink: /leistungen/umzug-klosterneuburg/
 redirect_from: []
 region_type: Stadtgemeinde
 schema_type: Service
-seo_title: "Umzug Klosterneuburg | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Klosterneuburg | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: niederoesterreich
 title: Umzug in Klosterneuburg
@@ -16,7 +17,10 @@ sources:
   url: https://www.klosterneuburg.at/Recyclinghof_4
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Klosterneuburg?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Kann ich mit dem zusätzlichen Poldicard-Zugang Möbel abgeben?
   answer: Der zusätzliche Zugang betrifft Grün-, Baum- und Strauchschnitt beziehungsweise
     die dafür genannten Außenmaterialien. Für Möbel prüfen Sie die regulären Annahmebedingungen
@@ -25,6 +29,7 @@ faqs:
   answer: Nennen Sie beides, aber als getrennte Materialgruppen. Für die Einrichtung
     kann Transport vorgesehen sein, während Schnittgut einen anderen bestätigten Abgabeweg
     benötigt.
+postal_code: '3400'
 ---
 Sicher Team übernimmt Ihren Umzug in Klosterneuburg und zwischen Klosterneuburg und Wien. Vom einzelnen Möbel bis zum Hausstand planen wir Transport, Packhilfe und Montage aus einer Hand. Sie erhalten nach der kostenlosen Besichtigung ein schriftliches Fixpreisangebot.
 

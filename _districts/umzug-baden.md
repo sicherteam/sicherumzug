@@ -1,15 +1,16 @@
 ---
 last_modified_at: '2026-10-17'
 title: Umzug in Baden
-seo_title: "Umzug Baden | Transport & Fixpreis | Sicher Team"
-description: "Umzug in Baden mit Sicher Team: Transport, Verpackung und Möbelmontage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+seo_title: Umzug Baden | Transport & Fixpreis | Sicher Team
+description: 'Umzug in Baden mit Sicher Team: Transport, Verpackung und Möbelmontage.
+  Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
 service_type: Umzug
 state: niederoesterreich
-permalink: "/leistungen/umzug-baden/"
+permalink: /leistungen/umzug-baden/
 enquiry_service: umzug
 sources:
 - title: 'Stadt Baden: Verkehrsmaßnahmen beantragen'
@@ -18,13 +19,19 @@ sources:
   url: https://www.baden.at/Unsere_Stadt/Umwelt/Muellentsorgung/Bauhof_-_Altstoffsammelzentrum
 faqs:
 - question: Wie plane ich ein Halteverbot für meinen Umzug in Baden?
-  answer: Die Stadt Baden nennt für Gemeindestraßen die Stadtgemeinde und für Landesstraßen die Bezirkshauptmannschaft als Verkehrsbehörde. Für ein zeitweiliges Halteverbot ist ein Ansuchen erforderlich. Wir besprechen mit Ihnen, ob eine öffentliche Ladefläche benötigt wird und wer den Antrag sowie die Beschilderung übernimmt.
+  answer: Die Stadt Baden nennt für Gemeindestraßen die Stadtgemeinde und für Landesstraßen
+    die Bezirkshauptmannschaft als Verkehrsbehörde. Für ein zeitweiliges Halteverbot
+    ist ein Ansuchen erforderlich. Wir besprechen mit Ihnen, ob eine öffentliche Ladefläche
+    benötigt wird und wer den Antrag sowie die Beschilderung übernimmt.
 - question: Kann eine ganze Hausräumung zum Badener ASZ gebracht werden?
   answer: Die Stadt schließt Wohnungs- und Hausräumungen aus. Für einen solchen Auftrag
     muss der Abgabeweg gesondert vereinbart werden; die Baden Card macht daraus keine
     normale Haushaltsabgabe.
 - question: Sind Verpackung und Montage automatisch im Umzug enthalten?
-  answer: Wir übernehmen Verpackung, Demontage und Montage nach Ihrem Bedarf. Diese Arbeiten stehen mit Ihrem Transport im schriftlichen Fixpreisangebot. Zusätzliche Wünsche besprechen wir vor der Ausführung mit Ihnen.
+  answer: Wir übernehmen Verpackung, Demontage und Montage nach Ihrem Bedarf. Diese
+    Arbeiten stehen mit Ihrem Transport im schriftlichen Fixpreisangebot. Zusätzliche
+    Wünsche besprechen wir vor der Ausführung mit Ihnen.
+postal_code: '2500'
 ---
 ## Ihren Umzug in Baden vorbereiten
 

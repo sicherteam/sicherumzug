@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Korneuburg mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Korneuburg mit Sicher Team: Möbeltransport, Verpackung und
+  Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-korneuburg/"
+permalink: /leistungen/umzug-korneuburg/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Korneuburg | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Korneuburg | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: niederoesterreich
 title: Umzug in Korneuburg
@@ -16,7 +17,10 @@ sources:
   url: https://korneuburg.gv.at/Altstoffsammelzentrum_ASZ_1
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Korneuburg?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Sind 200 Kilogramm Sperrmüll bei jeder Fahrt kostenlos?
   answer: Die Stadt nennt 200 Kilogramm pro Haushalt und Jahr. Die Menge gilt deshalb
     nicht neu bei jedem Besuch; darüber hinaus fallen Übernahmeentgelte an.
@@ -24,6 +28,7 @@ faqs:
   answer: Bürger- und Firmenkarten werden getrennt geführt. Lassen Sie Berechtigung
     und Abgabeweg für den tatsächlichen Anlieferer bestätigen, statt eine private
     Karte als allgemeine Auftragserlaubnis zu behandeln.
+postal_code: '2100'
 ---
 Wir transportieren Ihre Möbel und Kartons innerhalb von Korneuburg oder an Ihre neue Adresse außerhalb der Stadt. Verpackung, Demontage und Montage übernehmen wir passend zu Ihrem Vorhaben. Nach der kostenlosen Besichtigung steht der vereinbarte Umfang mit Gesamtpreis in unserem Fixpreisangebot.
 

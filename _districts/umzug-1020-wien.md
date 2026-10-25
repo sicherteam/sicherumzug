@@ -4,7 +4,7 @@ description: 'Umzug in 1020 Wien: richtige Stiege, Hofweg, Lift und große Möbe
   Verpackung, Zerlegung und Aufbau konkret mitanfragen.'
 footer_title: Umzug & Übersiedlung 1020 (Leopoldstadt)
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-1020-wien/"
+permalink: /leistungen/umzug-1020-wien/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
@@ -25,6 +25,9 @@ faqs:
   answer: Das hängt von der Vereinbarung ab. Sie können Abbau und Wiederaufbau anfragen
     oder eigene Vorbereitung angeben. Das Angebot sollte beide Aufgaben ausdrücklich
     zuordnen.
+postal_code: '1020'
+district_name: Leopoldstadt
+district_number: 2
 ---
 ## Übersiedlung in 1020 Wien planen
 
@@ -62,6 +65,16 @@ Bei selbst gepackten Kartons sollten Sie besonders häufig benötigte Dinge geso
 ### Was im Angebot stehen sollte
 
 Prüfen Sie, ob Wohnung, Keller und zusätzliche Stiegenwege tatsächlich berücksichtigt sind. Lassen Sie festhalten, wer ausführt und ob Tragen, Verpacken, Abbau und Aufbau eingeschlossen sind. Änderungen am Bestand oder eine inzwischen anders nutzbare Eingangstür gehören vor der Ausführung in die Abstimmung. Über [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) können Sie die Informationen sammeln; anschließend lässt sich der konkrete Umfang anfragen.
+
+## Lokale Besonderheiten & Halteverbot in 1020 Wien (Leopoldstadt)
+
+Ein Umzug in **1020 Wien (Leopoldstadt)** erfordert genaue Kenntnis der örtlichen Gegebenheiten. Unser Team ist regelmäßig im gesamten Bezirk unterwegs – von zentralen Knotenpunkten wie **Praterstern, Taborstraße, Karmelitermarkt, Augarten, Vorgartenstraße, Donaukanal und Heinestraße** bis hin zu ruhigen Wohnsiedlungen.
+
+### Wichtige Faktoren für Ihren 1020 Umzug:
+- **Behördliches Halteverbot (MA 46):** Gemäß Wiener Straßenverkehrsordnung (StVO § 62) beantragen wir auf Wunsch Ihre Halteverbotszone bei der MA 46 und stellen die behördlichen Halteverbotstafeln mindestens 72 Stunden vorab auf, um einen freien Stellplatz direkt vor Ihrer Haustür zu sichern.
+- **Architektur & Stiegenhaus:** Hier treffen klassische Gründerzeithäuser im Karmeliterviertel auf moderne Neubauten im Nordbahnviertel. Bei Altbauten ohne Lift ist die Trageweg-Distanz vom Straßenrand entscheidend. Auf verkehrsreichen Achsen (Taborstraße, Praterstraße) müssen Straßenbahn- und Busspuren für den Lkw-Stellplatz zwingend freigehalten werden.
+- **Wiener Hausordnung & Hofruhe:** Bei Innenhofzufahrten achten wir penibel auf Tordurchfahrtshöhen, Bodenschutz und die Einhaltung der gesetzlichen Ruhezeiten (12:00–14:00 Uhr sowie ab 20:00 Uhr).
+- **Kurzparkzone:** Da in ganz 1020 Wien flächendeckend die Wiener Kurzparkzone gilt, spart eine reservierte Ladezone wertvolle Zeit und schützt vor empfindlichen Strafzetteln.
 
 ## Regionale Einsatzgebiete & Nachbarbezirke
 

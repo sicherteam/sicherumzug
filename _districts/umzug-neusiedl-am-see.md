@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Neusiedl am See mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Neusiedl am See mit Sicher Team: Möbeltransport, Verpackung
+  und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-neusiedl-am-see/"
+permalink: /leistungen/umzug-neusiedl-am-see/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Neusiedl am See | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Neusiedl am See | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: burgenland
 title: Umzug in Neusiedl am See
@@ -16,7 +17,10 @@ sources:
   url: https://www.neusiedlamsee.at/stadtgemeinde/gemeindeeinrichtungen/
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Neusiedl am See?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Ist die komplette Dachbodenräumung eine kostenlose Haushaltsabgabe?
   answer: Die Stadt führt größere Mengen wie vollständige Keller- oder Dachbodenräumungen
     als kostenpflichtig. Klären Sie Material und Menge vorab und lassen Sie einen
@@ -25,6 +29,7 @@ faqs:
   answer: Die örtliche Information nennt Sperrmüll und Holz als zerlegt. Für Ihren
     Bestand klären Sie die Vorbereitung mit der Annahmestelle. Beauftragte Demontage
     muss im Räumungs- oder Umzugsangebot ausdrücklich enthalten sein.
+postal_code: '7100'
 ---
 Sicher Team transportiert Ihre Einrichtung in Neusiedl am See oder an Ihre neue Adresse außerhalb der Stadt. Packhilfe, Möbelabbau und Aufbau ergänzen den Transport nach Ihrem Bedarf. Die kostenlose Besichtigung bildet die Grundlage für unser schriftliches Fixpreisangebot.
 

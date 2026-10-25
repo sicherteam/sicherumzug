@@ -10,7 +10,7 @@ state: wien
 region_type: Bezirk
 schema_type: Service
 service_type: Umzug
-permalink: "/leistungen/umzug-1170-wien/"
+permalink: /leistungen/umzug-1170-wien/
 redirect_from: []
 enquiry_service: umzug
 sources:
@@ -24,6 +24,9 @@ faqs:
 - question: Ist eine zusätzliche Weitergabeadresse möglich?
   answer: Sie können sie anfragen. Nennen Sie Empfänger, Stücke, Zugang und Übergabefenster.
     Der Stopp und sein Umfang müssen im Angebot ausdrücklich bestätigt werden.
+postal_code: '1170'
+district_name: Hernals
+district_number: 17
 ---
 ## Übersiedlung in 1170 Wien mit Kellerbestand
 
@@ -63,6 +66,16 @@ Wenn Sie selbst sortieren, kennzeichnen Sie die Kategorien so, dass die Auswahl 
 Ein Angebot für ausgewählte Möbel ist anders als eine vollständige Kellerräumung. Prüfen Sie, ob Transport und Räumungsarbeiten gesondert beschrieben sind und welcher Abgabeweg für aussortiertes Material vorgesehen ist. Private kommunale Annahmebedingungen bestätigen nicht automatisch eine gewerbliche Anlieferung. Lassen Sie den Ausführenden und die vereinbarten Aufgaben erkennen.
 
 Über [Angebot anfragen](/angebot/) können Sie beide Bereiche gemeinsam beschreiben. Ein Keller gehört nur in dem Umfang zur Durchführung, der tatsächlich geprüft und bestätigt wurde; unbekannter Restbestand sollte nicht erst bei der Abholung sichtbar werden.
+
+## Lokale Besonderheiten & Halteverbot in 1170 Wien (Hernals)
+
+Ein Umzug in **1170 Wien (Hernals)** erfordert genaue Kenntnis der örtlichen Gegebenheiten. Unser Team ist regelmäßig im gesamten Bezirk unterwegs – von zentralen Knotenpunkten wie **Hernalser Hauptstraße, Elterleinplatz, Dornbach, Alszeile, Neuwaldegg und Schumanngasse** bis hin zu ruhigen Wohnsiedlungen.
+
+### Wichtige Faktoren für Ihren 1170 Umzug:
+- **Behördliches Halteverbot (MA 46):** Gemäß Wiener Straßenverkehrsordnung (StVO § 62) beantragen wir auf Wunsch Ihre Halteverbotszone bei der MA 46 und stellen die behördlichen Halteverbotstafeln mindestens 72 Stunden vorab auf, um einen freien Stellplatz direkt vor Ihrer Haustür zu sichern.
+- **Architektur & Stiegenhaus:** Typischer Wiener Vorstadtcharme mit engen Gründerzeitstraßen stadteinwärts und Villenbebauung in Dornbach und Neuwaldegg. Die Straßenbahnlinie 43 entlang der Hauptstraße erfordert diszipliniertes Ladezonen-Management.
+- **Wiener Hausordnung & Hofruhe:** Bei Innenhofzufahrten achten wir penibel auf Tordurchfahrtshöhen, Bodenschutz und die Einhaltung der gesetzlichen Ruhezeiten (12:00–14:00 Uhr sowie ab 20:00 Uhr).
+- **Kurzparkzone:** Da in ganz 1170 Wien flächendeckend die Wiener Kurzparkzone gilt, spart eine reservierte Ladezone wertvolle Zeit und schützt vor empfindlichen Strafzetteln.
 
 ## Regionale Einsatzgebiete & Nachbarbezirke
 

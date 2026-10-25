@@ -1,22 +1,25 @@
 ---
 last_modified_at: '2026-10-17'
 title: Umzug in St. Pölten
-seo_title: "Umzug St. Pölten | Transport & Fixpreis | Sicher Team"
-description: "Umzug in St. Pölten mit Sicher Team: Transport, Verpackung und Möbelmontage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+seo_title: Umzug St. Pölten | Transport & Fixpreis | Sicher Team
+description: 'Umzug in St. Pölten mit Sicher Team: Transport, Verpackung und Möbelmontage.
+  Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
 service_type: Umzug
 state: niederoesterreich
-permalink: "/leistungen/umzug-st-poelten/"
+permalink: /leistungen/umzug-st-poelten/
 enquiry_service: umzug
 sources:
 - title: 'St. Pölten: Wertstoffsammelzentren'
   url: https://www.st-poelten.at/gv-buergerservice/bauen-und-wohnen/muell-und-abfall/wertstoffsammlung/wertstoffsammelzentren
 faqs:
 - question: Kann ich den Umzug in St. Pölten mit Verpackung und Möbelmontage beauftragen?
-  answer: Ja. Wir planen Transport, Einpackhilfe und den Abbau und Aufbau Ihrer Möbel gemeinsam. Nach der kostenlosen Besichtigung halten wir die gewünschten Arbeiten im schriftlichen Fixpreisangebot fest.
+  answer: Ja. Wir planen Transport, Einpackhilfe und den Abbau und Aufbau Ihrer Möbel
+    gemeinsam. Nach der kostenlosen Besichtigung halten wir die gewünschten Arbeiten
+    im schriftlichen Fixpreisangebot fest.
 - question: Gilt ein Fahrzeug ohne Kennzeichen P automatisch als ausgeschlossen?
   answer: 'Die Stadt nennt zusätzliche dokumentbasierte Fälle: Seit Juni 2026 reichen
     bei Zweitwohnsitz oder dauerhaftem Firmenauto gültiger Meldezettel und Lichtbildausweis.
@@ -25,6 +28,7 @@ faqs:
   answer: Diese Information betrifft die Stadt St. Pölten. Bei einer anderen Gemeinde
     müssen Zuständigkeit, Haushaltsberechtigung und Annahmebedingungen dort geprüft
     werden.
+postal_code: '3100'
 ---
 ## Umzug in St. Pölten mit beiden Adressen planen
 

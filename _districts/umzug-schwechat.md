@@ -1,12 +1,13 @@
 ---
 last_modified_at: '2026-10-17'
-description: "Umzug in Schwechat mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+description: 'Umzug in Schwechat mit Sicher Team: Möbeltransport, Verpackung und Montage.
+  Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
-permalink: "/leistungen/umzug-schwechat/"
+permalink: /leistungen/umzug-schwechat/
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
-seo_title: "Umzug Schwechat | Transport & Fixpreis | Sicher Team"
+seo_title: Umzug Schwechat | Transport & Fixpreis | Sicher Team
 service_type: Umzug
 state: niederoesterreich
 title: Umzug in Schwechat
@@ -18,7 +19,10 @@ sources:
   url: https://www.schwechat.gv.at/Abfallsammelzentrum_Schwechat_4
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Schwechat?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Sind alle Schwechater Sammelzentren gleich zu nutzen?
   answer: Die Stadt führt mehrere Standorte. Prüfen Sie für den gewählten Standort
     aktuelle Zeiten, Berechtigung und Annahmebedingungen. Die bloße Nennung einer
@@ -28,6 +32,7 @@ faqs:
   answer: Beschreiben Sie Bestand, Freigabe und Zugangszeit separat. Der zusätzliche
     Stopp und die gewünschten Arbeiten müssen für Ihren Auftrag ausdrücklich bestätigt
     werden.
+postal_code: '2320'
 ---
 Sicher Team übernimmt Ihren Wohnungs- oder Firmenumzug in Schwechat. Wir transportieren Ihre Einrichtung und unterstützen Sie beim Verpacken und bei der Möbelmontage. Auch zusätzliche Abholadressen können wir in den Ablauf aufnehmen. Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot.
 

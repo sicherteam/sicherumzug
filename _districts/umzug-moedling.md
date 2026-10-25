@@ -1,22 +1,26 @@
 ---
 last_modified_at: '2026-10-17'
 title: Umzug in Mödling
-seo_title: "Umzug Mödling | Transport & Fixpreis | Sicher Team"
-description: "Umzug in Mödling mit Sicher Team: Möbeltransport, Verpackung und Montage. Kostenlose Besichtigung und schriftliches Fixpreisangebot."
+seo_title: Umzug Mödling | Transport & Fixpreis | Sicher Team
+description: 'Umzug in Mödling mit Sicher Team: Möbeltransport, Verpackung und Montage.
+  Kostenlose Besichtigung und schriftliches Fixpreisangebot.'
 kicker: Umzug & Übersiedlung
 redirect_from: []
 region_type: Bezirk
 schema_type: Service
 service_type: Umzug
 state: niederoesterreich
-permalink: "/leistungen/umzug-moedling/"
+permalink: /leistungen/umzug-moedling/
 enquiry_service: umzug
 sources:
 - title: 'Mödling: Müllentsorgung'
   url: https://www.moedling.at/Stadt/Service/Muellentsorgung
 faqs:
 - question: Welche Hilfe übernimmt Sicher Team bei meinem Umzug in Mödling?
-  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser Team damit beauftragen.
+  answer: Wir übernehmen Möbeltransport, Tragearbeit und die gewünschte Verpackung
+    und Montage. Bei der kostenlosen Besichtigung stimmen wir Ihren Umfang ab und
+    erstellen ein schriftliches Fixpreisangebot. Sie können selbst packen oder unser
+    Team damit beauftragen.
 - question: Gilt die kostenlose Sperrmüllabholung für jeden Ort im Bezirk Mödling?
   answer: Das hier genannte Angebot stammt von der Stadt Mödling und gilt für Mödlinger
     Haushalte. Für eine andere Gemeinde prüfen Sie deren zuständige Abfallstelle.
@@ -24,6 +28,7 @@ faqs:
   answer: Melden Sie den Restbestand vorab. Transport oder Räumung dieser Stücke muss
     zusätzlich bestätigt werden; eine geplante Abholung ersetzt keine tatsächlich
     erledigte Übergabe.
+postal_code: '2340'
 ---
 Wir bringen Ihre Einrichtung in Mödling ins neue Zuhause und übernehmen auf Wunsch das Packen, den Möbelabbau und den Aufbau am Ziel. Sie entscheiden, welche Arbeiten Sie selbst erledigen möchten. Wir planen den übrigen Umzug und erstellen nach der kostenlosen Besichtigung Ihr schriftliches Fixpreisangebot.
 
