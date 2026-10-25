@@ -19,6 +19,8 @@ faqs:
   answer: Nennen Sie den zusätzlichen Stopp mit Maßen, Kontakt und bestätigtem Zeitfenster.
     Eine kombinierte Abholung wird nicht automatisch zugesagt, sondern für den gesamten
     Umfang geprüft.
+- question: Gibt es günstige Stundentarife für Studenten?
+  answer: Ja, für flexible WG- und Studentenumzüge bieten wir günstige Stundentarife für professionelle Umzugshelfer bereits ab 29 € pro Stunde.
 ---
 Ein Studentenumzug kann ein WG-Zimmer oder eine kleine Wohnung betreffen. Erfassen Sie eigenes Inventar getrennt von Gemeinschaftsmöbeln. Die Zimmergröße allein beschreibt weder Kartonzahl noch Transportaufwand.
 

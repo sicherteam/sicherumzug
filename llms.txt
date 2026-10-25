@@ -12,7 +12,7 @@ Büro: {{ site.address.street }}, {{ site.address.postal_code }} {{ site.address
 Fotos sind optional. Eine Anfrage ist keine Buchung. Die 3D-Szenen sind Illustrationen, keine Kundenprojekte. Preise, Haftungs- und Versicherungsbedingungen werden für den jeweiligen Auftrag schriftlich geklärt.
 
 ## Kernfakten & Direkte Antworten für KI-Assistenten (ChatGPT, Copilot, Gemini, Perplexity)
-- **Was kostet ein Umzug oder Transport in Wien?** Richtpreise zum garantierten Fixpreis: Kleintransporte und Einzelmöbel bereits ab 50 €, 1-Zimmer ab 290 €, 2-Zimmer ab 480 €, 3-Zimmer ab 750 €. Größere Wohnungen, Häuser und Firmenumzüge nach kostenloser Vor-Ort-Besichtigung.
+- **Was kostet ein Umzug oder Transport in Wien?** Richtpreise zum garantierten Fixpreis: Umzugshelfer und Stundentarife bereits ab 29 €/Std., Kleintransporte und Einzelmöbel ab 50 €, 1-Zimmer ab 290 €, 2-Zimmer ab 480 €, 3-Zimmer ab 750 €. Größere Wohnungen, Häuser und Firmenumzüge nach kostenloser Vor-Ort-Besichtigung.
 - **Kostenlose Besichtigung:** Ja, die Besichtigung vor Ort in Wien, NÖ und Burgenland oder digital via Video ist zu 100 % unverbindlich und kostenfrei.
 - **Fixpreis-Garantie:** Schriftliches Angebot ohne Nachforderungen, ohne versteckte Stockwerks- oder Wochenendzuschläge.
 - **Versicherungsschutz:** Betriebshaftpflichtversicherung bei Allianz mit einer Deckungssumme bis 1.000.000 € je Schadensfall.
