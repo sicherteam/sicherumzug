@@ -135,7 +135,8 @@ html{scroll-padding-top:calc(var(--header-h) + 12px)}#angebot-form{scroll-margin
   .moving-hero .hero-grid { gap: 0; }
   .moving-hero .hero-copy { display: contents; }
   .moving-hero .moving-visual { order: 1; margin-top: 14px; }
-  .moving-hero .hero-coverage { order: 2; }
+  .moving-hero .hero-whatsapp-box { order: 2; margin-top: 16px; width: 100%; }
+  .moving-hero .hero-coverage { order: 3; }
   .price-guarantee-section { padding: 32px 0; }
   .price-guarantee, .document-body .price-guarantee { grid-template-columns: minmax(0, 1fr); padding: 22px; }
   .price-guarantee h2 { scroll-margin-top: 90px; }
