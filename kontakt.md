@@ -17,7 +17,7 @@ Wählen Sie den für Sie bequemsten Weg, um mit unserer Zentrale in Kontakt zu t
 | 📞 **Telefon** | Täglich 06:00 – 23:00 Uhr persönlich besetzt | [{{ site.phone }}](tel:{{ site.phone | remove: ' ' }}) |
 | 💬 **WhatsApp** | Fotos senden & schnelle Kosteneinschätzung | [Per WhatsApp schreiben]({{ site.whatsapp }}) |
 | ✉️ **E-Mail** | Anfragen, Pläne & Ausschreibungen | [{{ site.email }}](mailto:{{ site.email }}) |
-| 🏢 **Büroadresse** | Wildgartenallee 1, 1120 Wien | [In Google Maps öffnen](https://maps.google.com/?q=Sicher+Team+Wildgartenallee+1+1120+Wien) |
+| 🏢 **Büroadresse** | Wildgartenallee 1, 1120 Wien | [In Google Maps öffnen](https://maps.google.com/?cid=15087415959940148043) |
 
 ---
 
@@ -26,7 +26,7 @@ Wählen Sie den für Sie bequemsten Weg, um mit unserer Zentrale in Kontakt zu t
 Unser zentraler Standort im 12. Wiener Gemeindebezirk (Meidling) ermöglicht kurze Anfahrtswege in alle 23 Wiener Bezirke sowie rasche Verbindungen in das Wiener Umland und die Nachbarbundesländer Niederösterreich und Burgenland.
 
 <div class="map-wrapper" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;margin:28px 0;border:1px solid var(--line, #e2e8f0);box-shadow:0 4px 16px rgba(11,28,69,0.06);">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2661.428612501064!2d16.309211!3d48.1633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476da81234567890%3A0x123456789abcdef!2sWildgartenallee%201%2C%201120%20Wien!5e0!3m2!1sde!2sat!4v1700000000000!5m2!1sde!2sat" width="100%" height="100%" style="position:absolute;top:0;left:0;border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Sicher Team Standort Wildgartenallee 1, 1120 Wien"></iframe>
+  <iframe src="https://maps.google.com/maps?q=Sicherteam+Umzug+%26+R%C3%A4umung+Wildgartenallee+1+1120+Wien&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed" width="100%" height="100%" style="position:absolute;top:0;left:0;border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Sicherteam Umzug &amp; Räumung Wildgartenallee 1, 1120 Wien"></iframe>
 </div>
 
 ---

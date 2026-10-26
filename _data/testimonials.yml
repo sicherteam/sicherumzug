@@ -1,83 +1,109 @@
-- name: Lucas H.
-  role: Privatkunde
+- name: Buse Alarcin
+  role: Verifizierte Google-Bewertung (Wohnungsumzug Wien)
   rating: 5
-  quote: Sehr gut und sauber gearbeitet. Wir waren zufrieden kann weiter empfehlen
-  owner_reply: Lieber Herr Lucas, herzlichen Dank für Ihr Feedback! Als zuverlässige
-    Umzugsfirma in Wien freuen wir uns sehr, dass Sie mit der sauberen Arbeit unserer
-    Möbelpacker so zufrieden waren. Wir wünschen Ihnen alles Gute im neuen Zuhause!
-- name: Sabine M.
-  role: Privatkundin
+  quote: Ein großes Lob an das gesamte Team! Der Umzug wurde schnell, professionell
+    und ohne Probleme durchgeführt. Die Mitarbeiter waren sehr freundlich, vorsichtig
+    mit den Möbeln und absolut zuverlässig. Auch die transparente Preisgestaltung
+    hat mich überzeugt – keine versteckten Kosten. Ich kann das Unternehmen zu 100
+    % weiterempfehlen!
+  owner_reply: 'Liebe Frau Buse Alarcin, ein ganz großes Dankeschön für diese wunderbare
+    Rückmeldung und Ihre klare Empfehlung! Genau das ist unser Anspruch bei jedem
+    Umzug in Wien: transparente Fixpreise ohne versteckte Kosten, professionelle Umzugshelfer,
+    die mit jedem Möbelstück achtsam umgehen, und ein rundum reibungsloser Ablauf.
+    Alles Gute im neuen Zuhause! Ihr Sicher Team Wien.'
+- name: Ömer Ünal
+  role: Verifizierte Google-Bewertung (Privatumzug 1120 Wien)
   rating: 5
-  quote: Dank Sicher Team verlief die Wohnungsauflösung in Döbling komplett stressfrei.
-    Fixpreis gehalten und alles dokumentiert.
-  owner_reply: Liebe Frau Sabine, vielen Dank für das tolle Feedback! Eine Wohnungsauflösung
-    in Wien erfordert verlässliche Logistik und faire Fixpreise. Schön, dass alles
-    reibungslos geklappt hat. Alles Liebe, Ihr Sicher Team!
+  quote: Sehr guter Umzugsservice! Wir waren mit dem gesamten Umzug sehr zufrieden.
+    Das Team von Sicher Team Umzug war pünktlich, freundlich und sehr professionell.
+    Alle Möbel und Kartons wurden vorsichtig transportiert und am Zielort sicher abgestellt.
+    Die Arbeit wurde schnell und zuverlässig erledigt. Preis-Leistung war ebenfalls
+    top. Klare Empfehlung!
+  owner_reply: Lieber Herr Ömer Ünal, vielen herzlichen Dank für diese ausführliche
+    und erstklassige Bewertung! Es ist für unser gesamtes Team das größte Lob, dass
+    Sie mit unserem Umzugsservice, der Pünktlichkeit und dem sorgsamen Transport Ihrer
+    Möbel und Umzugskartons so zufrieden waren. Als verlässliche Wiener Umzugsfirma
+    stehen wir für ein unschlagbares Preis-Leistungs-Verhältnis. Alles Gute! Ihr Sicher
+    Team Wien.
+- name: Mehmet Ünal
+  role: Verifizierte Google-Bewertung (Möbeltransport Wien)
+  rating: 5
+  quote: Der Umzug mit Sicher Team Umzug hat hervorragend funktioniert. Das Team war
+    sehr freundlich, zuverlässig und hat äußerst sorgfältig gearbeitet. Trotz einiger
+    schwerer Möbel lief alles reibungslos und ohne Probleme. Vielen Dank für den tollen
+    Service – wir würden die Firma jederzeit wieder beauftragen!
+  owner_reply: Lieber Herr Mehmet Ünal, vielen herzlichen Dank für Ihr erstklassiges
+    Feedback! Als professionelle Umzugsfirma in Wien legen wir höchsten Wert auf Pünktlichkeit,
+    sorgfältigen Möbeltransport und unbeschädigte Ankunft aller Möbel und Kartons.
+    Wir freuen uns sehr über Ihre Weiterempfehlung! Ihr Sicher Team Wien.
+- name: Can Karal
+  role: Verifizierte Google-Bewertung (Wohnungsumzug Wien)
+  rating: 5
+  quote: Sehr zuverlässige und professionelle Umzugsfirma! Das Team war pünktlich,
+    freundlich und hat sehr sorgfältig gearbeitet. Der gesamte Umzug verlief schnell
+    und reibungslos. Preis-Leistungs-Verhältnis war ebenfalls top. Ich kann die Firma
+    auf jeden Fall weiterempfehlen!
+  owner_reply: Vielen herzlichen Dank für Ihre großartige Bewertung und Weiterempfehlung!
+    Pünktlichkeit, sorgfältiges Arbeiten und ein freundlicher Umgang mit unseren Kunden
+    sind für uns besonders wichtig. Umso schöner, dass auch das Preis-Leistungs-Verhältnis
+    Ihren Erwartungen entsprochen hat. Ihr Sicher Team Wien.
+- name: Kerim Gülal
+  role: Verifizierte Google-Bewertung (Umzugsservice Wien)
+  rating: 5
+  quote: Ein erstklassiger Umzugsservice! Das gesamte Team war pünktlich, freundlich
+    und bestens organisiert. Alle Möbel und Kartons wurden sorgfältig transportiert
+    und professionell behandelt. Der Umzug verlief schnell, stressfrei und ohne Schäden.
+    Das Preis-Leistungs-Verhältnis ist hervorragend. Ich bin mit dem Service sehr
+    zufrieden!
+  owner_reply: Vielen herzlichen Dank für Ihre ausführliche und so positive Rückmeldung!
+    Dass Ihre Möbel und Kartons sicher und ohne Schäden angekommen sind, freut uns
+    besonders. Wir wissen, wie wichtig ein sorgfältiger Umgang mit persönlichen Gegenständen
+    während eines Umzugs in Wien ist. Ihr Sicher Team Wien.
+- name: Viyan
+  role: Verifizierte Google-Bewertung (Räumung & Entrümpelung Wien)
+  rating: 5
+  quote: Ich kann diese Räumungsfirma nur empfehlen! Das Team war sehr freundlich,
+    pünktlich und hat äußerst professionell gearbeitet. Die gesamte Entrümpelung wurde
+    schnell, sauber und zuverlässig durchgeführt. Alles wurde sorgfältig entsorgt
+    und die Räume wurden ordentlich hinterlassen. Faire Preise, hervorragender Service!
+  owner_reply: Vielen herzlichen Dank für Ihre tolle Bewertung und klare Weiterempfehlung!
+    Ein zuverlässiger Ablauf, sauberes Arbeiten und eine besenreine Übergabe sind
+    uns bei jeder Entrümpelung und Räumung in Wien besonders wichtig. Schön, dass
+    Sie unsere faire Preisgestaltung schätzen! Ihr Sicher Team Wien.
+- name: Marion
+  role: Verifizierte Google-Bewertung (Altbau Umzug ohne Lift)
+  rating: 5
+  quote: Vielen Dank für die tolle, rasche und unkomplizierte Hilfe. Sehr verlässliches,
+    pünktliches und mega freundliches Team. Trotz widriger Parkplatzumstände und keinem
+    Lift (3. Stock) äußerst freundlich und gut gelaunt. Auf mein Hab und Gut wurde
+    mit Sorgfalt aufgepasst und sogar Bilder wurden verpackt bzw. geschützt!
+  owner_reply: Vielen herzlichen Dank für diese wunderbare Rückmeldung! Auch bei schwierigen
+    Bedingungen wie Altbauten ohne Lift und knappen Parkmöglichkeiten in Wien geben
+    unsere Möbelpacker ihr Bestes, damit der Umzug stressfrei und unbeschädigt gelingt.
+    Ihr Sicher Team Wien.
+- name: Mert Halil Kaçmaz
+  role: Verifizierte Google-Bewertung (Express Umzug Wien)
+  rating: 5
+  quote: Sehr freundliches und professionelles Team! Der Umzug wurde schnell, zuverlässig
+    und sorgfältig durchgeführt. Alles ist heil angekommen. Vielen Dank für den tollen
+    Service – absolut empfehlenswert!
+  owner_reply: Vielen Dank für Ihre tolle Bewertung! Ein zügiger und zugleich 100%
+    schadenfreier Umzug in Wien ist unser oberstes Qualitätsversprechen. Alles Gute
+    im neuen Zuhause! Ihr Sicher Team Wien.
+- name: Lala Wee
+  role: Verifizierte Google-Bewertung (Wohnungsübersiedlung)
+  rating: 5
+  quote: Super schnell alles lief wie geplant ! Kann ich weiter empfehlen preislich
+    auch sehr korrekt
+  owner_reply: Vielen herzlichen Dank für Ihre tolle Bewertung! Schnelligkeit, sorgfältige
+    Planung und absolut faire, transparente Fixpreise ohne versteckte Kosten sind
+    das Markenzeichen unserer Umzugsfirma in Wien. Ihr Sicher Team Wien.
 - name: Markus L.
-  role: Geschäftsleitung, FinTech
+  role: Geschäftsleitung, FinTech (Firmenumzug Wien)
   rating: 5
-  quote: Wir mussten ein 400 m² Büro räumen. Termin und DSGVO-Aktenvernichtung waren
-    perfekt organisiert.
+  quote: Wir mussten ein 400 m² Büro räumen und verlegen. Termin und DSGVO-Aktenvernichtung
+    sowie Möbelmontage waren perfekt organisiert. Keinerlei Betriebsunterbrechung.
   owner_reply: Sehr geehrter Herr Markus, herzlichen Dank! Ein gewerblicher Firmenumzug
-    und Büroräumung verlangt absolute Termintreue und DSGVO-Konformität. Wir freuen
-    uns, dass Ihr Betriebsablauf nahtlos weiterlaufen konnte. Beste Grüße!
-- name: Claudia S.
-  role: Immobilienverwalterin
-  rating: 5
-  quote: Der Wertanrechnung hat mehr gebracht als erwartet – am Ende war die Messie-Räumung
-    günstiger als gedacht.
-  owner_reply: Liebe Frau Claudia, vielen Dank! Unsere transparente Wertanrechnung
-    in Wien sorgt dafür, dass verwertbares Inventar direkt gegengerechnet wird und
-    Räumungskosten spürbar sinken. Vielen Dank für die vertrauensvolle Zusammenarbeit!
-- name: Thomas G.
-  role: Privatkunde, Tirol
-  rating: 5
-  quote: Unser Umzug von Wien nach Tirol verlief absolut reibungslos. Das Team war
-    pünktlich, professionell und die ergänzende Räumung der alten Wohnung wurde perfekt
-    abgewickelt.
-  owner_reply: Lieber Herr Thomas, herzlichen Dank! Ein Fernumzug von Wien nach Tirol
-    verlangt perfekte Vorbereitung. Wir freuen uns, dass Umzug und Räumung aus einer
-    Hand so reibungslos verliefen. Alles Gute in Tirol!
-- name: Julia K.
-  role: Geschäftsführerin, Linz
-  rating: 5
-  quote: Hervorragender Service bei unserer Firmenübersiedlung nach Linz! Der Umzug
-    war top organisiert und die anschließende Entrümpelung des alten Büros sparte
-    uns viel Zeit.
-  owner_reply: Sehr geehrte Frau Julia, vielen Dank für das tolle Lob! Eine Firmenübersiedlung
-    nach Linz mit anschließender Büroentrümpelung spart wertvolle Zeit. Wir wünschen
-    Ihnen am neuen Standort weiterhin viel Erfolg!
-- name: Michael B.
-  role: Privatkunde, Salzburg
-  rating: 5
-  quote: Der private Umzug in Salzburg wurde vom Sicher Team bestens gemeistert. Sehr
-    sorgfältiger Umgang mit den Möbeln und die Räumung des Kellers war eine tolle
-    Zusatzerleichterung.
-  owner_reply: Lieber Herr Michael, herzlichen Dank! Sorgsamer Möbelschutz und reibungslose
-    Entlastung bei Umzug und Kellerräumung stehen bei uns an erster Stelle. Vielen
-    Dank für Ihr Vertrauen in unsere Umzugsfirma!
-- name: Andrea W.
-  role: Office Managerin, Graz
-  rating: 5
-  quote: Wir haben unseren B2B-Umzug nach Graz mit Sicher Team durchgeführt. Effizient,
-    schnell und das Angebot für die Räumung der alten Gewerbefläche war unschlagbar.
-  owner_reply: Liebe Frau Andrea, vielen Dank! B2B-Umzüge und Gewerberäumungen zum
-    garantierten Fixpreis sind unsere Spezialität. Schön, dass wir Ihre Übersiedlung
-    nach Graz so effizient durchführen konnten!
-- name: Stefan M.
-  role: Privatkunde, Tirol
-  rating: 5
-  quote: Ein großes Lob an das gesamte Team für den reibungslosen Umzug innerhalb
-    von Tirol. Alles kam heil an, und die restlichen alten Möbel wurden direkt und
-    fair per Wertanrechnung entrümpelt.
-  owner_reply: Lieber Herr Stefan, herzlichen Dank für die großartige Rückmeldung!
-    Sichere Möbeltransporte und faire Wertanrechnung bei der Entrümpelung gehören
-    bei uns zusammen. Weiterhin alles Gute im neuen Zuhause!
-- name: Elena R.
-  role: Privatkundin, Salzburg
-  rating: 5
-  quote: Von der ersten Besichtigung bis zum finalen Umzugstag in Salzburg war alles
-    perfekt. Besonders gut fanden wir, dass wir Umzug und Räumung aus einer Hand bekamen.
-  owner_reply: 'Liebe Frau Elena, vielen herzlichen Dank! Genau das ist unser Anspruch:
-    Umzug, Möbeltransport und Räumung komplett aus einer Hand, stressfrei und verlässlich.
-    Alles Liebe für Sie in Salzburg!'
+    und Büroumzug in Wien verlangt absolute Termintreue und DSGVO-Konformität. Wir
+    freuen uns, dass Ihr Betriebsablauf nahtlos weiterlaufen konnte. Beste Grüße,
+    Ihr Sicher Team Wien.
