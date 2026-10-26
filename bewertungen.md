@@ -29,6 +29,12 @@ redirect_from:
   <div class="customer-review-stars"><span aria-hidden="true">★★★★★</span><span class="sr-only">{{ testimonial.rating | default: 5 }} von 5 Sternen</span></div>
   <blockquote><p>„{{ testimonial.quote | escape }}“</p></blockquote>
   <figcaption><strong>{{ testimonial.name | escape }}</strong><span>{{ testimonial.role | escape }}</span></figcaption>
+  {% if testimonial.owner_reply %}
+  <div class="owner-reply" style="margin-top: 18px; padding-top: 14px; border-top: 1px dashed var(--line); font-size: 14px; line-height: 1.55;">
+    <strong style="display: block; font-size: 13px; color: var(--ink); margin-bottom: 6px;">Antwort von Sicher Team:</strong>
+    <p style="margin: 0; color: var(--muted); font-size: 13.5px;">{{ testimonial.owner_reply | escape }}</p>
+  </div>
+  {% endif %}
 </figure>
 {% endfor %}
 </div>

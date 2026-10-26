@@ -1,40 +1,83 @@
-- quote: "Sehr gut und sauber gearbeitet. Wir waren zufrieden kann weiter empfehlen"
-  name: Lucas H.
+- name: Lucas H.
   role: Privatkunde
   rating: 5
-- quote: "Dank Sicher Team verlief die Wohnungsauflösung in Döbling komplett stressfrei. Fixpreis gehalten und alles dokumentiert."
-  name: Sabine M.
+  quote: Sehr gut und sauber gearbeitet. Wir waren zufrieden kann weiter empfehlen
+  owner_reply: Lieber Herr Lucas, herzlichen Dank für Ihr Feedback! Als zuverlässige
+    Umzugsfirma in Wien freuen wir uns sehr, dass Sie mit der sauberen Arbeit unserer
+    Möbelpacker so zufrieden waren. Wir wünschen Ihnen alles Gute im neuen Zuhause!
+- name: Sabine M.
   role: Privatkundin
   rating: 5
-- quote: "Wir mussten ein 400 m² Büro räumen. Termin und DSGVO-Aktenvernichtung waren perfekt organisiert."
-  name: Markus L.
+  quote: Dank Sicher Team verlief die Wohnungsauflösung in Döbling komplett stressfrei.
+    Fixpreis gehalten und alles dokumentiert.
+  owner_reply: Liebe Frau Sabine, vielen Dank für das tolle Feedback! Eine Wohnungsauflösung
+    in Wien erfordert verlässliche Logistik und faire Fixpreise. Schön, dass alles
+    reibungslos geklappt hat. Alles Liebe, Ihr Sicher Team!
+- name: Markus L.
   role: Geschäftsleitung, FinTech
   rating: 5
-- quote: "Der Wertanrechnung hat mehr gebracht als erwartet – am Ende war die Messie-Räumung günstiger als gedacht."
-  name: Claudia S.
+  quote: Wir mussten ein 400 m² Büro räumen. Termin und DSGVO-Aktenvernichtung waren
+    perfekt organisiert.
+  owner_reply: Sehr geehrter Herr Markus, herzlichen Dank! Ein gewerblicher Firmenumzug
+    und Büroräumung verlangt absolute Termintreue und DSGVO-Konformität. Wir freuen
+    uns, dass Ihr Betriebsablauf nahtlos weiterlaufen konnte. Beste Grüße!
+- name: Claudia S.
   role: Immobilienverwalterin
   rating: 5
-- quote: "Unser Umzug von Wien nach Tirol verlief absolut reibungslos. Das Team war pünktlich, professionell und die ergänzende Räumung der alten Wohnung wurde perfekt abgewickelt."
-  name: Thomas G.
+  quote: Der Wertanrechnung hat mehr gebracht als erwartet – am Ende war die Messie-Räumung
+    günstiger als gedacht.
+  owner_reply: Liebe Frau Claudia, vielen Dank! Unsere transparente Wertanrechnung
+    in Wien sorgt dafür, dass verwertbares Inventar direkt gegengerechnet wird und
+    Räumungskosten spürbar sinken. Vielen Dank für die vertrauensvolle Zusammenarbeit!
+- name: Thomas G.
   role: Privatkunde, Tirol
   rating: 5
-- quote: "Hervorragender Service bei unserer Firmenübersiedlung nach Linz! Der Umzug war top organisiert und die anschließende Entrümpelung des alten Büros sparte uns viel Zeit."
-  name: Julia K.
+  quote: Unser Umzug von Wien nach Tirol verlief absolut reibungslos. Das Team war
+    pünktlich, professionell und die ergänzende Räumung der alten Wohnung wurde perfekt
+    abgewickelt.
+  owner_reply: Lieber Herr Thomas, herzlichen Dank! Ein Fernumzug von Wien nach Tirol
+    verlangt perfekte Vorbereitung. Wir freuen uns, dass Umzug und Räumung aus einer
+    Hand so reibungslos verliefen. Alles Gute in Tirol!
+- name: Julia K.
   role: Geschäftsführerin, Linz
   rating: 5
-- quote: "Der private Umzug in Salzburg wurde vom Sicher Team bestens gemeistert. Sehr sorgfältiger Umgang mit den Möbeln und die Räumung des Kellers war eine tolle Zusatzerleichterung."
-  name: Michael B.
+  quote: Hervorragender Service bei unserer Firmenübersiedlung nach Linz! Der Umzug
+    war top organisiert und die anschließende Entrümpelung des alten Büros sparte
+    uns viel Zeit.
+  owner_reply: Sehr geehrte Frau Julia, vielen Dank für das tolle Lob! Eine Firmenübersiedlung
+    nach Linz mit anschließender Büroentrümpelung spart wertvolle Zeit. Wir wünschen
+    Ihnen am neuen Standort weiterhin viel Erfolg!
+- name: Michael B.
   role: Privatkunde, Salzburg
   rating: 5
-- quote: "Wir haben unseren B2B-Umzug nach Graz mit Sicher Team durchgeführt. Effizient, schnell und das Angebot für die Räumung der alten Gewerbefläche war unschlagbar."
-  name: Andrea W.
+  quote: Der private Umzug in Salzburg wurde vom Sicher Team bestens gemeistert. Sehr
+    sorgfältiger Umgang mit den Möbeln und die Räumung des Kellers war eine tolle
+    Zusatzerleichterung.
+  owner_reply: Lieber Herr Michael, herzlichen Dank! Sorgsamer Möbelschutz und reibungslose
+    Entlastung bei Umzug und Kellerräumung stehen bei uns an erster Stelle. Vielen
+    Dank für Ihr Vertrauen in unsere Umzugsfirma!
+- name: Andrea W.
   role: Office Managerin, Graz
   rating: 5
-- quote: "Ein großes Lob an das gesamte Team für den reibungslosen Umzug innerhalb von Tirol. Alles kam heil an, und die restlichen alten Möbel wurden direkt und fair per Wertanrechnung entrümpelt."
-  name: Stefan M.
+  quote: Wir haben unseren B2B-Umzug nach Graz mit Sicher Team durchgeführt. Effizient,
+    schnell und das Angebot für die Räumung der alten Gewerbefläche war unschlagbar.
+  owner_reply: Liebe Frau Andrea, vielen Dank! B2B-Umzüge und Gewerberäumungen zum
+    garantierten Fixpreis sind unsere Spezialität. Schön, dass wir Ihre Übersiedlung
+    nach Graz so effizient durchführen konnten!
+- name: Stefan M.
   role: Privatkunde, Tirol
   rating: 5
-- quote: "Von der ersten Besichtigung bis zum finalen Umzugstag in Salzburg war alles perfekt. Besonders gut fanden wir, dass wir Umzug und Räumung aus einer Hand bekamen."
-  name: Elena R.
+  quote: Ein großes Lob an das gesamte Team für den reibungslosen Umzug innerhalb
+    von Tirol. Alles kam heil an, und die restlichen alten Möbel wurden direkt und
+    fair per Wertanrechnung entrümpelt.
+  owner_reply: Lieber Herr Stefan, herzlichen Dank für die großartige Rückmeldung!
+    Sichere Möbeltransporte und faire Wertanrechnung bei der Entrümpelung gehören
+    bei uns zusammen. Weiterhin alles Gute im neuen Zuhause!
+- name: Elena R.
   role: Privatkundin, Salzburg
   rating: 5
+  quote: Von der ersten Besichtigung bis zum finalen Umzugstag in Salzburg war alles
+    perfekt. Besonders gut fanden wir, dass wir Umzug und Räumung aus einer Hand bekamen.
+  owner_reply: 'Liebe Frau Elena, vielen herzlichen Dank! Genau das ist unser Anspruch:
+    Umzug, Möbeltransport und Räumung komplett aus einer Hand, stressfrei und verlässlich.
+    Alles Liebe für Sie in Salzburg!'
