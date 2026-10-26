@@ -10,7 +10,7 @@ layout: default
       <div class="hero-actions"><a class="button" href="{{ '/angebot/?service=umzug&from=%2F#angebot-form' | relative_url }}">Umzug anfragen {% include ui-icon.html %}</a><a class="button button-outline" href="tel:{{ site.phone | remove: ' ' }}">{% include ui-icon.html name='phone' %}Jetzt anrufen</a></div>
       {% include price-guarantee.html variant='hero' %}
       <div class="hero-whatsapp-box" role="region" aria-label="WhatsApp Schnellschätzung">
-        <a href="{{ site.whatsapp }}" class="hero-whatsapp-badge" aria-label="WhatsApp 3-Foto Schnellschätzung">
+        <a href="{{ site.whatsapp }}" class="hero-whatsapp-badge">
           <span class="whatsapp-icon-wrap">{% include ui-icon.html name='whatsapp' %}</span>
           <span class="whatsapp-content">
             <span class="whatsapp-title">WhatsApp Foto-Schnellservice</span>
