@@ -20,7 +20,7 @@ faqs:
   answer: Besprechen Sie Haftungs- und Versicherungsbedingungen vor der Beauftragung
     schriftlich. Klären Sie Umfang, Ausschlüsse, besondere Werte und die Dokumentation
     möglicher Schäden.
-- question: Transportieren Sie auch besonders schwere Gegenstände wie Klaviere oder
+- question: Transportieren Sie auch besonders schwere Gegenstände wie
     Tresore?
   answer: Halten Sie den gewünschten Leistungsumfang im Angebot fest. Besondere Gegenstände,
     zusätzliche Arbeiten und das Zeitfenster werden vor der Beauftragung persönlich

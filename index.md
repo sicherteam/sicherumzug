@@ -204,14 +204,9 @@ Wien ist mit über 200.000 Studierenden die größte Universitätsstadt im deuts
 
 ---
 
-## Spezialtransporte in Wien: Klaviertransport, Tresortransport & Kunst
+## Spezialtransporte in Wien: Tresortransport & Kunst
 
 Manche Einrichtungsgegenstände verlangen weit mehr als gewöhnliche Muskelkraft. Sie erfordern physikalisches Fachwissen, Hebeltechnik und professionelle Spezialausrüstung:
-
-### Klaviertransport Wien: Flügel & Klaviere sicher über Wiener Stiegen
-Ein akustisches Klavier oder ein Flügel wiegt zwischen 200 und 450 Kilogramm. Bei Altbauten im 4. Stock ohne Aufzug ist ein solcher [Klaviertransport](/leistungen/klaviertransport/) absolute Maßarbeit:
-- **Spezielle Klaviergurte & Schlitten:** Unsere Klavierträger nutzen genormte Klaviergurte und Spezial-Gleitschlitten, die das enorme Gewicht gleichmäßig auf die Träger verteilen und historische Treppenstufen schonen.
-- **Mehrlagige Schutzpolsterung:** Dick gepolsterte Pianodecken und Kantenschützer schützen empfindliche Schellack- und Hochglanzoberflächen vor kleinsten Kratzern.
 
 ### Tresor- & Schwerlasttransporte bis 500 kg
 Ob gepanzerte Dokumentensafes, Waffenschränke oder schwere Labor- und Werkstattgeräte: Mit elektrischen Treppensteigern und hydraulischen Hubgeräten transportiert unser [Spezialtransport-Team](/leistungen/spezialtransporte/) und [Tresortransport-Team](/leistungen/tresortransport/) Schwergut sicher und erschütterungsfrei über jedes Stiegenhaus.

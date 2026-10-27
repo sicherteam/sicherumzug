@@ -37,6 +37,6 @@ Bewahren Sie Vereinbarung, Zustandsbilder und relevante Verpackung auf, bis das 
 
 - [Umzugsfirma vergleichen](/ratgeber/umzugsfirma-vergleichen/): Versicherungspolizze prüfen.
 - [Möbelpacker vs. DIY Umzug](/ratgeber/moebelpacker-vs-diy-umzug/): Haftungsunterschiede im Vergleich.
-- [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Versicherungsschutz bei Kunst & Klavier.
+- [Tresortransport vorbereiten](/ratgeber/tresortransport-schwerlast-oesterreich/): Versicherungsschutz bei Schwergut & Kunst.
 - [Über uns](/ueber-uns/): Allianz Betriebshaftpflicht bis 1 Mio. €.
 - [Kundenbewertungen](/bewertungen/): Erfahrungen unserer Kunden.

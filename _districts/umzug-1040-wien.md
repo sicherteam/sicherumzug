@@ -74,7 +74,7 @@ Ein Umzug in **1040 Wien (Wieden)** erfordert genaue Kenntnis der örtlichen Geg
 
 ### Wichtige Faktoren für Ihren 1040 Umzug:
 - **Behördliches Halteverbot (MA 46):** Gemäß Wiener Straßenverkehrsordnung (StVO § 62) beantragen wir auf Wunsch Ihre Halteverbotszone bei der MA 46 und stellen die behördlichen Halteverbotstafeln mindestens 72 Stunden vorab auf, um einen freien Stellplatz direkt vor Ihrer Haustür zu sichern.
-- **Architektur & Stiegenhaus:** Dichte Gründerzeit-Bebauung mit Raumhöhen bis zu 3,80 m und oft schmalen Stiegenhäusern ohne Lift. Sperrige Möbelstücke, Klaviere und massive Schränke transportieren wir im 4. Bezirk häufig schonend über Fassaden-Möbellifte direkt durch hof- oder straßenseitige Fenster.
+- **Architektur & Stiegenhaus:** Dichte Gründerzeit-Bebauung mit Raumhöhen bis zu 3,80 m und oft schmalen Stiegenhäusern ohne Lift. Sperrige Möbelstücke, Tresore und massive Schränke transportieren wir im 4. Bezirk häufig schonend über Fassaden-Möbellifte direkt durch hof- oder straßenseitige Fenster.
 - **Wiener Hausordnung & Hofruhe:** Bei Innenhofzufahrten achten wir penibel auf Tordurchfahrtshöhen, Bodenschutz und die Einhaltung der gesetzlichen Ruhezeiten (12:00–14:00 Uhr sowie ab 20:00 Uhr).
 - **Kurzparkzone:** Da in ganz 1040 Wien flächendeckend die Wiener Kurzparkzone gilt, spart eine reservierte Ladezone wertvolle Zeit und schützt vor empfindlichen Strafzetteln.
 

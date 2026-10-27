@@ -3,7 +3,7 @@ last_modified_at: '2026-10-11'
 title: Umzug in 1190 Wien (Döbling)
 footer_title: Umzug & Übersiedlung 1190 (Döbling)
 seo_title: Umzug 1190 Wien (Döbling) | Sicher Team
-description: 'Umzug in 1190 Wien: Klavier, Tresor und empfindliche Einzelstücke früh
+description: 'Umzug in 1190 Wien: Tresor, Massivholzmöbel und empfindliche Einzelstücke früh
   prüfen lassen. Haushaltsbestand, Zugang und Spezialanforderungen trennen.'
 kicker: Umzug & Übersiedlung
 state: wien
@@ -17,8 +17,8 @@ sources:
 - title: 'Stadt Wien: kurzfristige Halteverbotszone'
   url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
 faqs:
-- question: Kann ich ein Klavier gemeinsam mit dem Haushalt anfragen?
-  answer: Ja. Führen Sie das Instrument als eigene Position mit vorhandenen Daten
+- question: Kann ich einen Tresor gemeinsam mit dem Haushalt anfragen?
+  answer: Ja. Führen Sie das Schwergut als eigene Position mit vorhandenen Daten
     und vollständigem Zugang auf. Seine Beförderung muss ausdrücklich geprüft und
     im Angebot bestätigt werden.
 - question: Was gilt, wenn das Gewicht nicht bekannt ist?
@@ -31,11 +31,11 @@ district_number: 19
 ---
 ## Umzug in 1190 Wien mit besonders schweren Stücken
 
-Sicher Team nimmt Anfragen für Haushaltsübersiedlungen und Möbeltransporte in Döbling auf. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn Klavier, Tresor oder eine empfindliche Vitrine zum Bestand gehören, sollte deren Prüfung vor einer allgemeinen Zusage stehen. Gewünschte Verpackung und Montage werden passend zum tatsächlich bestätigten Leistungsumfang beschrieben.
+Sicher Team nimmt Anfragen für Haushaltsübersiedlungen und Möbeltransporte in Döbling auf. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn Tresor, Massivholzschrank oder eine empfindliche Vitrine zum Bestand gehören, sollte deren Prüfung vor einer allgemeinen Zusage stehen. Gewünschte Verpackung und Montage werden passend zum tatsächlich bestätigten Leistungsumfang beschrieben.
 
 ## Ein schweres Einzelstück in Döbling zuerst prüfen lassen
 
-Für einen Umzug in 1190 Wien sollten ungewöhnlich schwere oder empfindliche Gegenstände früh in der Anfrage stehen. Tresor, Klavier oder großflächige Glasvitrine sind keine austauschbaren Positionen einer Kartonliste. Die Möglichkeit ihrer Beförderung hängt vom konkreten Stück und dem vollständigen Weg ab.
+Für einen Umzug in 1190 Wien sollten ungewöhnlich schwere oder empfindliche Gegenstände früh in der Anfrage stehen. Tresor, Panzerschrank oder großflächige Glasvitrine sind keine austauschbaren Positionen einer Kartonliste. Die Möglichkeit ihrer Beförderung hängt vom konkreten Stück und dem vollständigen Weg ab.
 
 Geben Sie Maße und Gewicht an, soweit verlässlich bekannt. Ergänzen Sie Stockwerk, Stufen, enge Kurven und nutzbare Türen an beiden Orten. Bei fest montierten Teilen ist zu klären, wer sie fachgerecht trennt und welche Arbeiten überhaupt angefragt werden sollen. Ein vorhandener Lift genügt als Angabe dafür nicht.
 
@@ -47,12 +47,12 @@ Nutzen Sie [Spezialtransporte](/leistungen/spezialtransporte/) für die Einzelpr
 
 ## Aus einer Stückbezeichnung eine prüfbare Anfrage machen
 
-Das Wort „Tresor“ oder „Klavier“ allein beschreibt weder Gewicht noch mögliche Beförderung. Sammeln Sie vorhandene Daten und nennen Sie ausdrücklich, welche Angaben noch fehlen. Eine Schätzung sollte nicht als verlässliche Herstellerinformation erscheinen. Das ausführende Unternehmen muss beurteilen, ob der Auftrag mit dem konkreten Stück und Zugang übernommen werden kann.
+Das Wort „Tresor“ oder „Schwergut“ allein beschreibt weder Gewicht noch mögliche Beförderung. Sammeln Sie vorhandene Daten und nennen Sie ausdrücklich, welche Angaben noch fehlen. Eine Schätzung sollte nicht als verlässliche Herstellerinformation erscheinen. Das ausführende Unternehmen muss beurteilen, ob der Auftrag mit dem konkreten Stück und Zugang übernommen werden kann.
 
 | Einzelstück | Hilfreiche Angaben | Ausdrücklich zu klärende Frage |
 | --- | --- | --- |
 | Schweres Möbel | Maße, bekanntes Gewicht und aktuelle Position | Möglichkeit und Bedingungen der Beförderung |
-| Klavier | Art des Instruments und vorhandene Daten | Geeignete Ausführung für den beschriebenen Weg |
+| Tresor | Modell, Maße und vorhandene Gewichtsdaten | Geeignete Ausführung für den beschriebenen Weg |
 | Vitrine | Glasflächen, lose Teile und bestehende Schäden | Gewünschte Vorbereitung und Verpackung |
 | Fest montiertes Stück | Bekannte Befestigungen und zuständige Person | Wer löst Befestigungen oder übernimmt Facharbeit? |
 
@@ -74,7 +74,7 @@ Ein Umzug in **1190 Wien (Döbling)** erfordert genaue Kenntnis der örtlichen G
 
 ### Wichtige Faktoren für Ihren 1190 Umzug:
 - **Behördliches Halteverbot (MA 46):** Gemäß Wiener Straßenverkehrsordnung (StVO § 62) beantragen wir auf Wunsch Ihre Halteverbotszone bei der MA 46 und stellen die behördlichen Halteverbotstafeln mindestens 72 Stunden vorab auf, um einen freien Stellplatz direkt vor Ihrer Haustür zu sichern.
-- **Architektur & Stiegenhaus:** Traditionsreiche Weinorte mit engen Kopfsteinpflastergassen in Grinzing und Sievering. Oft steile Einfahrten und Transporte wertvoller Kunstgegenstände oder schwerer Klaviere.
+- **Architektur & Stiegenhaus:** Traditionsreiche Weinorte mit engen Kopfsteinpflastergassen in Grinzing und Sievering. Oft steile Einfahrten und Transporte wertvoller Kunstgegenstände oder schwerer Tresore.
 - **Wiener Hausordnung & Hofruhe:** Bei Innenhofzufahrten achten wir penibel auf Tordurchfahrtshöhen, Bodenschutz und die Einhaltung der gesetzlichen Ruhezeiten (12:00–14:00 Uhr sowie ab 20:00 Uhr).
 - **Kurzparkzone:** Da in ganz 1190 Wien flächendeckend die Wiener Kurzparkzone gilt, spart eine reservierte Ladezone wertvolle Zeit und schützt vor empfindlichen Strafzetteln.
 
