@@ -178,6 +178,8 @@ Bei Sicher Team haben Sie einen festen Bau- und Räumungsleiter an Ihrer Seite. 
 
 ## Ergänzende Leistungen & Ratgeber
 
+- [Delogierung & Zwangsräumung Wien](/ratgeber/delogierung-zwangsraeumung-wien-vermieter/): Räumungshilfe für Vermieter und Hausverwaltungen.
+
 - [Entrümpelung Wien](/leistungen/entruempelung-wien/): Schnelle Entrümpelung von Wohnungen und Häusern.
 - [Wohnungsauflösung](/leistungen/wohnungsaufloesung/): Komplette Räumung mit Wertanrechnung.
 - [Kellerräumung](/leistungen/kellerraeumung/): Entrümpelung von Nebenräumen und Abteilen.

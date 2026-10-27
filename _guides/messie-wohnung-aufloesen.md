@@ -14,10 +14,9 @@ faqs: []
 permalink: "/ratgeber/messie-wohnung-aufloesen/"
 enquiry_service: entruempelung
 guide_group: Entrümpelung & Räumung
-robots: noindex, follow
-sitemap: false
-llm_exclude: true
-editorial_review_required: true
+robots: "index, follow, max-image-preview:large"
+sitemap: true
+article_schema: true
 redirect_from:
 - "/ratgeber/2024-06-10-messie-wohnung-aufloesen/"
 - "/ratgeber/2024/06/10/messie-wohnung-aufloesen/"

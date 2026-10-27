@@ -75,6 +75,7 @@ Wir passen unsere Konditionen flexibel an Ihre individuellen Wünsche an:
 - [Verpackungsservice](/leistungen/verpackungsservice/): Sorgfältiges Einpacken Ihres Hausrats.
 - [Umzug Wien Übersicht](/leistungen/umzug-wien/): Einsatz in allen 23 Wiener Bezirken.
 - [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Schritt-für-Schritt Planung für Ihren Umzug.
+- [Umzugskosten steuerlich absetzen](/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/): Belege für die Steuerberatung ordnen.
 
 - [Auslandsumzug](/leistungen/auslandsumzug/): Internationale Transporte in ganz Europa.
 - [Wohlfühl-Umzug](/leistungen/wohlfuehl-umzug/): All-Inclusive Vollservice ohne Stress.

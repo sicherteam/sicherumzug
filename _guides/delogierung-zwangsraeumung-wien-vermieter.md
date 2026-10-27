@@ -22,10 +22,9 @@ tags:
 title: "Räumung bei einer Delogierung: Auftrag vorbereiten"
 enquiry_service: entruempelung
 guide_group: Entrümpelung & Räumung
-robots: noindex, follow
-sitemap: false
-llm_exclude: true
-editorial_review_required: true
+robots: "index, follow, max-image-preview:large"
+sitemap: true
+article_schema: true
 redirect_from:
 - "/ratgeber/2025-11-20-delogierung-oesterreich-ablauf/"
 - "/ratgeber/2026-08-19-delogierung-zwangsraeumung-oesterreich/"

@@ -67,3 +67,6 @@ Der [persönliche Umzugsplaner](/umzugsplaner/) ordnet Aufgaben nach Ihrem Termi
 - [Sonderurlaub beim Umzug](/ratgeber/sonderurlaub-umzug-oesterreich-arbeitsrecht/): Gesetzlicher Urlaubsanspruch.
 - [Privatumzug Wien](/leistungen/privatumzug/): Stressfreie Übersiedlung mit Fixpreisgarantie.
 - [Adressänderung Checkliste](/adressaenderung-checkliste/): Interaktive Planungshilfe für Behörden.
+
+
+Tipp: Prüfen Sie vorab, ob Sie [Umzugskosten steuerlich absetzen](/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/) können und sammeln Sie alle Rechnungen.

@@ -74,4 +74,4 @@ Nach der Entrümpelung einer Messie-Wohnung behandeln wir alle Räume mit modern
 - [Entrümpelung Wien](/leistungen/entruempelung-wien/): Diskrete Hilfe bei vollgestellten Räumen.
 - [Wohnungsauflösung](/leistungen/wohnungsaufloesung/): Besenreine Wiederherstellung der Wohnung.
 - [Haushaltsauflösung](/leistungen/haushaltsaufloesung/): Systematisches Ausmisten und Entsorgen.
-- [Ratgeber: Messie-Wohnung auflösen](/ratgeber/checkliste-wohnungsraeumung-7-schritte/): Einfühlsame Organisation und Ablauf.
+- [Ratgeber: Messie-Wohnung auflösen](/ratgeber/messie-wohnung-aufloesen/): Einfühlsame Organisation und Ablauf.

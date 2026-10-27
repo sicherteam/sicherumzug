@@ -49,3 +49,6 @@ Bei Sicher Team besprechen Sie die Planung und Durchführung Ihres Umzugs direkt
 - [Räumungsangebote vergleichen](/ratgeber/raeumungsfirma-wien-checkliste/): Checkliste für Räumungsfirmen.
 - [Über uns](/ueber-uns/): Unser Wiener Traditionsunternehmen.
 - [Kundenbewertungen](/bewertungen/): Über 450 echte 5-Sterne-Bewertungen.
+
+
+Hinweis zur Steuer: Achten Sie auf ordnungsgemäße Rechnungen, um [Umzugskosten steuerlich geltend machen](/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/) zu können.

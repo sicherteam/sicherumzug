@@ -79,6 +79,8 @@ Stoßen wir bei der Räumung auf persönliche Papiere, Geburtsurkunden, Sparbüc
 
 ## Ergänzende Leistungen & Ratgeber
 
+- [Ratgeber: Stark gefüllte Messie-Wohnung auflösen](/ratgeber/messie-wohnung-aufloesen/): Diskrete Vorbereitung und Ablauf.
+
 - [Haushaltsauflösung mit Wertanrechnung](/leistungen/haushaltsaufloesung/): Faire Verrechnung und besenreine Räumung.
 - [Entrümpelung Wien](/leistungen/entruempelung-wien/): Garantierter Fixpreis für jeden Wohnungszustand.
 - [Kellerräumung](/leistungen/kellerraeumung/): Entrümpelung aller zugehörigen Abteile.

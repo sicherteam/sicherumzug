@@ -10,10 +10,9 @@ permalink: "/ratgeber/umzugskosten-steuerlich-absetzen-oesterreich/"
 faqs: []
 enquiry_service: umzug
 guide_group: Umzug vorbereiten
-robots: noindex, follow
-sitemap: false
-llm_exclude: true
-editorial_review_required: true
+robots: "index, follow, max-image-preview:large"
+sitemap: true
+article_schema: true
 sources:
 - title: 'Bundesministerium für Finanzen: Werbungskosten'
   url: https://www.bmf.gv.at/themen/steuern/arbeitnehmerveranlagung/was-kann-ich-geltend-machen/werbungskosten/werbungskosten-ueberblick.html

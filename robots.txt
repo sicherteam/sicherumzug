@@ -5,6 +5,8 @@ layout: null
 ---
 User-agent: *
 Allow: /
+Disallow: /angebot/?*
+
 {% unless site.preview %}
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
 {% endunless %}
