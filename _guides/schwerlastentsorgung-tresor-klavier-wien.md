@@ -2,7 +2,7 @@
 last_modified_at: '2026-10-11'
 title: 'Schwere Gegenstände räumen: Zugang vorab prüfen'
 seo_title: 'Schwere Gegenstände räumen: Zugang vorab prüfen | Sicher Team'
-description: Klavier, Tresor oder Maschine vor einer Räumung ausdrücklich nennen und
+description: Tresor, Werkbank oder Maschine vor einer Räumung ausdrücklich nennen und
   die konkrete Durchführung prüfen lassen.
 date: '2024-05-18'
 category: Ratgeber
@@ -13,7 +13,6 @@ cluster: problem-solving
 tags:
 - schwerlast
 - tresor
-- klavier
 - wien
 - entsorgung
 enquiry_service: entruempelung
@@ -28,7 +27,7 @@ sources:
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplatz-abfallarten-mengen
 ---
-Bei einem Tresor, Klavier oder anderen ungewöhnlich schweren Gegenstand beginnt die Planung mit der Entscheidung: Soll er erhalten und transportiert, weitergegeben oder abgegeben werden? Diese Wege brauchen unterschiedliche Empfänger und Leistungen. Der Entschluss zur Entsorgung ersetzt keine Prüfung des sicheren Ausbaus und Transports.
+Bei einem Tresor, Geldschrank oder anderen ungewöhnlich schweren Gegenstand beginnt die Planung mit der Entscheidung: Soll er erhalten und transportiert, weitergegeben oder abgegeben werden? Diese Wege brauchen unterschiedliche Empfänger und Leistungen. Der Entschluss zur Entsorgung ersetzt keine Prüfung des sicheren Ausbaus und Transports.
 
 <!-- editorial-image -->
 
@@ -36,7 +35,7 @@ Bei einem Tresor, Klavier oder anderen ungewöhnlich schweren Gegenstand beginnt
 
 Erfassen Sie Hersteller oder Modell, Außenmaße und ein belegbares Gewicht, sofern verfügbar. Fotografieren Sie den Gegenstand sowie Bodenbefestigungen und den vollständigen Weg zum Fahrzeug. Notieren Sie Stockwerke, Türöffnungen, Stiegen und Podeste. Eine Gewichtsschätzung nach Augenmaß reicht für die Planung nicht aus.
 
-Teilen Sie bei einem Tresor mit, ob er verschlossen oder befestigt ist. Bei einem Klavier ist entscheidend, ob seine Nutzung erhalten werden soll. Vereinbaren Sie ausdrücklich, welche Demontage beziehungsweise Lösung von Befestigungen vorgesehen ist. Beginnen Sie solche Arbeiten erst, wenn Zuständigkeit und Vorgehen geklärt sind.
+Teilen Sie bei einem Tresor mit, ob er verschlossen oder befestigt ist. Vereinbaren Sie ausdrücklich, welche Demontage beziehungsweise Lösung von Befestigungen vorgesehen ist. Beginnen Sie solche Arbeiten erst, wenn Zuständigkeit und Vorgehen geklärt sind.
 
 ## Transport und Abgabe getrennt bestätigen
 
@@ -50,7 +49,6 @@ Weitere Angaben für erhaltene schwere Gegenstände finden Sie im [Ratgeber zum 
 ## Passende Services & Ratgeber
 
 - [Tresortransport Leitfaden](/ratgeber/tresortransport-schwerlast-oesterreich/): Transport und Umplatzierung.
-- [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Empfindliche Mechanik schonen.
 - [Elektrogeräte entsorgen Wien](/ratgeber/elektrogeraete-entsorgen-wien/): Sperrige Altgeräte abgeben.
 - [Tresortransport Service](/leistungen/tresortransport/): Fachgerechte Schrottung und Transport.
 - [Spezialtransporte](/leistungen/spezialtransporte/): Spezialfahrzeuge und Hebewerkzeuge.

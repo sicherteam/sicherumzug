@@ -37,7 +37,6 @@ Versuchen Sie keine improvisierte Bewegung mit zusätzlichen privaten Helfern. M
 
 ## Passende Services & Ratgeber
 
-- [Klaviertransport vorbereiten](/ratgeber/2026-01-25-klavier-transport-sicher-planen/): Spezialausrüstung für schwere Lasten.
 - [Schwere Gegenstände räumen](/ratgeber/schwerlastentsorgung-tresor-klavier-wien/): Entsorgung massiver Geldschränke.
 - [Möbellift mieten Wien](/ratgeber/umzugsaufzug-moebellift-mieten-wien-stvo/): Aussenaufzug bei engen Treppen.
 - [Tresortransport Service](/leistungen/tresortransport/): Panzerschränke und Waffenschränke.

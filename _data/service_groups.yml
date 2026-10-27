@@ -6,7 +6,7 @@ secondary:
   slugs: [entruempelung-wien, raeumung]
 additional:
   - title: Besondere Transporte
-    slugs: [klaviertransport, tresortransport, spezialtransporte, archivumzug]
+    slugs: [tresortransport, spezialtransporte, archivumzug]
   - title: Weitere Unterstützung beim Umzug
     slugs: [seniorenumzug, studentenumzug, express-notdienst, premium-logistik]
   - title: Räume und Objekte räumen

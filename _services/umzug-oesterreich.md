@@ -37,7 +37,7 @@ Eine Übersiedlung über Bundesländergrenzen hinweg – von Wien nach Salzburg,
 ### Gesetzliche Vorschriften & Transportstandards:
 - **ASFINAG Maut & GO-Box:** Unsere Lkw-Flotte ist mit modernen On-Board-Units für das österreichische Mautsystem ausgestattet. Sämtliche Tunnel- und Autobahnmauten sind bereits transparent in unserem Festpreisangebot enthalten.
 - **Wochenendfahrverbote & Lenkzeiten:** Wir planen Routen strikt nach den gesetzlichen Ruhe- und Lenkzeiten für Berufskraftfahrer sowie unter Berücksichtigung des Wochenendfahrverbots für Lkw über 7,5 Tonnen.
-- **Luftgefederte Möbelkoffer:** Empfindliche Möbelstücke, Glasvitrinen und Klaviere werden auf weiten Distanzen vor Erschütterungen durch moderne Luftfederung geschützt.
+- **Luftgefederte Möbelkoffer:** Empfindliche Möbelstücke, Glasvitrinen und Antiquitäten werden auf weiten Distanzen vor Erschütterungen durch moderne Luftfederung geschützt.
 
 ### Günstige Beiladung & Teilladungs-System:
 Wenn Sie nur ein Zimmer oder wenige Großmöbel quer durch Österreich transportieren möchten, bündeln wir Teilladungen entlang unserer festen Routen. Das spart bis zu 40 % der Transportkosten gegenüber einer Einzelfahrt.
