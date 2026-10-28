@@ -269,6 +269,15 @@
       let extraList = Object.keys(calcState.extras).join(', ');
       if (!extraList) extraList = 'Keine';
       msgField.value = `[Rechner-Anfrage]\nService: ${calcState.serviceName}\nGröße: ${calcState.sizeName}\nStockwerk: ${calcState.floorName}\nExtras: ${extraList}`;
+      msgField.dispatchEvent(new Event('input', { bubbles: true }));
+    }
+    let targetForm = document.getElementById('contactForm');
+    if (targetForm) {
+      targetForm.scrollIntoView({ behavior: 'smooth' });
+    }
+    let targetInput = document.getElementById('form-origin') || document.getElementById('form-name');
+    if (targetInput) {
+      targetInput.focus();
     }
   }
 
