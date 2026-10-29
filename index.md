@@ -138,7 +138,7 @@ Gleichzeitig erschweren enge Einbahnstraßen, dichte Parkplatzbelegungen und str
 ### 10. bis 19. Bezirk: Beliebte Wohnviertel, Meidling & Villenlagen
 In Favoriten (1100), Simmering (1110), Meidling (1120 – unser Hauptstandort), Hietzing (1130), Penzing (1140), Rudolfsheim-Fünfhaus (1150), Ottakring (1160), Hernals (1170), Währing (1180) und Döbling (1190) treffen urbane Wohnbauten auf grüne Villengebiete. 
 
-In den Hanglagen und Villenvierteln des Cottage (18. und 19. Bezirk) erfordern weitläufige Gärten, Kieswege und steile Zufahrten spezielle Tragestrategien und Schwerlastkarren. Von unserer **Zentrale in 1120 Wien** erreichen wir die westlichen und südlichen Bezirke innerhalb weniger Minuten, wodurch wir besonders kurze Reaktionszeiten bei Besichtigungen und für jeden **Umzug 1120 Wien** garantieren können.
+In den Hanglagen und Villenvierteln des Cottage (18. und 19. Bezirk) erfordern weitläufige Gärten, Kieswege und steile Zufahrten spezielle Tragestrategien und Möbelrollwagen. Von unserer **Zentrale in 1120 Wien** erreichen wir die westlichen und südlichen Bezirke innerhalb weniger Minuten, wodurch wir besonders kurze Reaktionszeiten bei Besichtigungen und für jeden **Umzug 1120 Wien** garantieren können.
 
 ### 20. bis 23. Bezirk: Moderne Wohnbauprojekte & Gewerbeparks
 Jenseits des Donaukanals und im Süden – in der Brigittenau (1200), Floridsdorf (1210), Donaustadt (1220) und Liesing (1230) – prägen weitläufige Neubauquartiere wie die Seestadt Aspern und moderne Wohnhausanlagen das Bild. Hier erleichtern geräumige Lastenaufzüge und direkte Tiefgaragenzufahrten die Logistik. Gleichzeitig erfordern lange Flure und ausgedehnte Wohnhauskomplexe effiziente Rollwagen-Systeme, um Gehwege zu minimieren. In den Industrie- und Betriebsgebieten von Liesing und Inzersdorf führen wir zudem spezialisierte Gewerbe- und Lagerberäumungen durch.
@@ -204,12 +204,9 @@ Wien ist mit über 200.000 Studierenden die größte Universitätsstadt im deuts
 
 ---
 
-## Spezialtransporte in Wien: Tresortransport & Kunst
+## Kunsttransporte & empfindliche Einzelstücke in Wien
 
-Manche Einrichtungsgegenstände verlangen weit mehr als gewöhnliche Muskelkraft. Sie erfordern physikalisches Fachwissen, Hebeltechnik und professionelle Spezialausrüstung:
-
-### Tresor- & Schwerlasttransporte bis 500 kg
-Ob gepanzerte Dokumentensafes, Waffenschränke oder schwere Labor- und Werkstattgeräte: Mit elektrischen Treppensteigern und hydraulischen Hubgeräten transportiert unser [Spezialtransport-Team](/leistungen/spezialtransporte/) und [Tresortransport-Team](/leistungen/tresortransport/) Schwergut sicher und erschütterungsfrei über jedes Stiegenhaus.
+Manche Einrichtungsgegenstände verlangen besondere Sorgfalt und behutsames Handling: wertvolle Gemälde, Skulpturen, Antiquitäten, Spiegel und empfindliche Designermöbel. Unser [Möbeltransport-Team](/leistungen/moebeltransport/) und [Spezialtransport-Team](/leistungen/spezialtransporte/) schützt empfindliche Oberflächen mit maßgeschneiderter Polsterung, Kantenschonern und stoßgedämpftem Transport durch erfahrene Möbelpacker.
 
 ---
 

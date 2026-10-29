@@ -60,7 +60,7 @@ Sie bestimmen den gewünschten Komfort und Servicegrad selbst:
 
 Ob privater Möbelkauf, Erbschaftsverteilung oder Büroumgestaltung – unser Möbeltaxi und Kleintransportservice deckt vielfältige Anforderungen ab:
 
-- **Schwertransport innerhalb der Wohnung:** Sie möchten ein massives Eichenbuffet, einen Tresor oder eine schwere Waschmaschine vom 2. Stock in das Erdgeschoss oder in ein anderes Zimmer umstellen? Unsere Möbelpacker rücken mit professionellen Tragegurten und Rollwagen an.
+- **Möbeltransport innerhalb der Wohnung:** Sie möchten ein massives Eichenbuffet, einen großen Schrank oder eine Waschmaschine vom 2. Stock in das Erdgeschoss oder in ein anderes Zimmer umstellen? Unsere Möbelpacker rücken mit professionellen Tragegurten und Rollwagen an.
 - **Wien-Niederösterreich Pendeltransporte:** Sie ziehen ins Grüne oder möchten Möbelstücke in Ihr Wochenendhaus im Wienerwald, nach Baden, Mödling oder ins Burgenland überstellen? Wir bieten regelmäßige Shuttle-Touren zu günstigen Kombipreisen.
 - **Zwischenlagerung im gesicherten Lagerabteil:** Falls Ihre neue Wohnung noch renoviert wird oder der Schlüsselübergabetermin verzögert ist, lagern wir Ihre Möbelstücke in unserem videoüberwachten, trockenen und temperierten Wiener Möbellager sicher ein.
 

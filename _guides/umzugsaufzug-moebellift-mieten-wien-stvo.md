@@ -38,6 +38,6 @@ Halten Sie fest, wer Zugang, Geräteprüfung, mögliche Bewilligungen und Möbel
 
 - [Halteverbotszone für den Umzug](/ratgeber/halteverbotszone-umzug-oesterreich/): Parkverbotszone StVO in Wien.
 - [Professionelle Übersiedlung Wien](/ratgeber/professionelle-uebersiedlung-wien/): Vorbereitung für Altbauten.
-- [Schwere Gegenstände räumen](/ratgeber/schwerlastentsorgung-tresor-klavier-wien/): Außenlift für Schwerlasten.
+- [Möbelmontage & Abbau](/ratgeber/moebelmontage-abbau-tipps/): Sperrige Möbel vor dem Umzug demontieren.
 - [Spezialtransporte](/leistungen/spezialtransporte/): Fassadenlifte und Kranwagen.
 - [Bundesland Wien](/bundesland/wien/): Genehmigungen bei MA 46.

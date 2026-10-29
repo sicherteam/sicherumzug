@@ -20,11 +20,8 @@ faqs:
   answer: Besprechen Sie Haftungs- und Versicherungsbedingungen vor der Beauftragung
     schriftlich. Klären Sie Umfang, Ausschlüsse, besondere Werte und die Dokumentation
     möglicher Schäden.
-- question: Transportieren Sie auch besonders schwere Gegenstände wie
-    Tresore?
-  answer: Halten Sie den gewünschten Leistungsumfang im Angebot fest. Besondere Gegenstände,
-    zusätzliche Arbeiten und das Zeitfenster werden vor der Beauftragung persönlich
-    abgestimmt.
+- question: Transportieren Sie auch besonders empfindliche Gegenstände wie Kunst oder Antiquitäten?
+  answer: Ja. Wir schützen wertvolle Gemälde, historische Möbel und Kunstgegenstände mit maßgeschneiderten Polsterdecken, Kantenschonern und stoßsicherer Ladungssicherung. Schwere Tresore oder Klaviere transportieren wir nicht.
 permalink: "/ratgeber/moebeltransport-profi-leitfaden/"
 enquiry_service: umzug
 guide_group: Umzug vorbereiten

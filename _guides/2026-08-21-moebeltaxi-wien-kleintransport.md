@@ -36,6 +36,6 @@ Für ein einzelnes Stück passt die Anfrage [Möbeltransport](/leistungen/moebel
 
 - [Möbel vor dem Umzug abbauen](/ratgeber/moebelmontage-abbau-tipps/): Große Möbel transportfähig machen.
 - [Möbel selbst verkaufen oder anrechnen?](/ratgeber/wertanrechnung-vs-willhaben-verkauf-wien/): Möbel vorab abgeben oder verwerten.
-- [Tresortransport vorbereiten](/ratgeber/tresortransport-schwerlast-oesterreich/): Schwergut sicher befördern.
+- [Möbeltransport Leitfaden](/ratgeber/moebeltransport-profi-leitfaden/): Wertvolle Möbel sicher befördern.
 - [Möbeltransport Service](/leistungen/moebeltransport/): Kleintransporte und Einzelmöbel.
 - [Möbel-Ankauf](/leistungen/moebel-ankauf/): Gebrauchte Möbel direkt anrechnen.

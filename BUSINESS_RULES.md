@@ -4,7 +4,12 @@
    - **KURAL:** Sicher Team bünyesinde kesinlikle Klaviertransport (piyano taşımacılığı) YAPILMAMAKTADIR.
    - Google Business Profile, web sitesi veya herhangi bir SEO meta verisinde Klaviertransport / Klavierumzug hizmeti sunulmamalı, profil kategorisi veya anahtar kelime olarak ASLA eklenmemelidir.
 
-2. **Google Business Profile (GBP) Yapılandırması**:
+2. **Tresortransport / Schwerlasttransporte (Kasa ve Ağır Yük Taşımacılığı)**:
+   - **KURAL:** Sicher Team bünyesinde kesinlikle Tresortransport (çelik kasa, para kasası, silah dolabı, panzersafe), Schwerlasttransporte (ağır sanayi makineleri, torna/freze, laboratuvar cihazları, elektrikli merdiven tırmanıcı/palet gerektiren aşırı ağır yükler) YAPILMAMAKTADIR.
+   - Web sitesi, Google Business Profile (GBP), Schema verileri ve meta verilerde bu tür ağır yük ve kasa taşıma hizmetleri ASLA sunulmamalıdır.
+   - İlgili eski sayfalar (/leistungen/tresortransport/, /ratgeber/tresortransport-schwerlast-oesterreich/, vb.) 301 yönlendirmesiyle genel mobilya taşıma ve rehber sayfalarına aktarılmalıdır.
+
+3. **Google Business Profile (GBP) Yapılandırması**:
    - **Birincil Kategori:** Umzugsservice (`categories/gcid:moving_company`)
    - **Ek Kategoriler (9 Adet - Maksimum Kapasite):**
      1. Umzugs- und Lagerservice (`categories/gcid:moving_and_storage_service`)
