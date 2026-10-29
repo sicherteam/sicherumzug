@@ -1,0 +1,3 @@
+## 2026-10-18 - WCAG 2.5.3 Label in Name on Interactive Hero Badges
+**Learning:** Custom `aria-label` attributes on link wrappers containing visible text (e.g. `.hero-whatsapp-badge`) violate WCAG 2.5.3 (Label in Name) if the `aria-label` string does not match or include the visible heading/label text inside the element, preventing voice input software from activating the link.
+**Action:** Omit redundant or conflicting `aria-label` attributes on links that contain visible text so screen readers and speech recognition tools naturally compute the accessible name directly from the inner DOM nodes.
