@@ -65,7 +65,7 @@ Privatumzüge im Wiener Stadtgebiet – insbesondere in Gründerzeitvierteln von
 ## Faire Preismodelle für jedes Umzugsbudget
 
 Wir passen unsere Konditionen flexibel an Ihre individuellen Wünsche an:
-- **Günstige Stundensätze ab 29 € pro Umzugshelfer:** Ideal für kleinere Wohnungen, WGs oder handwerklich versierte Umziehende, die selbst mit anpacken und lediglich kräftige Tragehilfe und einen Lkw mit Fahrer benötigen.
+- **Günstige Stundensätze ab 49 € pro Umzugshelfer:** Ideal für kleinere Wohnungen, WGs oder handwerklich versierte Umziehende, die selbst mit anpacken und lediglich kräftige Tragehilfe und einen Lkw mit Fahrer benötigen.
 - **Pauschaler Festpreis für den Komplettumzug:** Für maximale Planungssicherheit bei 2- bis 4-Zimmer-Wohnungen und Einfamilienhäusern. Sie wissen vorab auf den Cent genau, was Ihr Umzug kostet.
 - **Allianz Betriebshaftpflicht bis 1.000.000 €:** Ihr gesamtes Umzugsgut sowie Gebäudeteile in beiden Liegenschaften sind während der gesamten Dauer vollumfänglich gegen Schäden versichert.
 

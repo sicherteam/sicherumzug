@@ -107,6 +107,7 @@ sass:
 future: true
 exclude:
 - _tests
+- _automation
 - .github
 - playwright-report
 - test-results

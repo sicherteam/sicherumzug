@@ -68,7 +68,7 @@ Damit benachbarte Betriebsabläufe oder Mietparteien nicht behindert werden, pas
 - **Rampen- und Toranfahrt:** Wir koordinieren Ladezeiten an Hubtoren und Laderampen unter Berücksichtigung von Schichtzeiten und Anrainervorschriften.
 - **Wochenend- und Nachteinsätze:** Auf Wunsch beräumen wir Ihre Gewerbeimmobilie freitags ab 18 Uhr bis sonntagabends für minimale Betriebsunterbrechung.
 - **Allianz Betriebshaftpflicht:** Sämtliche Demontage- und Verladearbeiten sind durch unsere Betriebshaftpflichtversicherung bis 1.000.000 € volldeckend abgesichert.
-- **Verbindliche Festpreisangebote:** Nach einer kostenfreien Vor-Ort-Begehung erhalten Sie ein detailliertes Angebot ohne versteckte Nachforderungen ab 29 € pro Arbeitsstunde oder als Komplettpauschale.
+- **Verbindliche Festpreisangebote:** Nach einer kostenfreien Vor-Ort-Begehung erhalten Sie ein detailliertes Angebot ohne versteckte Nachforderungen ab 49 € pro Arbeitsstunde oder als Komplettpauschale.
 
 ## Ergänzende Leistungen & Ratgeber
 

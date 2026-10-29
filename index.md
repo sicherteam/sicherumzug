@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Umzugsfirma Wien & Umzug Wien | Fixpreis ab 29 € – Sicher Team"
-description: "Ihre erfahrene Umzugsfirma Wien für professionellen Umzug Wien & ganz Österreich. Fixpreis ab 29 € ✓ Allianz versichert ✓ Jetzt unverbindlich anfragen!"
+title: "Umzugsfirma Wien & Umzug Wien | Fixpreis ab 49 € – Sicher Team"
+description: "Ihre erfahrene Umzugsfirma Wien für professionellen Umzug Wien & ganz Österreich. Fixpreis ab 49 € ✓ Allianz versichert ✓ Jetzt unverbindlich anfragen!"
 last_modified_at: 2026-10-17
 og_image: "/assets/images/moving/packing-warm.webp"
 og_image_alt: '3D-Illustration: geschützte Möbel und gepackte Kartons für einen Umzug'
@@ -99,14 +99,14 @@ Die folgende Preisübersicht dient Ihnen als transparente Orientierung für typi
 
 | Leistungspaket | Typische Wohnungsgröße | Personal & Fuhrpark | Enthaltene Leistungen | Richtpreis / Fixpreis |
 |---|---|---|---|---|
-| **Kompakt-Umzug** | 1-Zimmer / Student (bis 35 m²) | 1–2 Möbelpacker + Umzugswagen | Transport, Tragen, Basisschutz | ab 29 € / Std. bzw. ab 180 € Pauschale |
+| **Kompakt-Umzug** | 1-Zimmer / Student (bis 35 m²) | 1–2 Möbelpacker + Umzugswagen | Transport, Tragen, Basisschutz | ab 49 € / Std. bzw. ab 180 € Pauschale |
 | **Standard-Wohnung** | 2–3 Zimmer (40 bis 75 m²) | 2 geschulte Möbelpacker + LKW | Einladen, Transport, Möbelschutz | ab 59 € / Std. bzw. ab 380 € Pauschale |
 | **Familien-Wohnung** | 3–4 Zimmer (80 bis 120 m²) | 3 Möbelpacker + großer LKW | Transport, Teilmontage, Tragegurte | ab 85 € / Std. bzw. ab 690 € Pauschale |
 | **Großraum / Haus** | ab 120 m² / Reihenhaus | 4 Möbelpacker + 2 LKW / Möbellift | Komplettservice inkl. Ab- & Aufbau | nach kostenloser Besichtigung ab 1.150 € |
 
 - **Keine versteckten Gebühren:** Bei Sicher Team zahlen Sie weder Stockwerkszuschläge noch Wochenend- oder Feiertagszuschläge. Der im Angebot vereinbarte Preis ist für uns bindend.
 - **5 % Bestpreis-Garantie:** Haben Sie für das gleiche Vorhaben bereits ein vergleichbares schriftliches Angebot einer anderen Wiener Umzugsfirma vorliegen? Wir unterbieten dieses garantierte Angebot um 5 % bei identischen Konditionen.
-- **Abrechnung nach Maß:** Sie entscheiden frei, ob Sie eine flexible Abrechnung auf Stundenbasis (bereits **ab 29 € pro Stunde**) oder eine feste Pauschale mit Festpreisgarantie bevorzugen.
+- **Abrechnung nach Maß:** Sie entscheiden frei, ob Sie eine flexible Abrechnung auf Stundenbasis (bereits **ab 49 € pro Stunde**) oder eine feste Pauschale mit Festpreisgarantie bevorzugen.
 
 ---
 
@@ -199,7 +199,7 @@ Der Umzug im höheren Lebensalter – etwa vom langjährigen Familienhaus in ein
 
 ### Studentenumzug Wien: Schnell, unkompliziert & budgetfreundlich
 Wien ist mit über 200.000 Studierenden die größte Universitätsstadt im deutschsprachigen Raum. Ob Umzug in ein WG-Zimmer nahe der Hauptuniversität, ein Studentenwohnheim bei der WU Wien im Prater oder eine Kleinwohnung an der TU Wien am Karlsplatz oder BOKU:
-- **Transparente Stundensätze ab 29 €:** Perfekt für studentische Budgets ohne teure Mindestbuchungszeiten in unserem [Studentenumzug](/leistungen/studentenumzug/).
+- **Transparente Stundensätze ab 49 €:** Perfekt für studentische Budgets ohne teure Mindestbuchungszeiten in unserem [Studentenumzug](/leistungen/studentenumzug/).
 - **Möbeltaxi & Kleintransporte:** Wenn nur ein Bett, ein Schreibtisch und einige Umzugskartons transportiert werden müssen, stellen wir das passende Fahrzeug samt Fahrer für einen flexiblen [Möbeltransport](/leistungen/moebeltransport/) bereit.
 
 ---

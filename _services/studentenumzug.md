@@ -2,7 +2,7 @@
 last_modified_at: '2026-10-11'
 layout: service
 title: Studentenumzug in Wien
-description: "Günstiger Studentenumzug in Wien: WG-Zimmer oder Kleinwohnung übersiedeln. Flexible Umzugshelfer ab 29 €/Std. Möbel, Kartons und Route planen."
+description: "Günstiger Studentenumzug in Wien: WG-Zimmer oder Kleinwohnung übersiedeln. Flexible Umzugshelfer ab 49 €/Std. Möbel, Kartons und Route planen."
 kicker: Für Studenten
 permalink: "/leistungen/studentenumzug/"
 intent_primary: Umzug
@@ -19,7 +19,7 @@ faqs:
     Eine kombinierte Abholung wird nicht automatisch zugesagt, sondern für den gesamten
     Umfang geprüft.
 - question: Gibt es günstige Stundentarife für Studenten?
-  answer: Ja, für flexible WG- und Studentenumzüge bieten wir günstige Stundentarife für professionelle Umzugshelfer bereits ab 29 € pro Stunde.
+  answer: Ja, für flexible WG- und Studentenumzüge bieten wir günstige Stundentarife für professionelle Umzugshelfer bereits ab 49 € pro Stunde.
 ---
 Ein Studentenumzug kann ein WG-Zimmer oder eine kleine Wohnung betreffen. Erfassen Sie eigenes Inventar getrennt von Gemeinschaftsmöbeln. Die Zimmergröße allein beschreibt weder Kartonzahl noch Transportaufwand.
 
@@ -43,7 +43,7 @@ Das bisherige Zimmer zu reinigen oder zu räumen ist keine automatische Transpor
 Wien ist mit über 200.000 Studierenden an Universität Wien, WU, TU, MedUni, BOKU und Fachhochschulen eine der lebendigsten Universitätsstädte Europas. Ein Wohnungswechsel im Studium – ob vom Elternhaus in das erste WG-Zimmer, der Wechsel zwischen Bezirken oder der Umzug nach Studienabschluss – muss vor allem eines sein: unkompliziert, flexibel und leistbar.
 
 ### Günstige Tarifmodelle speziell für Studierende:
-- **Umzugshelfer ab 29 € pro Stunde:** Wenn Sie Ihre Kisten selbst packen und Freunde beim Tragen helfen, stellen wir Ihnen erfahrene Umzugsprofis und einen geräumigen Transporter zur Seite. So minimieren Sie die Kosten und profitieren dennoch von professioneller Ladesicherung.
+- **Umzugshelfer ab 49 € pro Stunde:** Wenn Sie Ihre Kisten selbst packen und Freunde beim Tragen helfen, stellen wir Ihnen erfahrene Umzugsprofis und einen geräumigen Transporter zur Seite. So minimieren Sie die Kosten und profitieren dennoch von professioneller Ladesicherung.
 - **Garantierter WG-Festpreis:** Sie möchten vorab genau wissen, wie die WG-Kasse belastet wird? Nach kurzer telefonischer oder digitaler Durchsprache Ihrer Zimmergröße erhalten Sie ein verbindliches Fixpreisangebot ohne versteckte Nachforderungen.
 - **Teilumzüge & Beiladung:** Sie ziehen nur mit einem Schreibtisch, einer Matratze und 10 Kartons um? Wir kombinieren kleinere Fahrten intelligent, um Ihnen besonders günstige Konditionen zu ermöglichen.
 

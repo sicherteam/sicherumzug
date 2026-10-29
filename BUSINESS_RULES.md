@@ -23,3 +23,8 @@
      9. Umzugsbedarf (`categories/gcid:moving_supply_store`)
    - **Öne Çıkan Anahtar Kelimeler:** `Umzug Wien`, `Umzugsfirma Wien`, `Wohnungsumzug Wien`, `Möbeltransport Wien`, `Entrümpelung Wien`, `Fixpreis-Garantie`.
    - **Çalışma Saatleri:** Haftanın 7 günü 06:00 – 23:00.
+
+4. **Fiyatlandırma Standartları (Pricing Baseline & Anti-Lockvogel / Anti-Scam Kuralı)**:
+   - **KURAL:** Viyana pazarında Google'ın ve tüketici koruma kurumlarının "sahte yemleme teklifleri" (Lockvogelangebot) spam filtrelerine takılmamak ve kurumsal ciddiyeti korumak için taban saatlik fiyat formatı **en az "ab 49 €"** (veya "ab 49 € / Std.") olarak kullanılır.
+   - Sitede, GBP paylaşımlarında, başlıklarda ve Schema kodlarında **ASLA "ab 20 €", "ab 25 €", "ab 29 €" gibi sahte/şüpheli ucuzluk ibareleri kullanılmayacaktır.**
+   - Paket fiyatlandırmalarında ise gerçekçi ve güven veren standartlar uygulanır (Örn: Möbeltaxi / Kleintransport ab 180 € Pauschale, 1-2 Zimmer Wohnungsumzug ab 290 € Fixpreis).
