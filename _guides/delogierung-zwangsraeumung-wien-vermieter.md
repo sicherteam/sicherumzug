@@ -19,7 +19,7 @@ faqs:
 intent_stage: consideration
 permalink: "/ratgeber/delogierung-zwangsraeumung-wien-vermieter/"
 primary_query: delogierung wien
-seo_title: "Delogierung in Wien: Leitfaden & Räumungsservice für Vermieter | Sicher Team"
+seo_title: "Delogierung Wien: Leitfaden & Räumung für Vermieter | Sicher Team"
 tags:
 - delogierung
 - zwangsräumung

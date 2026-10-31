@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Umzugskosten steuerlich absetzen in Österreich: Leitfaden & Belege"
-seo_title: "Umzugskosten steuerlich absetzen Österreich: BMF, Werbungskosten & Belege | Sicher Team"
+seo_title: "Umzugskosten absetzen Österreich: BMF & Werbungskosten | Sicher Team"
 description: "Umzugskosten in Österreich steuerlich absetzen: Voraussetzungen für Werbungskosten nach § 16 EStG, Nachweise für das Finanzamt und Belegprüfung."
 date: '2026-08-25 09:15:00 +0200'
 last_modified_at: "2026-10-31"
