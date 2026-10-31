@@ -27,7 +27,7 @@ Wir unterbieten jedes schriftliche Angebot einer anderen Umzugsfirma für **dens
 - Dieselben vereinbarten Arbeiten. Enthält das Vergleichsangebot Verpackung, Demontage oder Montage, sind diese auch bei uns enthalten.
 - Derselbe Umzugstermin und dieselben Zahlungs- und Abrechnungsbedingungen.
 
-Senden Sie uns das Vergleichsangebot über das [Anfrageformular](/angebot/&guarantee=1#angebot-form), per [E-Mail](mailto:{{ site.email }}?subject=Bestpreis-Garantie) oder WhatsApp. Das Beispiel 1.000 € → 950 € zeigt die Ersparnis bei gleichen Bedingungen, keinen allgemeinen Umzugstarif.
+Senden Sie uns das Vergleichsangebot über das [Anfrageformular](/angebot/?guarantee=1#angebot-form), per [E-Mail](mailto:{{ site.email }}?subject=Bestpreis-Garantie) oder WhatsApp. Das Beispiel 1.000 € → 950 € zeigt die Ersparnis bei gleichen Bedingungen, keinen allgemeinen Umzugstarif.
 
 </div></details>
 

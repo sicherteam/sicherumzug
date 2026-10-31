@@ -24,7 +24,7 @@
     <p>{{ guarantee.promise }} Senden Sie uns Ihr Vergleichsangebot als PDF oder Foto.</p>
     <div class="price-guarantee-actions">
       <a class="button" href="{{ guarantee_whatsapp | escape }}">Angebot per WhatsApp senden {% include ui-icon.html %}</a>
-      <a class="guarantee-details" href="{{ "/angebot/&guarantee=1#angebot-form" | relative_url }}">PDF oder Foto im Formular senden</a>
+      <a class="guarantee-details" href="{{ "/angebot/?guarantee=1#angebot-form" | relative_url }}">PDF oder Foto im Formular senden</a>
       {% unless include.hide_details %}<a class="guarantee-details" href="{{ '/preise/#preisgarantie' | relative_url }}">Garantie im Detail</a>{% endunless %}
     </div>
   </div>
