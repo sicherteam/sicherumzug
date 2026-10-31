@@ -671,6 +671,12 @@
 /ratgeber/schwerlastentsorgung-tresor-klavier-wien/ /ratgeber/sperrmuell-abholung-wien/ 301
 /ratgeber/schwerlastentsorgung-tresor-klavier-wien/index.html /ratgeber/sperrmuell-abholung-wien/ 301
 
+/BUSINESS_RULES / 301
+/BUSINESS_RULES/ / 301
+/BUSINESS_RULES/index.html / 301
+/business_rules / 301
+/business_rules/ / 301
+
 # Dynamic patterns must remain last.
 /leistungen/altwaren-ankauf-:region/ /leistungen/altwaren-ankauf/ 301
 /leistungen/antiquitaeten-ankauf-:region/ /leistungen/antiquitaeten-ankauf/ 301
