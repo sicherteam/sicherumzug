@@ -94,6 +94,18 @@ document.addEventListener('DOMContentLoaded', function domReady() {
     yearTarget.textContent = new Date().getFullYear();
   }
 
+  // Scroll to top button handler
+  var scrollToTopButtons = document.querySelectorAll('[data-scroll-to-top]');
+  Array.prototype.forEach.call(scrollToTopButtons, function(btn) {
+    btn.addEventListener('click', function handleScrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      var mainEl = document.getElementById('main');
+      if (mainEl) {
+        mainEl.focus();
+      }
+    });
+  });
+
   // Copy to clipboard buttons handler
   var copyButtons = document.querySelectorAll('[data-copy-text]');
   Array.prototype.forEach.call(copyButtons, function(btn) {
