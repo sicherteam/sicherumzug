@@ -34,6 +34,11 @@ redirect_from:
 - "/ratgeber/2025-10-05-ma48-mistplatz-checkliste/"
 - "/ratgeber/2025/10/05/ma48-mistplatz-checkliste/"
 guide_topic: auswahl
+faqs:
+- question: Welche Freimengen gelten auf den Wiener MA 48 Mistplätzen?
+  answer: "Wiener Bürger dürfen pro Tag bis zu 1 m³ Sperrmüll oder Grünschnitt mit Wiener Kennzeichen kostenlos abgeben. Gewerbliche Mengen sind kostenpflichtig."
+- question: Warum lohnt sich für größere Mengen eine professionelle Räumungsfirma?
+  answer: "Sie sparen sich mühsames Schleppen, mehrfache PKW-Fahrten, Wartezeiten und teure Miettransporter – wir entsorgen alles gesetzeskonform auf einen Schlag."
 ---
 Eine kostenlose Selbstabgabe am Wiener Mistplatz ist für passende Abfälle in begrenzten Mengen gedacht. Sie umfasst weder Tragehilfe aus Ihrer Wohnung noch eine vollständige Wohnungsräumung. Für größere Bestände oder eine Abholung gibt es andere Wege.
 

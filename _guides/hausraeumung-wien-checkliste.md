@@ -29,6 +29,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/mistplaetze-leistungen
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplaetze
+faqs:
+- question: Wie lange dauert die vollständige Räumung eines Einfamilienhauses?
+  answer: "Je nach Quadratmeterzahl und Füllgrad (Keller, Wohnbereich, Dachboden, Garage) dauert eine Hausräumung meist zwischen 2 und 4 Tagen."
+- question: Können Einbauküchen, Sanitäranlagen und Teppiche mit entfernt werden?
+  answer: "Ja, wir übernehmen bei Bedarf den kompletten Rückbau bis zum bezugsfertigen oder renovierungsreifen Zustand des Hauses."
 ---
 Eine Hausräumung wird nach allen beauftragten Bereichen beschrieben, nicht nur nach der Wohnfläche. Keller, Dachboden, Garage und Gartenbestand können eigene Zugänge und sehr unterschiedliche Gegenstände enthalten.
 

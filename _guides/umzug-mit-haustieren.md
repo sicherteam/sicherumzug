@@ -21,6 +21,11 @@ sources:
 - title: eausweise.oesterreich.gv.at – Informationen zum Thema
   url: https://eausweise.oesterreich.gv.at/de/themen/reisen_und_freizeit/haustiere/Seite.742050
 guide_topic: planen
+faqs:
+- question: Wie verbringen Hunde und Katzen den Umzugstag am stressfreiesten?
+  answer: "Bringen Sie Haustiere am Umzugstag am besten bei Freunden unter oder richten Sie ein ruhiges, geschlossenes Zimmer mit gewohntem Futter und Decke ein, bis alle Möbel verladen sind."
+- question: Dürfen Haustiere im Umzugs-LKW mitfahren?
+  answer: "Nein, im Laderaum des LKW ist der Transport lebender Tiere aus Sicherheitsgründen verboten. Tiere sollten immer im Privat-PKW der Halter reisen."
 ---
 Tierbetreuung und Tiertransport werden unabhängig vom Möbelablauf organisiert. Benennen Sie eine verantwortliche Betreuungsperson und einen geeigneten Ort, an dem das Tier während offener Türen und laufender Möbelarbeiten betreut wird. Persönliche Unterlagen und benötigte Alltagsdinge reisen mit dieser Person.
 

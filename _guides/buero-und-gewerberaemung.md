@@ -26,6 +26,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/mistplatz-regeln
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplaetze-leistungen
+faqs:
+- question: Wie wird die DSGVO-konforme Vernichtung alter Geschäftsakten garantiert?
+  answer: "Sensible Unterlagen und Ordnerbestände werden auf Wunsch in verplombten Datenschutzbehältern transportiert und nach DIN 66399 mit offiziellem Vernichtungszertifikat vernichtet."
+- question: Können Büroräumungen auch am Wochenende durchgeführt werden?
+  answer: "Ja, um den laufenden Geschäftsbetrieb nicht zu stören, räumen wir Büros und Gewerbeflächen flexibel am Freitagabend, Samstag oder Sonntag."
 ---
 Eine Gewerberäumung braucht eindeutige Freigaben und Grenzen. Möbel, Lagerwaren, vertrauliche Unterlagen und fremde Geräte werden als getrennte Aufgaben behandelt. Ein allgemeiner Räumungsauftrag entscheidet weder Aufbewahrungspflichten noch Leasingrückgaben.
 

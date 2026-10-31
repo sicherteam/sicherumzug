@@ -19,6 +19,11 @@ sources:
 - title: www.oesterreich.gv.at – Informationen zum Thema
   url: https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/umzug
 guide_topic: planen
+faqs:
+- question: Wie halte ich die Kosten beim ersten Wohnungsumzug gering?
+  answer: "Packen Sie Kartons selbst, zerlegen Sie Kleinmöbel vorab und nutzen Sie unser flexibles Angebot ab 49 € pro Stunde mit LKW und geschulten Möbelpackern."
+- question: Hilft Sicher Team auch beim Aufbau der neuen IKEA-Möbel?
+  answer: "Ja, unsere Mitarbeiter sind im fachgerechten Aufbau aller gängigen Möbelmarken geschult und bringen Profi-Werkzeug direkt mit."
 ---
 Für die erste eigene Wohnung planen Sie Zugang, Grundausstattung und Verträge vor größeren Möbelkäufen. Entscheiden Sie zuerst, was Sie zum Schlafen, Kochen, Arbeiten und Aufbewahren sofort benötigen und was später folgen kann.
 

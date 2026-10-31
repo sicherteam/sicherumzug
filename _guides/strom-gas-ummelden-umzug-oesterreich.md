@@ -14,6 +14,11 @@ sources:
 - title: www.e-control.at – Informationen zum Thema
   url: https://www.e-control.at/konsumenten/wie-uebersiedeln
 guide_topic: uebergabe
+faqs:
+- question: Wann sollte der Strom- und Gasvertrag für die neue Wohnung abgeschlossen werden?
+  answer: "Idealerweise 2 bis 3 Wochen vor dem Umzugstermin, damit der Netzbetreiber (z. B. Wiener Netze) den Zähler rechtzeitig vor dem Einzug freischalten kann."
+- question: Wie wichtig ist das Ablesen der Zählerstände am Übergabetag?
+  answer: "Sehr wichtig: Fotografieren Sie die Zählerstände in der alten und neuen Wohnung gemeinsam mit dem Vermieter und notieren Sie sie im Übergabeprotokoll, um Fehlberechnungen zu vermeiden."
 ---
 Beim Umzug sind für Strom und Gas zwei Vertragsbeziehungen wichtig: Energielieferant und Netzbetreiber. Klären Sie beide für die alte und die neue Wohnung. Eine Nachricht mit der neuen Adresse ist nicht automatisch die vollständige Abmeldung oder Versorgung zum Einzug.
 

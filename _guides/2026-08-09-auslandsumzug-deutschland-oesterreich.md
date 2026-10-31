@@ -20,6 +20,11 @@ sources:
   url: https://verwaltung.bund.de/leistungsverzeichnis/DE/leistung/99115005104000
 - title: www.oesterreich.gv.at – Informationen zum Thema
   url: https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/umzug
+faqs:
+- question: Fallen beim Umzug zwischen Deutschland und Österreich Zollgebühren an?
+  answer: "Da beide Länder zur Europäischen Union gehören, fällt bei Übersiedlungsgut privater Haushalte kein Zoll an. Dennoch sind Mitführbestimmungen und Inventarlisten für den Speditionstransport ratsam."
+- question: Wie wird das Umzugsgut für Fernstrecken auf der Autobahn gesichert?
+  answer: "Möbel werden mit stoßdämpfenden Decken, Stretchfolie und Spanngurten in LKW fachgerecht verzurrt. Empfindliche Geräte und Gläser werden zusätzlich in verstärkten Kartons gesichert."
 ---
 Ein Umzug zwischen Österreich und Deutschland verbindet zwei Aufgaben: die Einrichtung an die richtige Adresse bringen und persönliche Meldungen am neuen Wohnort erledigen. Die Möbelankunft ersetzt keine Wohnsitzanmeldung.
 

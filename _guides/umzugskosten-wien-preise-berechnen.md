@@ -20,6 +20,11 @@ sources:
   url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
 last_modified_at: '2026-10-11'
 guide_topic: kosten
+faqs:
+- question: Wie setzen sich die Kosten für einen Umzug in Wien zusammen?
+  answer: "Die Gesamtkosten basieren auf: Wohnungsgröße (m³ Ladevolumen), Etagen und Aufzugsituation, Distanz zwischen den Adressen, benötigter LKW-Größe und gebuchten Zusatzservices wie Montage."
+- question: Gibt es bei Sicher Team Wochenend- oder Stockwerkszuschläge?
+  answer: "Nein, in unseren schriftlichen Festpreisangeboten sind alle Faktoren (Stockwerke, Lift, Anfahrt) bereits verbindlich einkalkuliert – ohne nachträgliche Überraschungen."
 ---
 Ein Umzugspreis für Wien wird erst mit dem beschriebenen Haushalt und Leistungsumfang sinnvoll. Möbelmenge, beide Zugänge, Strecke und beauftragte Zusatzarbeiten sind genauer als Zimmerzahl allein. Ein persönliches Angebot ersetzt die Vermutung anhand eines fremden Startpreises.
 

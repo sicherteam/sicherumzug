@@ -18,6 +18,11 @@ editorial_image: student-room
 og_image: "/assets/images/editorial/studentenumzug-wg-zimmer-vorbereiten.webp"
 og_image_alt: Kleines WG-Zimmer mit wenigen gepackten Kartons, Schreibtisch und Reisetasche.
 guide_topic: planen
+faqs:
+- question: Gibt es günstige Angebote für kleine Studenten- und WG-Umzüge?
+  answer: "Ja, mit unserem Kleintransport-Tarif ab 49 € pro Stunde mit geräumigem LKW und zwei erfahrenen Möbelpackern lässt sich ein WG-Zimmer in wenigen Stunden übersiedeln."
+- question: Können Möbel aus mehreren WGs in einer Tour transportiert werden?
+  answer: "Ja, nennen Sie uns einfach die Zwischenstopps bei der Anfrage. Wir planen die effizienteste Route durch Wien."
 ---
 Bei einem Studentenumzug zählt zuerst, welches Inventar Ihnen gehört und ins neue Zimmer passen soll. Eigene, gemeinsame und geliehene Möbel werden vor Abbau oder Transport mit den Beteiligten zugeordnet.
 

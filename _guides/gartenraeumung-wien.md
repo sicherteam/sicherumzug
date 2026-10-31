@@ -21,6 +21,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/mistplatz-abfallarten-mengen
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplatz-regeln
+faqs:
+- question: Werden alte Gartenhütten und Zäune ebenfalls abgerissen und entsorgt?
+  answer: "Ja, wir übernehmen den Abbruch morscher Holzhütten, Geräteschuppen, verrosteter Maschendrahtzäune und den vollständigen Abtransport."
+- question: Transportieren Sie auch Grünschnitt und Erdaushub?
+  answer: "Kleinere Mengen Grünschnitt und Gartenabfälle können mitgenommen werden. Für große Mengen Schotter oder Erde organisieren wir die passende Muldenlogistik."
 ---
 Bei einer Gartenräumung wird zunächst beweglicher Bestand von Pflanzen, Boden und befestigten Bauteilen getrennt. Gartenmöbel, Geräte und Töpfe können zum Abtransport gehören; Gartenpflege oder Rückbau sind damit noch nicht vereinbart.
 

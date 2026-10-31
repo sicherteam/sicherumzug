@@ -20,6 +20,11 @@ guide_topic: raeumen
 sources:
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/entruempelungsdienst-sperrmuellabfuhr-ma48
+faqs:
+- question: Wie lange dauert die vollständige Räumung einer durchschnittlichen 3-Zimmer-Wohnung?
+  answer: "Eine normale 70–80 m² Wohnung wird von einem eingespielten 3- bis 4-Mann-Team meist innerhalb eines einzigen Arbeitstages (ca. 6 bis 8 Stunden) komplett geräumt und besenrein übergeben."
+- question: Verlängern Keller- oder Dachbodenabteile die Räumungsdauer?
+  answer: "Ja, vollgestellte Nebenräume erfordern zusätzliche Sortier- und Tragezeit. Diese Umfänge werden vorab bei der Besichtigung transparent eingerechnet."
 ---
 Die Dauer einer Haushaltsauflösung umfasst mehr als die Arbeit am Räumungstag. Persönliche Auswahl, Freigaben, private Abholungen und Rückgabe können den Zeitplan bestimmen. Ohne tatsächlichen Bestand und Zugang wäre eine pauschale Stundenangabe nicht belastbar.
 

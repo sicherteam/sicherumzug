@@ -15,6 +15,11 @@ sources:
   url: https://www.schwechat.gv.at/Abfallsammelzentrum_Schwechat_4
 - title: bmv.at – Informationen zum Thema
   url: https://bmv.at/trenn-abc/
+faqs:
+- question: Wie unterscheidet sich die Sperrmüllabholung in NÖ und dem Burgenland von Wien?
+  answer: "In den Bundesländern gibt es oft feste Sammeltage pro Gemeinde oder Wertstoffzentren der Abfallverbände (z. B. GVA). Wir kennen die örtlichen Bestimmungen und liefern direkt dorthin."
+- question: Fallen für Häuser im Wiener Umland höhere Anfahrtskosten an?
+  answer: "Nein, für Bezirke wie Mödling, Baden, Tulln, Korneuburg oder Schwechat berechnen wir transparente Nahbereichs-Fixpreise ohne überhöhte Anfahrtszuschläge."
 ---
 Für Sperrmüll in Niederösterreich und im Burgenland ist der konkrete Wohnort entscheidend. Gemeinden und Abfallverbände haben eigene Sammelstellen, Zugangsmittel und Termine. Wiener Mistplatzbedingungen sind dafür keine gemeinsame regionale Regel.
 

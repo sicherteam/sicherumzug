@@ -26,6 +26,11 @@ redirect_from:
 - "/ratgeber/2026-03-15-ummeldung-nach-umzug-oesterreich/"
 - "/ratgeber/2026-08-08-behoerdenwege-ummelden-oesterreich/"
 guide_topic: uebergabe
+faqs:
+- question: Welche Frist gilt für die polizeiliche Ummeldung (Meldezettel) in Österreich?
+  answer: "In Österreich müssen Sie Ihren neuen Hauptwohnsitz innerhalb von 3 Tagen nach dem Einzug beim zuständigen Meldeamt (in Wien beim Magistratischen Bezirksamt) persönlich oder online anmelden."
+- question: Muss das KFZ bei einem Umzug innerhalb Wiens umgemeldet werden?
+  answer: "Innerhalb desselben Zulassungsbezirks (Wien) bleibt das Kennzeichen gleich, die Adressänderung im Zulassungsschein muss jedoch der Zulassungsstelle gemeldet werden. Auch das Parkpickerl muss auf den neuen Bezirk übertragen werden."
 ---
 Nach einem Umzug sind Wohnsitzmeldung und persönliche Adressänderungen getrennt zu erledigen. Der Möbeltransport und eine Nachricht an die Hausverwaltung ersetzen diese Vorgänge nicht.
 

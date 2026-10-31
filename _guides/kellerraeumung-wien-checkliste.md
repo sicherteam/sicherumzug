@@ -26,6 +26,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/problemstoffe-muelltrennung
 - title: abfallberatung.wien.gv.at – Informationen zum Thema
   url: https://abfallberatung.wien.gv.at/lithium-batterien-und-akkus/
+faqs:
+- question: Muss der Keller vor dem Räumungstermin von mir vorsortiert werden?
+  answer: "Nein, das ist nicht zwingend nötig. Sie müssen lediglich markieren, was bleiben soll. Unser Team sortiert Sperrmüll, Metalle, Holz und Karton direkt vor Ort."
+- question: Was tun bei feuchten oder schimmligen Kellern?
+  answer: "Unsere Mitarbeiter sind mit entsprechender Schutzkleidung und FFP3-Masken ausgestattet, um auch feuchte oder staubige Kellerabteile sicher zu leeren."
 ---
 Für eine Kellerräumung benötigen Sie einen eindeutig freigegebenen Bereich und den tatsächlichen Weg nach draußen. Ein vorhandener Wohnungsschlüssel garantiert nicht den Zugang zu Keller und Abteil.
 

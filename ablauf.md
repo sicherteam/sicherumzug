@@ -6,7 +6,16 @@ seo_title: 'Umzug: Ablauf, Besichtigung & Angebot | Sicher Team'
 description: Start und Ziel nennen, Umfang besprechen und ein schriftliches Angebot
   erhalten. So planen wir Ihren Privatumzug oder Firmenumzug gemeinsam.
 permalink: "/ablauf/"
-last_modified_at: '2026-10-11'
+faqs:
+- question: "Wie läuft die kostenlose Besichtigung vor dem Umzug ab?"
+  answer: "Die Vor-Ort-Besichtigung in Wien und Umgebung oder per Video ist vollkommen kostenlos und unverbindlich. Wir erfassen Möbelmenge, Stiegenhäuser, Liftmaße und Ladewege, um ein transparentes Fixpreisangebot zu erstellen."
+- question: "Wann erhalte ich mein schriftliches Fixpreisangebot?"
+  answer: "Nach der Besichtigung oder nach Prüfung Ihrer Angaben erhalten Sie Ihr schriftliches Festpreisangebot in der Regel innerhalb von 24 Stunden – garantiert ohne versteckte Zusatzkosten."
+- question: "Wie kurzfristig kann ich einen Umzugstermin anfragen oder ändern?"
+  answer: "Wir empfehlen eine Vorlaufzeit von 1 bis 3 Wochen. Bei freien Kapazitäten sind auch kurzfristige Express-Umzüge möglich. Terminverschiebungen stimmen wir nach Verfügbarkeit unbürokratisch mit Ihnen ab."
+- question: "Wann und wie wird die Übersiedlung bezahlt?"
+  answer: "Die Bezahlung erfolgt nach ordnungsgemäßer Fertigstellung aller vereinbarten Arbeiten. Sie erhalten eine ordnungsgemäße Rechnung mit UID-Nummer für Ihre Unterlagen oder das Finanzamt."
+last_modified_at: '2026-10-31'
 ---
 Eine Übersiedlung ist planbar, wenn Umfang, Zugang und Zuständigkeiten feststehen. Sicher Team plant und übernimmt Ihren Umzug. Wir besprechen Ihre Anfrage persönlich mit Ihnen. Wir halten die beauftragten Arbeiten und Ihren Ansprechpartner vor der verbindlichen Zusage fest.
 

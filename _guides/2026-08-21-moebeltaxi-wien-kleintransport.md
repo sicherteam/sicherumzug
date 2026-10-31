@@ -16,6 +16,11 @@ guide_topic: packen
 sources:
 - title: www.willhaben.at – Informationen zum Thema
   url: https://www.willhaben.at/iad/sicherheitshinweise/konto
+faqs:
+- question: Kann ich in Wien auch nur ein einzelnes Möbelstück transportieren lassen?
+  answer: "Ja, unser Möbeltaxi und Kleintransport-Service befördert einzelne Sofas, Schränke, Waschmaschinen oder Käufe von Möbelhäusern und willhaben direkt von A nach B ab 49 € pro Stunde."
+- question: Ist das Tragen in die Wohnung beim Kleintransport inkludiert?
+  answer: "Ja, Sie können wählen, ob die Übernahme an der Gehsteigkante erfolgen soll oder unsere Möbelpacker das Möbelstück direkt in den gewünschten Stock und Raum tragen."
 ---
 Für die Abholung eines einzelnen Möbelstücks zählen Maße, Zugang und bestätigter Kontakt. Ein Kaufangebot beschreibt noch keine Trage-, Verpackungs- oder Montageleistung.
 

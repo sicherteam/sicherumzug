@@ -19,6 +19,11 @@ sources:
   url: https://www.dorotheum.com/de/c/verkaufen-268/
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
+faqs:
+- question: Wie werden antike Möbel und Ölgemälde während des Transports geschützt?
+  answer: "Wir verwenden spezielle wattierte Möbeldecken, Kantenschutzprofile, Stretchfolie und vibrationsarme LKW-Ladungssicherung, um empfindliche Oberflächen zu schonen."
+- question: Können Antiquitäten auch direkt angekauft oder gegengerechnet werden?
+  answer: "Ja, im Rahmen unseres Altwaren- und Antiquitäten-Ankaufs bewerten wir Biedermeier-, Jugendstil- oder Vintage-Stücke fair und ziehen den Betrag direkt vom Angebot ab."
 ---
 Beim Transport von Kunst oder Antiquitäten werden zuerst Objekt, Zustand und Weg erfasst. Die Entscheidung über Verkauf oder eine mögliche Anrechnung ist davon getrennt. Eine Wertvermutung beschreibt noch keine passende Verpackung.
 

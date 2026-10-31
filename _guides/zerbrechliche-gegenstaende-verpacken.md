@@ -18,6 +18,11 @@ og_image_alt: Einzeln mit Papier geschützte Gläser in einem Karton mit Trennf�
 permalink: "/ratgeber/zerbrechliche-gegenstaende-verpacken/"
 category: Ratgeber
 guide_topic: packen
+faqs:
+- question: Wie packt man Gläser und Tassen im Umzugskarton bruchsicher ein?
+  answer: "Gläser einzeln in Packseide wickeln und immer aufrecht (wie im Schrank stehend) in den Karton stellen – niemals flach liegend. Den Kartonboden und Zwischenräume mit Decken oder Knüllpapier polstern."
+- question: Wie transportiert man große Spiegel und gerahmte Bilder sicher?
+  answer: "Spiegel und Bilder werden mit Eckschonern versehen, in Luftpolsterfolie gehüllt und flach stehend zwischen Matratzen oder Möbelteilen im LKW gesichert."
 ---
 Zerbrechliche Stücke werden nach Material, Form und Größe vorbereitet. Eine Kennzeichnung „zerbrechlich“ ersetzt weder geeignete Verpackung noch Schutz empfindlicher Einzelteile. Besondere Kunstwerke und wertvolle Sammlungen brauchen eine individuell abgestimmte Vorbereitung.
 

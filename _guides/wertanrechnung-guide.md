@@ -24,6 +24,11 @@ guide_topic: auswahl
 sources:
 - title: www.dorotheum.com – Informationen zum Thema
   url: https://www.dorotheum.com/de/c/verkaufen-268/
+faqs:
+- question: Welche Gegenstände eignen sich am besten für eine Wertanrechnung?
+  answer: "Gut erhaltene Massivholz- und Designmöbel, Antiquitäten, Gemälde, Bronze- und Silberwaren, Porzellan renommierter Manufakturen, funktionierende Marken-Elektrogeräte und Sammlungen."
+- question: Wie wird der Wert der Gegenstände ermittelt?
+  answer: "Unsere Experten bewerten die Objekte nach aktuellem Marktwert und Wiederverkaufschancen in Wien transparent und nachvollziehbar vor Ihren Augen."
 ---
 Bei einer Wertanrechnung wird der bestätigte Wert bestimmter übernommener Gegenstände mit den vereinbarten Räumungskosten verrechnet. Ob dies möglich ist, wird anhand des konkreten Bestands geprüft. Alter, früherer Kaufpreis und ähnliche Inserate sind keine bestätigte Gutschrift.
 

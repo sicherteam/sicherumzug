@@ -17,6 +17,11 @@ og_image: "/assets/images/editorial/umzug-kartons-erste-nacht.webp"
 og_image_alt: Gepackte Umzugskartons mit Farbmarkierungen und eine getrennte Tasche
   für die erste Nacht.
 guide_topic: packen
+faqs:
+- question: Wie viele Umzugskartons brauche ich durchschnittlich pro Zimmer?
+  answer: "Als Faustregel gelten ca. 20 bis 30 Standardkartons pro Person bzw. 10 bis 15 Kartons pro Wohnraum. Büchersammler und große Küchen benötigen erfahrungsgemäß deutlich mehr Material."
+- question: Kann man stabile Umzugskartons und Packmaterial direkt bei Sicher Team beziehen?
+  answer: "Ja, wir liefern auf Wunsch zweiwellige Profi-Umzugskartons, Bücherkartons, Kleiderboxen, Seidenpapier und Luftpolsterfolie direkt vorab an Ihre Wiener Adresse."
 ---
 Schätzen Sie Umzugskartons nach tatsächlichem Inhalt. Wohnfläche allein bildet Bücherregale, kleine Küchen und viele leichte Textilien nicht gleich gut ab. Eine Probepackung liefert eine überprüfbare Grundlage.
 

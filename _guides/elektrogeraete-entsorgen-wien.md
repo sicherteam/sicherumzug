@@ -26,6 +26,11 @@ redirect_from:
 - "/ratgeber/2025-09-26-elektrogeraete-entsorgen-wien/"
 - "/ratgeber/2025/09/26/elektrogeraete-entsorgen-wien/"
 guide_topic: auswahl
+faqs:
+- question: Wie werden alte Großgeräte wie Waschmaschinen oder Kühlschränke entsorgt?
+  answer: "Elektro-Altgeräte (EAG) werden von uns fachgerecht getrennt und zu autorisierten Wiener Recyclingstationen (MA 48) gebracht, wo Schadstoffe umweltgerecht entnommen werden."
+- question: Müssen Kühlschränke vor dem Abtransport abgetaut werden?
+  answer: "Ja, Kühl- und Gefriergeräte sollten mindestens 24 Stunden vor dem Termin abgetaut und getrocknet werden, um Wasseraustritt im Stiegenhaus zu vermeiden."
 ---
 Für alte Elektrogeräte in Wien unterscheiden sich Selbstabgabe, Abholung und Weiterverwendung. Erfassen Sie Gerätetyp, Zustand, Zubehör und Materialbesonderheiten, bevor Sie den Weg wählen.
 

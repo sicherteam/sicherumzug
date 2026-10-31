@@ -18,6 +18,11 @@ og_image: "/assets/images/editorial/umzug-kartons-erste-nacht.webp"
 og_image_alt: Gepackte Umzugskartons mit Farbmarkierungen und eine getrennte Tasche
   für die erste Nacht.
 guide_topic: packen
+faqs:
+- question: Wie schwer darf ein gepackter Umzugskarton maximal sein?
+  answer: "Aus Gründen des Arbeitsschutzes und der Kartonstabilität sollte ein Karton nicht schwerer als ca. 20 bis 25 kg sein. Schwere Bücher gehören nach unten, leichte Kleidung nach oben."
+- question: Warum sollte man Zeitungspapier beim Geschirreinpacken meiden?
+  answer: "Die Druckerschwärze färbt auf feuchtem oder warmem Porzellan ab und lässt sich oft nur schwer abwaschen. Verwenden Sie stattdessen sauberes Packseidenpapier."
 ---
 Packen Sie zuerst Dinge, die bis zum Umzug wenig gebraucht werden. Sortieren Sie vor dem Packen aus und führen Sie offene Abgabeentscheidungen separat. So wird nicht unnötig Bestand verpackt, dessen Ziel noch unklar ist.
 

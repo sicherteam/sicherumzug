@@ -25,6 +25,11 @@ sources:
   url: https://wien.arbeiterkammer.at/beratung/Wohnen/einzug-und-auszug/auszug/Wohnungsuebergabe.html
 - title: 'AK Vorarlberg: Übergabeprotokoll bei Mietwohnungen'
   url: https://vbg.arbeiterkammer.at/uebergabeprotokoll
+faqs:
+- question: Warum ist ein schriftliches Wohnungsübergabeprotokoll so wichtig?
+  answer: "Es dient als rechtssicherer Beweis über den Zustand der Wohnung, vorhandene Vorschäden und die Zählerstände. Es schützt Mieter vor unberechtigtem Einbehalt der Kaution."
+- question: Wer muss das Übergabeprotokoll unterschreiben?
+  answer: "Sowohl der Vermieter (oder die bevollmächtigte Hausverwaltung) als auch der Mieter müssen das Protokoll nach gemeinsamer Begehung datieren und gegenzeichnen."
 ---
 ## Wohnungsübergabeprotokoll als Entwurf erstellen
 

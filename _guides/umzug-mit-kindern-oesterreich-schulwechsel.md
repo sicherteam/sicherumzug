@@ -19,7 +19,13 @@ sources:
 - title: www.oesterreich.gv.at – Informationen zum Thema
   url: https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/umzug/3/Seite.180520
 - title: www.bildung-wien.gv.at – Informationen zum Thema
-  url: https://www.bildung-wien.gv.at/ueber-uns/Abteilung-Praes-6---Sch-lerstromlenkung--Infrastruktur-und-Tagesbetreuung.html
+  url: https://www.bildung-wien.gv.at/ueber-uns/Abteilung-Praes-6
+faqs:
+- question: Wann sollte die Schulanmeldung bei einem Umzug in Wien erfolgen?
+  answer: "Informieren Sie die Bildungsdirektion bzw. die neue Wunschschule so früh wie möglich, idealerweise mehrere Monate vor Schuljahres- oder Semesterbeginn."
+- question: Wie binde ich Kinder positiv in den Umzug ein?
+  answer: "Lassen Sie Kinder ihre eigenen Spielzeugkisten mit bunten Aufklebern selbst packen und gestalten Sie das neue Kinderzimmer am Einzugstag als erstes fertig."
+---Sch-lerstromlenkung--Infrastruktur-und-Tagesbetreuung.html
 ---
 Beim Familienumzug brauchen Möbel, Kinderbetreuung und Schule jeweils einen eigenen Ablauf. Die neue Wohnung kann bereit sein, während der Schulplatz noch nicht bestätigt ist. Halten Sie diese Termine getrennt.
 

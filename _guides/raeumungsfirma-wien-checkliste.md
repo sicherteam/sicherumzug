@@ -25,6 +25,11 @@ sources:
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/entruempelungsdienst-sperrmuellabfuhr-ma48
+faqs:
+- question: Woran erkennt man eine seriöse Räumungsfirma in Wien?
+  answer: "Achten Sie auf einen kostenlosen Besichtigungstermin, ein schriftliches Fixpreisangebot ohne versteckte Kilometerpauschalen, eine aufrechte Gewerbeberechtigung und Allianz-Versicherungsschutz."
+- question: Sollte man dubiose '20-Euro-Pauschalen' aus Kleinanzeigen meiden?
+  answer: "Ja, solche Lockvogelangebote führen vor Ort fast immer zu massiven Nachforderungen oder illegaler Müllentsorgung im Wald. Bestehen Sie immer auf verbindliche Festpreise."
 ---
 Ein Räumungsangebot ist erst vergleichbar, wenn Bestand, Zugang und Abschluss übereinstimmen. Verwenden Sie bei jeder Anfrage dieselbe Liste und trennen Sie bereits erledigte Eigenleistungen von bloßen Abholplänen.
 

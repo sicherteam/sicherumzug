@@ -23,6 +23,11 @@ sources:
   url: https://www.dorotheum.com/de/c/verkaufen-268/
 - title: www.carla-wien.at – Informationen zum Thema
   url: https://www.carla-wien.at/sachspenden/
+faqs:
+- question: Wann ist eine Entrümpelung in Wien tatsächlich gratis?
+  answer: "Eine Entrümpelung ist für Sie dann 100 % kostenlos, wenn der geprüfte Wiederverkaufswert von verwertbaren Möbeln, Antiquitäten oder Sammlungen die Räumungskosten vollständig deckt."
+- question: Was passiert, wenn der Schätzwert höher als die Räumungskosten ist?
+  answer: "In diesem Fall erhalten Sie die Differenz nach Abschluss der Räumung bar oder per Banküberweisung ausbezahlt."
 ---
 Eine Entrümpelung kann für Sie ohne Restzahlung enden, wenn eine ausdrücklich vereinbarte Wertanrechnung alle vereinbarten Kosten deckt. Ob das für Ihren Bestand möglich ist, lässt sich aus Fotos einzelner schöner Stücke oder aus dem ursprünglichen Kaufpreis nicht zuverlässig ableiten.
 

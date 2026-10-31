@@ -16,6 +16,11 @@ guide_topic: planen
 sources:
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
+faqs:
+- question: Welche Risiken gibt es beim Umzug mit privaten Freunden?
+  answer: "Private Helfer haften bei Beschädigungen an Möbeln oder Stiegenhäusern in der Regel nicht (Gefälligkeitshandlung). Bei einer Profi-Firma greift die volle Betriebshaftpflichtversicherung."
+- question: Ist ein Do-it-yourself Umzug wirklich immer günstiger?
+  answer: "Rechnet man LKW-Miete, Tanken, Kaution, Halteverbotschilder, Packmaterial, Verpflegung und Urlaubstage zusammen, ist die Ersparnis gegenüber einem Fixpreis oft minimal."
 ---
 Eigenregie und beauftragte Hilfe werden nach dem gesamten Ablauf verglichen: Vorbereitung, Tragen, Fahrten, Aufbau und Fahrzeugrückgabe. Wenige fertige Kartons sind anders zu organisieren als sperrige Möbel über mehrere Stockwerke.
 

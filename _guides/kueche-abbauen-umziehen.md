@@ -13,6 +13,11 @@ redirect_from:
 - "/ratgeber/2026-05-24-kueche-abbauen-und-umziehen/"
 - "/ratgeber/2026-08-11-kueche-abbauen-umziehen/"
 guide_topic: packen
+faqs:
+- question: Wer klemmt Wasser, Dunstabzug und Herd fachgerecht ab?
+  answer: "Wasser- und Standardgeräteanschlüsse können im Rahmen der Demontage fachmännisch getrennt werden. Starkstromanschlüsse für E-Herde sollten durch konzessionierte Elektriker angeschlossen werden."
+- question: Kann die alte Arbeitsplatte am neuen Standort weiterverwendet werden?
+  answer: "Meist weichen die Maße oder Ausschnitte in der neuen Küche ab. Oft ist der Neuzuschnitt einer passenden Arbeitsplatte wirtschaftlicher und optisch sauberer."
 ---
 Vor einem Küchenumzug wird zuerst geprüft, welche Teile am Ziel weiterverwendet werden können. Gleiche Wandlänge bedeutet nicht automatisch gleiche Aufteilung oder passende Anschlüsse. Ausbau, Transport und Anschluss werden als verschiedene Arbeiten geplant.
 

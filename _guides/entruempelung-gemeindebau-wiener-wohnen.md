@@ -16,6 +16,11 @@ guide_topic: raeumen
 sources:
 - title: www.wienerwohnen.at – Informationen zum Thema
   url: https://www.wienerwohnen.at/ich-moechte/etwas-mieten-oder-kuendigen/etwas-kuendigen/wohnung-kuendigen.html
+faqs:
+- question: Welche Vorgaben stellt Wiener Wohnen bei der Wohnungsrückgabe?
+  answer: "Wiener Wohnen verlangt die Entfernung aller privaten Möbel, Einbauten und Bodenbeläge, die nicht im Mietvertrag übernommen wurden, sowie einen besenreinen Zustand."
+- question: Übernimmt Sicher Team auch die Rückgabe von Einbauten und Wandvertäfelungen?
+  answer: "Ja, wir demontieren bei Bedarf alte Holzdecken, Wandverkleidungen, Laminatböden oder nicht genehmigte Raumteiler fachgerecht."
 ---
 Bei der Rückgabe einer Gemeindewohnung sollten Räumung und offizieller Übergabetermin zusammen geplant werden. Die Bestätigung von Wiener Wohnen und die Anforderungen für Ihre konkrete Wohnung bilden die Grundlage. Eine bloße Zusage „besenrein“ ersetzt diese Prüfung nicht.
 

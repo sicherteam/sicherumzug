@@ -26,6 +26,11 @@ og_image: "/assets/images/editorial/keller-raeumung-behalten-trennen.webp"
 og_image_alt: Alte Gegenstände im Keller und eine separat abgestellte geschlossene
   Box mit roter Markierung.
 guide_topic: raeumen
+faqs:
+- question: In welcher Reihenfolge sollte eine Wohnungsräumung vorbereitet werden?
+  answer: "Zuerst Dokumente und Wertsachen sichern, dann Gegenstände für Verwandte kennzeichnen, Wertanrechnung besprechen, Sperrmüll erfassen und den festen Räumungstermin schriftlich vereinbaren."
+- question: Was bedeutet eine 'besenreine' Übergabe nach der Räumung?
+  answer: "Besenrein bedeutet: Alle Gegenstände, Einbauten und Nägel sind entfernt, alle Böden sind gründlich gekehrt und das Objekt ist frei von losem Schmutz für die Schlüsselübergabe."
 ---
 Eine Wohnungsräumung wird in sieben Schritten vorbereitet. Die Liste verbindet Auswahl, konkreten Auftrag und Abschluss; sie entscheidet keine ungeklärten Eigentums- oder Mietfragen.
 

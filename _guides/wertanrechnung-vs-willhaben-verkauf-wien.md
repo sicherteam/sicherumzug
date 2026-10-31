@@ -25,6 +25,11 @@ sources:
   url: https://www.willhaben.at/iad/sicherheitshinweise/konto
 - title: www.dorotheum.com – Informationen zum Thema
   url: https://www.dorotheum.com/de/c/verkaufen-268/
+faqs:
+- question: Lohnt sich der Eigenverkauf über willhaben mehr als eine Wertanrechnung?
+  answer: "Ein Eigenverkauf kann für Einzelstücke höhere Erlöse bringen, erfordert aber viel Zeit für Fotos, Inserate, Preisverhandlungen und oft unzuverlässige Selbstabholer. Wertanrechnung spart Zeit und garantiert den Abtransport."
+- question: Kann ich manche Stücke selbst verkaufen und den Rest anrechnen lassen?
+  answer: "Ja, Sie bestimmen völlig frei, welche Gegenstände Sie behalten oder privat verkaufen und was wir für die Räumung und Anrechnung übernehmen."
 ---
 Ein eigener Möbelverkauf und eine Räumungsanrechnung lösen unterschiedliche Aufgaben. Beim Verkauf organisieren Sie Beschreibung, Interessenten und Abholung. Eine Anrechnung wird für konkrete geeignete Stücke zusammen mit dem Räumungsauftrag geprüft.
 

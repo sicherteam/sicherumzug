@@ -23,6 +23,11 @@ og_image: "/assets/images/editorial/seniorenumzug-vertraute-dinge.webp"
 og_image_alt: Vertrauter Lesesessel mit Büchern, geschlossenem Fotoalbum und getrennt
   gepackter Alltagstasche.
 guide_topic: planen
+faqs:
+- question: Wie unterstützt Sicher Team ältere Menschen beim Umzug ins Seniorenheim?
+  answer: "Wir bieten einen einfühlsamen Komplettservice: Vorsichtiges Ein- und Auspacken, Möbelaufbau im neuen Zimmer sowie die besenreine Räumung der alten Wohnung aus einer Hand."
+- question: Können Angehörige den Umzug auch aus der Ferne beauftragen?
+  answer: "Ja, wir stimmen alle Details per E-Mail, Telefon oder Video mit Ihnen ab und halten Sie mit Fotodokumentationen über jeden Schritt auf dem Laufenden."
 ---
 Ein Seniorenumzug wird am neuen Alltag und der persönlichen Auswahl ausgerichtet. Entscheiden Sie gemeinsam mit der betroffenen Person, soweit möglich, welche vertrauten Dinge mitkommen und wo sie am Ziel stehen sollen.
 

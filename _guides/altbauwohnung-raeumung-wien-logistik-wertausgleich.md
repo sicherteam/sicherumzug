@@ -25,6 +25,11 @@ guide_topic: raeumen
 sources:
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
+faqs:
+- question: Wie wird eine Räumung im engen Wiener Altbau ohne Aufzug logistisch gelöst?
+  answer: "Erfahrene Trägerteams arbeiten mit professionellen Tragegurten und Treppenkarren. Bei extrem engen Stiegenhäusern oder großen Möbelmengen kann ein mobiler Möbellift über den Innenhof eingesetzt werden."
+- question: Können alte Altbaumöbel oder Parkettböden beim Abtransport beschädigt werden?
+  answer: "Wir schützen Türstöcke, Stiegenhauswände und empfindliche Böden mit Vlies und Schutzkanten. Zudem ist jeder Auftrag über unsere Allianz-Betriebshaftpflicht bis 1 Million Euro abgesichert."
 ---
 Bei der Räumung einer Altbauwohnung zählt der gesamte Weg vom Gegenstand bis zum Fahrzeug. Stockwerk und Quadratmeter allein beschreiben ihn nicht. Enge Stiegen, Zwischenpodeste, Durchgänge und ein Hofzugang können über den vorgesehenen Transportweg entscheiden.
 

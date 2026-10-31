@@ -14,6 +14,11 @@ enquiry_service: umzug
 sources:
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
+faqs:
+- question: Warum sollte man immer auf einen garantierten Fixpreis bestehen?
+  answer: "Ein garantierter Fixpreis schützt Sie vor bösen Überraschungen bei Stau, Trageverzögerungen oder Schlechtwetter. Bei Pauschalangeboten bleibt der Endpreis unveränderlich."
+- question: Welche Dokumente sollte ein seriöses Umzugsunternehmen vorweisen?
+  answer: "Einen Firmenbuchauszug, eine offizielle Gewerbeberechtigung für das Güterbeförderungsgewerbe (WKO) sowie den Nachweis einer aufrechten Frachtführer- und Betriebshaftpflichtversicherung."
 ---
 Die passende Umzugsfirma bestätigt Leistungen, Verantwortlichkeiten und Preis für Ihren konkreten Haushalt. Eine Rangliste oder Sternezahl beantwortet diese Fragen nicht. Beginnen Sie mit einer gemeinsamen Inventar- und Zugangsliste für alle Angebote.
 

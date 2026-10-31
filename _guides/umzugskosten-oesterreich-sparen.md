@@ -18,6 +18,11 @@ guide_topic: kosten
 sources:
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
+faqs:
+- question: Was ist der größte Hebel, um Umzugskosten spürbar zu senken?
+  answer: "Konsequentes Ausmisten vor dem Umzug: Je weniger Kubikmeter Ladevolumen und Möbel transportiert werden müssen, desto kleiner der benötigte LKW und desto kürzer die Arbeitszeit."
+- question: Spart ein Umzug unter der Woche gegenüber dem Monatsletzten Geld?
+  answer: "Ja, Termine in der Monatsmitte oder an Wochentagen (Dienstag bis Donnerstag) sind oft flexibler und günstiger buchbar als die stark nachgefragten Wochenenden am Monatsende."
 ---
 Sie können Umzugskosten beeinflussen, indem Sie den Bestand rechtzeitig reduzieren und klar festlegen, welche Arbeiten Sie selbst erledigen. Ein günstigeres Angebot ist erst vergleichbar, wenn beide Angebote denselben Umfang und dieselben Zugänge enthalten.
 

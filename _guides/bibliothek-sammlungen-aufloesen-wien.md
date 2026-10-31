@@ -24,6 +24,11 @@ sources:
   url: https://www.carla-wien.at/sachspenden/
 - title: www.dorotheum.com – Informationen zum Thema
   url: https://www.dorotheum.com/de/c/verkaufen-268/
+faqs:
+- question: Was passiert mit umfangreichen Büchersammlungen bei einer Haushaltsauflösung?
+  answer: "Gut erhaltene Fachbücher, Erstausgaben oder antiquarische Sammlungen werden für eine Wertanrechnung geprüft. Nicht mehr verwertbare Bücher werden dem Altpapier-Recycling der MA 48 zugeführt."
+- question: Können Sammlungen (Schallplatten, Porzellan, Münzen) gegengerechnet werden?
+  answer: "Ja, verwertbare Sammlerstücke fließen im Rahmen unserer transparenten Wertanrechnung direkt in das Angebot ein und verringern den Rechnungsbetrag."
 ---
 Bei einer Bibliothek oder Sammlung ist die erste Aufgabe die Auswahl. Kennzeichnen Sie, was erhalten, weitergegeben, fachlich geprüft oder entfernt werden soll. Persönliche Briefe, Notizen und geliehene Bestände werden vorher getrennt.
 

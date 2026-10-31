@@ -30,6 +30,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/sperrmuellabholung-entruempelung-tarifuebersicht
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
+faqs:
+- question: Welche Faktoren bestimmen den Preis einer Haushaltsauflösung in Wien?
+  answer: "Entscheidend sind das Gesamtvolumen des Hausrats, die Menge an echtem Sperrmüll gegenüber verwertbaren Möbeln, die Zugänglichkeit (Lift/Etagen) sowie die MA 48 Deponietarife."
+- question: Kann der Preis durch eine kostenlose Besichtigung vorab garantiert werden?
+  answer: "Ja, wir besichtigen das Objekt unverbindlich und erstellen einen verbindlichen Kostenvoranschlag mit garantierter Fixpreis-Garantie."
 ---
 Die Kosten einer Haushaltsauflösung werden durch tatsächlichen Bestand, Zugang und gewünschte Arbeiten bestimmt. Eine Quadratmeterzahl allein beschreibt weder einen vollen Keller noch die Demontage großer Möbel.
 

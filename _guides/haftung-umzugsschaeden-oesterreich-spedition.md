@@ -13,6 +13,11 @@ sources:
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
 guide_topic: kosten
+faqs:
+- question: In welcher Höhe sind meine Möbel während des Transports versichert?
+  answer: "Sicher Team verfügt über eine Betriebshaftpflichtversicherung bei der Allianz mit einer Deckungssumme von bis zu 1 Million Euro für Personen- und Sachschäden."
+- question: Wie schnell müssen eventuelle Transportschäden gemeldet werden?
+  answer: "Sichtbare Schäden sollten direkt bei der Übergabe im Abnahmeprotokoll vermerkt werden. Verdeckte Schäden sind laut WKO-Empfehlung unverzüglich schriftlich mit Fotos zu melden."
 ---
 Eine Haftpflicht- oder Transportversicherung beantwortet nicht allein, wie Ihr Umzug abgesichert ist. Vor der Beauftragung müssen Vertragspartner, vereinbarte Bedingungen, Verpackungsverantwortung und besondere Gegenstände geklärt sein.
 

@@ -26,6 +26,11 @@ guide_topic: raeumen
 sources:
 - title: eausweise.oesterreich.gv.at – Informationen zum Thema
   url: https://eausweise.oesterreich.gv.at/de/themen/gesetze_und_recht/erben_und_vererben/4
+faqs:
+- question: Darf die Wohnung vor Beendigung des Verlassenschaftsverfahrens geräumt werden?
+  answer: "Nein, Gegenstände dürfen erst nach Freigabe durch den Notar bzw. Gerichtskommissär entfernt werden. Wir beraten Angehörige gern diskret zur rechtlichen Vorbereitung."
+- question: Wie wird sichergestellt, dass private Erinnerungsstücke nicht verloren gehen?
+  answer: "Alle Dokumente, Briefe, Fotos und Wertsachen werden von uns separat gesammelt und in versiegelten Kisten persönlich an die Erben übergeben."
 ---
 Nach einem Todesfall werden persönliche Auswahl, Berechtigung und praktische Räumung getrennt organisiert. Klären Sie zuerst mit den zuständigen Beteiligten, wer über die betroffenen Gegenstände entscheiden darf. Eine Familienabsprache über Erinnerungsstücke ist nicht automatisch die vollständige rechtliche Freigabe.
 

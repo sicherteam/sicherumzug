@@ -18,6 +18,11 @@ editorial_image: attic-selection
 og_image: "/assets/images/editorial/dachbodenraeumung-auswahl-zugang.webp"
 og_image_alt: Angesammelte Möbel, Kartons und Koffer unter einer niedrigen Dachschräge.
 guide_topic: raeumen
+faqs:
+- question: Was ist bei der Räumung von Dachböden im Altbau besonders zu beachten?
+  answer: "Oft führen nur steile Holztreppen oder enge Leitern zum Dachboden. Eine Vorbesichtigung klärt Tragfähigkeit, Beleuchtung und notwendige Schutzausrüstung für unsere Teams."
+- question: Wie wird Staub und Schmutz im Stiegenhaus verhindert?
+  answer: "Kleinmaterial wird in reißfesten Säcken oder Boxen verschlossen transportiert. Nach Abschluss der Arbeiten reinigen wir die genutzten Stiegenhausbereiche sorgfältig."
 ---
 Ein Dachboden wird zuerst nach Besitz und Zugang erfasst. Entscheidend ist, welche Bestände freigegeben sind und wie sie durch Treppe oder Luke bis zum Fahrzeug gelangen. Eine pauschale Kartonzahl beschreibt diese Aufgabe nicht vollständig.
 

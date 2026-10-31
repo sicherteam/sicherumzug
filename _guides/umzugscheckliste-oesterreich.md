@@ -27,6 +27,11 @@ og_image: "/assets/images/editorial/umzug-kartons-erste-nacht.webp"
 og_image_alt: Gepackte Umzugskartons mit Farbmarkierungen und eine getrennte Tasche
   für die erste Nacht.
 guide_topic: planen
+faqs:
+- question: Wann sollte man mit der Vorbereitung für einen Umzug in Österreich beginnen?
+  answer: "Idealerweise 2 bis 3 Monate vor dem geplanten Termin: Mietvertrag kündigen, Umzugsfirma vergleichen, Halteverbot planen und schrittweise mit dem Ausmisten beginnen."
+- question: Welche Institutionen müssen über die Adressänderung informiert werden?
+  answer: "Meldeamt, Arbeitgeber, Finanzamt, Krankenkasse (ÖGK), Banken, Versicherungen, KFZ-Zulassungsstelle, Mobilfunkanbieter und der Post-Nachsendeauftrag."
 ---
 Diese Umzugscheckliste trennt Einrichtung, Wohnungsübergabe und persönliche Meldungen. Passen Sie Termine an Ihre tatsächlichen Verträge, Zugänge und bestätigten Zusagen an.
 

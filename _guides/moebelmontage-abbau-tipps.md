@@ -16,6 +16,11 @@ og_image: "/assets/images/editorial/moebel-abbau-beschlaege-sichern.webp"
 og_image_alt: Zerlegte Bettteile auf einer Schutzdecke mit gesondertem Beutel für
   Beschläge.
 guide_topic: packen
+faqs:
+- question: Wie gehen Schrauben und Scharniere beim Umzug nicht verloren?
+  answer: "Verpacken Sie Schrauben und Kleinteile in beschrifteten Ziploc-Beuteln und kleben Sie diese mit Malerkrepp direkt an das zugehörige Möbelstück."
+- question: Übernimmt Sicher Team auch die Montage von Boxspringbetten und Schwebetürenschränken?
+  answer: "Ja, unsere Monteure montieren komplizierte Schwebetürenschränke, Ecksofas und Boxspringbetten fachgerecht und millimetergenau am Zielort."
 ---
 Nicht jedes Möbelstück muss vollständig zerlegt werden. Entscheidend sind Konstruktion, Zustand und Transportweg. Prüfen Sie vor dem Abbau vorhandene Hersteller- oder Montageunterlagen und klären Sie einen unklaren Aufbau mit der zuständigen Person.
 

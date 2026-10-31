@@ -29,6 +29,11 @@ sources:
   url: https://abfallberatung.wien.gv.at/lithium-batterien-und-akkus/
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplatz-regeln
+faqs:
+- question: Wie werden Altöle, Autobatterien und Lacke aus Garagen entsorgt?
+  answer: "Diese Stoffe gelten als Problemstoffe und dürfen keinesfalls in den Restmüll. Wir transportieren sie gesichert zu den offiziellen Problemstoffsammelstellen der Stadt Wien."
+- question: Können alte Autoreifen oder Werkbänke mitgenommen werden?
+  answer: "Ja, Altreifen werden fachgerecht recycelt und schwere Werkbänke vor Ort zerlegt und abtransportiert."
 ---
 Bei einer Garagenräumung gehören Werkzeuge, Möbel, Geräte und besondere Stoffe in getrennte Gruppen. Eine allgemeine Angabe „Gerümpel“ reicht nicht, wenn daneben Batterien, alte Farben oder unbekannte Behälter stehen.
 

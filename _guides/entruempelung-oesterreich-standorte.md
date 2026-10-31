@@ -20,6 +20,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/mistplatz-regeln
 - title: www.schwechat.gv.at – Informationen zum Thema
   url: https://www.schwechat.gv.at/Abfallsammelzentrum_Schwechat_4
+faqs:
+- question: In welchen Bundesländern führt Sicher Team Entrümpelungen durch?
+  answer: "Unser Kerngebiet umfasst Wien, Niederösterreich und das Burgenland. Größere Projekte und Nachlässe übernehmen wir nach Absprache auch in Oberösterreich, der Steiermark und Salzburg."
+- question: Gibt es regionale Preisunterschiede bei den Deponiegebühren?
+  answer: "Ja, die Müll- und Deponiegebühren variieren je nach Bundesland und Abfallverband. Wir kalkulieren immer mit den günstigsten regionalen Entsorgungstarifen."
 ---
 Für eine Entrümpelung zählt die konkrete Adresse. Sie bestimmt Anfahrt, Zugang und die örtlichen Möglichkeiten zur Abgabe. Eine Anfrage für ein Bundesland ist deshalb erst mit Gemeinde oder Postleitzahl, Bestand und gewünschtem Termin sinnvoll einschätzbar.
 

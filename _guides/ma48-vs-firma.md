@@ -31,6 +31,11 @@ redirect_from:
 - "/ratgeber/2024/02/10/ma48-vs-firma/"
 - "/ratgeber/2024/08/12/sperrmuell-abholung-wien/"
 guide_topic: auswahl
+faqs:
+- question: Wann ist die Eigenentsorgung über die MA 48 sinnvoll?
+  answer: "Für einzelne Kartons, einen kaputten Bürostuhl oder wenige Säcke Alttextilien ist der nächste MA 48 Mistplatz ideal und kostenlos."
+- question: Ab wann rechnet sich ein Räumungsunternehmen wirtschaftlich?
+  answer: "Sobald schwere Möbel zerlegt, über mehrere Stockwerke getragen oder Transporter gemietet werden müssen, ist ein professioneller Fixpreis meist stressfreier und günstiger."
 ---
 In Wien stehen drei verschiedene Wege zur Auswahl: eigene Mistplatzabgabe, kostenpflichtige Abholung durch die MA 48 und ein individuell vereinbarter privater Räumungsauftrag. Welche Variante passt, hängt von Bestand, Zugang, eigener Arbeit und benötigten Zusatzleistungen ab.
 

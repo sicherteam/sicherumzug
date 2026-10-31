@@ -23,6 +23,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/entruempelungsdienst-sperrmuellabfuhr-ma48
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
+faqs:
+- question: Wie schnell kann eine Express-Entrümpelung in Wien starten?
+  answer: "Bei Notfällen (z. B. drohender Mietvertragsstrafen oder Wasserschäden) können wir oft innerhalb von 24 bis 48 Stunden ein Räumungsteam bereitstellen."
+- question: Wann ist ein Sperrmüll-Container sinnvoll?
+  answer: "Bei großen Mengen ab ca. 20–30 m³ Schüttgut oder Haussanierungen spart ein Container Zeit. Die Aufstellung auf öffentlichem Grund muss jedoch vorab bei der MA 46 angemeldet werden."
 ---
 Bei einer dringenden Räumung muss zuerst feststehen, was bis wann tatsächlich erledigt sein soll. Nennen Sie eine feste Rückgabefrist getrennt vom Wunschdatum. Eine kurzfristige Anfrage ist noch kein bestätigter Durchführungstermin.
 

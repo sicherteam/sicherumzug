@@ -22,6 +22,11 @@ sources:
   url: https://www.bmf.gv.at/themen/zoll/uebersiedlung-fahrzeugeigenimport/uebersiedlung-aus-nicht-eu-staat.html
 - title: www.oesterreich.gv.at – Informationen zum Thema
   url: https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/umzug
+faqs:
+- question: In welche europäischen Länder führt Sicher Team Umzüge durch?
+  answer: "Wir fahren regelmäßig Destinationen in Deutschland, der Schweiz, Italien, Ungarn, Tschechien und weiteren EU-Nachbarländern an."
+- question: Was muss bei einem Umzug in die Schweiz (Nicht-EU) beachtet werden?
+  answer: "Für die Schweiz sind genaue Zollinventarlisten (Formular 18.44 für Übersiedlungsgut), Abmelde- und Mietverträge erforderlich. Wir unterstützen Sie bei den Zolldokumenten."
 ---
 Für einen Auslandsumzug werden Möbeltransport und persönliche Verfahren getrennt geplant. Die wichtigste erste Unterscheidung lautet: Strecke innerhalb der EU oder mit Bezug zu einem Drittland? Europa und EU sind nicht dieselbe Gebietseinteilung.
 

@@ -19,6 +19,11 @@ sources:
   url: https://www.wien.gv.at/umwelt/mistplaetze-leistungen
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplatz-abfallarten-mengen
+faqs:
+- question: Was wird bei einer Entkernung vor der Sanierung alles entfernt?
+  answer: "Neben beweglichem Inventar entfernen wir alte Küchen, Sanitärobjekte, Fliesen, Zwischenwände aus Leichtbau sowie alte Tapeten und Teppichböden."
+- question: Wie wird Bauschutt von normalem Sperrmüll getrennt?
+  answer: "Bauschutt (Ziegel, Mörtel, Fliesen) wird in separaten Schuttmulden oder Big Bags gesammelt, da für mineralische Abfälle eigene Deponievorschriften gelten."
 ---
 Vor einer Sanierung wird zuerst festgelegt, welche beweglichen Gegenstände entfernt oder gesichert werden und was der Sanierungsbetrieb selbst übernimmt. Eine leere Wohnung ist nicht automatisch für jede Baumaßnahme vorbereitet.
 

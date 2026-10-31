@@ -10,6 +10,11 @@ permalink: "/ratgeber/zimmer-raeumung-wien-wg-uebergabe/"
 enquiry_service: entruempelung
 guide_group: Entrümpelung & Räumung
 guide_topic: raeumen
+faqs:
+- question: Kann auch nur ein einzelnes Zimmer in einer Wiener WG geräumt werden?
+  answer: "Ja, wir räumen einzelne WG-Zimmer termingerecht, ohne die Mitbewohner in den Gemeinschaftsräumen zu stören, und transportieren die Möbel fachgerecht ab."
+- question: Wie werden Möbel getrennt, die der WG gehören und welche, die entsorgt werden?
+  answer: "Sie markieren einfach mit farbigem Klebeband oder einer kurzen Liste die freigegebenen Möbel. Nur diese Stücke werden von unserem Team abtransportiert."
 ---
 Eine WG-Zimmerräumung betrifft nur eindeutig freigegebenes Inventar. Ein Möbel im eigenen Zimmer kann geliehen sein; Gemeinschaftseinrichtung gehört nicht automatisch zum persönlichen Auszug.
 

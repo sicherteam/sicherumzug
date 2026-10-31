@@ -29,6 +29,11 @@ sources:
   url: https://www.willhaben.at/iad/sicherheitshinweise/konto
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/umwelt/mistplatz-abfallarten-mengen
+faqs:
+- question: Wohin kann man gut erhaltene Möbel und Kleidung in Wien spenden?
+  answer: "In Wien nehmen soziale Einrichtungen wie die Caritas (Carla Läden), die Volkshilfe oder die 48er-Tandler gut erhaltene Möbel, Kleidung und Hausrat gerne als Sachspende an."
+- question: Übernimmt Sicher Team den Transport von Spenden zu karitativen Einrichtungen?
+  answer: "Ja, wir können im Rahmen einer Räumung oder Übersiedlung einen Zwischenstopp bei einer karitativen Organisation in Wien einplanen."
 ---
 Für aussortierte Dinge benötigen Sie einen tatsächlichen Empfänger oder Abgabeweg. Eine Verkaufsanzeige oder Spendenabsicht reduziert den Bestand erst, wenn die Übergabe organisiert ist. Persönliche Unterlagen und ungeklärtes Eigentum bleiben vorher getrennt.
 

@@ -16,6 +16,11 @@ sources:
 - title: www.arbeiterkammer.at – Informationen zum Thema
   url: https://www.arbeiterkammer.at/beratung/arbeitundrecht/Arbeitszeit/Normalarbeitszeit/Dienstverhinderung.html
 guide_topic: uebergabe
+faqs:
+- question: Gibt es in Österreich einen gesetzlichen Anspruch auf Sonderurlaub beim Umzug?
+  answer: "Das Angestelltengesetz und viele Kollektivverträge gewähren in Österreich meist 1 bis 2 Tage bezahlte Dienstverhinderung für einen beruflich oder privat notwendigen Wohnungswechsel."
+- question: Welche Nachweise verlangt der Arbeitgeber für den Umzugsurlaub?
+  answer: "In der Regel genügen die Vorlage des neuen Mietvertrags, die Meldebestätigung oder die Auftragsbestätigung der beauftragten Umzugsfirma."
 ---
 Wie viel bezahlte Zeit für einen Umzug zusteht, lässt sich nicht mit einer einzigen Zahl für alle Beschäftigten beantworten. Die [Arbeiterkammer Niederösterreich](https://noe.arbeiterkammer.at/beratung/konsumentenschutz/wohnen/umzug/Umzug.html) empfiehlt, eine mögliche Dienstverhinderung vor dem Wohnungswechsel zu klären.
 

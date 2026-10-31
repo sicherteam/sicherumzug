@@ -24,6 +24,11 @@ guide_topic: planen
 sources:
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
+faqs:
+- question: Wie wird Ausfallzeit beim Firmenumzug vermieden?
+  answer: "Wir erstellen einen minutiösen Phasenplan, verpacken Server und IT-Hardware in speziellen Sicherheitsboxen und führen den Hauptumzug bevorzugt am Wochenende durch."
+- question: Werden Büromöbel am neuen Standort nach Stellplan aufgebaut?
+  answer: "Ja, wir nummerieren Tische, Stühle und Aktenschränke nach Raum- und Mitarbeiterplänen, sodass am Montagmorgen alle Arbeitsplätze sofort einsatzbereit sind."
 ---
 Ein Firmenumzug wird vom benötigten Arbeitsbeginn am Ziel rückwärts geplant. Möbeltransport, IT, Daten, technische Vorbereitung und betriebliche Freigabe erhalten eigene Verantwortliche. Ein transportierter Arbeitsplatz ist noch kein vollständig betriebsbereiter Arbeitsplatz.
 

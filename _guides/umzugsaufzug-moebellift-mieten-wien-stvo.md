@@ -14,6 +14,11 @@ sources:
 - title: www.wien.gv.at – Informationen zum Thema
   url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
 guide_topic: packen
+faqs:
+- question: Wann ist der Einsatz eines Möbellifts in Wien unverzichtbar?
+  answer: "Bei schweren Vollholzmöbeln, engen Wendeltreppen ohne Aufzug oder Stockwerken ab dem 3. Stock spart ein Außenaufzug über Balkon oder Fenster viele Stunden Tragezeit."
+- question: Braucht ein Möbellift auf der Straße eine behördliche Genehmigung?
+  answer: "Ja, wenn der Schrägaufzug auf Gehsteigen oder Parkstreifen aufgestellt wird, ist eine straßenpolizeiliche Bewilligung nach § 90 StVO (MA 46) erforderlich."
 ---
 Ein Möbellift kann eine mögliche Lösung für ein Zugangsproblem sein. Ob er eingesetzt werden kann, hängt vom Gegenstand, Gebäudezugang, Aufstellort und der fachlichen Beurteilung ab. Ein vorhandenes Fenster oder ein freier Parkplatz ist noch keine bestätigte Einsatzmöglichkeit.
 

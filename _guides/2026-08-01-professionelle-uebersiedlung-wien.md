@@ -21,6 +21,11 @@ sources:
   url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
 - title: www.wko.at – Informationen zum Thema
   url: https://www.wko.at/transport-verkehr/gueterbefoerderungsgewerbe/umzugsfirmen--checkliste-fuer-kunden
+faqs:
+- question: Wie lange im Voraus sollte eine Übersiedlung in Wien gebucht werden?
+  answer: "Für einen reibungslosen Ablauf empfehlen wir eine Vorlaufzeit von 2 bis 4 Wochen – besonders zum Monatsende. Bei kurzfristigem Bedarf prüfen wir freie Express-Kapazitäten taggleich."
+- question: Welche Zugangsdaten sind für die Wiener Altbau-Planung wichtig?
+  answer: "Wichtig sind das Stockwerk, ob ein Lift vorhanden ist (und dessen Innenmaße), die Breite des Stiegenhauses sowie die Entfernung vom Hauseingang bis zur nächsten legalen Haltemöglichkeit."
 ---
 Eine Übersiedlung in Wien lässt sich erst konkret planen, wenn Startadresse, Zieladresse, Zugänge und Ladeplätze bekannt sind. Besprechen Sie beide Gebäude. Eine einfache Abholung kann auf der Zielseite durch einen kleinen Lift oder einen langen Weg zum Hauseingang aufwendiger werden.
 
