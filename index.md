@@ -100,7 +100,7 @@ Die folgende Preisübersicht dient Ihnen als transparente Orientierung für typi
 | Leistungspaket | Typische Wohnungsgröße | Personal & Fuhrpark | Enthaltene Leistungen | Richtpreis / Fixpreis |
 |---|---|---|---|---|
 | **Kompakt-Umzug** | 1-Zimmer / Student (bis 35 m²) | 1–2 Möbelpacker + Umzugswagen | Transport, Tragen, Basisschutz | ab 49 € / Std. bzw. ab 180 € Pauschale |
-| **Standard-Wohnung** | 2–3 Zimmer (40 bis 75 m²) | 2 geschulte Möbelpacker + LKW | Einladen, Transport, Möbelschutz | ab 69 € / Std. bzw. ab 380 € Pauschale |
+| **Standard-Wohnung** | 2–3 Zimmer (40 bis 75 m²) | 2 geschulte Möbelpacker + LKW | Einladen, Transport, Möbelschutz | ab 49 € / Std. bzw. ab 380 € Pauschale |
 | **Familien-Wohnung** | 3–4 Zimmer (80 bis 120 m²) | 3 Möbelpacker + großer LKW | Transport, Teilmontage, Tragegurte | ab 85 € / Std. bzw. ab 690 € Pauschale |
 | **Großraum / Haus** | ab 120 m² / Reihenhaus | 4 Möbelpacker + 2 LKW / Möbellift | Komplettservice inkl. Ab- & Aufbau | nach kostenloser Besichtigung ab 1.150 € |
 

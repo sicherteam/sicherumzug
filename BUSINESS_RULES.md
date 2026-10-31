@@ -27,4 +27,4 @@
 4. **Fiyatlandırma Standartları (Pricing Baseline & Anti-Lockvogel / Anti-Scam Kuralı)**:
    - **KURAL:** Viyana pazarında Google'ın ve tüketici koruma kurumlarının "sahte yemleme teklifleri" (Lockvogelangebot) spam filtrelerine takılmamak ve kurumsal ciddiyeti korumak için en düşük taban fiyat formatı istisnasız **standart "ab 49 €"** (veya "ab 49 € / Std.") olarak kullanılır.
    - Sitede, rehberlerde, GBP paylaşımlarında, başlıklarda ve Schema kodlarında **ASLA "ab 29" veya "ab 59" gibi ibareler yer almayacaktır** (Örn: "ab 20 €", "ab 25 €", "ab 29 €", "ab 59 €" kesinlikle yasaktır).
-   - Standart daire ve çoklu personel gerektiren paketler için gerçekçi piyasa standartları uygulanır (Örn: 2 Möbelpacker + LKW ab 69 € / Std. bzw. ab 380 € Pauschale; Möbeltaxi ab 180 € Pauschale; 1-2 Zimmer Wohnungsumzug ab 290 € Fixpreis).
+   - Standart daire ve saatlik paketlerde taban başlangıç fiyatı **ab 49 € / Std.** olarak sunulur (Örn: Standard-Wohnung ab 49 € / Std. bzw. ab 380 € Pauschale; Möbeltaxi ab 180 € Pauschale; 1-2 Zimmer Wohnungsumzug ab 290 € Fixpreis).
