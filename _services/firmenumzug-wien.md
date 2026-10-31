@@ -26,7 +26,7 @@ faqs:
 - question: Bis zu welcher Summe ist der Firmenumzug versichert?
   answer: Unser gewerblicher Versicherungsschutz bei der Allianz deckt Schäden an Transportgut, Bürotechnik sowie Gebäude- und Aufzugsanlagen mit bis zu 1.000.000 € je Schadensfall ab.
 ---
-Wir bringen Büroeinrichtung, Arbeitsplätze und Kartons an Ihren neuen Standort. Transport, Verpackung und Möbelmontage planen wir passend zu Ihrem betrieblichen Zeitplan. Sie erhalten ein schriftliches Fixpreisangebot und stimmen die Durchführung direkt mit Sicher Team ab.
+Als spezialisierte [Umzugsfirma Wien](/) bringen wir Büroeinrichtung, Arbeitsplätze und gewerbliche Bestände an Ihren neuen Standort. Ob Büroverlagerung im Bezirk oder großflächiger [Umzug in Wien](/leistungen/umzug-wien/): Transport, Verpackung und Möbelmontage planen wir passend zu Ihrem betrieblichen Zeitplan. Sie erhalten ein schriftliches Fixpreisangebot und stimmen die Durchführung direkt mit Sicher Team ab.
 
 <!-- editorial-image -->
 

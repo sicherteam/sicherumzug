@@ -45,7 +45,7 @@ Geben Sie Kartons eine Nummer, Zielraum und kurze Inhaltsangabe. Schreiben Sie s
 
 Halten Sie Schlüssel, Hygieneartikel, Ladegeräte und Dinge für die erste Nacht separat. Prüfen Sie Verschluss und tatsächliche Kartonmenge vor der Abholung und melden Sie größere Abweichungen.
 
-Die [Anleitung für zerbrechliche Gegenstände](/ratgeber/zerbrechliche-gegenstaende-verpacken/) ergänzt die Materialplanung. Der [Kartonratgeber](/ratgeber/umzugskartons-verpackungsmaterial-berechnen/) erklärt die Probepackung. Gewünschte Einpackhilfe wird anhand der betreffenden Stücke vereinbart.
+Die [Anleitung für zerbrechliche Gegenstände](/ratgeber/zerbrechliche-gegenstaende-verpacken/) ergänzt die Materialplanung. Der [Kartonratgeber](/ratgeber/umzugskartons-verpackungsmaterial-berechnen/) erklärt die Probepackung. Gewünschte Einpackhilfe wird anhand der betreffenden Stücke vereinbart; unser [Umzugsservice Wien](/leistungen/umzug-wien/) stellt auf Wunsch auch erfahrene Packprofis unserer [Wiener Umzugsfirma](/) bereit.
 
 
 ## Passende Services & Ratgeber

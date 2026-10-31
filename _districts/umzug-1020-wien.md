@@ -31,7 +31,7 @@ district_number: 2
 ---
 ## Übersiedlung in 1020 Wien planen
 
-Für Ihren Umzug in der Leopoldstadt können Sie Sicher Team den Wohnungsbestand oder einzelne Möbel anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Das konkrete Angebot benennt die Durchführung und gewünschte Zusatzarbeiten. Bei mehreren Gebäudeeingängen beginnt die Vorbereitung mit einer eindeutigen Beschreibung der Abholstelle.
+Für Ihren Umzug in der Leopoldstadt steht Ihnen Sicher Team als [erfahrene Umzugsfirma in Wien](/) zur Seite. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Das konkrete Angebot benennt die Durchführung und gewünschte Zusatzarbeiten. Bei mehreren Gebäudeeingängen beginnt die Vorbereitung mit einer eindeutigen Beschreibung der Abholstelle.
 
 ## Den richtigen Eingang in der Leopoldstadt beschreiben
 

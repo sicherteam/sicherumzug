@@ -39,6 +39,10 @@ Die [Wiener Halteverbotsinformation](https://www.wien.gv.at/amtswege/kurzfristig
 Halten Sie fest, wer Zugang, Geräteprüfung, mögliche Bewilligungen und Möbelvorbereitung organisiert. Verpackung, Demontage und Aufbau werden ausdrücklich vereinbart. Bereiten Sie keine unbestätigte Beförderung über einen Außenweg selbst vor. Wenn Gegenstand oder Aufstellplatz sich ändern, muss die Durchführung erneut abgestimmt werden.
 
 
+Sicher Team ist Ihre [Umzugsfirma Wien](/) mit modernem Fuhrpark und Außenaufzügen.
+
+In engen Stiegenhäusern erleichtert ein Möbellift jeden [Umzug in Wien](/leistungen/umzug-wien/) erheblich.
+
 ## Passende Services & Ratgeber
 
 - [Halteverbotszone für den Umzug](/ratgeber/halteverbotszone-umzug-oesterreich/): Parkverbotszone StVO in Wien.

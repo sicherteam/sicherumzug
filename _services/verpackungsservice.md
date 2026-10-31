@@ -22,7 +22,7 @@ faqs:
     Nennen Sie den gewünschten Umfang und prüfen Sie, welche Arbeiten ausdrücklich
     bestätigt sind.
 ---
-Für einen Verpackungsservice nennen Sie, welche Räume oder Gegenstände eingepackt werden sollen. Eigenleistung und gewünschte Hilfe bleiben getrennt. Geschirr, Bücher, Kleidung, Bilder und technische Geräte werden mit ihrem unterschiedlichen Bestand beschrieben.
+Als Full-Service [Umzugsfirma Wien](/) bietet Sicher Team einen umfassenden Verpackungsservice für Ihren sicheren [Umzug in Wien](/leistungen/umzug-wien/). Für den Verpackungsservice nennen Sie, welche Räume oder Gegenstände eingepackt werden sollen. Eigenleistung und gewünschte Hilfe bleiben getrennt. Geschirr, Bücher, Kleidung, Bilder und technische Geräte werden mit ihrem unterschiedlichen Bestand beschrieben.
 
 <!-- editorial-image -->
 

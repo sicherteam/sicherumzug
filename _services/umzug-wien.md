@@ -25,7 +25,7 @@ sources:
 - title: Offizielle Informationen zum Thema
   url: https://www.wien.gv.at/amtswege/kurzfristige-halteverbotszone-bewilligung
 ---
-Wir übernehmen Ihren Umzug in Wien: vom Tragen und Transport bis zur gewünschten Verpackung und Möbelmontage. Bei der kostenlosen Besichtigung klären wir Einrichtung, Gebäudezugänge und Ladewege. Danach erhalten Sie unser schriftliches Fixpreisangebot und planen den Umzug direkt mit Sicher Team.
+Als erfahrene [Wiener Umzugsfirma](/) übernehmen wir Ihren Umzug in Wien: vom Tragen und Transport bis zur gewünschten [Möbelmontage](/leistungen/moebelmontage/) und dem fachgerechten [Verpackungsservice](/leistungen/verpackungsservice/). Bei der kostenlosen Besichtigung klären wir Einrichtung, Gebäudezugänge und Ladewege. Danach erhalten Sie unser schriftliches Fixpreisangebot und planen den Umzug direkt mit Sicher Team.
 
 <!-- editorial-image -->
 
@@ -35,7 +35,7 @@ Beschreiben Sie einen möglichen Ladeplatz und den Weg bis zum Eingang. Eine not
 
 Packhilfe, Material, Demontage und Montage werden einzeln benannt. Anschlussarbeiten, Reinigung und Entfernung alter Möbel sind keine automatische Übersiedlungsleistung. Besondere Lasten benötigen eine eigene Prüfung.
 
-Unser schriftlicher Fixpreis umfasst die aufgeführten Arbeiten und den abgestimmten Transport. Zusätzliche Wünsche und deren Preis besprechen wir vorab mit Ihnen. Fotos sind optional; den Termin bestätigen wir persönlich. [Privatumzug](/leistungen/privatumzug/) und [Firmenumzug](/leistungen/firmenumzug-wien/) erklären die jeweiligen Vorbereitungsaufgaben.
+Unser schriftlicher Fixpreis umfasst die aufgeführten Arbeiten und den abgestimmten Transport. Zusätzliche Wünsche und deren Preis besprechen wir vorab mit Ihnen. Fotos sind optional; den Termin bestätigen wir persönlich. [Privatumzug](/leistungen/privatumzug/) und [Firmenumzug](/leistungen/firmenumzug-wien/) erklären die jeweiligen Vorbereitungsaufgaben; eine erste transparente Kostenorientierung bietet unser [Umzugskosten-Rechner](/umzugskosten-rechner/).
 
 ## Anfahrt und Ladefläche in Wien
 

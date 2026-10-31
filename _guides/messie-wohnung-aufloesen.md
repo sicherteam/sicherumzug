@@ -78,7 +78,7 @@ Eine saubere Stofftrennung schont nicht nur die Umwelt, sondern senkt auch die r
 
 Nicht alles in einer stark gefüllten Wohnung ist wertlos. Oft verbergen sich unter Sammlungen, Werkzeugen, gut erhaltenen Vollholzmöbeln, Porzellan oder Altwaren Stücke mit realem Marktwert.
 
-Im Rahmen eines fairen [Möbel-Ankaufs](/leistungen/moebel-ankauf/) oder einer [Wertanrechnung](/leistungen/wertanrechnung/) werden verwertbare Objekte taxiert und direkt von den Räumungskosten abgezogen. Bei entsprechendem Bestand kann sich der Rechnungsbetrag spürbar reduzieren.
+Im Rahmen eines fairen [Möbel-Ankaufs](/leistungen/moebel-ankauf/) oder einer [Wertanrechnung](/ratgeber/wertanrechnung-guide/) werden verwertbare Objekte taxiert und direkt von den Räumungskosten abgezogen. Bei entsprechendem Bestand kann sich der Rechnungsbetrag spürbar reduzieren.
 
 ## 6. Endreinigung und besenreine Übergabe
 
@@ -93,6 +93,6 @@ Nach dem vollständigen Abtransport aller freigegebenen Gegenstände folgt der A
 ### Verwandte Ratgeber & Leistungen
 
 - [Entrümpelung Wien](/leistungen/entruempelung-wien/): Schnelle und fachgerechte Räumungen im gesamten Stadtgebiet.
-- [Verlassenschaftsräumung](/leistungen/verlassenschaft-wien/): Einfühlsame Betreuung bei Erbschaften und Nachlässen.
+- [Verlassenschaftsräumung](/leistungen/verlassenschaft/): Einfühlsame Betreuung bei Erbschaften und Nachlässen.
 - [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Alle Termine und behördlichen Fristen im Überblick.
 - [Kostenloses Angebot anfordern](/angebot/#angebot-form): Fixpreisangebot für Ihre Wohnungsräumung einholen.

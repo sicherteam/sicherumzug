@@ -46,6 +46,8 @@ Eine gewünschte Fläche vor dem Haus ist noch kein genehmigter Ladeplatz. Die S
 Wird ein Lift gesperrt, kommt weiterer Bestand dazu oder ändert sich die Zieladresse, informieren Sie den Auftragnehmer vor der Ausführung. Verlangen Sie eine nachvollziehbare Anpassung von Umfang und Preis. Für die gesamte Terminfolge hilft die [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/).
 
 
+Als verlässliches [Wiener Umzugsunternehmen Sicher Team](/) koordinieren wir Halteverbot und Ladeflächen persönlich.
+
 ## Passende Services & Ratgeber
 
 - [Möbellift mieten Wien](/ratgeber/umzugsaufzug-moebellift-mieten-wien-stvo/): Aussenaufzug für hohe Stockwerke.

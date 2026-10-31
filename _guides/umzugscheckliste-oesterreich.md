@@ -63,6 +63,10 @@ Erledigen Sie erforderliche Meldungen anhand der [offiziellen Checkliste](https:
 Der [persönliche Umzugsplaner](/umzugsplaner/) ordnet Aufgaben nach Ihrem Termin. Verwenden Sie pro Aufgabe Verantwortlichen und tatsächlichen Status; übermittelt und bestätigt sind unterschiedliche Schritte.
 
 
+Rechtzeitig vor dem Umzugstermin unterstützt Sie die [Wiener Umzugsfirma Sicher Team](/) bei der Bereitstellung von Packmaterial und Halteverbotszonen.
+
+Für einen reibungslosen [Umzug in Wien](/leistungen/umzug-wien/) sollte die Checkliste mindestens 4 Wochen vorab begonnen werden.
+
 ## Passende Services & Ratgeber
 
 - [Umzugskosten berechnen](/ratgeber/umzugskosten-wien-preise-berechnen/): Richtwerte und Angebote vergleichen.

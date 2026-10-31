@@ -53,6 +53,10 @@ Eine verantwortliche Kontaktperson sammelt Änderungen aus den Teams. Fremde ode
 Prüfen Sie nach jedem Abschnitt Inventar und Raumzuordnung. Halten Sie offene technische oder betriebliche Aufgaben mit Zuständigkeit fest. Ein solcher Ablauf kann Ausfälle planbar machen; er bestätigt weder einen Umzug ohne Unterbrechung noch eine ungeprüfte IT-Leistung des Transportbetriebs.
 
 
+Minimieren Sie Betriebsstillstände mit unserer [Full-Service Umzugsfirma Wien](/).
+
+Strukturierte Phasenpläne für jeden [Firmen- und Gewerbeumzug in Wien](/leistungen/umzug-wien/).
+
 ## Passende Services & Ratgeber
 
 - [Büro- und Gewerberäumung](/ratgeber/buero-und-gewerberaemung/): Gewerbliche Räumung und Entsorgung.

@@ -32,7 +32,7 @@ district_number: 6
 ---
 ## Umzug in 1060 Wien und Abholung im Geschäft
 
-Sicher Team nimmt Haushaltsumzüge und Möbeltransporte in Mariahilf entgegen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Bei einem Händlerkauf gehört die tatsächliche Übergabestelle ebenso in die Anfrage wie die Wohnung. Die örtliche Straßenart und der benötigte Hauszugang werden getrennt geprüft; Verpackung und Montage sind nach Vereinbarung möglich.
+Als etablierte [Umzugsfirma in Wien](/) nimmt Sicher Team Haushaltsumzüge und Möbeltransporte in Mariahilf entgegen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Bei einem Händlerkauf gehört die tatsächliche Übergabestelle ebenso in die Anfrage wie die Wohnung. Die örtliche Straßenart und der benötigte Hauszugang werden getrennt geprüft; Verpackung und Montage sind nach Vereinbarung möglich.
 
 ## Mariahilf: Straßenart und Hauseingang zuerst klären
 

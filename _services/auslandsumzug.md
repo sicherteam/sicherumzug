@@ -19,7 +19,7 @@ faqs:
     der Buchung ausdrücklich geklärt werden. Lagerung wird nicht automatisch als Teil
     der Strecke zugesagt.
 ---
-Für einen Auslandsumzug nennen Sie Startland, Zielland und beide Orte. Die Durchführung für Ihre konkrete Strecke wird vor einer Terminbestätigung geprüft; eine Anfrage ist keine Zusage für jede Destination.
+Als international erfahrene [Wiener Umzugsfirma](/) organisiert Sicher Team grenzüberschreitende Transporte und jeden [Umzug in Wien](/leistungen/umzug-wien/) mit professioneller Zollabwicklung und geschultem Personal. Für einen Auslandsumzug nennen Sie Startland, Zielland und beide Orte. Die Durchführung für Ihre konkrete Strecke wird vor einer Terminbestätigung geprüft; eine Anfrage ist keine Zusage für jede Destination.
 
 Erfassen Sie Möbel und Kartons, besondere Gegenstände, Etagen und Zugänge. Nennen Sie den letzten möglichen Auszug und den frühesten bestätigten Zugang am Ziel. Wenn die Termine auseinanderliegen, muss eine zusätzliche Lösung ausdrücklich geklärt werden. Lagerung wird nicht automatisch angeboten.
 

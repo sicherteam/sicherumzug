@@ -22,7 +22,7 @@ faqs:
     organisiert. Eine feste Kontaktperson kann Auswahl, Zugang und Zielraumzuordnung
     abstimmen.
 ---
-Bei einem Seniorenumzug wird zuerst die neue Wohnsituation betrachtet: Welche vertrauten Möbel passen und welche persönlichen Dinge werden am ersten Tag gebraucht? Auswahl und Zielraum bestimmen den Transportbestand.
+Als einfühlsame [Wiener Umzugsfirma](/) begleitet Sicher Team ältere Menschen und deren Angehörige bei jedem seniorengerechten [Umzug in Wien](/leistungen/umzug-wien/). Bei einem Seniorenumzug wird zuerst die neue Wohnsituation betrachtet: Welche vertrauten Möbel passen und welche persönlichen Dinge werden am ersten Tag gebraucht? Auswahl und Zielraum bestimmen den Transportbestand.
 
 <!-- editorial-image -->
 

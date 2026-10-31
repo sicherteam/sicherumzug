@@ -46,6 +46,10 @@ Dokumentieren Sie auffällige oder bereits beschädigte besondere Stücke vor de
 Prüfen Sie am Ziel besondere Gegenstände und ihre Verpackung sachlich. Bei einer Auffälligkeit sichern Sie Bilder, Auftragsinformationen und relevante Teile, bis das weitere Vorgehen abgestimmt ist. Versicherung und Verantwortung bei eigener Verpackung werden vor dem Auftrag gesondert geklärt. Die [Packreihenfolge](/ratgeber/verpackungstipps-umzug-anleitung/) ergänzt diese Vorbereitung; sie ist keine Schadensgarantie.
 
 
+Vertrauen Sie wertvolles Porzellan den [geschulten Möbelpackern unserer Wiener Umzugsfirma](/) an.
+
+Sicherer Glastransport bei jedem [Umzug in Wien](/leistungen/umzug-wien/).
+
 ## Passende Services & Ratgeber
 
 - [Kunst & Antiquitätentransport](/ratgeber/kunst-antiquitaetentransport-wien-wertanrechnung/): Wertvolles Transportgut sichern.

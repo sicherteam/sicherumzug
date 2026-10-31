@@ -31,7 +31,7 @@ district_number: 20
 ---
 ## Umzug in 1200 Wien: Lift und Möbel gemeinsam prüfen
 
-Für eine Übersiedlung in der Brigittenau können Sie Sicher Team den gesamten Wohnungsbestand oder einzelne sperrige Möbel anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Ein vorhandener Lift erleichtert die Beschreibung, beantwortet aber die Stückfrage noch nicht. Verpackung, Zerlegung und Aufbau werden anhand des tatsächlichen Zugangs und gewünschten Umfangs abgestimmt.
+Für eine Übersiedlung in der Brigittenau steht das [Wiener Umzugsunternehmen Sicher Team](/) bereit. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Ein vorhandener Lift erleichtert die Beschreibung, beantwortet aber die Stückfrage noch nicht. Verpackung, Zerlegung und Aufbau werden anhand des tatsächlichen Zugangs und gewünschten Umfangs abgestimmt.
 
 ## Liftöffnung und Wendestellen in der Brigittenau prüfen
 

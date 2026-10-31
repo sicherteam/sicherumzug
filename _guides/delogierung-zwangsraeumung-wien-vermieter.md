@@ -91,7 +91,7 @@ Mit der fertigen Räumung kann die Liegenschaft unverzüglich an Maler, Bodenleg
 
 ### Verwandte Ratgeber & Services
 
-- [Gewerbliche Räumung Wien](/leistungen/raeumung-wien/): Professionelle Räumungen für Eigentümer und Firmen.
+- [Gewerbliche Räumung Wien](/leistungen/raeumung/): Professionelle Räumungen für Eigentümer und Firmen.
 - [Möbellagerung & Transport](/leistungen/moebeltransport/): Sichere Zwischenlagerung von Hausrat und Möbeln.
 - [Wohnungsübergabeprotokoll Österreich](/ratgeber/wohnungsuebergabeprotokoll-oesterreich-muster/): Vorlage zur Dokumentation für Vermieter.
 - [Kostenloses Angebot anfordern](/angebot/#angebot-form): Verbindliches Fixpreisangebot für Delogierungsräumungen.

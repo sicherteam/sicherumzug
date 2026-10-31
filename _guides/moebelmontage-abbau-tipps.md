@@ -39,6 +39,10 @@ Messen Sie Stellfläche und Zugang. Teilen Sie Dachschrägen, enge Bereiche und 
 Notieren Sie, welche Arbeiten Sie selbst erledigen und welche beauftragt werden. Prüfen Sie vor dem Transport Vollständigkeit und Zuordnung der Einheiten. Fehlende Beschläge oder erkannte Schäden werden früh gemeldet. Am Ziel kontrollieren Sie den vereinbarten Aufbau anhand derselben Kennungen. Das Kennzeichnungssystem unterstützt die Arbeit, ersetzt aber keine fachgerechte Montage.
 
 
+Sparen Sie wertvolle Zeit und überlassen Sie komplexe Montagen der [Umzugsfirma Sicher Team](/).
+
+Fachgerechte Möbelmontage gehört zu jedem [professionellen Umzug in Wien](/leistungen/umzug-wien/) dazu.
+
 ## Passende Services & Ratgeber
 
 - [Küche abbauen und umziehen](/ratgeber/kueche-abbauen-umziehen/): Arbeitsplatten und Hängeschränke.

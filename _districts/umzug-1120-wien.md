@@ -30,7 +30,7 @@ district_number: 12
 ---
 ## Ihren Umzug in Meidling planen
 
-Sicher Team übernimmt Ihren Umzug in 1120 Wien mit den vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für ein passendes Angebot zählen beide Adressen, Ihre Möbel und Kartons sowie die Zugänge. Auch Kellerbestand und einzelne Möbeltransporte können Sie mitanfragen.
+Die [Wiener Umzugsfirma Sicher Team](/) übernimmt Ihren Umzug in 1120 Wien direkt von unserem Hauptstandort aus. Für ein passendes Angebot zählen beide Adressen, Ihre Möbel und Kartons sowie die Zugänge. Auch Kellerbestand und einzelne Möbeltransporte können Sie mitanfragen.
 
 ## Vom Ladeplatz bis zur Wohnung
 

@@ -50,7 +50,7 @@ faqs:
     Stockwerkszuschlag vorsah. Die tatsächlichen Tragewege und Liftmaße werden für
     das Angebot persönlich geprüft.
 ---
-Ein **Umzugskosten-Rechner** hilft, die richtigen Fragen früh zu stellen: Wie viel soll mit, welche Zugänge gibt es und welche Arbeiten übernimmt das Umzugsunternehmen? Ein Richtwert allein ersetzt keine Planung. Hier sehen Sie deshalb sowohl den Rechenweg als auch die Angaben, die später für Ihr persönliches Umzugsangebot wichtig sind.
+Ein **Umzugskosten-Rechner** hilft, die richtigen Fragen früh zu stellen: Wie viel soll mit, welche Zugänge gibt es und welche Arbeiten übernimmt das Umzugsunternehmen? Als führende [Wiener Umzugsfirma](/) bietet Ihnen Sicher Team mit diesem Rechner eine erste verlässliche Orientierung für Ihren geplanten [Umzug in Wien](/leistungen/umzug-wien/). Ein Richtwert allein ersetzt keine Planung. Hier sehen Sie deshalb sowohl den Rechenweg als auch die Angaben, die später für Ihr persönliches Umzugsangebot wichtig sind.
 
 ## So verwenden Sie den Umzugskosten-Rechner
 

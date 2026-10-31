@@ -31,7 +31,7 @@ district_number: 21
 ---
 ## Übersiedlung in 1210 Wien mit mehreren Bereichen
 
-Für einen Umzug in Floridsdorf können Sie Sicher Team Wohnungsbestand, Hausinventar und zusätzliche Möbel anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn Garage, Außenbereich oder zwei Zieladressen dazugehören, werden diese Aufgaben getrennt beschrieben. Packhilfe und Montage lassen sich anhand der gewählten Stücke und Zugänge mitanfragen.
+Für einen Umzug in Floridsdorf begleitet Sie unsere [professionelle Umzugsfirma in Wien](/). Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn Garage, Außenbereich oder zwei Zieladressen dazugehören, werden diese Aufgaben getrennt beschrieben. Packhilfe und Montage lassen sich anhand der gewählten Stücke und Zugänge mitanfragen.
 
 ## In Floridsdorf Gebäude und Zielorte sauber trennen
 

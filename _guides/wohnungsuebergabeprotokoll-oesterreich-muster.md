@@ -63,6 +63,10 @@ Planen Sie Möbelabholung, neuen Zugang und Rückgabe getrennt im [Umzugsplaner]
 Dokumentieren Sie vor der Wohnungsübergabe getrennt, welche Räumungsarbeiten vereinbart und erledigt wurden. Prüfen Sie freigegebene Räume, zurückzulassende Einbauten und gegebenenfalls vereinbarte Reinigung mit dem ausführenden Unternehmen. Halten Sie offene Punkte und deren Zuständigkeit schriftlich fest. Diese Arbeitsabnahme ersetzt weder das Protokoll mit der Vermietung noch die Prüfung Ihrer mietvertraglichen Pflichten.
 
 
+Eine [seriöse Umzugsfirma Wien](/) achtet auf sorgfältigen Schutz von Türstöcken und Böden.
+
+So vermeiden Sie Kautionsstreitigkeiten nach Ihrer [Übersiedlung in Wien](/leistungen/umzug-wien/).
+
 ## Passende Services & Ratgeber
 
 - [Mietvertrag kündigen Fristen](/ratgeber/mietvertrag-kuendigen-frist-muster-oesterreich/): Kündigungsschreiben und Termine.

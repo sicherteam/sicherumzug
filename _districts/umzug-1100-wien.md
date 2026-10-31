@@ -31,7 +31,7 @@ district_number: 10
 ---
 ## Umzug in 1100 Wien mit eindeutigem Zugang
 
-Sicher Team nimmt Haushaltsumzüge und Möbeltransporte in Favoriten entgegen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für eine Wohnanlage gehören Stiege und tatsächlicher Eingang früh in die Anfrage. Verpackung, Möbelzerlegung und Wiederaufbau können als zusätzliche Aufgaben beschrieben und im Angebot für den konkreten Auftrag bestätigt werden.
+Als qualifiziertes [Wiener Umzugsunternehmen](/) nimmt Sicher Team Haushaltsumzüge und Möbeltransporte in Favoriten entgegen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für eine Wohnanlage gehören Stiege und tatsächlicher Eingang früh in die Anfrage. Verpackung, Möbelzerlegung und Wiederaufbau können als zusätzliche Aufgaben beschrieben und im Angebot für den konkreten Auftrag bestätigt werden.
 
 ## In Favoriten Stiege und Eingang eindeutig angeben
 

@@ -31,7 +31,7 @@ district_number: 15
 ---
 ## Übersiedlung in 1150 Wien mit mehreren Übergaben
 
-Für Umzüge in Rudolfsheim-Fünfhaus können Sie Sicher Team private Haushalte und zusätzliche Möbelabholungen anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn Wohnung, Lager und Verkäufer beteiligt sind, werden diese Orte mit Bestand und Übergabekontakt getrennt beschrieben. Die gemeinsame Reihenfolge muss im konkreten Angebot abgestimmt werden.
+Für Umzüge in Rudolfsheim-Fünfhaus unterstützt Sie das [Wiener Umzugsunternehmen](/) Sicher Team. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn Wohnung, Lager und Verkäufer beteiligt sind, werden diese Orte mit Bestand und Übergabekontakt getrennt beschrieben. Die gemeinsame Reihenfolge muss im konkreten Angebot abgestimmt werden.
 
 ## Übergabekontakte in Rudolfsheim-Fünfhaus zuordnen
 

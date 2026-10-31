@@ -117,6 +117,7 @@ exclude:
 - plans
 - AGENTS.md
 - BUSINESS_RULES.md
+- MASTER-INTERNAL-LINKING-REFERENCE.md
 - README.md
 - package.json
 - package-lock.json

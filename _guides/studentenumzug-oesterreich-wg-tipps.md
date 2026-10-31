@@ -41,6 +41,10 @@ Prüfen Sie verbliebene Sachen, Reinigung und Schlüssel anhand der vereinbarten
 Packen Sie Dinge für Studium, Arbeit und erste Nacht separat. Beschriften Sie Kartons mit denselben Zimmernamen wie der Zielplan. Melden Sie neue Möbel oder ausgefallene Abholungen vor dem Termin. Nach Ankunft kontrollieren Sie die Mitnahme; die Rückgabe des alten Zimmers wird unabhängig davon abgeschlossen.
 
 
+Studentenfreundliche Tarife bietet unser [Wiener Umzugsunternehmen](/) bereits ab 49 € pro Stunde.
+
+Günstig und unkompliziert: Ihr [Studentenumzug in Wien](/leistungen/umzug-wien/) mit Sicher Team.
+
 ## Passende Services & Ratgeber
 
 - [Erste eigene Wohnung](/ratgeber/erste-eigene-wohnung-umzug-oesterreich/): Erstausstattung und Organisation.

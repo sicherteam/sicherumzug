@@ -30,7 +30,7 @@ district_number: 17
 ---
 ## Übersiedlung in 1170 Wien mit Kellerbestand
 
-Für einen Umzug in Hernals können Sie Sicher Team die Wohnung und ausgewählte gelagerte Gegenstände anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn zusätzlich geräumt werden soll, wird dieser Umfang getrennt beschrieben. Eine klare Auswahl im Keller hilft, Transportgut und aussortierte Dinge vor der Übergabe auseinanderzuhalten.
+Für einen fachgerechten Umzug in Hernals ist unsere [Wiener Umzugsfirma](/) Ihr verlässlicher Ansprechpartner. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn zusätzlich geräumt werden soll, wird dieser Umfang getrennt beschrieben. Eine klare Auswahl im Keller hilft, Transportgut und aussortierte Dinge vor der Übergabe auseinanderzuhalten.
 
 ## Kellerbestand in Hernals vor dem Umzug auswählen
 

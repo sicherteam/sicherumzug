@@ -38,6 +38,10 @@ Dokumentieren Sie Gegenstand, Stelle und beobachteten Zustand. Übersichts- und 
 Bewahren Sie Vereinbarung, Zustandsbilder und relevante Verpackung auf, bis das weitere Vorgehen abgestimmt ist. Lassen Sie rechtliche Ansprüche oder unklare Bedingungen geeignet prüfen. Die Dokumentation erleichtert die sachliche Bearbeitung, entscheidet aber weder Haftung noch Schadenshöhe.
 
 
+Achten Sie auf den aufrechten Versicherungsschutz bei einer [zertifizierten Umzugsfirma Wien](/).
+
+Für Ihren versicherten [Umzug in Wien](/leistungen/umzug-wien/) bürgt Sicher Team mit einer Allianz-Deckung bis 1 Mio. Euro.
+
 ## Passende Services & Ratgeber
 
 - [Umzugsfirma vergleichen](/ratgeber/umzugsfirma-vergleichen/): Versicherungspolizze prüfen.

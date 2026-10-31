@@ -24,7 +24,7 @@ faqs:
     Zielplatz, Zubehör und Zustand werden geklärt; Reparatur und Anpassungen sind
     nicht automatisch enthalten.
 ---
-Möbelmontage wird pro Möbelstück beschrieben: Abbau am bisherigen Ort, Vorbereitung für den Transport und Aufbau am Ziel sind unterschiedliche Aufgaben. Bei neuen Möbeln nennen Sie Modell und vorhandene Anleitung; ob die Erstmontage übernommen werden kann, wird bestätigt.
+Die geschulten Monteure der [Wiener Umzugsfirma Sicher Team](/) übernehmen den fachgerechten Möbelabbau und -aufbau im Rahmen Ihres [Umzugs in Wien](/leistungen/umzug-wien/). Möbelmontage wird pro Möbelstück beschrieben: Abbau am bisherigen Ort, Vorbereitung für den Transport und Aufbau am Ziel sind unterschiedliche Aufgaben. Bei neuen Möbeln nennen Sie Modell und vorhandene Anleitung; ob die Erstmontage übernommen werden kann, wird bestätigt.
 
 <!-- editorial-image -->
 

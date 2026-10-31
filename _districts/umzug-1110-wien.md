@@ -30,7 +30,7 @@ district_number: 11
 ---
 ## Übersiedlung in 1110 Wien mit verschiedenen Beständen
 
-Für einen Umzug in Simmering können Sie Sicher Team Wohnungsbestand und zusätzliche Möbel anfragen. Manche Aufträge enthalten auch Werkzeug oder Werkstatteinrichtung. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Entscheidend ist die Einzelprüfung ungewöhnlicher Stücke; Transport, Verpackung und Montage werden im Angebot konkret beschrieben.
+Für einen Umzug in Simmering begleitet Sie Sicher Team als [professionelle Umzugsfirma für Wien](/). Manche Aufträge enthalten auch Werkzeug oder Werkstatteinrichtung. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Entscheidend ist die Einzelprüfung ungewöhnlicher Stücke; Transport, Verpackung und Montage werden im Angebot konkret beschrieben.
 
 ## Wohnung und Werkstattbestand in Simmering unterscheiden
 

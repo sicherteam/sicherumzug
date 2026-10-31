@@ -47,6 +47,10 @@ Vergleichen Sie Anfahrt, Arbeitszeit, Fahrzeug, Tragen, Demontage, Material und 
 Wenn zusätzliche Möbel mitkommen oder ein Lift ausfällt, kann sich der vereinbarte Aufwand ändern. Melden Sie die Änderung vorab und lassen Sie die Folgen schriftlich festhalten. Sparen Sie nicht dadurch, dass Sie schwere Stücke ohne passenden Transportweg vorbereiten oder eine gewünschte Ladefläche als bereits gesichert darstellen. Für die Auswahl anhand gleicher Leistungen nutzen Sie den [Angebotsvergleich](/ratgeber/umzugsfirma-vergleichen/).
 
 
+Sparen Sie bares Geld durch transparente Fixpreisangebote unserer [Umzugsfirma Wien](/).
+
+Besonders bei einer [Übersiedlung in Wien](/leistungen/umzug-wien/) lassen sich durch Eigenleistungen beim Packen Kosten reduzieren.
+
 ## Passende Services & Ratgeber
 
 - [Umzugskosten Wien berechnen](/ratgeber/umzugskosten-wien-preise-berechnen/): Kostenüberblick und Preisfaktoren.

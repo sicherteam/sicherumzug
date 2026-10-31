@@ -46,6 +46,10 @@ Wenn die bisherige Wohnung aufgelöst wird, erstellen Sie dafür eine separate F
 Kontrollieren Sie nach Ankunft die wichtigsten Dinge und den gemeinsam gewählten Aufstellort. Die Rückgabe der bisherigen Wohnung kann noch eine eigene Aufgabe sein. Praktische Hilfe ersetzt weder persönliche Entscheidungen über Erinnerungen noch individuelle gesundheitliche Beratung.
 
 
+Mit Geduld und Respekt begleitet Sie Sicher Team als [einfühlsame Wiener Umzugsfirma](/).
+
+Vom Einpacken bis zur schlüsselfertigen Übergabe beim [Umzug in Wien](/leistungen/umzug-wien/).
+
 ## Passende Services & Ratgeber
 
 - [Haushaltsauflösung Todesfall](/ratgeber/haushaltsaufloesung-todesfall/): Einfühlsame Hilfe für Angehörige.

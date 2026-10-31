@@ -23,7 +23,7 @@ faqs:
 - question: Ab welchem Preis ist ein Möbeltransport oder Helfer buchbar?
   answer: Umzugshelfer und flexible Stundentarife starten bereits ab 49 € pro Stunde. Einzelmöbeltransporte und Kleintransporte in Wien bieten wir ab 49 € zum garantierten Festpreis an.
 ---
-Für einen Möbeltransport werden einzelne Stücke, Abholung und Lieferung konkret vereinbart. Nennen Sie jedes Möbel mit Maßen, Zustand und losen Teilen. Entscheidend ist auch, ob es aufgebaut, zerlegt oder bereits verpackt bereitsteht.
+Als vielseitige [Wiener Umzugsfirma](/) führt Sicher Team fachgerechte Möbel- und Kleintransporte sowie komplette [Umzüge in Wien](/leistungen/umzug-wien/) durch. Für einen Möbeltransport werden einzelne Stücke, Abholung und Lieferung konkret vereinbart. Nennen Sie jedes Möbel mit Maßen, Zustand und losen Teilen. Entscheidend ist auch, ob es aufgebaut, zerlegt oder bereits verpackt bereitsteht.
 
 <!-- editorial-image -->
 

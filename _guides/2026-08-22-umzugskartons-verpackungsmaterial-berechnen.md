@@ -50,6 +50,10 @@ Führen Sie je Raum gepackt, offen und besondere Verpackung. So wird derselbe In
 Der [Umzugskarton-Rechner](/umzugskarton-rechner/) ist eine Planung unter seinen genannten Annahmen. Prüfen Sie dessen Schätzung mit Ihrer Probepackung; sie bestätigt weder Materialeignung für jedes Stück noch einen Transportpreis.
 
 
+Erfahrene Möbelpacker unserer [Wiener Umzugsfirma](/) ermitteln Ihren genauen Bedarf.
+
+Als Faustregel für einen [Wohnungsumzug in Wien](/leistungen/umzug-wien/) gilt ca. 1 bis 1,5 Kartons pro Quadratmeter Wohnfläche.
+
 ## Passende Services & Ratgeber
 
 - [Verpackungstipps für den Umzug](/ratgeber/verpackungstipps-umzug-anleitung/): Systematisches Packen Schritt für Schritt.

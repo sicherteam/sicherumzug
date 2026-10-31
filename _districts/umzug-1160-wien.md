@@ -35,7 +35,7 @@ district_number: 16
 ---
 ## Umzug in 1160 Wien mit geordnetem Zielbestand
 
-Sicher Team nimmt Übersiedlungen und Möbeltransporte in Ottakring entgegen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für einen Haushalt mit zerlegten Möbeln und vielen Kartons hilft eine klare Zielzuordnung. Packhilfe, Abbau und Wiederaufbau lassen sich mitanfragen; ihre Durchführung wird anhand des konkreten Auftrags bestätigt.
+Als [professionelle Umzugsfirma in Wien](/) nimmt Sicher Team Übersiedlungen und Möbeltransporte in Ottakring entgegen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für einen Haushalt mit zerlegten Möbeln und vielen Kartons hilft eine klare Zielzuordnung. Packhilfe, Abbau und Wiederaufbau lassen sich mitanfragen; ihre Durchführung wird anhand des konkreten Auftrags bestätigt.
 
 ## In Ottakring Möbelteile und Zielräume zusammenhalten
 

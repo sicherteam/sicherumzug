@@ -31,7 +31,7 @@ district_number: 4
 ---
 ## Umzug und Möbelabholung in 1040 Wien
 
-Bei einem Umzug in Wieden kann zusätzlich ein gekauftes Möbelstück abgeholt werden sollen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für die Anfrage sind Wohnungsbestand und zusätzliche Verkäuferadresse getrennt anzugeben. Verpackung, Zerlegung und Wiederaufbau werden anhand der konkreten Stücke und gewünschten Aufgaben geprüft.
+Bei einem Umzug in Wieden unterstützt Sie das [Wiener Umzugsunternehmen Sicher Team](/): Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für die Anfrage sind Wohnungsbestand und zusätzliche Verkäuferadresse getrennt anzugeben. Verpackung, Zerlegung und Wiederaufbau werden anhand der konkreten Stücke und gewünschten Aufgaben geprüft.
 
 ## Möbelkauf und Wohnungsumzug in Wieden koordinieren
 

@@ -44,6 +44,10 @@ Für die Versorgung erklärt [E-Control](https://www.e-control.at/konsumenten/wi
 Halten Sie Unterlagen, Schlüssel, Bettzeug, Hygieneartikel und Ladegeräte im persönlichen Gepäck bereit. Klären Sie, was Sie selbst packen oder aufbauen und welche Hilfe vereinbart wird. Beim Einzug prüfen Sie Möbel und offene Aufgaben anhand Ihrer Liste, statt einen bereits erfolgten Transport mit einer vollständig eingerichteten Wohnung gleichzusetzen.
 
 
+Beim ersten Auszug unterstützt Sie Sicher Team als [preiswerte Umzugsfirma Wien](/).
+
+So gelingt Ihr erster eigener [Umzug in Wien](/leistungen/umzug-wien/) ohne unvorhergesehene Überraschungen.
+
 ## Passende Services & Ratgeber
 
 - [Studentenumzug Tipps](/ratgeber/studentenumzug-oesterreich-wg-tipps/): Kostengünstig umziehen in die WG.

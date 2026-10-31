@@ -21,7 +21,7 @@ faqs:
 - question: Gibt es günstige Stundentarife für Studenten?
   answer: Ja, für flexible WG- und Studentenumzüge bieten wir günstige Stundentarife für professionelle Umzugshelfer bereits ab 49 € pro Stunde.
 ---
-Ein Studentenumzug kann ein WG-Zimmer oder eine kleine Wohnung betreffen. Erfassen Sie eigenes Inventar getrennt von Gemeinschaftsmöbeln. Die Zimmergröße allein beschreibt weder Kartonzahl noch Transportaufwand.
+Für Studierende und Auszubildende bietet Sicher Team als preiswerte [Wiener Umzugsfirma](/) flexible Unterstützung für jeden studentischen [Umzug in Wien](/leistungen/umzug-wien/). Ein Studentenumzug kann ein WG-Zimmer oder eine kleine Wohnung betreffen. Erfassen Sie eigenes Inventar getrennt von Gemeinschaftsmöbeln. Die Zimmergröße allein beschreibt weder Kartonzahl noch Transportaufwand.
 
 <!-- editorial-image -->
 

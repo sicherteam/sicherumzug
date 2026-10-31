@@ -31,7 +31,7 @@ district_number: 8
 ---
 ## Übersiedlung in 1080 Wien mit klarer Stückliste
 
-Für einen Umzug in der Josefstadt können Sie Sicher Team den gesamten Haushalt oder ausgewählte Möbel anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Verpackung und Aufbau werden konkret abgestimmt. Bei umfangreichen Bücherbeständen oder empfindlicher Einrichtung hilft eine gegliederte Liste, die neben dem Zugang auch den gewünschten Umgang mit einzelnen Stücken beschreibt.
+Für einen Umzug in der Josefstadt bietet Sicher Team als [erfahrene Umzugsfirma in Wien](/) verlässliche Unterstützung. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Verpackung und Aufbau werden konkret abgestimmt. Bei umfangreichen Bücherbeständen oder empfindlicher Einrichtung hilft eine gegliederte Liste, die neben dem Zugang auch den gewünschten Umgang mit einzelnen Stücken beschreibt.
 
 ## Lange Gasse und andere Adressen in der Josefstadt
 

@@ -44,6 +44,10 @@ Klären Sie Schlüssel und tatsächliches Einzugsfenster. Benötigte Dinge sollt
 Aquarium, Terrarium und andere besondere Anlagen werden als eigene Gegenstände beschrieben; ihre Vorbereitung benötigt eine gesonderte fachliche Abstimmung. Bei gesundheitlichen Auffälligkeiten oder Fragen zur Eingewöhnung ist die geeignete Fachperson zuständig. Eine allgemeine Umzugsanleitung liefert dafür keine feste Frist.
 
 
+Entlasten Sie Hund und Katze am Umzugstag mit Unterstützung der [Wiener Umzugsfirma Sicher Team](/).
+
+Stressfreie Abläufe für Mensch und Tier bei Ihrem [Umzug in Wien](/leistungen/umzug-wien/).
+
 ## Passende Services & Ratgeber
 
 - [Umzug mit Kindern](/ratgeber/umzug-mit-kindern-oesterreich-schulwechsel/): Familienumzug vorbereiten.

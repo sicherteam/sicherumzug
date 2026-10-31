@@ -31,7 +31,7 @@ district_number: 22
 ---
 ## Ihren Umzug in der Donaustadt vorbereiten
 
-Für Ihren Umzug in 1220 Wien übernimmt Sicher Team die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Nennen Sie uns Start, Ziel und Möbelumfang. Auch vor der Schlüsselübergabe können Sie anfragen; noch ungeprüfte Angaben zum neuen Zugang bleiben zunächst offen.
+Für Ihren Umzug in 1220 Wien übernimmt die erfahrene [Wiener Umzugsfirma](/) Sicher Team die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Nennen Sie uns Start, Ziel und Möbelumfang. Auch vor der Schlüsselübergabe können Sie anfragen; noch ungeprüfte Angaben zum neuen Zugang bleiben zunächst offen.
 
 ## Den richtigen Eingang und Ladeweg festlegen
 

@@ -30,7 +30,7 @@ district_number: 5
 ---
 ## Übersiedlung in 1050 Wien mit Wohnung und Keller
 
-Bei einem Umzug in Margareten können Wohnungsbestand und gelagerte Gegenstände gemeinsam angefragt werden. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für ein nachvollziehbares Angebot müssen zusätzliche Kellerwege, Hofzugänge und gewünschte Räumung erkennbar sein. Diese Bereiche gehören zur Planung, wenn sie ausdrücklich mitbeauftragt werden sollen.
+Bei einem Umzug in Margareten begleitet Sie Sicher Team als [professionelle Umzugsfirma für Wien](/): Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Für ein nachvollziehbares Angebot müssen zusätzliche Kellerwege, Hofzugänge und gewünschte Räumung erkennbar sein. Diese Bereiche gehören zur Planung, wenn sie ausdrücklich mitbeauftragt werden sollen.
 
 ## Vorderhaus, Hofstiege und Keller in Margareten zuordnen
 

@@ -31,7 +31,7 @@ district_number: 13
 ---
 ## Haus- und Wohnungsumzug in 1130 Wien
 
-Für eine Übersiedlung in Hietzing können Sie Sicher Team den gewünschten Transport und ergänzende Arbeiten anfragen. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn ein Hausbestand in eine kleinere Wohnung zieht, hilft zuerst die Auswahl. Hausräume, Keller und Außenbestand werden dabei einzeln aufgenommen; Montage und Packhilfe werden nach Bedarf abgestimmt.
+Für eine Übersiedlung in Hietzing steht Ihnen Sicher Team als [erfahrene Umzugsfirma in Wien](/) zur Seite. Sicher Team übernimmt die vereinbarten Transport-, Verpackungs- und Montagearbeiten. Wenn ein Hausbestand in eine kleinere Wohnung zieht, hilft zuerst die Auswahl. Hausräume, Keller und Außenbestand werden dabei einzeln aufgenommen; Montage und Packhilfe werden nach Bedarf abgestimmt.
 
 ## Hausbestand in Hietzing auf die neue Wohnfläche abstimmen
 

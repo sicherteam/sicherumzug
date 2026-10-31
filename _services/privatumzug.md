@@ -25,7 +25,7 @@ Wir bringen Ihre Möbel und Kartons ins neue Zuhause. Ob Sie selbst packen oder 
 
 <!-- editorial-image -->
 
-Sicher Team übernimmt Ihren Umzug. Wir erstellen Ihr schriftliches Angebot und bleiben Ihr Ansprechpartner für Planung, Durchführung und Rückfragen.
+Als erfahrene [Wiener Umzugsfirma](/) übernimmt Sicher Team Ihren Privatumzug. Für die detaillierte Planung in allen 23 Bezirken stimmen wir jeden [Umzug in Wien](/leistungen/umzug-wien/) exakt auf Ihre persönlichen Wünsche und Zugänge ab. Wir erstellen Ihr schriftliches Angebot und bleiben Ihr Ansprechpartner für Planung, Durchführung und Rückfragen.
 
 ## Welche Unterstützung benötigen Sie?
 

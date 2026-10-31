@@ -39,6 +39,10 @@ Kennzeichnen Sie Einheiten nach Schrank und Position. Schrauben, Scharniere und 
 Dinge, die nicht mitkommen, gehören in eine getrennte Liste. Prüfen Sie nach Ankunft die Vollständigkeit der transportierten Einheiten. Ein abgeschlossener Möbeltransport bestätigt noch keine technische Wiederinbetriebnahme. Die dafür zuständige Fachperson prüft und erledigt ihren vereinbarten Teil separat.
 
 
+Die Tischler unserer [Wiener Umzugsfirma Sicher Team](/) demontieren und montieren Küchenelemente millimetergenau.
+
+Kombinieren Sie Ihren Küchenabbau mit einem Komplettservice für den [Umzug Wien](/leistungen/umzug-wien/).
+
 ## Passende Services & Ratgeber
 
 - [Möbel vor dem Umzug abbauen](/ratgeber/moebelmontage-abbau-tipps/): Schrauben und Scharniere beschriften.
