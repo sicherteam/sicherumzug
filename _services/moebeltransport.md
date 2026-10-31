@@ -3,7 +3,7 @@ last_modified_at: '2026-10-11'
 layout: service
 title: Möbeltransport in Wien
 seo_title: Möbeltransport Wien | Einzelmöbel & Kleintransporte
-description: "Möbeltransport in Wien ab 50 €: Einzelmöbel, Sofa oder Schrank sicher transportieren lassen. Abholung, Tragewege und Express-Lieferung nach Maß."
+description: "Möbeltransport in Wien ab 49 €: Einzelmöbel, Sofa oder Schrank sicher transportieren lassen. Abholung, Tragewege und Express-Lieferung nach Maß."
 kicker: Transport
 permalink: "/leistungen/moebeltransport/"
 intent_primary: transactional
@@ -21,7 +21,7 @@ faqs:
     im Zielraum sind unterschiedliche Umfänge. Der gewünschte Start- und Endpunkt
     muss ausdrücklich vereinbart sein.
 - question: Ab welchem Preis ist ein Möbeltransport oder Helfer buchbar?
-  answer: Umzugshelfer und flexible Stundentarife starten bereits ab 49 € pro Stunde. Einzelmöbeltransporte und Kleintransporte in Wien bieten wir ab 50 € zum garantierten Festpreis an.
+  answer: Umzugshelfer und flexible Stundentarife starten bereits ab 49 € pro Stunde. Einzelmöbeltransporte und Kleintransporte in Wien bieten wir ab 49 € zum garantierten Festpreis an.
 ---
 Für einen Möbeltransport werden einzelne Stücke, Abholung und Lieferung konkret vereinbart. Nennen Sie jedes Möbel mit Maßen, Zustand und losen Teilen. Entscheidend ist auch, ob es aufgebaut, zerlegt oder bereits verpackt bereitsteht.
 
@@ -33,7 +33,7 @@ Bei einer Abholung von Privatpersonen oder aus dem Handel bestätigen Sie Überg
 
 Verpackung, Aufbau und Entfernung eines alten Möbelstücks werden gesondert angefragt. Für mehrere Räume hilft [Privatumzug](/leistungen/privatumzug/), für besondere Lasten [Spezialtransport](/leistungen/spezialtransporte/).
 
-## Einzelmöbel & Kleintransporte in Wien ab 50 € zum Festpreis
+## Einzelmöbel & Kleintransporte in Wien ab 49 € zum Festpreis
 
 Nicht jede Übersiedlung umfasst einen kompletten Hausstand. Oft geht es um den zügigen und sicheren Transport einzelner Einrichtungsgegenstände, Erbstücke oder neu erworbener Möbel:
 
@@ -51,7 +51,7 @@ Sie bestimmen den gewünschten Komfort und Servicegrad selbst:
 
 ## Faire Tarife & Stundensätze für Ihren Möbeltransport
 
-- **Kleintransporte ab 50 €:** Günstige Fixpreise für einzelne Kleinmöbel, Elektrogeräte oder wenige Kartons innerhalb Wiens.
+- **Kleintransporte ab 49 €:** Günstige Fixpreise für einzelne Kleinmöbel, Elektrogeräte oder wenige Kartons innerhalb Wiens.
 - **Stundentarife für Umzugshelfer ab 49 €/Std.:** Flexible Unterstützung für stundenweise Transporte.
 - **Keine Wochenendzuschläge:** Ob Samstag oder Sonntag – wir transportieren Ihre Möbel an sieben Tagen der Woche zum gleichen fairen Tarif.
 - **Allianz Transportversicherung:** Versicherungsschutz bis 1.000.000 € deckt Transportschäden an Möbeln sowie eventuelle Schäden am Stiegenhaus vollumfänglich ab.

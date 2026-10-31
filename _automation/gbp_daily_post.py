@@ -517,8 +517,11 @@ def validate_post_rules(summary):
     assert "klavier" not in lower, "VIOLATION: Klavier found in GBP post!"
     assert "tresor" not in lower, "VIOLATION: Tresor found in GBP post!"
     assert "schwerlast" not in lower, "VIOLATION: Schwerlast found in GBP post!"
-    assert "29 €" not in summary, "VIOLATION: 29 € found in GBP post!"
-    assert "ab 29" not in summary, "VIOLATION: ab 29 found in GBP post!"
+    
+    # Strictly forbid deceptive low-ball prices ab 29 and ab 59
+    import re
+    assert not re.search(r'(?<!\d)(?:ab\s*29(?!\d)|29\s*€|29\s*Euro)', summary, re.IGNORECASE), "VIOLATION: 29 € or ab 29 found in GBP post!"
+    assert not re.search(r'(?<!\d)(?:ab\s*59(?!\d)|59\s*€|59\s*Euro)', summary, re.IGNORECASE), "VIOLATION: 59 € or ab 59 found in GBP post!"
 
 
 def publish_daily_post():
