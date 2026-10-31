@@ -12,4 +12,10 @@
   {%- assign enquiry_label = 'Räumung anfragen' -%}
   {%- assign enquiry_hint = 'Objekt, Zugang und Übergabetermin nennen. Wir besprechen die Räumung mit Ihnen.' -%}
 {%- endif -%}
-{%- capture enquiry_url -%}/angebot/?service={{ enquiry_service }}&from={{ page.url | url_encode }}#angebot-form{%- endcapture -%}
+{%- if enquiry_service == 'entruempelung' -%}
+  {%- capture enquiry_url -%}/angebot/#entruempelung{%- endcapture -%}
+{%- elsif enquiry_service == 'raeumung' -%}
+  {%- capture enquiry_url -%}/angebot/#raeumung{%- endcapture -%}
+{%- else -%}
+  {%- capture enquiry_url -%}/angebot/#angebot-form{%- endcapture -%}
+{%- endif -%}

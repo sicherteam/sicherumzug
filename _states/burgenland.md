@@ -32,7 +32,7 @@ faqs:
 ---
 ## Umzug im Burgenland und zwischen Burgenland und Wien
 
-Sie möchten einen Haushalt im Burgenland übersiedeln oder Möbel zwischen Wien und einer burgenländischen Gemeinde transportieren lassen? Sicher Team nimmt Ihre Anfrage für die genannte Strecke auf. Für den Auftrag ist [Angebot anfragen](/angebot/?service=umzug#angebot-form) der passende Einstieg. Diese Übersicht hilft Ihnen, Abholorte, Zielzugang und aussortierte Einrichtung sinnvoll zuzuordnen, bevor ein Termin und der Leistungsumfang vereinbart werden.
+Sie möchten einen Haushalt im Burgenland übersiedeln oder Möbel zwischen Wien und einer burgenländischen Gemeinde transportieren lassen? Sicher Team nimmt Ihre Anfrage für die genannte Strecke auf. Für den Auftrag ist [Angebot anfragen](/angebot/#angebot-form) der passende Einstieg. Diese Übersicht hilft Ihnen, Abholorte, Zielzugang und aussortierte Einrichtung sinnvoll zuzuordnen, bevor ein Termin und der Leistungsumfang vereinbart werden.
 
 Nennen Sie die genaue Gemeinde und beide Adressen. Wenn ein Teil des Bestands an einem zweiten Standort liegt, führen Sie diesen Halt gesondert auf. Eine Adresse für die Wohnung und eine weitere für eingelagerte Möbel sind zwei unterschiedliche Zugangsaufgaben. Halten Sie fest, wer vor Ort öffnen kann und welche Gegenstände dort mitgenommen werden sollen. Erst damit lässt sich eine gemeinsame Anfrage verständlich beschreiben.
 
@@ -64,4 +64,4 @@ Bei großen Schränken oder Tischen sind Fotos und Maße hilfreich. Notieren Sie
 
 Nennen Sie einen Wunschtag und, falls möglich, Alternativen. Ein bereits feststehender Übergabetermin gehört mit Uhrzeit in die Anfrage. Bei einer Strecke nach Wien prüfen Sie auch die dortige Lade- und Gebäudesituation; die Organisation im Burgenland ersetzt diese zweite Prüfung nicht.
 
-Sicher Team plant und übernimmt Ihren Umzug. Im konkreten Angebot werden Arbeiten, berücksichtigte Stopps und Termin bestätigt. Vergleichen Sie den enthaltenen Umfang, besonders bei Montage oder Entsorgung. Sie können Ihre Angaben über [Angebot anfragen](/angebot/?service=umzug) übermitteln; eine allgemeine Ortsanfrage reserviert noch keinen Termin oder kommunalen Abgabeplatz.
+Sicher Team plant und übernimmt Ihren Umzug. Im konkreten Angebot werden Arbeiten, berücksichtigte Stopps und Termin bestätigt. Vergleichen Sie den enthaltenen Umfang, besonders bei Montage oder Entsorgung. Sie können Ihre Angaben über [Angebot anfragen](/angebot/) übermitteln; eine allgemeine Ortsanfrage reserviert noch keinen Termin oder kommunalen Abgabeplatz.

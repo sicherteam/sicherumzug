@@ -199,7 +199,8 @@
     form.querySelectorAll('[aria-invalid=true]').forEach(field => { if (field.disabled) { field.removeAttribute('aria-invalid'); document.getElementById(field.id + '-error').textContent = ''; } });
   }
   const params = new URLSearchParams(location.search);
-  const requestedService = params.get('service');
+  const hash = (location.hash || '').replace('#', '').toLowerCase();
+  const requestedService = params.get('service') || (['umzug', 'entruempelung', 'raeumung'].includes(hash) ? hash : null);
   let sourcePage = location.origin + location.pathname;
   const from = params.get('from');
   // Only accept an internal path; never forward an arbitrary external URL.

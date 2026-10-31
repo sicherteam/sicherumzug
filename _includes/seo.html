@@ -22,6 +22,8 @@
 <meta property="og:type" content="{% if page.collection == 'guides' or page.article_schema %}article{% else %}website{% endif %}">
 <meta property="og:image" content="{{ image_url }}">
 <meta property="og:image:alt" content="{{ page.og_image_alt | default: default_image_alt | escape }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ seo_title | escape }}">
 <meta name="twitter:description" content="{{ description | escape }}">

@@ -27,7 +27,7 @@ faqs:
 ---
 ## Umzug nach oder aus Tirol: Route und Zielzugang zusammen planen
 
-Für einen Umzug zwischen Wien und Tirol oder eine andere genannte Strecke nimmt Sicher Team Ihre Anfrage auf. Entscheidend sind Start- und Zieladresse, gewünschter Tag und der Bestand, der tatsächlich transportiert werden soll. Über [Angebot anfragen](/angebot/?service=umzug#angebot-form) senden Sie uns Ihre Eckdaten. Die Planung verbindet die Fahrt mit den Bedingungen am Abhol- und Liefergebäude; beides sollte vor einer Terminbestätigung geklärt sein.
+Für einen Umzug zwischen Wien und Tirol oder eine andere genannte Strecke nimmt Sicher Team Ihre Anfrage auf. Entscheidend sind Start- und Zieladresse, gewünschter Tag und der Bestand, der tatsächlich transportiert werden soll. Über [Angebot anfragen](/angebot/#angebot-form) senden Sie uns Ihre Eckdaten. Die Planung verbindet die Fahrt mit den Bedingungen am Abhol- und Liefergebäude; beides sollte vor einer Terminbestätigung geklärt sein.
 
 Nennen Sie die konkrete Tiroler Gemeinde statt nur das Bundesland. Beschreiben Sie, ob es einen zusätzlichen Halt gibt und welche Übergabe dort gewünscht ist. Ein allgemeiner Routenname ist kein Beleg für eine bestimmte Fahrzeit oder den Einsatz eines bestimmten Fahrzeugs. Diese Punkte werden anhand des vereinbarten Auftrags geprüft. Falls ein Gebäudetermin feststeht, geben Sie Beginn, Ende und zuständige Kontaktperson an.
 
@@ -59,4 +59,4 @@ Ein zweiter Abholort, eine zusätzliche Lieferung und eine Räumung sind untersc
 
 ### Was bestätigt das Angebot?
 
-Sicher Team plant und übernimmt Ihren Umzug. Im Angebot werden Ansprechpartner, vereinbarte Arbeiten und Termin für Ihren Auftrag bestätigt. Prüfen Sie darin auch die berücksichtigten Adressen und offenen Zugangspunkte. Mit [Angebot anfragen](/angebot/?service=umzug) können Sie bekannte Daten und Rückfragen bündeln. Ändert sich eine Gebäudezeit oder kommt ein großer Gegenstand hinzu, sollte die Planung vor der Ausführung entsprechend aktualisiert werden.
+Sicher Team plant und übernimmt Ihren Umzug. Im Angebot werden Ansprechpartner, vereinbarte Arbeiten und Termin für Ihren Auftrag bestätigt. Prüfen Sie darin auch die berücksichtigten Adressen und offenen Zugangspunkte. Mit [Angebot anfragen](/angebot/) können Sie bekannte Daten und Rückfragen bündeln. Ändert sich eine Gebäudezeit oder kommt ein großer Gegenstand hinzu, sollte die Planung vor der Ausführung entsprechend aktualisiert werden.

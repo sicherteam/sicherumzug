@@ -18,7 +18,7 @@ Sie nennen uns Start, Ziel, Umfang und Wunschtermin. Wir besprechen die Zugänge
 - **Am Umzugstag:** Die vereinbarten Gegenstände transportieren und die beauftragten Demontage- und Montagearbeiten erledigen.
 - **Zum Abschluss:** Gemeinsam prüfen, ob die vereinbarten Arbeiten ausgeführt sind, und offene Punkte festhalten.
 
-[Unseren Ablauf ansehen](/ablauf/) oder [direkt ein Angebot anfragen](/angebot/?service=umzug#angebot-form).
+[Unseren Ablauf ansehen](/ablauf/) oder [direkt ein Angebot anfragen](/angebot/#angebot-form).
 
 ## Die Unterstützung, die zu Ihnen passt
 
@@ -48,7 +48,7 @@ Rechner liefern eine Orientierung nach den jeweils beschriebenen Annahmen und er
 - **Büro:** {{ site.address.street }}, {{ site.address.postal_code }} {{ site.address.city }}
 - **Standortkarte & Anfahrt:** [Ausführliche Anfahrtsbeschreibung auf unserer Kontaktseite](/kontakt/)
 
-[Ihr Vorhaben mit Sicher Team planen](/angebot/?service=umzug#angebot-form).
+[Ihr Vorhaben mit Sicher Team planen](/angebot/#angebot-form).
 
 ### Qualität & Kundenvertrauen
 

@@ -2,7 +2,7 @@
 layout: service-index
 title: Ihr Umzug. Die passende Unterstützung.
 seo_title: Umzugsservice Österreich | Leistungen & Städte | Sicher Team
-description: "Privatumzug, Büroumzug, Möbeltransport & Full-Service nach Maß. Transparente Fixpreise für Wien, Ostösterreich & ganz Österreich. Jetzt unverbindlich anfragen!"
+description: "Privatumzug, Büroumzug & Möbeltransport zum garantierten Fixpreis in Wien & Österreich. Allianz-versichert. Jetzt unverbindlich Angebot anfordern!"
 permalink: "/leistungen/"
 last_modified_at: 2026-10-17
 llm_summary: |-

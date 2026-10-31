@@ -37,6 +37,6 @@ Bewahren Sie Vereinbarung, Zustandsbilder und relevante Verpackung auf, bis das 
 
 - [Umzugsfirma vergleichen](/ratgeber/umzugsfirma-vergleichen/): Versicherungspolizze prüfen.
 - [Möbelpacker vs. DIY Umzug](/ratgeber/moebelpacker-vs-diy-umzug/): Haftungsunterschiede im Vergleich.
-- [Möbeltransport Leitfaden](/ratgeber/moebeltransport-profi-leitfaden/): Versicherungsschutz bei Umzug & Transport.
+- [Umzugscheckliste Österreich](/ratgeber/umzugscheckliste-oesterreich/): Umzug und Schutzmaßnahmen richtig planen.
 - [Über uns](/ueber-uns/): Allianz Betriebshaftpflicht bis 1 Mio. €.
 - [Kundenbewertungen](/bewertungen/): Erfahrungen unserer Kunden.

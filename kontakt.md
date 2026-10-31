@@ -66,7 +66,7 @@ Unser zentraler Standort im 12. Wiener Gemeindebezirk (Meidling) ermöglicht kur
 
 ## Nächste Schritte & Weiterführende Informationen
 
-- [Schriftliches Angebot anfragen](/angebot/?service=umzug#angebot-form): Wählen Sie Ihren Umzugsumfang und fordern Sie Ihr unverbindliches Fixpreisangebot an.
+- [Schriftliches Angebot anfragen](/angebot/#angebot-form): Wählen Sie Ihren Umzugsumfang und fordern Sie Ihr unverbindliches Fixpreisangebot an.
 - [Alle Leistungen im Überblick](/leistungen/): Vom Privatumzug über Büroumzüge bis hin zu fachgerechter Räumung und Entrümpelung.
 - [Preise & Kostentransparenz](/preise/): Erfahren Sie mehr über unsere Tarife, Stundensätze ab 49 € und Festpreis-Modelle.
 - [Einsatzgebiete in Wien & Österreich](/bezirke/): Alle 23 Wiener Bezirke und bundesweite Fernumzüge.

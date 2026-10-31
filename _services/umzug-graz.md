@@ -52,7 +52,7 @@ Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangeb
 
 Die Wohnsitzmeldung ist von Transport und Möbelmontage getrennt. Die [Stadt Graz informiert zur Wohnsitzanmeldung](https://www.graz.at/?cms_nearest=10022850). Klären Sie Ihre persönlichen Behördenwege direkt mit der zuständigen Stelle.
 
-Für weitere Strecken lesen Sie [Umzug Steiermark](/bundesland/steiermark/), für Ihren Haushalt [Privatumzug](/leistungen/privatumzug/) und für einzelne Stücke [Möbeltransport](/leistungen/moebeltransport/). [Umzug nach oder aus Graz anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-graz%2F#angebot-form).
+Für weitere Strecken lesen Sie [Umzug Steiermark](/bundesland/steiermark/), für Ihren Haushalt [Privatumzug](/leistungen/privatumzug/) und für einzelne Stücke [Möbeltransport](/leistungen/moebeltransport/). [Umzug nach oder aus Graz anfragen](/angebot/#angebot-form).
 
 ## Umzug Wien-Graz & Steiermark: Logistik über die Südautobahn (A2)
 

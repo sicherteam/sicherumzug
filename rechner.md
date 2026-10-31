@@ -50,4 +50,4 @@ Ergänzen Sie Adressen, Möbelmaße, Kartonzahl, Ladewege und bestätigte Schlü
 
 Geben Sie denselben Stand an alle angefragten Unternehmen. Teilen Sie spätere Änderungen mit. Prüfen Sie, ob Vertragspartner, ausführendes Unternehmen, Transportgut, Zugänge und Zusatzarbeiten im schriftlichen Angebot erkennbar sind.
 
-[Anfrage mit Ihren Angaben senden](/angebot/?service=umzug&from=%2Fkostenanfrage-vorbereiten%2F#angebot-form) · [Kostenpositionen verstehen](/preise/) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)
+[Anfrage mit Ihren Angaben senden](/angebot/#angebot-form) · [Kostenpositionen verstehen](/preise/) · [Umzugscheckliste](/ratgeber/umzugscheckliste-oesterreich/)

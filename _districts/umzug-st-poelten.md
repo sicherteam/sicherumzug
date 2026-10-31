@@ -52,7 +52,7 @@ Prüfen Sie Tore und Engstellen für das größte Möbel. Wenn eine Ladefläche 
 
 Trennen Sie fertig vorbereitete Kartons von gewünschter Packhilfe. Bei Schränken oder Betten nennen Sie, wer abbaut und am Ziel wieder aufbaut. Zusätzliche Abholstellen und später geänderte Mengen gehören vor dem Termin in die Abstimmung.
 
-Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot für die vereinbarten Arbeiten. Zusätzliche Wünsche und deren Preis besprechen wir vorab mit Ihnen. Für die Anfrage genügt zunächst eine nachvollziehbare Übersicht; Fotos der Möbel und Zugänge können helfen. Über [Angebot anfragen](/angebot/?service=umzug) senden Sie uns die Eckdaten Ihrer Übersiedlung.
+Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot für die vereinbarten Arbeiten. Zusätzliche Wünsche und deren Preis besprechen wir vorab mit Ihnen. Für die Anfrage genügt zunächst eine nachvollziehbare Übersicht; Fotos der Möbel und Zugänge können helfen. Über [Angebot anfragen](/angebot/) senden Sie uns die Eckdaten Ihrer Übersiedlung.
 
 ## Vor dem Umzug aussortieren: Hinweise der Stadt
 

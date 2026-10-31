@@ -53,7 +53,7 @@ Kennzeichnen Sie, welche Kartons Sie selbst packen und welche Möbel bis zum Ter
 
 Vergleichen Sie Angebote für denselben Bestand, dieselben Zugänge und dieselben Zusatzarbeiten. Im Angebot halten wir die vereinbarten Leistungen und den bestätigten Termin fest. Änderungen an Menge oder Zugang teilen Sie uns bitte vor dem Umzug mit.
 
-Über [Angebot anfragen](/angebot/?service=umzug) senden Sie uns beide Adressen und den Terminwunsch. Für einzelne Aufbauarbeiten finden Sie weitere Informationen zur [Möbelmontage](/leistungen/moebelmontage/). Unser Überblick zu [Halteverbotszonen](/ratgeber/halteverbotszone-umzug-oesterreich/) hilft bei der Vorbereitung des Ladeplatzes.
+Über [Angebot anfragen](/angebot/) senden Sie uns beide Adressen und den Terminwunsch. Für einzelne Aufbauarbeiten finden Sie weitere Informationen zur [Möbelmontage](/leistungen/moebelmontage/). Unser Überblick zu [Halteverbotszonen](/ratgeber/halteverbotszone-umzug-oesterreich/) hilft bei der Vorbereitung des Ladeplatzes.
 
 ## Lokale Besonderheiten & Halteverbot in 1120 Wien (Meidling)
 

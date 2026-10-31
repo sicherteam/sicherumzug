@@ -55,7 +55,7 @@ Bei einem Betriebsumzug stimmen wir die Reihenfolge der freigegebenen Möbel mit
 
 Sagen Sie uns, welche Kartons fertig gepackt sind und ob Möbel bereits zerlegt werden. Gewünschte Packhilfe, Abbau und Aufbau nehmen wir in die Abstimmung auf. Aussortierte Gegenstände, die nicht mitkommen, werden getrennt von der Transportliste geführt; eine zusätzliche Räumung können Sie gesondert anfragen.
 
-Für den nächsten Schritt senden Sie Ihre Übersicht über [Angebot anfragen](/angebot/?service=umzug). Weitere Informationen bieten [Hausumzug](/leistungen/hausumzug/) und [Firmenumzug](/leistungen/firmenumzug-wien/).
+Für den nächsten Schritt senden Sie Ihre Übersicht über [Angebot anfragen](/angebot/). Weitere Informationen bieten [Hausumzug](/leistungen/hausumzug/) und [Firmenumzug](/leistungen/firmenumzug-wien/).
 
 ## Lokale Besonderheiten & Halteverbot in 1230 Wien (Liesing)
 

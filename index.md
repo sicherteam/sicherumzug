@@ -279,7 +279,7 @@ Ob Privatumzug, Firmenumzug, Auslandsumzug oder besenreine Entrümpelung: Sicher
 
 - **Telefonische Beratung:** Rufen Sie uns täglich von 06:00 bis 23:00 Uhr unter [{{ site.phone }}](tel:{{ site.phone | remove: ' ' }}) an.
 - **WhatsApp Foto-Schnellservice:** Senden Sie uns 3–5 Fotos Ihrer Räume an [WhatsApp]({{ site.whatsapp }}) und erhalten Sie innerhalb weniger Minuten eine verlässliche Kostenschätzung.
-- **Online-Anfrageformular:** Nutzen Sie unser strukturiertes [Umzugs-Anfrageformular](/angebot/?service=umzug#angebot-form) für ein maßgeschneidertes Fixpreisangebot.
+- **Online-Anfrageformular:** Nutzen Sie unser strukturiertes [Umzugs-Anfrageformular](/angebot/#angebot-form) für ein maßgeschneidertes Fixpreisangebot.
 - **Persönliche Besprechung:** Besuchen Sie uns auf unserer [Kontaktseite](/kontakt/) für eine persönliche Beratung in unserer Zentrale in 1120 Wien.
 
 Fordern Sie noch heute Ihr **kostenloses Umzugsangebot Wien** an oder sichern Sie sich ein unverbindliches **Gratis Umzugsangebot Wien** – wir freuen uns auf Ihr Vorhaben!

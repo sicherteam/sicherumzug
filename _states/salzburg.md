@@ -32,7 +32,7 @@ faqs:
 ---
 ## Umzug Salzburg: Stadtadresse oder Gemeinde im Land?
 
-Sicher Team übernimmt Ihren Umzug nach, aus oder innerhalb Salzburgs. Wir transportieren Ihre Einrichtung und übernehmen die gewünschte Verpackung und Möbelmontage. Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot. Zuerst ist zu unterscheiden, ob die Adresse in der Stadt Salzburg oder in einer anderen Gemeinde des Bundeslands liegt. Nennen Sie beide konkreten Adressen, den geplanten Tag und den tatsächlich nutzbaren Eingang. Den Transport und gewünschte Zusatzarbeiten können Sie direkt über [Angebot anfragen](/angebot/?service=umzug) besprechen.
+Sicher Team übernimmt Ihren Umzug nach, aus oder innerhalb Salzburgs. Wir transportieren Ihre Einrichtung und übernehmen die gewünschte Verpackung und Möbelmontage. Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot. Zuerst ist zu unterscheiden, ob die Adresse in der Stadt Salzburg oder in einer anderen Gemeinde des Bundeslands liegt. Nennen Sie beide konkreten Adressen, den geplanten Tag und den tatsächlich nutzbaren Eingang. Den Transport und gewünschte Zusatzarbeiten können Sie direkt über [Angebot anfragen](/angebot/) besprechen.
 
 ## Land Salzburg: Ihre Gemeinde zählt {#land-salzburg}
 
@@ -66,4 +66,4 @@ Für feste Zutrittszeiten im Gebäude braucht die Planung eine erreichbare Konta
 
 Erstellen Sie eine Raumliste mit Möbeln und ungefähren Kartonmengen. Gewünschter [Verpackungsservice](/leistungen/verpackungsservice/) und [Möbelmontage](/leistungen/moebelmontage/) werden als eigene Arbeiten beschrieben. Zusätzliche Abholorte, Weitergabe oder Räumung führen Sie getrennt auf. Notieren Sie, was bereits vorbereitet ist und was noch übernommen werden soll. Für eine Fahrt nach Wien gehört auch die dortige Lade- und Zugangssituation in die Anfrage.
 
-Sicher Team plant und übernimmt Ihren Umzug. Im konkreten Angebot werden Leistungsumfang und Termin bestätigt. Lassen Sie festhalten, wer Genehmigungen und Ladeorganisation klärt. Über [Angebot anfragen](/angebot/?service=umzug) können Sie Ihren Bestand und offene Fragen übermitteln. Ihren Termin bestätigen wir nach Abstimmung der Route und der Zugänge. Behördliche Ausnahmen beantragen Sie oder die ausdrücklich beauftragte Person bei der zuständigen Stelle.
+Sicher Team plant und übernimmt Ihren Umzug. Im konkreten Angebot werden Leistungsumfang und Termin bestätigt. Lassen Sie festhalten, wer Genehmigungen und Ladeorganisation klärt. Über [Angebot anfragen](/angebot/) können Sie Ihren Bestand und offene Fragen übermitteln. Ihren Termin bestätigen wir nach Abstimmung der Route und der Zugänge. Behördliche Ausnahmen beantragen Sie oder die ausdrücklich beauftragte Person bei der zuständigen Stelle.

@@ -34,13 +34,13 @@ faqs:
 ---
 ## Umzug in Niederösterreich: Orte und Aufgaben verbinden
 
-Für einen Umzug innerhalb Niederösterreichs oder zwischen Niederösterreich und Wien ist die konkrete Strecke der Ausgangspunkt. Sicher Team nimmt Ihre Anfrage für den Transport und gewünschte Zusatzarbeiten auf. Nennen Sie beide Gemeinden, die Adressen und einen möglichen Termin. Über [Angebot anfragen](/angebot/?service=umzug#angebot-form) senden Sie uns Ihre Eckdaten; einzelne Ortsseiten helfen bei Fragen, die am jeweiligen Standort entstehen.
+Für einen Umzug innerhalb Niederösterreichs oder zwischen Niederösterreich und Wien ist die konkrete Strecke der Ausgangspunkt. Sicher Team nimmt Ihre Anfrage für den Transport und gewünschte Zusatzarbeiten auf. Nennen Sie beide Gemeinden, die Adressen und einen möglichen Termin. Über [Angebot anfragen](/angebot/#angebot-form) senden Sie uns Ihre Eckdaten; einzelne Ortsseiten helfen bei Fragen, die am jeweiligen Standort entstehen.
 
 ### Ihre Ortsseite in Niederösterreich
 
 Wählen Sie Ihre Stadt für Hinweise zu Zugängen und örtlicher Vorbereitung: [Baden](/leistungen/umzug-baden/), [Klosterneuburg](/leistungen/umzug-klosterneuburg/), [Korneuburg](/leistungen/umzug-korneuburg/), [Mödling](/leistungen/umzug-moedling/), [Schwechat](/leistungen/umzug-schwechat/), [St. Pölten](/leistungen/umzug-st-poelten/) oder [Tulln](/leistungen/umzug-tulln/). Für andere Orte können Sie die konkrete Strecke ebenfalls anfragen.
 
-<p><a class="button" href="/angebot/?service=umzug&amp;from=%2Fbundesland%2Fniederoesterreich%2F">Umzug in Niederösterreich anfragen</a></p>
+<p><a class="button" href="/angebot/">Umzug in Niederösterreich anfragen</a></p>
 
 Bei mehreren Abholorten braucht jeder Halt einen eigenen Eintrag. Das betrifft zum Beispiel Möbel aus einer Wohnung und zusätzliche Gegenstände aus einem Keller an einer anderen Adresse. Notieren Sie, welche Stücke an welchem Ort bereitstehen und wohin sie geliefert werden sollen. Ein gemeinsamer Haushalt bedeutet nicht automatisch einen einzigen Ladepunkt. Diese Zuordnung hilft, Wege, Zutritt und gewünschte Arbeiten im Angebot nachvollziehbar zu beschreiben.
 
@@ -73,4 +73,4 @@ Ein Lift allein beantwortet nicht, ob ein großes Möbelstück hineinpasst. Halt
 
 Sie können Transport sowie gewünschten [Verpackungsservice](/leistungen/verpackungsservice/) und [Möbelmontage](/leistungen/moebelmontage/) gemeinsam anfragen. Nennen Sie, welche Arbeiten Sie selbst vorbereiten und welche Sie beauftragen möchten. Bei einem Umzug nach Wien gehört die Ladeorganisation an der Wiener Adresse als eigener Punkt dazu.
 
-Sicher Team plant und übernimmt Ihren Umzug. Unser Angebot benennt die berücksichtigten Adressen, Stopps, Arbeiten und den vereinbarten Termin. Prüfen Sie auch, wie spätere Änderungen an Bestand oder Zugang mitgeteilt werden sollen. Mit der [Angebotsanfrage](/angebot/?service=umzug) können Sie bekannte Angaben und offene Fragen zusammen übermitteln.
+Sicher Team plant und übernimmt Ihren Umzug. Unser Angebot benennt die berücksichtigten Adressen, Stopps, Arbeiten und den vereinbarten Termin. Prüfen Sie auch, wie spätere Änderungen an Bestand oder Zugang mitgeteilt werden sollen. Mit der [Angebotsanfrage](/angebot/) können Sie bekannte Angaben und offene Fragen zusammen übermitteln.

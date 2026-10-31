@@ -28,7 +28,7 @@ faqs:
 ---
 ## Umzug nach oder aus Kärnten: die Übergabe am Ziel vorbereiten
 
-Für einen Umzug zwischen Wien und Kärnten oder mit einer anderen genannten Strecke nimmt Sicher Team Ihre Anfrage auf. Ob Klagenfurt, Villach oder eine weitere Gemeinde: Der Auftrag beginnt mit beiden konkreten Adressen und dem gewünschten Bestand. Über [Angebot anfragen](/angebot/?service=umzug#angebot-form) können Sie Transport und benötigte Zusatzarbeiten anfragen. Eine genaue Beschreibung der Zielübergabe hilft, den gewünschten Termin sinnvoll abzustimmen.
+Für einen Umzug zwischen Wien und Kärnten oder mit einer anderen genannten Strecke nimmt Sicher Team Ihre Anfrage auf. Ob Klagenfurt, Villach oder eine weitere Gemeinde: Der Auftrag beginnt mit beiden konkreten Adressen und dem gewünschten Bestand. Über [Angebot anfragen](/angebot/#angebot-form) können Sie Transport und benötigte Zusatzarbeiten anfragen. Eine genaue Beschreibung der Zielübergabe hilft, den gewünschten Termin sinnvoll abzustimmen.
 
 Nennen Sie, wer am Abholort und am Ziel erreichbar ist. Die Person für die Schlüsselübergabe muss nicht dieselbe sein wie der Auftraggeber. Wenn eine andere Person öffnet, halten Sie deren Aufgabe und das vereinbarte Zeitfenster fest. Ein Termin für eine Wohnungsübergabe sollte nicht stillschweigend als frei wählbarer Beginn der Entladung behandelt werden. Teilen Sie mit, welche Zeiten bereits feststehen und welche noch mit Vermieter oder Hausverwaltung geklärt werden.
 
@@ -60,4 +60,4 @@ Prüfen Sie Material, Menge und Annahmeberechtigung, bevor eine Abgabe als erled
 
 ### Ein konkretes Angebot für Ihren Umzug
 
-Sicher Team plant und übernimmt Ihren Umzug. Für Ihren Umzug werden Ansprechpartner, vereinbarte Arbeiten und Termin individuell bestätigt. Lassen Sie Abhol- und Lieferorte, Zusatzarbeiten und Übergabefragen im Angebot nachvollziehbar festhalten. Über [Angebot anfragen](/angebot/?service=umzug) können Sie bekannte Angaben und noch offene Fragen gemeinsam übermitteln. Wenn sich der Zugang oder ein Schlüsseltermin ändert, sollte dies vor der Ausführung erneut abgestimmt werden.
+Sicher Team plant und übernimmt Ihren Umzug. Für Ihren Umzug werden Ansprechpartner, vereinbarte Arbeiten und Termin individuell bestätigt. Lassen Sie Abhol- und Lieferorte, Zusatzarbeiten und Übergabefragen im Angebot nachvollziehbar festhalten. Über [Angebot anfragen](/angebot/) können Sie bekannte Angaben und noch offene Fragen gemeinsam übermitteln. Wenn sich der Zugang oder ein Schlüsseltermin ändert, sollte dies vor der Ausführung erneut abgestimmt werden.

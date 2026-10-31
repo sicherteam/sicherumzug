@@ -29,7 +29,7 @@ faqs:
 ---
 ## Umzug in Wien: Bezirk wählen, beide Zugänge planen
 
-Sie ziehen innerhalb Wiens um, kommen aus einem anderen Bundesland oder verlassen die Stadt? Sicher Team nimmt Ihre Anfrage für Transport und weitere gewünschte Umzugsarbeiten auf. Auf dieser Seite finden Sie die Wiener Bezirke und die Fragen, die für die Planung am konkreten Gebäude entscheidend sind. Für den Leistungsumfang führt [Umzug Wien](/leistungen/umzug-wien/) zur passenden Übersicht; den Auftrag können Sie über [Angebot anfragen](/angebot/?service=umzug) beschreiben.
+Sie ziehen innerhalb Wiens um, kommen aus einem anderen Bundesland oder verlassen die Stadt? Sicher Team nimmt Ihre Anfrage für Transport und weitere gewünschte Umzugsarbeiten auf. Auf dieser Seite finden Sie die Wiener Bezirke und die Fragen, die für die Planung am konkreten Gebäude entscheidend sind. Für den Leistungsumfang führt [Umzug Wien](/leistungen/umzug-wien/) zur passenden Übersicht; den Auftrag können Sie über [Angebot anfragen](/angebot/) beschreiben.
 
 Eine Bezirksangabe hilft bei der Zuordnung. Für die Durchführung brauchen wir zusätzlich den tatsächlichen Hauseingang, Stockwerk, Stiege und Zugang an beiden Adressen. Ein Eingang in einer Nebenstraße kann andere Bedingungen haben als die Postadresse. Geben Sie auch an, ob eine Hausverwaltung, ein Portier oder eine andere Person den Zutritt freigibt. Damit lässt sich ein gewünschter Termin mit den vorhandenen Möglichkeiten abgleichen.
 

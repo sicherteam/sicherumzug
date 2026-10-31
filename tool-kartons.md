@@ -78,7 +78,7 @@ Eine Tasche für die erste Nacht sollten Sie getrennt halten. Dokumente, Medikam
 
 Kartons sind nur ein Teil des Transportumfangs. Ergänzen Sie Möbel, Geräte und besondere Stücke im [Umzugsvolumen-Rechner](/umzugsvolumen-rechner/). Mit dem [Umzugskosten-Rechner](/umzugskosten-rechner/) können Sie anschließend Transportbedingungen und gewünschte Leistungen berücksichtigen. Der [persönliche Umzugsplaner](/umzugsplaner/) hilft, Packen, Übergabe und Adressänderungen zeitlich zu ordnen.
 
-Wenn Sie Materialbereitstellung oder Einpackhilfe wünschen, nennen Sie das ausdrücklich in Ihrer Anfrage. Wir besprechen Menge, Lieferbedingungen und Leistungsumfang persönlich. Informationen dazu finden Sie beim [Verpackungsservice](/leistungen/verpackungsservice/). Über den Ergebnisbutton können Sie Ihre Kartonplanung direkt zur [Umzugsanfrage](/angebot/?service=umzug#angebot-form) mitnehmen. Eine Anfrage ist auch ohne Berechnung möglich.
+Wenn Sie Materialbereitstellung oder Einpackhilfe wünschen, nennen Sie das ausdrücklich in Ihrer Anfrage. Wir besprechen Menge, Lieferbedingungen und Leistungsumfang persönlich. Informationen dazu finden Sie beim [Verpackungsservice](/leistungen/verpackungsservice/). Über den Ergebnisbutton können Sie Ihre Kartonplanung direkt zur [Umzugsanfrage](/angebot/#angebot-form) mitnehmen. Eine Anfrage ist auch ohne Berechnung möglich.
 
 Alle Rechner und Planungshilfen finden Sie unter [Umzug planen](/umzug-planen/).
 

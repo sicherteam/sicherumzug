@@ -28,7 +28,7 @@ faqs:
 ---
 ## Umzug nach oder aus Vorarlberg: die einzelnen Übergaben abstimmen
 
-Sicher Team nimmt Ihre Anfrage für eine Übersiedlung mit Start oder Ziel in Vorarlberg auf. Für eine Fahrt von Wien nach Vorarlberg oder zurück benötigen wir beide konkreten Adressen, den gewünschten Bestand und Ihre Terminvorstellung. Über [Angebot anfragen](/angebot/?service=umzug#angebot-form) senden Sie uns Ihre Eckdaten. Diese Seite hilft Ihnen, die Vorbereitung am Abholort, die Anreise und die Übergabe am Ziel als zusammenhängenden Auftrag zu beschreiben.
+Sicher Team nimmt Ihre Anfrage für eine Übersiedlung mit Start oder Ziel in Vorarlberg auf. Für eine Fahrt von Wien nach Vorarlberg oder zurück benötigen wir beide konkreten Adressen, den gewünschten Bestand und Ihre Terminvorstellung. Über [Angebot anfragen](/angebot/#angebot-form) senden Sie uns Ihre Eckdaten. Diese Seite hilft Ihnen, die Vorbereitung am Abholort, die Anreise und die Übergabe am Ziel als zusammenhängenden Auftrag zu beschreiben.
 
 Notieren Sie, welche Termine bereits verbindlich feststehen. Dazu können Schlüsselübergaben, Zutrittszeiten oder die Abholung durch eine andere Person gehören. Nennen Sie ebenso Ihren tatsächlichen Spielraum. Ein Wunschtag mit Alternativen ist eine andere Planungsgrundlage als ein einziges festes Zeitfenster. Aus der Streckenbezeichnung allein folgt keine bestätigte Ankunftszeit oder Terminverfügbarkeit.
 
@@ -60,4 +60,4 @@ Prüfen Sie zusätzlich Material, Menge, Berechtigung und die Bedingungen der Ei
 
 Sie können Transport sowie gewünschte Verpackung oder Montage gemeinsam anfragen. Beschreiben Sie dabei, was Sie selbst erledigen und welche Arbeiten beauftragt werden sollen. Wenn nur wenige Stücke mitkommen, nennen Sie diese einzeln; ein vollständiger Haushalt benötigt eine entsprechend umfassendere Liste. Zusätzliche Stopps gehören mit Adresse, Bestand und Kontaktperson in den Auftrag.
 
-Sicher Team plant und übernimmt Ihren Umzug. Für den einzelnen Umzug werden Leistungsumfang und Termin konkret bestätigt. Vergleichen Sie den Angebotsinhalt anhand Ihrer Aufgabenliste, nicht allein anhand der Route. Über [Angebot anfragen](/angebot/?service=umzug) können Sie bekannte Angaben und offene Fragen übermitteln. Änderungen an Bestandsmenge, Gebäudezugang oder Schlüsseltermin sollten vor der Ausführung erneut abgestimmt werden.
+Sicher Team plant und übernimmt Ihren Umzug. Für den einzelnen Umzug werden Leistungsumfang und Termin konkret bestätigt. Vergleichen Sie den Angebotsinhalt anhand Ihrer Aufgabenliste, nicht allein anhand der Route. Über [Angebot anfragen](/angebot/) können Sie bekannte Angaben und offene Fragen übermitteln. Änderungen an Bestandsmenge, Gebäudezugang oder Schlüsseltermin sollten vor der Ausführung erneut abgestimmt werden.

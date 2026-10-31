@@ -13,7 +13,7 @@ redirect_from:
 - "/faq/"
 - "/preisliste/"
 ---
-<div class="price-overview"><p class="price-overview-lead">Wir kalkulieren Ihren Umzug nach Umfang, Strecke und gewünschter Hilfe. Sie erhalten unser Angebot kostenlos und unverbindlich.</p><a class="button" href="/angebot/?service=umzug&from=%2Fpreise%2F#angebot-form">Kostenloses Angebot anfragen {% include ui-icon.html %}</a><ul><li><strong>Umfang:</strong> Möbel, Kartons und zusätzliche Stopps.</li><li><strong>Zugang:</strong> Etagen, Lift und Tragewege an beiden Orten.</li><li><strong>Leistungen:</strong> Transport, Verpackung und Montage.</li></ul></div>
+<div class="price-overview"><p class="price-overview-lead">Wir kalkulieren Ihren Umzug nach Umfang, Strecke und gewünschter Hilfe. Sie erhalten unser Angebot kostenlos und unverbindlich.</p><a class="button" href="/angebot/#angebot-form">Kostenloses Angebot anfragen {% include ui-icon.html %}</a><ul><li><strong>Umfang:</strong> Möbel, Kartons und zusätzliche Stopps.</li><li><strong>Zugang:</strong> Etagen, Lift und Tragewege an beiden Orten.</li><li><strong>Leistungen:</strong> Transport, Verpackung und Montage.</li></ul></div>
 
 {% include price-guarantee.html heading_id='preisgarantie' hide_details=true %}
 
@@ -27,7 +27,7 @@ Wir unterbieten jedes schriftliche Angebot einer anderen Umzugsfirma für **dens
 - Dieselben vereinbarten Arbeiten. Enthält das Vergleichsangebot Verpackung, Demontage oder Montage, sind diese auch bei uns enthalten.
 - Derselbe Umzugstermin und dieselben Zahlungs- und Abrechnungsbedingungen.
 
-Senden Sie uns das Vergleichsangebot über das [Anfrageformular](/angebot/?service=umzug&guarantee=1#angebot-form), per [E-Mail](mailto:{{ site.email }}?subject=Bestpreis-Garantie) oder WhatsApp. Das Beispiel 1.000 € → 950 € zeigt die Ersparnis bei gleichen Bedingungen, keinen allgemeinen Umzugstarif.
+Senden Sie uns das Vergleichsangebot über das [Anfrageformular](/angebot/&guarantee=1#angebot-form), per [E-Mail](mailto:{{ site.email }}?subject=Bestpreis-Garantie) oder WhatsApp. Das Beispiel 1.000 € → 950 € zeigt die Ersparnis bei gleichen Bedingungen, keinen allgemeinen Umzugstarif.
 
 </div></details>
 
@@ -73,6 +73,6 @@ Soll zusätzlich geräumt werden, markieren Sie getrennt, was mitkommt und was e
 
 [Kostenanfrage vorbereiten](/kostenanfrage-vorbereiten/) · [Ablauf ansehen](/ablauf/) · [Angebote vergleichen](/umzugsangebote-vergleichen/)
 
-<a class="button" href="/angebot/?service=umzug&from=%2Fpreise%2F#angebot-form">Ihr Umzugsangebot anfragen {% include ui-icon.html %}</a>
+<a class="button" href="/angebot/#angebot-form">Ihr Umzugsangebot anfragen {% include ui-icon.html %}</a>
 
 Fragen zu unseren Konditionen oder Sonderleistungen beantworten wir Ihnen gerne persönlich über unseren [Kontakt](/kontakt/).

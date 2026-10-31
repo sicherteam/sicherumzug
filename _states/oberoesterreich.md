@@ -27,7 +27,7 @@ faqs:
 ---
 ## Umzug in Oberösterreich: die konkrete Strecke anfragen
 
-Sicher Team nimmt Ihre Anfrage für einen Umzug mit Start oder Ziel in Oberösterreich auf. Ob Sie innerhalb des Bundeslands übersiedeln oder die Route nach Wien führt: Benötigt werden die tatsächlichen Abhol- und Lieferadressen. Für die Landeshauptstadt gibt es [Umzug Linz](/leistungen/umzug-linz/); weitere Strecken können Sie über [Umzug Österreich](/leistungen/umzug-oesterreich/) oder direkt über die [Angebotsanfrage](/angebot/?service=umzug) beschreiben.
+Sicher Team nimmt Ihre Anfrage für einen Umzug mit Start oder Ziel in Oberösterreich auf. Ob Sie innerhalb des Bundeslands übersiedeln oder die Route nach Wien führt: Benötigt werden die tatsächlichen Abhol- und Lieferadressen. Für die Landeshauptstadt gibt es [Umzug Linz](/leistungen/umzug-linz/); weitere Strecken können Sie über [Umzug Österreich](/leistungen/umzug-oesterreich/) oder direkt über die [Angebotsanfrage](/angebot/) beschreiben.
 
 Die Angabe „Oberösterreich“ ist für die erste Orientierung hilfreich, ersetzt aber weder den Zielort noch die Zugangsinformationen. Geben Sie bei einer Wohnung zusätzlich Stiege, Stockwerk und den nutzbaren Eingang an. Bei einem Betrieb nennen Sie den vereinbarten Zugang und die Person, die vor Ort die Übergabe übernimmt. Ein Wohnungsumzug und ein betrieblicher Transport benötigen jeweils eine nachvollziehbare Bestandsliste.
 

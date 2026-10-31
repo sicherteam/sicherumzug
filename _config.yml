@@ -116,6 +116,7 @@ exclude:
 - vendor
 - plans
 - AGENTS.md
+- BUSINESS_RULES.md
 - README.md
 - package.json
 - package-lock.json

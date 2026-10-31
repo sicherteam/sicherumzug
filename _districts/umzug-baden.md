@@ -63,7 +63,7 @@ Markieren Sie, welche Gegenstände mitkommen, bleiben oder vor dem Umzug abgegeb
 
 Halten Sie fest, welche Kartons fertig gepackt sind und wer Möbel zerlegt. Wir stimmen mit Ihnen ab, welche Arbeiten wir übernehmen. Zusätzliche Abholorte oder eine gesonderte Räumung nennen Sie bitte bereits in der Anfrage.
 
-Über [Angebot anfragen](/angebot/?service=umzug) senden Sie uns Bestand, Zugänge und Terminwunsch. Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot. Es gilt für die aufgeführten Arbeiten; zusätzliche Wünsche und deren Preis besprechen wir vor der Ausführung mit Ihnen. Änderungen an Möbelmenge oder Zugang teilen Sie uns vor dem Termin mit.
+Über [Angebot anfragen](/angebot/) senden Sie uns Bestand, Zugänge und Terminwunsch. Nach der kostenlosen Besichtigung erhalten Sie unser schriftliches Fixpreisangebot. Es gilt für die aufgeführten Arbeiten; zusätzliche Wünsche und deren Preis besprechen wir vor der Ausführung mit Ihnen. Änderungen an Möbelmenge oder Zugang teilen Sie uns vor dem Termin mit.
 
 ## Kleine Eigenabgabe beim Badener ASZ
 

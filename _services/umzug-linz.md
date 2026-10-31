@@ -57,7 +57,7 @@ Die [Stadt Linz stellt Informationen zur An-, Um- und Abmeldung](https://www.lin
 
 Für die erste Anfrage genügen Start, Ziel, Umfang und Ihr Wunschtermin. Ergänzen Sie Etagen, Lift und gewünschte Verpackung oder Montage. Nach der Besichtigung halten wir die vereinbarten Arbeiten und den Gesamtbetrag schriftlich fest. Bei einem vergleichbaren schriftlichen Angebot gilt unsere [Bestpreis-Garantie](/preise/#preisgarantie).
 
-Vertiefende Informationen finden Sie unter [Umzug Oberösterreich](/bundesland/oberoesterreich/), [Firmenumzug](/leistungen/firmenumzug-wien/) und [Privatumzug](/leistungen/privatumzug/). [Ihre Strecke nach oder aus Linz anfragen](/angebot/?service=umzug&from=%2Fleistungen%2Fumzug-linz%2F#angebot-form).
+Vertiefende Informationen finden Sie unter [Umzug Oberösterreich](/bundesland/oberoesterreich/), [Firmenumzug](/leistungen/firmenumzug-wien/) und [Privatumzug](/leistungen/privatumzug/). [Ihre Strecke nach oder aus Linz anfragen](/angebot/#angebot-form).
 
 ## Umzug Wien-Linz & Oberösterreich: Zuverlässig über die Westautobahn (A1)
 

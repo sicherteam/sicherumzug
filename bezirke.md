@@ -36,7 +36,7 @@ Für Wien finden Sie Hinweise zum [Umzug in Wien](/leistungen/umzug-wien/). Die 
 
 Für eine [Entrümpelung](/leistungen/entruempelung-wien/) oder [Räumung](/leistungen/raeumung/) benötigen wir den Standort und eine Beschreibung dessen, was entfernt werden soll. Die konkrete Durchführung außerhalb der Kerngebiete wird ebenfalls persönlich abgestimmt.
 
-[Umzug mit Start und Ziel anfragen](/angebot/?service=umzug&from=%2Fbezirke%2F#angebot-form)
+[Umzug mit Start und Ziel anfragen](/angebot/#angebot-form)
 
 ## Die passende regionale Seite auswählen
 

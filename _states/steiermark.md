@@ -26,7 +26,7 @@ faqs:
 ---
 ## Umzug in die Steiermark: Einrichtung und Route gemeinsam planen
 
-Sie ziehen nach Graz, in eine andere steirische Gemeinde oder aus der Steiermark nach Wien? Sicher Team nimmt Ihre Anfrage für die konkrete Übersiedlung auf. Für Graz führt [Umzug Graz](/leistungen/umzug-graz/) zur passenden Leistungsseite. Weitere Strecken beschreiben Sie über [Umzug Österreich](/leistungen/umzug-oesterreich/) oder die [Angebotsanfrage](/angebot/?service=umzug). Benötigt werden Abholadresse, Zieladresse und ein Überblick über die mitgenommene Einrichtung.
+Sie ziehen nach Graz, in eine andere steirische Gemeinde oder aus der Steiermark nach Wien? Sicher Team nimmt Ihre Anfrage für die konkrete Übersiedlung auf. Für Graz führt [Umzug Graz](/leistungen/umzug-graz/) zur passenden Leistungsseite. Weitere Strecken beschreiben Sie über [Umzug Österreich](/leistungen/umzug-oesterreich/) oder die [Angebotsanfrage](/angebot/). Benötigt werden Abholadresse, Zieladresse und ein Überblick über die mitgenommene Einrichtung.
 
 Beginnen Sie mit den Möbeln, die am Ziel tatsächlich gebraucht werden. Eine Raumliste hilft dabei, nicht nur die Menge, sondern auch den gewünschten Aufbau zu beschreiben. Wenn die neue Wohnung anders geschnitten ist, prüfen Sie Maße und Stellflächen vor dem Transport. Eine bloße Angabe der Zimmerzahl zeigt nicht, ob ein großer Schrank mitkommt, zerlegt werden muss oder an einem anderen Ort untergebracht werden soll.
 
